@@ -36,11 +36,13 @@
       "type": "Researcher"
     }
   ],
-  "resources": [
+"resources": [
   {
-    "name": "caressa_francais_ledgers_1918_1943",
+    "name": "ledger_corpus",
     "path": "Lupot–Gand–Bernardel–Caressa–Français/",
-    "description": "Transcribed and normalized violin ledger dataset derived from the Lupot–Gand–Bernardel–Caressa–Français archival registers (E.981.8.29 Purchase/Resale Register and E.981.8.30 Export Journal). Includes cross-referenced entries between purchase, resale, and export records covering 1918–1943."
+    "format": "csv",
+    "mediatype": "text/csv",
+    "description": "Primary ledger dataset (1918–1943) derived from archival registers E.981.8.29 and E.981.8.30. Includes harmonized and cross-referenced transaction records."
   }
-  ]
+]
 }
