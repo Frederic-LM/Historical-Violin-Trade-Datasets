@@ -1,0 +1,46 @@
+{
+  "title": "Historical Violin Trade Datasets: Caressa & Français Ledger (1918–1943)",
+  "id": "frederic-lm/historical-violin-trade-datasets",
+  "description": "Structured and cross-referenced dataset derived from archival business ledgers of the Lupot–Gand–Bernardel–Caressa–Français firm (Musée de la musique, Paris). The dataset covers violin transactions recorded between 1918 and 1943 and includes transcription, normalization, and record linkage across purchase/resale and export registers.",
+  "version": "1.0.0",
+  "homepage": "https://www.ruederome.com/ledger.php",
+  "repository": "https://github.com/Frederic-LM/Historical-Violin-Trade-Datasets",
+  "keywords": [
+    "violin",
+    "lutherie",
+    "violin trade",
+    "historical dataset",
+    "provenance",
+    "musical instruments",
+    "economic history",
+    "digital humanities",
+    "archival research",
+    "France",
+    "Caressa",
+    "Français",
+    "Gand",
+    "Bernardel",
+    "Lupot"
+  ],
+  "licenses": [
+    {
+      "name": "MPL-2.0",
+      "url": "https://www.mozilla.org/en-US/MPL/2.0/"
+    }
+  ],
+  "created": "2026-06-13",
+  "contributors": [
+    {
+      "name": "Frederic Levi Mazloum",
+      "orcid": "0009-0000-2988-3220",
+      "type": "Researcher"
+    }
+  ],
+  "resources": [
+    {
+      "name": "ledger_dataset",
+      "path": "data/",
+      "description": "Transcribed and normalized violin ledger entries (1918–1943), including cross-referenced purchase, resale, and export records."
+    }
+  ]
+}
