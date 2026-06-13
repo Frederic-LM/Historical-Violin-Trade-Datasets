@@ -97,3 +97,11 @@ To contribute:
 These datasets are intended as research resources. While care has been taken during transcription and enrichment, errors and ambiguities may remain in the underlying historical records. Users are encouraged to verify critical information against original sources whenever possible.
 
 Corrections and improvements are always welcome through pull requests.
+
+## Current Release Scope
+
+This first release of the Historical Violin Trade Datasets contains only violin transactions from the Lupot–Gand–Bernardel–Caressa–Français ledger corpus covering the period 1918–1943.
+
+Although the broader project is designed to include multiple historical violin trade ledgers from different workshops (maison-level archives), this version is limited to a single corpus and a single instrument category (violins only).
+
+Future releases will expand the dataset to additional instrument types and/or additional archival ledger collections.
