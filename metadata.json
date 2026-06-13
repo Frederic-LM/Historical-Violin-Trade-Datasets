@@ -1,7 +1,7 @@
 {
-  "title": "Historical Violin Trade Datasets: Caressa & Français Ledger (1918–1943)",
+  "title": "Historical Violin Trade Datasets",
   "id": "frederic-lm/historical-violin-trade-datasets",
-  "description": "Structured and cross-referenced dataset derived from archival business ledgers of the Lupot–Gand–Bernardel–Caressa–Français firm (Musée de la musique, Paris). The dataset covers violin transactions recorded between 1918 and 1943 and includes transcription, normalization, and record linkage across purchase/resale and export registers.",
+  "description": "Historical Violin Trade Datasets is an open research project dedicated to the transcription, normalization, and analysis of archival violin trade ledgers from multiple historical workshops (maison-level commercial archives). This repository serves as a structured framework for a growing collection of datasets derived from distinct archival sources.\n\nThe first release contains a single dataset derived from the Lupot–Gand–Bernardel–Caressa–Français ledger corpus preserved at the Musée de la musique (Philharmonie de Paris). This initial dataset covers violin transactions recorded between 1918 and 1943 and is based on archival registers E.981.8.29 (Purchase & Resale Register) and E.981.8.30 (Export Journal). It includes transcription, normalization, and cross-referenced entries suitable for quantitative analysis of provenance and trade activity.",
   "version": "1.0.0",
   "homepage": "https://www.ruederome.com/ledger.php",
   "repository": "https://github.com/Frederic-LM/Historical-Violin-Trade-Datasets",
@@ -16,6 +16,7 @@
     "digital humanities",
     "archival research",
     "France",
+    "Paris",
     "Caressa",
     "Français",
     "Gand",
@@ -31,16 +32,18 @@
   "created": "2026-06-13",
   "contributors": [
     {
-      "name": "Frederic Levi Mazloum",
+      "name": "Frederic LM",
       "orcid": "0009-0000-2988-3220",
       "type": "Researcher"
     }
   ],
-"resources": [
-  {
-    "name": "ledgers_collection",
-    "path": "Ledgers/",
-    "description": "Collection of transcribed violin trade ledger corpora from multiple historical workshops. Each subdirectory represents a distinct archival source."
-  }
-]
+  "temporal_coverage": "1918-1943",
+  "spatial_coverage": "Paris, France",
+  "resources": [
+   {
+  "name": "caressa_francais_ledger_1918_1943",
+  "path": "Ledgers/Lupot–Gand–Bernardel–Caressa–Français/",
+  "description": "Violin transaction dataset derived from the Lupot–Gand–Bernardel–Caressa–Français ledger corpus. Covers archival records from 1918–1943, including purchase, resale, and export transactions from registers E.981.8.29 and E.981.8.30."
+}
+  ]
 }
