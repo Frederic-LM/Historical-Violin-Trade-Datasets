@@ -37,10 +37,10 @@
     }
   ],
   "resources": [
-    {
-      "name": "ledger_dataset",
-      "path": "data/",
-      "description": "Transcribed and normalized violin ledger entries (1918–1943), including cross-referenced purchase, resale, and export records."
-    }
+  {
+    "name": "caressa_francais_ledgers_1918_1943",
+    "path": "Lupot–Gand–Bernardel–Caressa–Français/",
+    "description": "Transcribed and normalized violin ledger dataset derived from the Lupot–Gand–Bernardel–Caressa–Français archival registers (E.981.8.29 Purchase/Resale Register and E.981.8.30 Export Journal). Includes cross-referenced entries between purchase, resale, and export records covering 1918–1943."
+  }
   ]
 }
