@@ -38,11 +38,9 @@
   ],
 "resources": [
   {
-    "name": "ledger_corpus",
-    "path": "Lupot–Gand–Bernardel–Caressa–Français/",
-    "format": "csv",
-    "mediatype": "text/csv",
-    "description": "Primary ledger dataset (1918–1943) derived from archival registers E.981.8.29 and E.981.8.30. Includes harmonized and cross-referenced transaction records."
+    "name": "ledgers_collection",
+    "path": "Ledgers/",
+    "description": "Collection of transcribed violin trade ledger corpora from multiple historical workshops. Each subdirectory represents a distinct archival source."
   }
 ]
 }
