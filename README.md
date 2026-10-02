@@ -64,7 +64,7 @@ You are welcome to:
 
 Please provide attribution to:
 
-> Frédéric Levi Mazloum — Violin Auction Trends Analytics
+> Frédéric Levi Mazloum 
 
 and comply with the applicable license terms.
 
