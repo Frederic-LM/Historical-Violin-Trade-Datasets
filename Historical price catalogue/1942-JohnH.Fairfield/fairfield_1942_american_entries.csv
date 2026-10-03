@@ -23,7 +23,7 @@ AUGUST GEMÜNDER & SONS,excluded,excluded: firm,+& son,,,,no price,,,,
 "CARTER, JEROME",main,main: professional (livelihood stated),+opened a;+shop,$150.00 – $200.00.,150.0,200.0,as printed,,,,
 "CARVER, H. W.",excluded,excluded: amateur / other occupation,-manual training;-instructor;-amateur,$250.00 – $500.00.,250.0,500.0,as printed,,,,
 "CATRICALA, VINCENT",excluded,excluded: amateur / other occupation,-instructor,$300.00 – $500.00.,300.0,500.0,as printed,,,,
-"CHAMBERLAND, ARTHUR",broad,broad: no evidence either way,,Earlier moderate; later $100.00 – $350.00.,100.0,350.0,no price,,,,136
+"CHAMBERLAND, ARTHUR",excluded,"excluded: amateur / other occupation (farmer, spare time)",,Earlier moderate; later $100.00 – $350.00.,100.0,350.0,no price,,,,136
 "CHAPIN, JOHN OLIVER",main,"main: professional (own shop, San Francisco, 1923)",,As high as $250.00.,250,250,as printed,,,,136
 "CHASE, HOWARD N.",broad,broad: no evidence either way,,Earlier instruments $65.00 and up.,65,65,as printed,,,,136
 "CONWAY, GEORGE S.",broad,broad: no evidence either way,,$300.00 (antique reproductions higher).,300.0,300.0,as printed,,,,
@@ -76,8 +76,8 @@ AUGUST GEMÜNDER & SONS,excluded,excluded: firm,+& son,,,,no price,,,,
 "HORNSTEINER, JOHN",main,main: professional (livelihood stated),+worked for;+repairer;+head repairer;+shop,Standard violins: $200.00; Custom commissions: $300.00.,200.0,300.0,as printed,,,,
 "HOWE, ARTHUR W.",broad,broad: no evidence either way,,$100.00 – $250.00.,100.0,250.0,as printed,,"Howe, Arthur W.",,
 "HUNNICUTT, CHARLES",broad,broad: no evidence either way,,$100.00.,100.0,100.0,as printed,,,,
-"JACKSON, A. E.",broad,broad: no evidence either way,,$50.00 – $100.00.,50.0,100.0,no price,"price stated for Mr. Jackson, Jr.",,,153
-"JACKSON, L. C.",broad,broad: no evidence either way,,,,,as printed,no price stated for the father,,,153
+"JACKSON, A. E.",broad,broad: no evidence either way,,,,,no price,,,,153
+"JACKSON, L. C.",broad,broad: no evidence either way,,$50.00 – $100.00.,50.0,100.0,as printed,"price in the father's entry, after a sentence on Mr. Jackson, Jr.; read as the father's (author, 3 Oct)",,,153
 "JELLIGA, GEORGE J.",excluded,excluded: amateur / other occupation,-amateur,From $500.00 up.,500.0,500.0,as printed,,,,
 "JENKS, EDMUND B.",excluded,excluded: amateur / other occupation,-amateur,Number one of this series [made by A. W. Howe] was sold for $200.00.,,,as printed,$200 was for a violin made by A. W. Howe,,,154
 "KAHLER, FREDERICK E.",excluded,excluded: amateur / other occupation,-amateur,,,,no price,,,,
@@ -152,7 +152,7 @@ THE RUDOLPH WURLITZER COMPANY,excluded,excluded: firm,+restorer,,,,no price,,,,
 "THOMA, ALEXANDER",main,main: professional (livelihood stated),+shop,$100.00 – $200.00.,100.0,200.0,as printed,,"Thoma, Alexander",,
 "THOMA, JACOB",excluded,excluded: died before 1942 (d. 1917); was main: professional (livelihood stated),+restorer;+shop,$100.00 – $250.00.,100.0,250.0,as printed,,"Thoma, Jacob",,
 "THOMPSON, THEODOR",excluded,excluded: died before 1942 (d. 1933); was main: professional (livelihood stated),+opened his,,,,no price,,,,
-"THORP, FRANCIS A.",broad,broad: no evidence either way,,$65.00 – $285.00.,65.0,285.0,as printed,,,,
+"THORP, FRANCIS A.",excluded,excluded: amateur / other occupation (oil company),,$65.00 – $285.00.,65.0,285.0,as printed,,,,
 "TIETGEN, HANS",excluded,excluded: died before 1942 (d. early 1930s); was broad: no evidence either way,,$100.00 – $200.00.,100.0,200.0,as printed,,"Tietgen, Hans",,
 "TRUETSCHLER, FRITZ",main,main: professional (with William Lewis & Son since 1928),,Valued at $150.00 and up.,150,150,as printed,,,,179
 "TURNER, NORMAN",excluded,excluded: amateur / other occupation,-amateur;-spare time,Early work modest; later violins: $75.00 – $125.00.,75.0,125.0,as printed,,,,
