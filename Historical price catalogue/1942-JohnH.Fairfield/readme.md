@@ -20,9 +20,11 @@ I transcribed the section from a scan. A check of every entry against the book (
   - the violin price used;
   - the matched auction name, or the reason a name was left unmatched;
   - the book page.
-- `fairfield_1942_cohort_outcomes.csv`: auction outcomes for each entry.
-- `cohort.py`: reproduces the outcomes and the figures below:
-  `python cohort.py fairfield_1942_american_entries.csv all_violin_sales_combined_namefixed.csv`
+- `fairfield_1942_cohort_outcomes.csv`: auction outcomes for each entry (1942 price, number of sales, first and last sale year, survival after 1990, median 2010–25 price, real growth rate). It contains no individual sale prices.
+- `cohort_stats.py`: reproduces every figure below from the outcomes file alone:
+  `python cohort_stats.py fairfield_1942_cohort_outcomes.csv`
+- `cohort.py`: rebuilds the outcomes file from the entries and the auction transaction file. That file is not redistributed (see *Reproducing the figures*); the script expects the schema of `all_violin_sales_template.csv` in the Violin Auction Trends Analytics repository:
+  `python cohort.py fairfield_1942_american_entries.csv <auction transactions>.csv`
 
 ## Who is in the cohort
 
@@ -93,18 +95,11 @@ The 1942 price did not predict who would later rise or fall (rho = −0.05, p = 
 
 ## Reproducing the figures
 
-The compiled auction transaction file is not redistributed (see the Violin Auction Trends Analytics repository). `fairfield_1942_cohort_outcomes.csv` gives, for every entry, the 1942 price, the number of sales, the first and last sale year, survival after 1990, the median 2010–25 price and the real growth rate, so every figure above can be recomputed from it. `cohort.py` rebuilds that file from the entries and the transaction file.
+The compiled auction transaction file is not redistributed, for the reasons given in the Violin Auction Trends Analytics repository. Two levels of checking are therefore offered:
+- **The figures:** `cohort_stats.py` recomputes every count, AUC and rho above from `fairfield_1942_cohort_outcomes.csv`, with no other input.
+- **The outcomes themselves:** each matched maker's auction name is given in the entries file, so anyone can rebuild his sales from public auction results, format them to the template schema and run `cohort.py`. The transaction file is available from the author on reasonable request.
 
-## Corrections
 
-October 2026, after a check of every entry against the book:
-- violin prices corrected where a viola, cello or bow price had been taken: Ricker ($125–150), Simonson ($150–250), Kovanda (bows only, no violin price);
-- prices added or adjusted: Chamberland ($100–350), Heskett ($100–500, earlier to later price); Jenks's $200 removed (the violin sold was made by A. W. Howe);
-- status corrected under the rules above: Chamberland (a farmer making violins in his spare time) and Thorp (employed by an oil company) moved from the broad group to *left out*;
-- five entries added: Chapin, Truetschler and Urdahl (main group), Chase and Gates (broad group);
-- Gemünder and Gould matched (see above).
-
-The conclusions are unchanged: the main group grew from 66 to 69 makers, and the growth results (3 / 10 / 5) did not move.
 
 ## Limitations
 
