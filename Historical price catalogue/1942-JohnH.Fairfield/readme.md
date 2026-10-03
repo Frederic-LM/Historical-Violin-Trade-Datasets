@@ -109,7 +109,7 @@ The compiled auction transaction file is not redistributed, for the reasons give
 
 ## Citation
 
-Levi Mazloum, F. (2026). *Historical violin trade datasets* (Version [x]) [Data set]. Zenodo. https://doi.org/[DOI]
+Levi Mazloum, F. (2026). *Historical violin trade datasets* (Version [x]) [Data set].  [10.5281/ZENODO.zenodo.20681720 ](https://doi.org/10.5281/zenodo.20681720)
 
 ## Licence
 
