@@ -1,0 +1,338 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,source
+15565,Musical Instruments,2007-09-10,1,"A Violin of quality, Fendt School circa 1850","A Violin of quality, Fendt School circa 1850",1200,1800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,2,A Violin by Charles L Tweedale 1924,A Violin by Charles L Tweedale 1924,500,600,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,3,A Saxon Violin attributed to J.G.Hamm circa 1800,A Saxon Violin attributed to J.G.Hamm circa 1800,1200,1500,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,4,A Violin of the Bohemian School circa 1880,A Violin of the Bohemian School circa 1880,800,900,sold,700,840,GBP,Primary
+15565,Musical Instruments,2007-09-10,5,"A Mittenwald Violin, after Amati circa 1800","A Mittenwald Violin, after Amati circa 1800",500,600,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,6,A D. Nicholas Aine Violin circa 1820,A D. Nicholas Aine Violin circa 1820,600,700,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,7,A Violin circa 1950,A Violin circa 1950,600,700,sold,550,660,GBP,Primary
+15565,Musical Instruments,2007-09-10,8,A Chappuy Violin circa 1770,A Chappuy Violin circa 1770,1000,1500,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,9,"A Violin by Stansfield Mayson, 1909","A Violin by Stansfield Mayson, 1909",400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,10,"A good violin by H Macpherson, 1911","A good violin by H Macpherson, 1911",400,500,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,11,A Violin by James Hardie & Sons 1892,A Violin by James Hardie & Sons 1892,600,700,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,12,A German Violin circa 1920,A German Violin circa 1920 (2),500,600,sold,380,456,GBP,Primary
+15565,Musical Instruments,2007-09-10,13,A Violin of the English School circa 1760,A Violin of the English School circa 1760,500,600,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,14,A good Mirecourt Violin of the Acoulon School circa 1900,A good Mirecourt Violin of the Acoulon School circa 1900 (6),2000,3000,sold,1400,1680,GBP,Primary
+15565,Musical Instruments,2007-09-10,15,"A French Violin of the Mougenot School, circa 1880","A French Violin of the Mougenot School, circa 1880",1200,1500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,16,"A good French Violin, Poirson School 1910",,500,600,sold,950,1140,GBP,Primary
+15565,Musical Instruments,2007-09-10,17,A French Violin circa 1900,A French Violin circa 1900 (2),1200,1500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,18,A Mittenwald Violin circa 1880,A Mittenwald Violin circa 1880,500,600,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,19,"A good Violin of the Caussin, Vosges School circa 1880","A good Violin of the Caussin, Vosges School circa 1880",600,700,sold,750,900,GBP,Primary
+15565,Musical Instruments,2007-09-10,20,"A fine and handsome French Violin by Charles Resuche, Lyon 1895","A fine and handsome French Violin by Charles Resuche, Lyon 1895",3000,4000,sold,3600,4320,GBP,Primary
+15565,Musical Instruments,2007-09-10,21,A Violin,A Violin,700,800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,22,A Violin of the Betts School circa 1810,A Violin of the Betts School circa 1810,1500,2500,sold,2100,2520,GBP,Primary
+15565,Musical Instruments,2007-09-10,23,A Bohemian Violin circa 1870,A Bohemian Violin circa 1870 (2),900,1200,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,24,A good French Violin by Collin-Mezin Fils Paris 1935,A good French Violin by Collin-Mezin Fils Paris 1935,1500,2000,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,25,A English Violin circa 1890,A English Violin circa 1890,600,800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,26,A good French Violin by H.E.Blondelet Paris 1924,A good French Violin by H.E.Blondelet Paris 1924,1000,1500,sold,1000,1200,GBP,Primary
+15565,Musical Instruments,2007-09-10,27,A Markneukirchen Violin by E.R.Schmidt & Co circa 1890,A Markneukirchen Violin by E.R.Schmidt & Co circa 1890,600,700,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,28,A French Violin of the Laberte School circa 1900,A French Violin of the Laberte School circa 1900,300,400,sold,600,720,GBP,Primary
+15565,Musical Instruments,2007-09-10,29,"A good German Violin, Munich School, circa 1890","A good German Violin, Munich School, circa 1890",800,900,sold,600,720,GBP,Primary
+15565,Musical Instruments,2007-09-10,30,A Swedish Violin by B.A Heimer 1938,A Swedish Violin by B.A Heimer 1938,800,1000,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,31,A Violin of the Withers School circa 1880,A Violin of the Withers School circa 1880,800,1000,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,32,"A Violin of quality, circa 1850","A Violin of quality, circa 1850",3000,4000,sold,3800,4560,GBP,Primary
+15565,Musical Instruments,2007-09-10,33,An interesting Violin of the Withers School circa 1880,An interesting Violin of the Withers School circa 1880,700,800,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,34,A Neuner & Hornsteiner Violin,A Neuner & Hornsteiner Violin,500,600,sold,220,264,GBP,Primary
+15565,Musical Instruments,2007-09-10,35,"A good English Violin by Thomas Kennedy , London, 1813","A good English Violin by Thomas Kennedy , London, 1813",1000,2000,sold,2000,2400,GBP,Primary
+15565,Musical Instruments,2007-09-10,36,A French Violin of quality circa 1770,A French Violin of quality circa 1770,1000,2000,sold,1000,1200,GBP,Primary
+15565,Musical Instruments,2007-09-10,37,A Violin by Nicholas Mathieu circa 1780,A Violin by Nicholas Mathieu circa 1780,1000,2000,sold,1000,1200,GBP,Primary
+15565,Musical Instruments,2007-09-10,38,"An English Violin, attributed to Edwin Whitmarsh circa 1900","An English Violin, attributed to Edwin Whitmarsh circa 1900",500,600,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,39,A Violin by Ch. J.B Collin Mezin 1922,A Violin by Ch. J.B Collin Mezin 1922,1800,2500,sold,2400,2880,GBP,Primary
+15565,Musical Instruments,2007-09-10,40,A French Violin circa 1820,A French Violin circa 1820,500,600,sold,220,264,GBP,Primary
+15565,Musical Instruments,2007-09-10,41,A Violin of the Austrian School circa 1800,A Violin of the Austrian School circa 1800,600,700,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,42,"A Claudio Ricca Violin, Rome 1984","A Claudio Ricca Violin, Rome 1984",800,900,sold,1200,1440,GBP,Primary
+15565,Musical Instruments,2007-09-10,43,"An English violin of some quality attributed to Joseph Hill, London circa 1770","An English violin of some quality attributed to Joseph Hill, London circa 1770",1200,1500,withdrawn,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,44,"A Violin of the Albani School, circa 1780","A Violin of the Albani School, circa 1780",1200,1500,sold,1000,1200,GBP,Primary
+15565,Musical Instruments,2007-09-10,45,A German Violin circa 1880,A German Violin circa 1880,600,700,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,46,"A good English Violin by Forster, London circa 1800","A good English Violin by Forster, London circa 1800",5000,6000,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,47,A contemporary Violin,A contemporary Violin,1000,2000,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,48,A Violin of the Withers School circa 1900,A Violin of the Withers School circa 1900,500,600,sold,450,540,GBP,Primary
+15565,Musical Instruments,2007-09-10,49,A French Violin circa 1850,A French Violin circa 1850,700,800,sold,700,840,GBP,Primary
+15565,Musical Instruments,2007-09-10,50,"A Violin of quality attributed to J.U. Eberle, Prague, circa 1760","A Violin of quality attributed to J.U. Eberle, Prague, circa 1760",2000,3000,sold,1800,2160,GBP,Primary
+15565,Musical Instruments,2007-09-10,51,A Violin circa 1900,A Violin circa 1900,800,900,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,52,A French Violin circa 1930,,800,900,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,53,A Violin by CH.J.B Collin-Mezin circa 1910,A Violin by CH.J.B Collin-Mezin circa 1910,2000,3000,sold,1600,1920,GBP,Primary
+15565,Musical Instruments,2007-09-10,54,A French Violin of quality 1921,A French Violin of quality 1921,1000,1500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,55,A Violin of the Austrian School circa 1920,A Violin of the Austrian School circa 1920,500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,56,A good James Hardie & Sons Violin Edinburgh circa 1900,A good James Hardie & Sons Violin Edinburgh circa 1900,1200,1500,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,57,An English Violin circa 1770,An English Violin circa 1770,1000,1500,sold,750,900,GBP,Primary
+15565,Musical Instruments,2007-09-10,58,"A good Violin of the Thir, Innsbruck School circa 1920","A good Violin of the Thir, Innsbruck School circa 1920",700,800,sold,700,840,GBP,Primary
+15565,Musical Instruments,2007-09-10,59,A contemporary Violin of quality,A contemporary Violin of quality,3000,4000,sold,3100,3720,GBP,Primary
+15565,Musical Instruments,2007-09-10,60,An American Violin by T Fawick 1955,An American Violin by T Fawick 1955,700,800,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,61,"A good French Violin, Chipot-Vuillaume School circa 1900","A good French Violin, Chipot-Vuillaume School circa 1900",1000,1500,sold,1000,1200,GBP,Primary
+15565,Musical Instruments,2007-09-10,62,An Italian School Violin circa 1750,An Italian School Violin circa 1750,3000,4000,sold,2800,3360,GBP,Primary
+15565,Musical Instruments,2007-09-10,64,A Violin of the Withers School circa 1890,A Violin of the Withers School circa 1890 (2),1500,2000,sold,2100,2520,GBP,Primary
+15565,Musical Instruments,2007-09-10,65,"An English Violin by Cahusac, London 1782","An English Violin by Cahusac, London 1782",1500,2000,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,66,A Mittenwald Violin of the Neuner School circa 1880,A Mittenwald Violin of the Neuner School circa 1880,700,800,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,67,A German Violin circa 1860,A German Violin circa 1860,700,800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,68,An interesting Violin circa 1900,An interesting Violin circa 1900,800,900,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,69,A good Luigi Salsedo Violin 1929,A good Luigi Salsedo Violin 1929,2000,3000,sold,1800,2160,GBP,Primary
+15565,Musical Instruments,2007-09-10,70,A Couturieux Violin circa 1900,A Couturieux Violin circa 1900,500,600,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,71,A German Violin circa 1880,A German Violin circa 1880,700,800,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,72,A Violin circa 1900,A Violin circa 1900,400,500,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,73,A Violin by William Robinson 1934,A Violin by William Robinson 1934,800,1000,withdrawn,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,74,A French Violin by Jean Louvet,A French Violin by Jean Louvet,400,500,sold,510,612,GBP,Primary
+15565,Musical Instruments,2007-09-10,75,A Violin by H E Blondelet 1926,A Violin by H E Blondelet 1926,1000,1500,sold,1600,1920,GBP,Primary
+15565,Musical Instruments,2007-09-10,76,A Violin of the French School circa 1780,A Violin of the French School circa 1780,800,900,sold,700,840,GBP,Primary
+15565,Musical Instruments,2007-09-10,77,A French Violin by H.E.Blondelet 1924,A French Violin by H.E.Blondelet 1924,700,800,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,78,A Violin of the Tyrol School circa 1780,A Violin of the Tyrol School circa 1780,5000,6000,withdrawn,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,79,A Good Violin attributed to Giuseppe Giacchetti circa 1953,A Good Violin attributed to Giuseppe Giacchetti circa 1953,3000,4000,sold,3700,4440,GBP,Primary
+15565,Musical Instruments,2007-09-10,80,A Viola by Alfredo Gianotti 1975,A Viola by Alfredo Gianotti 1975,2000,3000,sold,2000,2400,GBP,Primary
+15565,Musical Instruments,2007-09-10,81,A German Viola circa 1900,A German Viola circa 1900,600,700,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,82,An interesting Viola of the Russian School attributed to Tomofei Podgorny circa 1943,An interesting Viola of the Russian School attributed to Tomofei Podgorny circa 1943,800,1200,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,83,A Viola of the Barak Norman School circa 1720,A Viola of the Barak Norman School circa 1720,400,600,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,84,A contemporary English Viola,A contemporary English Viola,800,900,sold,600,720,GBP,Primary
+15565,Musical Instruments,2007-09-10,85,A Viola of the Klingenthal School circa 1860,A Viola of the Klingenthal School circa 1860,500,600,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,86,"A good German Viola by Johan Gottfried Hamm, Markneukirchen, circa 1800","A good German Viola by Johan Gottfried Hamm, Markneukirchen, circa 1800",2000,3000,sold,1800,2160,GBP,Primary
+15565,Musical Instruments,2007-09-10,87,"A Viola of quality Panormo School, circa 1820","A Viola of quality Panormo School, circa 1820",2000,3000,sold,2000,2400,GBP,Primary
+15565,Musical Instruments,2007-09-10,88,"An English Viola by William Piper, Birmingham 1980","An English Viola by William Piper, Birmingham 1980",800,1200,sold,1200,1440,GBP,Primary
+15565,Musical Instruments,2007-09-10,89,A silver mounted Bow by A Nurnberger,A silver mounted Bow by A Nurnberger,1000,1500,sold,1000,1200,GBP,Primary
+15565,Musical Instruments,2007-09-10,90,A silver mounted Violin Bow,A silver mounted Violin Bow,1200,1500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,91,A silver mounted Violin Bow,A silver mounted Violin Bow,600,700,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,92,A silver mounted Heinz Dolling Violin Bow,A silver mounted Heinz Dolling Violin Bow (3),1200,1500,sold,1200,1440,GBP,Primary
+15565,Musical Instruments,2007-09-10,93,A silver mounted Violin Bow,A silver mounted Violin Bow,500,600,sold,600,720,GBP,Primary
+15565,Musical Instruments,2007-09-10,94,A silver mounted Violin Bow by James Tubbs London,,800,900,sold,2000,2400,GBP,Primary
+15565,Musical Instruments,2007-09-10,95,A silver mounted Violin Bow,A silver mounted Violin Bow,600,800,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,96,A silver mounted Viola Bow,A silver mounted Viola Bow (2),700,800,sold,350,420,GBP,Primary
+15565,Musical Instruments,2007-09-10,97,An engraved gold mounted Viola Bow,An engraved gold mounted Viola Bow,350,450,sold,600,720,GBP,Primary
+15565,Musical Instruments,2007-09-10,98,A French silver mounted Violin Bow,A French silver mounted Violin Bow,300,400,sold,700,840,GBP,Primary
+15565,Musical Instruments,2007-09-10,99,"A silver mounted Violin Bow by W.E.Hill and Sons, London","A silver mounted Violin Bow by W.E.Hill and Sons, London",400,500,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,100,A Violin Bow stick,A Violin Bow stick,300,400,sold,420,504,GBP,Primary
+15565,Musical Instruments,2007-09-10,101,Four Violin Bows,Four Violin Bows (4),700,800,sold,550,660,GBP,Primary
+15565,Musical Instruments,2007-09-10,102,Three Violoncello Bows,Three Violoncello Bows (3),200,300,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,103,A silver mounted L Morizot Bow,A silver mounted L Morizot Bow,700,800,sold,850,1020,GBP,Primary
+15565,Musical Instruments,2007-09-10,104,A quantity of Bows,A quantity of Bows (Quantity),400,500,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,105,A large quantity of Bows,A large quantity of Bows (3),500,600,sold,280,336,GBP,Primary
+15565,Musical Instruments,2007-09-10,106,Four Violin Bows,Four Violin Bows (4),650,750,sold,680,816,GBP,Primary
+15565,Musical Instruments,2007-09-10,107,A Violin Bow,A Violin Bow,300,400,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,108,A silver mounted Bow,A silver mounted Bow,300,400,sold,110,132,GBP,Primary
+15565,Musical Instruments,2007-09-10,109,A silver mounted Violin Bow,A silver mounted Violin Bow (2),1000,1500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,110,A Dolling Viola Bow,A Dolling Viola Bow (3),400,500,sold,620,744,GBP,Primary
+15565,Musical Instruments,2007-09-10,111,A silver mounted Nürnberger Viola/Cello Bow,A silver mounted Nürnberger Viola/Cello Bow,1000,1500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,112,"A silver mounted Violin Bow by W.E.Hill and Sons, London","A silver mounted Violin Bow by W.E.Hill and Sons, London (3)",800,900,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,113,A silver mounted Violoncello Bow by L Cocker,A silver mounted Violoncello Bow by L Cocker,400,500,sold,220,264,GBP,Primary
+15565,Musical Instruments,2007-09-10,114,A Silver mounted Violin Bow,A Silver mounted Violin Bow (6),400,500,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,115,A useful silver mounted Violoncello Bow,A useful silver mounted Violoncello Bow,300,400,sold,260,312,GBP,Primary
+15565,Musical Instruments,2007-09-10,116,An interesting Violoncello of the English School cirac 1790,An interesting Violoncello of the English School cirac 1790,1500,2500,sold,2000,2400,GBP,Primary
+15565,Musical Instruments,2007-09-10,117,A Roth Violoncello 1969,A Roth Violoncello 1969,1000,1500,sold,1700,2040,GBP,Primary
+15565,Musical Instruments,2007-09-10,118,A English Violoncello by J D Waters 1991,A English Violoncello by J D Waters 1991,1000,1500,sold,240,288,GBP,Primary
+15565,Musical Instruments,2007-09-10,119,An interesting Violoncello circa 1900,An interesting Violoncello circa 1900,1200,1500,sold,2300,2760,GBP,Primary
+15565,Musical Instruments,2007-09-10,120,An English Violoncello circa 1820,An English Violoncello circa 1820,2000,3000,sold,4300,5160,GBP,Primary
+15565,Musical Instruments,2007-09-10,121,A good Dresden Violoncello circa 1890,,3000,4000,sold,2200,2640,GBP,Primary
+15565,Musical Instruments,2007-09-10,122,An interesting Violoncello circa 1900,An interesting Violoncello circa 1900,2000,3000,sold,2600,3120,GBP,Primary
+15565,Musical Instruments,2007-09-10,123,An interesting Violoncello circa 1850,An interesting Violoncello circa 1850,3000,4000,sold,2900,3480,GBP,Primary
+15565,Musical Instruments,2007-09-10,124,"An attractive French Violoncello, attributed to Salomon A Paris, circa 1760","An attractive French Violoncello, attributed to Salomon A Paris, circa 1760",3000,4000,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,125,A German Violoncello circa 1900,A German Violoncello circa 1900,1000,1500,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,126,An English Violoncello circa 1800,An English Violoncello circa 1800,800,900,sold,420,504,GBP,Primary
+15565,Musical Instruments,2007-09-10,127,"An English Violoncello of the Banks School, circa 1790","An English Violoncello of the Banks School, circa 1790",5000,6000,sold,4000,4800,GBP,Primary
+15565,Musical Instruments,2007-09-10,128,A English Violoncello by J D Waters 1988,A English Violoncello by J D Waters 1988,800,900,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,129,A Violoncello of the Italian School circa 1900,A Violoncello of the Italian School circa 1900,4000,5000,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,130,A Violoncello by J D Waters 1988,A Violoncello by J D Waters 1988,800,900,sold,220,264,GBP,Primary
+15565,Musical Instruments,2007-09-10,131,A Violoncello of the Markneukirchen School circa 1880,A Violoncello of the Markneukirchen School circa 1880,800,900,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,132,A French Violoncello circa 1900,A French Violoncello circa 1900,800,900,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,133,A German Violoncello circa 1900,A German Violoncello circa 1900,500,600,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,134,A contemporary Violoncello,A contemporary Violoncello,500,600,sold,240,288,GBP,Primary
+15565,Musical Instruments,2007-09-10,135,A Mittenwald Violoncello circa 1870,A Mittenwald Violoncello circa 1870,600,700,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,136,A Saxon Violoncello circa 1890,A Saxon Violoncello circa 1890,300,400,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,137,Four contemporary Violoncellos German School,Four contemporary Violoncellos German School (4),1000,1500,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,138,"A small size Violin by George Pyne, 1914","A small size Violin by George Pyne, 1914",400,500,sold,950,1140,GBP,Primary
+15565,Musical Instruments,2007-09-10,139,Ten small size Violins Mirecourt and Markneukirchen Schools Circa 1900,Ten small size Violins Mirecourt and Markneukirchen Schools Circa 1900 (10),400,500,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,140,A small size Grandini JTL Violin circa 1900,A small size Grandini JTL Violin circa 1900 (3),400,500,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,141,Eleven small size Violins Mirecourt and Markneukirchen Schools Circa 1900,Eleven small size Violins Mirecourt and Markneukirchen Schools Circa 1900 (11),400,500,sold,190,228,GBP,Primary
+15565,Musical Instruments,2007-09-10,142,A small size Violin circa 1900,A small size Violin circa 1900,200,300,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,143,A German Violin circa 1900,A German Violin circa 1900,500,600,sold,520,624,GBP,Primary
+15565,Musical Instruments,2007-09-10,144,Four small size Violins Circa 1900,Four small size Violins Circa 1900 (4),300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,145,A small size German Violin circa 1880,A small size German Violin circa 1880,250,350,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,146,Eight small size Violins Mirecourt and Markneukirchen Schools Circa 1900,Eight small size Violins Mirecourt and Markneukirchen Schools Circa 1900 (8),300,400,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,147,Eight small size Violins Mirecourt and Markneukirchen Schools Circa 1900,Eight small size Violins Mirecourt and Markneukirchen Schools Circa 1900 (8),300,400,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,148,"Seven various small size Violins German School circa 1900, circa 1930","Seven various small size Violins German School circa 1900, circa 1930 (7)",400,500,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,149,A Mirecourt Violin by JTL circa 1900,A Mirecourt Violin by JTL circa 1900,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,150,A small size Violin of the Schoenbach School circa 1920,A small size Violin of the Schoenbach School circa 1920,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,151,A small size German Violin circa 1900,A small size German Violin circa 1900 (8),500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,152,A Mirecourt Violin of the Nicolas School circa 1800,A Mirecourt Violin of the Nicolas School circa 1800 (2),500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,153,A German Violin circa 1880,A German Violin circa 1880 (2),300,400,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,154,"A French Violin of the Caussin, Vosges School circa 1880","A French Violin of the Caussin, Vosges School circa 1880 (7)",2000,3000,sold,2000,2400,GBP,Primary
+15565,Musical Instruments,2007-09-10,155,A Violin possibly English circa 1880,A Violin possibly English circa 1880,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,156,A German Violin circa 1880,A German Violin circa 1880,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,157,A Wolff Bros Violin 1894,A Wolff Bros Violin 1894,400,500,sold,180,216,GBP,Primary
+15565,Musical Instruments,2007-09-10,158,A French Violin circa 1900,A French Violin circa 1900 (2),300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,159,Fourteen Violins Mirecourt and Markneukirchen Schools Circa 1900 and contemporary,Fourteen Violins Mirecourt and Markneukirchen Schools Circa 1900 and contemporary (14),700,800,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,160,"A French Violin of the Caussin, Vosges School circa 1880","A French Violin of the Caussin, Vosges School circa 1880",400,500,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,161,An English Violin by Woodward 1840,An English Violin by Woodward 1840,300,400,sold,110,132,GBP,Primary
+15565,Musical Instruments,2007-09-10,162,A Mirecourt Violin circa 1900,A Mirecourt Violin circa 1900,300,400,withdrawn,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,163,Eight Violins Mirecourt and Markneukirchen Schools Circa 1900,Eight Violins Mirecourt and Markneukirchen Schools Circa 1900 (8),500,600,sold,350,420,GBP,Primary
+15565,Musical Instruments,2007-09-10,164,A Violin of the Caussin School circa 1880,A Violin of the Caussin School circa 1880 (3),500,600,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,165,A Markneukirchen Violin circa 1870,A Markneukirchen Violin circa 1870 (7),600,700,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,166,A Contemporary Violin,A Contemporary Violin,400,500,sold,110,132,GBP,Primary
+15565,Musical Instruments,2007-09-10,167,An English Violin circa 1770,An English Violin circa 1770,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,168,A English Vioin of the Betts School circa 1800,A English Vioin of the Betts School circa 1800 (3),700,800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,169,A Mirecourt Violin of the Caussin School circa 1890,A Mirecourt Violin of the Caussin School circa 1890,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,170,A German Violin circa 1880,A German Violin circa 1880,500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,171,"A French Violin, Caussin Vosges School circa 1880","A French Violin, Caussin Vosges School circa 1880",300,400,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,172,A English Violin by J Wade 1884,A English Violin by J Wade 1884 (2),500,600,sold,440,528,GBP,Primary
+15565,Musical Instruments,2007-09-10,173,A German violin circa 1900,A German violin circa 1900,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,174,A Mirecourt Violin circa 1870,A Mirecourt Violin circa 1870,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,175,A JTL Buthod Violin circa 1890,A JTL Buthod Violin circa 1890,500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,176,A Violin of the Caussin School circa 1880,A Violin of the Caussin School circa 1880,300,400,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,177,A Violin circa 1880,A Violin circa 1880,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,178,A JTL Violin circa 1900,A JTL Violin circa 1900,300,400,sold,210,252,GBP,Primary
+15565,Musical Instruments,2007-09-10,179,"An English Violin by C Goddard, 1843","An English Violin by C Goddard, 1843",300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,180,A German Violin circa 1900,A German Violin circa 1900,500,600,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,181,A German Violin circa 1900,A German Violin circa 1900,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,182,A Violin circa 1800,A Violin circa 1800,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,183,A interesting English Violin circa 1850,A interesting English Violin circa 1850 (3),500,600,sold,800,960,GBP,Primary
+15565,Musical Instruments,2007-09-10,184,A German Viola,A German Viola,300,400,sold,370,444,GBP,Primary
+15565,Musical Instruments,2007-09-10,185,"A Violin, German School circa 1900","A Violin, German School circa 1900 (2)",300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,186,A German Violin circa 1880,A German Violin circa 1880,250,350,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,187,A Longman Lukey & Co Violin circa 1770,,400,500,sold,760,912,GBP,Primary
+15565,Musical Instruments,2007-09-10,188,A Mirecourt Violin circa 1900,A Mirecourt Violin circa 1900,400,500,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,189,A Violin of the French School circa 1770,A Violin of the French School circa 1770,400,500,withdrawn,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,189A,A Violin of the French School circa 1770,A Violin of the French School circa 1770,400,500,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,190,A Scottish Violin by A Morrison 1886,A Scottish Violin by A Morrison 1886,800,900,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,191,A German Violin circa 1900,A German Violin circa 1900,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,192,A German Violin circa 1900,A German Violin circa 1900,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,193,A German Violin circa 1900,A German Violin circa 1900 (2),300,400,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,194,A German Viola circa 1900,A German Viola circa 1900,400,500,sold,320,384,GBP,Primary
+15565,Musical Instruments,2007-09-10,195,A German Viola circa 1890,A German Viola circa 1890,200,300,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,196,An interesting Violin English School circa 1800,An interesting Violin English School circa 1800,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,197,A Saxon Violin circa 1890,A Saxon Violin circa 1890 (2),300,400,sold,650,780,GBP,Primary
+15565,Musical Instruments,2007-09-10,198,A Violin of the Caussin school circa 1880,A Violin of the Caussin school circa 1880,400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,199,A Violin,A Violin (3),200,300,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,200,A JTL Violin circa 1900,A JTL Violin circa 1900,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,201,A German Violin circa 1900,A German Violin circa 1900,400,500,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,202,A German Violin circa 1880,A German Violin circa 1880,300,400,sold,130,156,GBP,Primary
+15565,Musical Instruments,2007-09-10,203,A English Violin circa 1770,A English Violin circa 1770 ((9)),600,700,sold,1000,1200,GBP,Primary
+15565,Musical Instruments,2007-09-10,204,A Violin of the Caussin School circa 1890,A Violin of the Caussin School circa 1890,300,400,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,205,A Violin of the French School circa 1900,A Violin of the French School circa 1900,500,600,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,206,A German Violin circa 1900,A German Violin circa 1900,500,600,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,207,A Mittenwald Violin circa 1800,A Mittenwald Violin circa 1800,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,208,An English Violin circa 1935,An English Violin circa 1935,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,209,A Violin of the Zack School circa 1880,A Violin of the Zack School circa 1880,300,400,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,210,A French Violin Charotte School circa 1800,A French Violin Charotte School circa 1800,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,211,An English Violin circa 1880,An English Violin circa 1880,300,400,sold,120,144,GBP,Primary
+15565,Musical Instruments,2007-09-10,212,A German Violin circa 1900,A German Violin circa 1900,400,500,sold,520,624,GBP,Primary
+15565,Musical Instruments,2007-09-10,213,A Mirecourt Violin circa 1880,A Mirecourt Violin circa 1880,400,500,sold,360,432,GBP,Primary
+15565,Musical Instruments,2007-09-10,214,A JTL Violin circa 1900,A JTL Violin circa 1900,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,215,A French Violin circa 1900,A French Violin circa 1900 (6),600,700,sold,750,900,GBP,Primary
+15565,Musical Instruments,2007-09-10,216,A JTL Violin circa 1900,A JTL Violin circa 1900,600,800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,217,A German Violin circa 1890,A German Violin circa 1890,400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,218,A Violin of the German School,A Violin of the German School,300,400,sold,120,144,GBP,Primary
+15565,Musical Instruments,2007-09-10,219,A Violin of the English School circa 1800,A Violin of the English School circa 1800,300,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,220,A Violin of the Berlin School Circa 1900,A Violin of the Berlin School Circa 1900,300,400,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,221,A German Violin circa 1900,A German Violin circa 1900,200,300,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,222,A French Violin circa 1900,A French Violin circa 1900,300,400,sold,420,504,GBP,Primary
+15565,Musical Instruments,2007-09-10,223,A Mirecourt Violin circa 1890,A Mirecourt Violin circa 1890,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,224,A French Violin by C. F Vuillaume circa 1770,A French Violin by C. F Vuillaume circa 1770,300,400,sold,280,336,GBP,Primary
+15565,Musical Instruments,2007-09-10,225,A Violin circa 1850,A Violin circa 1850,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,226,A Bavarian Violin circa 1920,A Bavarian Violin circa 1920,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,227,An English Violin circa 1770,An English Violin circa 1770 (2),300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,228,A Mirecourt Violin circa 1900,A Mirecourt Violin circa 1900 (2),400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,229,A German Violin circa 1870,A German Violin circa 1870,300,400,sold,180,216,GBP,Primary
+15565,Musical Instruments,2007-09-10,230,A French Violin of the J. Derazey School circa 1900,A French Violin of the J. Derazey School circa 1900,400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,231,A good German Violin circa 1900,A good German Violin circa 1900 (3),700,800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,232,An interesting Violin circa 1870,,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,233,A Saxon Violin circa 1860,A Saxon Violin circa 1860,500,600,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,234,A Bavarian Violin circa 1880,A Bavarian Violin circa 1880,400,500,sold,260,312,GBP,Primary
+15565,Musical Instruments,2007-09-10,235,A French Violin by JTL circa 1900,A French Violin by JTL circa 1900 (3),500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,236,Four Violins circa 1900,Four Violins circa 1900 (4),400,500,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,237,A French Violin of the Drouin School circa 1900,A French Violin of the Drouin School circa 1900 (2),400,500,sold,450,540,GBP,Primary
+15565,Musical Instruments,2007-09-10,238,A contemporary Viola,A contemporary Viola,400,500,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,239,A Viola by JD Waters,A Viola by JD Waters (2),600,700,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,240,A German Violin circa 1900,A German Violin circa 1900,500,600,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,241,A German Violin circa 1800,A German Violin circa 1800,400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,242,"A Violin of some quality, English School, circa 1900","A Violin of some quality, English School, circa 1900 (4)",600,700,sold,920,1104,GBP,Primary
+15565,Musical Instruments,2007-09-10,243,"A Rushworth and Dreaper ""Apollo"" Violin circa 1890","A Rushworth and Dreaper ""Apollo"" Violin circa 1890",500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,244,Three contemporary Violas,Three contemporary Violas (7),500,600,sold,550,660,GBP,Primary
+15565,Musical Instruments,2007-09-10,245,"A Hawkes ""Professor"" Violin no. II, 1926","A Hawkes ""Professor"" Violin no. II, 1926",400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,246,A Quintet of Mandolins by Gelas early 20th century,A Quintet of Mandolins by Gelas early 20th century (6),800,900,sold,1500,1800,GBP,Primary
+15565,Musical Instruments,2007-09-10,247,A Mandolin by JTL circa 1900,A Mandolin by JTL circa 1900 (3),400,500,sold,100,120,GBP,Primary
+15565,Musical Instruments,2007-09-10,248,"A Cav Giovanni Meglio Mandolin, Napoli 1897,","A Cav Giovanni Meglio Mandolin, Napoli 1897,",300,400,sold,240,288,GBP,Primary
+15565,Musical Instruments,2007-09-10,249,A Rafaele Disantino Neopolitan Mandolin 1902,A Rafaele Disantino Neopolitan Mandolin 1902,300,400,sold,240,288,GBP,Primary
+15565,Musical Instruments,2007-09-10,250,A Italian Mandolin circa 1880,A Italian Mandolin circa 1880,300,400,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,251,A Mandolin,A Mandolin,200,300,sold,150,180,GBP,Primary
+15565,Musical Instruments,2007-09-10,252,A Irish Harp by J Geo Morley circa 1900,A Irish Harp by J Geo Morley circa 1900,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,253,"An ""Ivory Queen"" 4 string Banjo by B & S Master.","An ""Ivory Queen"" 4 string Banjo by B & S Master. (2)",300,400,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,254,A Carmelo Catania Guitar,A Carmelo Catania Guitar (5),300,400,sold,100,120,GBP,Primary
+15565,Musical Instruments,2007-09-10,255,A Keech Ukelele-Banjo circa 1930,,60,80,sold,45,54,GBP,Primary
+15565,Musical Instruments,2007-09-10,256,A steel strung cutaway Jazz-Guitar circa 1920,A steel strung cutaway Jazz-Guitar circa 1920,300,400,sold,100,120,GBP,Primary
+15565,Musical Instruments,2007-09-10,257,A Phono-fiddle by A. Howson circa 1920,A Phono-fiddle by A. Howson circa 1920 (3),300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,258,An Acoustic Guitar by V Tatay,An Acoustic Guitar by V Tatay,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,259,A Five-String Windsor Whirle Monarch Banjo,A Five-String Windsor Whirle Monarch Banjo,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,260,A Markneukirchen Edmund Paulus Guitar circa 1880,A Markneukirchen Edmund Paulus Guitar circa 1880 (3),400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,261,"A 12 string Epiphone Serenader Acoustic Flat top Guitar, 1964","A 12 string Epiphone Serenader Acoustic Flat top Guitar, 1964",500,600,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,262,A Martin D12-20 12 string Guitar circa 1964,A Martin D12-20 12 string Guitar circa 1964,1000,1500,sold,900,1080,GBP,Primary
+15565,Musical Instruments,2007-09-10,263,An arch-top f-hole FDH Special Gibson Guitar 1938,An arch-top f-hole FDH Special Gibson Guitar 1938,1000,2000,sold,1300,1560,GBP,Primary
+15565,Musical Instruments,2007-09-10,264,"A Guitar by J Thibouville-Lamy Paris, circa 1905","A Guitar by J Thibouville-Lamy Paris, circa 1905",400,500,sold,270,324,GBP,Primary
+15565,Musical Instruments,2007-09-10,265,A Concert P40 Guitar by Hiroshi Tamura,A Concert P40 Guitar by Hiroshi Tamura,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,266,An interesting six string Guitar,An interesting six string Guitar,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,267,"An interesting six string double top Guitar attributed to Daniel Gelas, Paris","An interesting six string double top Guitar attributed to Daniel Gelas, Paris",600,700,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,268,A Guitar by Guitar Antonio Carlos Garcia circa 1870,A Guitar by Guitar Antonio Carlos Garcia circa 1870,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,269,A Vda y Sobrinos de Domingo Esteso Guitar 1965,A Vda y Sobrinos de Domingo Esteso Guitar 1965,400,500,sold,780,936,GBP,Primary
+15565,Musical Instruments,2007-09-10,270,"An early Electric lap steel ""ELECTRAWIIAN"" Guitar by E Grimshaw circa 1934","An early Electric lap steel ""ELECTRAWIIAN"" Guitar by E Grimshaw circa 1934",300,400,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,271,A 1969 420 Rickenbacker Guitar,A 1969 420 Rickenbacker Guitar (2),800,900,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,272,An English Concertina by J.H Ebblewhite circa 1860,,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,273,A English Concertina by Louis Lachenal circa 1860,A English Concertina by Louis Lachenal circa 1860,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,274,An English Concertina,An English Concertina,200,300,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,275,A silvered plated slide Trombone by J Higham circa 1900,A silvered plated slide Trombone by J Higham circa 1900,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,276,"An upturned Soprano "" Model 22"" Saxophone by Selmer, Paris 1924","An upturned Soprano "" Model 22"" Saxophone by Selmer, Paris 1924",600,700,sold,600,720,GBP,Primary
+15565,Musical Instruments,2007-09-10,277,A Conn Alto Saxophone circa 1922,A Conn Alto Saxophone circa 1922,300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,278,A Selmer Modele 22 Soprano Saxophone 1925,A Selmer Modele 22 Soprano Saxophone 1925,300,400,sold,300,360,GBP,Primary
+15565,Musical Instruments,2007-09-10,279,An interesting Ivory Flute,An interesting Ivory Flute,300,400,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,280,An eight-keyed William Potter Boxwood Flute circa 1810,An eight-keyed William Potter Boxwood Flute circa 1810 (2),200,300,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,281,A Nickel mounted Boxwood Flute by Rob. Barth Stuttgart circa 1880,A Nickel mounted Boxwood Flute by Rob. Barth Stuttgart circa 1880,400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,282,An Italian Oboe by J M Grassi Milan,An Italian Oboe by J M Grassi Milan,600,800,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,283,An Ebony and Ivory Flute by I. B Cramer circa 1840,An Ebony and Ivory Flute by I. B Cramer circa 1840,200,300,sold,150,180,GBP,Primary
+15565,Musical Instruments,2007-09-10,284,A Flute by Köhler & Son improved Siccama system Flute circa 1890,A Flute by Köhler & Son improved Siccama system Flute circa 1890,400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,285,A Potter Flute circa 1860,A Potter Flute circa 1860,400,500,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,286,A B Clarinet by G Ficker,A B Clarinet by G Ficker (2),300,500,withdrawn,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,287,"A Rosewood and silvered Metzler & co Limited Flute, London Circa 1900","A Rosewood and silvered Metzler & co Limited Flute, London Circa 1900",150,200,sold,110,132,GBP,Primary
+15565,Musical Instruments,2007-09-10,288,A Silver Flute by Gemeinhardt,A Silver Flute by Gemeinhardt,200,300,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,289,A C Clarinet by Jullien & Co 214 Regent Street London circa 1850,A C Clarinet by Jullien & Co 214 Regent Street London circa 1850,100,2000,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,290,"An English Oboe by Bland & Weller, England, circa 1795","An English Oboe by Bland & Weller, England, circa 1795",500,600,withdrawn,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,291,A Flute by Potter circa 1785,A Flute by Potter circa 1785,400,500,sold,230,276,GBP,Primary
+15565,Musical Instruments,2007-09-10,292,A Rosewood Clarinet by Robert Wolf & Co circa 1840,,100,200,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,293,A E Rittershausen Flute circa 1880,A E Rittershausen Flute circa 1880,500,600,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,294,An English Soprano Flageolet by Cahusec of London,An English Soprano Flageolet by Cahusec of London,200,300,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,295,A Cocuswood Clarinet by Martin freres Paris circa 1890,A Cocuswood Clarinet by Martin freres Paris circa 1890 (2),300,400,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,296,"Brian W Harvey: Violin Fraud deception, Forgery theft and the Law:","Brian W Harvey: Violin Fraud deception, Forgery theft and the Law: (15)",200,300,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,297,E.Vatelot: Les Archets Francais (2),,400,500,sold,480,576,GBP,Primary
+15565,Musical Instruments,2007-09-10,298,Hill: The Violin Makers of the Guarneri family (1626-1762),Hill: The Violin Makers of the Guarneri family (1626-1762),300,400,sold,260,312,GBP,Primary
+15565,Musical Instruments,2007-09-10,299,A Rosewood Hill Violin Case,A Rosewood Hill Violin Case,100,200,sold,20,24,GBP,Primary
+15565,Musical Instruments,2007-09-10,300,A quantity of Bow making accessories,A quantity of Bow making accessories (7),200,300,sold,60,72,GBP,Primary
+15565,Musical Instruments,2007-09-10,301,A quantity of items from a Luthiers workshop,A quantity of items from a Luthiers workshop (2 Box),300,400,sold,60,72,GBP,Primary
+15565,Musical Instruments,2007-09-10,302,A miniature Violin circa 1969,A miniature Violin circa 1969 (2),100,200,unsold,,,GBP,Primary
+15565,Musical Instruments,2007-09-10,303,A quantity of Bow cases,A quantity of Bow cases (qty),0,0,sold,100,120,GBP,Primary
+15565,Musical Instruments,2007-09-10,304,A carton of antique threaded wooden cello clamps,A carton of antique threaded wooden cello clamps (Qty),400,500,sold,50,60,GBP,Primary
+15565,Musical Instruments,2007-09-10,305,A photograph of Sir Edward Elgar,A photograph of Sir Edward Elgar (5),100,200,sold,150,180,GBP,Primary
+15565,Musical Instruments,2007-09-10,306,A Mittenwald Violin circa 1890,A Mittenwald Violin circa 1890 (8),400,500,sold,500,600,GBP,Primary
+15565,Musical Instruments,2007-09-10,307,Three Violins circa 1900,Three Violins circa 1900 (3),400,500,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,308,A German Violin circa 1920,A German Violin circa 1920 (8),500,600,sold,700,840,GBP,Primary
+15565,Musical Instruments,2007-09-10,309,A Violin,A Violin (2),400,500,sold,380,456,GBP,Primary
+15565,Musical Instruments,2007-09-10,310,A German Violin circa 1900,A German Violin circa 1900 (3),400,500,sold,120,144,GBP,Primary
+15565,Musical Instruments,2007-09-10,311,Eight various Violin/Viola Cases,Eight various Violin/Viola Cases (8),100,200,sold,110,132,GBP,Primary
+15565,Musical Instruments,2007-09-10,312,A Violin and Viola case,A Violin and Viola case (10),100,200,sold,150,180,GBP,Primary
+15565,Musical Instruments,2007-09-10,313,Eleven various Violin/Viola cases,Eleven various Violin/Viola cases (11),100,200,sold,130,156,GBP,Primary
+15565,Musical Instruments,2007-09-10,314,Nine various violin/viola cases,Nine various violin/viola cases (9),100,200,sold,140,168,GBP,Primary
+15565,Musical Instruments,2007-09-10,315,Two Hard Cello cases,Two Hard Cello cases (3),0,0,sold,150,180,GBP,Primary
+15565,Musical Instruments,2007-09-10,316,Two hard Cello cases,Two hard Cello cases (3),100,200,sold,210,252,GBP,Primary
+15565,Musical Instruments,2007-09-10,317,Two Hard Cello cases,Two Hard Cello cases (2),100,200,sold,120,144,GBP,Primary
+15565,Musical Instruments,2007-09-10,318,Four hard Cello cases,Four hard Cello cases (5),200,300,sold,360,432,GBP,Primary
+15565,Musical Instruments,2007-09-10,319,Fourteen soft Cello cases,Fourteen soft Cello cases (14),0,0,sold,35,42,GBP,Primary
+15565,Musical Instruments,2007-09-10,320,"Two cello Pine wedges,","Two cello Pine wedges, (3 cartons and 2 stacks)",100,200,sold,150,180,GBP,Primary
+15565,Musical Instruments,2007-09-10,321,Two carton of Cello Spikes,Two carton of Cello Spikes (2),0,0,sold,22,26.4,GBP,Primary
+15565,Musical Instruments,2007-09-10,322,"Six cartons of varnish crystals, powders, preparations, oils","Six cartons of varnish crystals, powders, preparations, oils (6)",200,300,sold,10,12,GBP,Primary
+15565,Musical Instruments,2007-09-10,323,"Five Cartons of varnish crystals, powders, preparations, oils in sealed jars,","Five Cartons of varnish crystals, powders, preparations, oils in sealed jars, (5)",100,200,sold,10,12,GBP,Primary
+15565,Musical Instruments,2007-09-10,324,Three cartons Various rib wood wedges and ebony blocks for fingerboards,Three cartons Various rib wood wedges and ebony blocks for fingerboards (3),100,200,sold,100,120,GBP,Primary
+15565,Musical Instruments,2007-09-10,325,"A quantity of various bridges,","A quantity of various bridges, (1 box)",200,300,sold,60,72,GBP,Primary
+15565,Musical Instruments,2007-09-10,326,A silver mounted Violoncello Bow,A silver mounted Violoncello Bow (QTY),1200,1500,sold,200,240,GBP,Primary
+15565,Musical Instruments,2007-09-10,327,A quantity of Bows,A quantity of Bows (Approx 40),400,500,sold,400,480,GBP,Primary
+15565,Musical Instruments,2007-09-10,328,A quantity of contemporary Violoncello Bows German School,A quantity of contemporary Violoncello Bows German School (Approx 25),500,600,sold,100,120,GBP,Primary
+15565,Musical Instruments,2007-09-10,329,A quantity of contemporary Violoncello Bows German School,A quantity of contemporary Violoncello Bows German School (Approx 30),500,600,sold,50,60,GBP,Primary
+15565,Musical Instruments,2007-09-10,330,A quantity of contemporary Violoncello Bows German School,A quantity of contemporary Violoncello Bows German School (Approx 20),500,600,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,331,A quantity contemporary of Violin Bows German School (Approx 25),,500,600,sold,600,720,GBP,Primary
+15565,Musical Instruments,2007-09-10,332,A quantity of contemporary Violoncello Bows German School,A quantity of contemporary Violoncello Bows German School (Approx 30),500,600,sold,320,384,GBP,Primary
+15565,Musical Instruments,2007-09-10,333,A quantity of contemporary Violoncello Bows German School (Approx 30),,500,600,sold,380,456,GBP,Primary
+15565,Musical Instruments,2007-09-10,334,A quantity of contemporary Violoncello Bows German School,A quantity of contemporary Violoncello Bows German School (Approx 30),500,600,sold,380,456,GBP,Primary
+15565,Musical Instruments,2007-09-10,335,A quantity of Contemporary Violin Bows German School (Approx 25),,500,600,sold,280,336,GBP,Primary
+15565,Musical Instruments,2007-09-10,336,A quantity of Contemporary Bows German School,A quantity of Contemporary Bows German School (Approx 25),400,500,sold,250,300,GBP,Primary
+15565,Musical Instruments,2007-09-10,337,A quantity of Bows,A quantity of Bows (Approx 20),300,400,sold,280,336,GBP,Primary
