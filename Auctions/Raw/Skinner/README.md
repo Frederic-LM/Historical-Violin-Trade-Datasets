@@ -12,7 +12,7 @@ One file per sale: `<date>_Skinner_<sale number>.csv`, the shared columns (see t
 | title, description | as published; the house's title is the first sentence of its description |
 | hammer | the house's "Sold for" without premium |
 | price_with_fees | the house's "Sold for" with buyer's premium |
-| maker, estimate_low, estimate_high | not given by the house: empty |
+| estimate_low, estimate_high | not given by the house: empty |
 | currency | USD |
 
 ## Fees
