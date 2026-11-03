@@ -16,7 +16,7 @@ The datasets were compiled for the Violin Auction Trends Analytics project. Each
 |---|---|---|---|
 | `Auctions/Raw/` | Primary: the auction houses' own results pages, documents, catalogues and price lists (13 houses, 626 sales, 138 858 lots); secondary: other sources where no house document is held (95 houses, 1 503 files, 41 300 lots); press: contemporary reports (85 files, 1 391 lots) | Auction results, lot by lot: one file per sale, one folder per house | Europe, North America, Japan and South Korea, 1829–2026 |
 | `Ledgers/Lupot–Gand–Bernardel–Caressa–Français/` | Fonds Lupot–Gand–Bernardel–Caressa–Français, Musée de la musique, Paris (E.981.8.29 and E.981.8.30) | Dealer ledgers: sales register and export journal | Paris, 1920–1944 |
-| `Historical price catalogue/1942-JohnH.Fairfield/` | Fairfield, J. H., *Known violin makers* (1942; 4th ed. 1983), American section | Directory of makers with prices, followed to today in the auction record | United States, 1942 |
+| `Historical price catalogue/1942-JohnH.Fairfield/` | Fairfield, J. H., *Known violin makers* (1942; 4th ed. 1983), American section | Directory of makers with prices, coded and matched to the auction record | United States, 1942 |
 
 ### Auction results
 
@@ -34,7 +34,7 @@ Each entry gives the maker, the dates and prices of purchase and sale, repair co
 
 ### Fairfield 1942 catalogue
 
-The American section of Fairfield's directory lists the makers working in the United States in 1942, with their prices. The section has 171 entries. Each entry is coded by status (professional, amateur and so on) and matched to the auction record. This shows which makers priced in 1942 are still traded today, and at what real return. The folder holds the coded data and the script that reproduces the results. The biographical text is not included, because the 1983 edition is still in copyright.
+The American section of Fairfield's directory lists the makers working in the United States in 1942, with their prices. The section has 176 entries. Each entry is coded by status (professional, amateur and so on) and matched to the auction record. The folder holds the coded data; the study of which makers priced in 1942 are still traded today, and at what real return, is in the analysis repository [Violin Auction Trends Analytics](https://github.com/Frederic-LM/Violin-Auction-Trends-Analytics/tree/main/fairfield_1942). The biographical text is not included, because the 1983 edition is still in copyright.
 
 ## How the data are prepared
 

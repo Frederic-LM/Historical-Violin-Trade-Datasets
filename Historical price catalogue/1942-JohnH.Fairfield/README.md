@@ -1,8 +1,11 @@
-# Fairfield 1942 cohort
+# Fairfield 1942: American violin makers and their prices
 
-American violin makers listed with prices in 1942, followed in the auction record to today.
+The American makers listed with prices in 1942, coded by status and matched to the auction record.
 
-This folder accompanies Section 7.3 of Levi Mazloum, F. (2026), *The verdict never rendered* (manuscript under review). It tests whether the market sorts contemporary makers over time. The test uses a group of makers fixed in advance by someone else, not makers chosen after their fortunes were known.
+This folder holds the data. The study built on it (who is still traded today, and at what real return) is in the
+analysis repository: [Violin Auction Trends Analytics, `fairfield_1942/`](https://github.com/Frederic-LM/Violin-Auction-Trends-Analytics/tree/main/fairfield_1942),
+with the scripts, the outcomes per maker and the results. It accompanies Section 7.3 of Levi Mazloum, F. (2026),
+*The verdict never rendered* (manuscript under review).
 
 ## Source
 
@@ -10,21 +13,26 @@ Fairfield, J. H. (1983). *Known violin makers* (4th ed.). Virtuoso Publications.
 
 The American section (pp. 129–188) gives short biographies of "contemporary American craftsmen, professional and amateur", usually with prices. This text is unchanged from the 1942 first edition. In his introduction (p. 127), Rembert Wurlitzer notes that Fairfield "wisely decided to refrain from any attempt to rank the various makers listed".
 
-I transcribed the section from a scan. A check of every entry against the book (October 2026) corrected a few prices and added five entries missed in the first transcription (Chapin, Chase, Gates, Truetschler, Urdahl); see *Corrections* below. Because the 1983 edition is still in copyright, the files give names, prices and coded facts only, not the biographical text.
+I transcribed the section from a scan. A check of every entry against the book (October 2026) corrected a few prices and added five entries missed in the first transcription (Chapin, Chase, Gates, Truetschler, Urdahl). The columns `price_source` and `price_note` record how each price was read. Because the 1983 edition is still in copyright, the file gives names, prices and coded facts only, not the biographical text.
 
-## Files
+## File
 
-- `fairfield_1942_american_entries.csv`: one row for each of the 176 entries. Each row gives:
-  - the cohort status and the words in the entry it rests on;
-  - the price as printed;
-  - the violin price used;
-  - the matched auction name, or the reason a name was left unmatched;
-  - the book page.
-- `fairfield_1942_cohort_outcomes.csv`: auction outcomes for each entry (1942 price, number of sales, first and last sale year, survival after 1990, median 2010–25 price, real growth rate). It contains no individual sale prices.
-- `cohort_stats.py`: reproduces every figure below from the outcomes file alone:
-  `python cohort_stats.py fairfield_1942_cohort_outcomes.csv`
-- `cohort.py`: rebuilds the outcomes file from the entries and the auction transaction file. That file is not redistributed (see *Reproducing the figures*); the script expects the schema of `all_violin_sales_template.csv` in the Violin Auction Trends Analytics repository:
-  `python cohort.py fairfield_1942_american_entries.csv <auction transactions>.csv`
+`fairfield_1942_american_entries.csv`: one row for each of the 176 entries.
+
+| Column | Content |
+|---|---|
+| `maker` | the name as printed |
+| `cohort` | `main`, `broad` or `excluded` (see below) |
+| `status`, `status_cues` | the status and the words in the entry it rests on |
+| `price_as_transcribed` | the price as printed |
+| `violin_price_min_usd`, `violin_price_max_usd` | the violin price used |
+| `price_source` | `as printed`, `set by hand (violin price only)` or `no price` |
+| `price_note` | how a price or a name match was settled |
+| `auction_name_matched` | the maker's name in the auction record (the maker file of the analysis repository), when matched |
+| `ambiguous_not_matched` | the reason a name was left unmatched |
+| `book_page` | the page in the 1983 edition |
+
+69 entries are in the main group, 49 more in the broad group, 58 are left out.
 
 ## Who is in the cohort
 
@@ -48,64 +56,20 @@ Status was set from the text of each entry before any auction data were consulte
 
 **Borderline entries.** A handful were settled by reading the full entry. The reason is recorded in the status column.
 
-**Prices.** The 1942 price is the midpoint of the violin price stated in the entry. Where an entry also prices violas, cellos or bows, only the violin price is used. Where it gives an earlier and a later price, the range runs from the earliest to the latest. An entry giving only a ceiling ("up to", "as high as") or a floor ("and up") uses that figure as both ends. These rows are marked in the file.
+## Prices
 
-## How outcomes were measured
+The 1942 price is the violin price stated in the entry. Where an entry also prices violas, cellos or bows, only the violin price is used. Where it gives an earlier and a later price, the range runs from the earliest to the latest. An entry giving only a ceiling ("up to", "as high as") or a floor ("and up") uses that figure as both ends. These rows are marked in the file.
 
-The rules below were fixed before any matching.
+## Matching to the auction record
 
-**Matching.** A maker is matched to an auction name only when the surname and first name agree and the birth year or city is consistent. Doubtful cases are listed and left unmatched.
-
-**Survival.** A maker counts as surviving if at least one of his violins sold at auction after 1990.
-
-**Real growth.** Growth runs from the 1942 price to the median auction price of 2010–25, both in 2023 dollars:
-- prices are deflated with the US CPI-U annual average (1942 = 16.3; 2023 = 304.702; the 2024 index is used for 2025);
-- the rate runs from 1942 to the median year of those sales.
-
-**Two questions.**
-1. Did the 1942 price rank the survivors above the others? This is measured by the area under the curve (AUC) from a Mann–Whitney test.
-2. Did it predict later growth? This is measured by Spearman's rho.
-
-Auction data: Levi Mazloum, F. (2026). *Violin Auction Trends Analytics* (Version 1.1). Zenodo. https://doi.org/10.5281/zenodo.23085844
-
-## Results
-
-Of the 69 professionals working in 1942:
-- 27 (39%) still appear at auction after 1990, so about three in five have left no trace there;
-- 18 have enough recent sales to measure real growth. Of these:
-  - three rose by more than 1% a year: Sacconi (+2.6%), Becker (+2.0%) and Sindelar (+1.1%);
-  - ten stayed within 1% either way;
-  - five fell by more than 1% a year: Stenger, Virzi, Phillips, Kaye and Heckel.
-
-Makers who were dearer in 1942 were somewhat more likely to remain at auction (median 1942 price $400 against $250; AUC 0.73, p = 0.006). That is to be expected, since auction houses take only instruments above a certain value.
-
-The 1942 price did not predict who would later rise or fall (rho = −0.05, p = 0.84). The three dearest makers of 1942 went three ways: Sacconi rose, Kaye fell, and Litto disappeared from the record.
-
-| Group | Makers | At auction after 1990 | Rose / flat / fell | AUC | rho |
-|---|---|---|---|---|---|
-| Main | 69 | 39% | 3 / 10 / 5 | 0.73 (p = 0.006) | −0.05 |
-| Broad | 118 | 32% | 4 / 14 / 9 | 0.72 (p < 0.001) | −0.35 |
-
-**Names checked by hand.** Decisions rest on identity only (name, birth year, city), not on prices:
+The rules were fixed before any matching. A maker is matched to an auction name only when the surname and first name agree and the birth year or city is consistent. Doubtful cases are listed and left unmatched. Decisions rest on identity only (name, birth year, city), not on prices:
 - Oscar A. Gemünder is matched to "Oscar Henry Gemunder": same first name, born 1872 in New York; only the middle name differs;
-- John Alfred Gould is matched: full name and city (Boston) agree; the birth year differs (1860 in the book, 1866 in the dataset);
-- Claude Heskett is not in the auction data (the only Heskett there is his father) and counts as absent;
+- John Alfred Gould is matched: full name and city (Boston) agree; the birth year differs (1860 in the book, 1866 in the auction record);
+- Claude Heskett is not in the auction record (the only Heskett there is his father) and counts as absent;
 - Marcel Aerts appears at auction only jointly with his father and is left unmatched;
 - Curt Wunderlich appears only as "C. A. Wunderlich" and is left unmatched.
 
-## Reproducing the figures
-
-The compiled auction transaction file is not redistributed, for the reasons given in the Violin Auction Trends Analytics repository. Two levels of checking are therefore offered:
-- **The figures:** `cohort_stats.py` recomputes every count, AUC and rho above from `fairfield_1942_cohort_outcomes.csv`, with no other input.
-- **The outcomes themselves:** each matched maker's auction name is given in the entries file, so anyone can rebuild his sales from public auction results, format them to the template schema and run `cohort.py`. The transaction file is available from the author on reasonable request.
-
-
-
-## Limitations
-
-- **"Disappeared" means absent from this auction dataset.** Private sales and small regional auctions are not covered.
-- **The 1942 figures and the later figures are different kinds of price.** The 1942 figures are makers' asking prices for new instruments; the later ones are auction resales. The gap between the two pulls every growth rate down. The ranking of makers is less affected.
-- **Several growth rates rest on one or two sales.** The number of sales is given for each maker.
+The auction lots themselves are in this repository, under `Auctions/`.
 
 ## Citation
 
