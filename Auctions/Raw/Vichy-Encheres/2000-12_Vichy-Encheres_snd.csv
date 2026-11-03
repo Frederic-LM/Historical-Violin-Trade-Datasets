@@ -1,0 +1,11 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,90,,"Adam, Jean 'Grand'",,,sold,,4859,USD,Secondary,Secondary,Cello Bow
+,,,291,,"Maire, Nicolas Rémy",,,sold,,13189,USD,Secondary,Secondary,Violin Bow
+,,,300,,"Maire, Nicolas Rémy",,,sold,,23880,USD,Secondary,Secondary,Violin Bow
+,,,,,"Marchioni, Don Nicola 'Don Nicolo Amati'",,,sold,,10445,USD,Secondary,Secondary,Small Violin
+,,,,,"Peccatte, Dominique",,,sold,,22214,USD,Secondary,Secondary,Violin Bow
+,,,,,"Peccatte, Dominique",,,sold,,45816,USD,Secondary,Secondary,Cello Bow
+,,,,,"Tourte, François Xavier 'le Jeune'",,,sold,,34709,USD,Secondary,Secondary,Cello Bow
+,,,,,"Chanot, Georges I",,,sold,,23564,USD,Secondary,Secondary,Violin
+,,,,,"Hel, Pierre Joseph",,,sold,,17355,USD,Secondary,Secondary,Violin
+,,,,,"Hel, Pierre Joseph",,,sold,,5553,USD,Secondary,Secondary,Viola

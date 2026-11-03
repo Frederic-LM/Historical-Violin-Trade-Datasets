@@ -1,0 +1,5 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1981-04-16,21,,"Sderci, Igino",,,sold,,1583,GBP,Secondary,Secondary,Violin
+,,1981-04-16,,,"Pierray, Claude",,,sold,,3064,GBP,Secondary,Secondary,Cello
+,,1981-04-16,,,"Cuypers, Johannes Theodorus",,,sold,,3575,GBP,Secondary,Secondary,Violin
+,,1981-04-16,,,"Scarampella, Stefano",,,sold,,5617,GBP,Secondary,Secondary,Viola

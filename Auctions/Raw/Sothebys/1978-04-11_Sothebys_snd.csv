@@ -1,0 +1,9 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1978-04-11,115,,"Grancino, Giovanni Battista I",,,sold,,12000,USD,Secondary,Secondary,Violin
+,,1978-04-11,,,"Panormo, Vincenzo Trusiano",,,sold,,10000,USD,Secondary,Secondary,Violin
+,,1978-04-11,,,"Vuillaume, Jean-Baptiste",,,sold,,9000,USD,Secondary,Secondary,Cello
+,,1978-04-11,,,"Amati, Nicolò",,,sold,,36000,USD,Secondary,Secondary,Violin
+,,1978-04-11,,,"Boquay, Jacques",,,sold,,2600,USD,Secondary,Secondary,Violin
+,,1978-04-11,,,"Stradivari, Antonio",,,sold,,130000,USD,Secondary,Secondary,Violin
+,,1978-04-11,,,"Gagliano, Ferdinando",,,sold,,7000,USD,Secondary,Secondary,Viola
+,,1978-04-11,,,"Guarneri, Andrea",,,sold,,12500,USD,Secondary,Secondary,Violin

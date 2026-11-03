@@ -1,0 +1,33 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2019-05-05,10,,Franz Seitz,,,sold,,3600,EUR,Secondary,Secondary,Violin
+,,2019-05-05,20,,Eugene Langonet,,,sold,,1800,EUR,Secondary,Secondary,Violin
+,,2019-05-05,28,,Hugues Emile Blondelet,,,sold,,1920,EUR,Secondary,Secondary,Violin
+,,2019-05-05,29,,Albert Joseph Deblaye,,,sold,,1440,EUR,Secondary,Secondary,Violin
+,,2019-05-05,33,,Louis Collenot,,,sold,,1680,EUR,Secondary,Secondary,Violin
+,,2019-05-05,38,,Francois Hippolyte Caussin,,,sold,,3000,EUR,Secondary,Secondary,Violin
+,,2019-05-05,47,,Jules Lavest,,,sold,,1560,EUR,Secondary,Secondary,Violin
+,,2019-05-05,54,,Silvio Tua,,,sold,,3000,EUR,Secondary,Secondary,Violin
+,,2019-05-05,55,,Emile L’Humbert,,,sold,,1800,EUR,Secondary,Secondary,Violin
+,,2019-05-05,66,,Ferenc Bikszegi,,,sold,,960,EUR,Secondary,Secondary,Viola
+,,2019-05-05,72,,Charles Resuche,,,sold,,8400,EUR,Secondary,Secondary,Cello
+,,2019-05-05,81,,Charles Nicolas Bazin,,,sold,,1140,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,85,,Charles Nicolas Bazin,,,sold,,420,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,90,,Prosper Colas,,,sold,,696,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,99,,Francois Lotte,,,sold,,900,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,100,,Charles Nicolas Bazin,,,sold,,1080,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,101,,Louis Bazin,,,sold,,1320,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,102,,Louis Bazin,,,sold,,840,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,103,,Francois Lotte,,,sold,,1320,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,110,,Louis Joseph Morizot,,,sold,,3240,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,111,,Louis Joseph Morizot,,,sold,,1680,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,113,,Marie-Louis Piernot,,,sold,,1560,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,115,,Victor Fetique,,,sold,,5400,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,117,,Charles Nicolas Bazin,,,sold,,900,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,122,,Prosper Colas,,,sold,,960,EUR,Secondary,Secondary,Violin Bow
+,,2019-05-05,126,,Bernard Ouchard,,,sold,,5280,EUR,Secondary,Secondary,Cello Bow
+,,2019-05-05,128,,Pierre Cuniot,,,sold,,1800,EUR,Secondary,Secondary,Cello Bow
+,,2019-05-05,148,,Jean Baptiste Colin,,,sold,,2040,EUR,Secondary,Secondary,Violin
+,,2019-05-05,152,,Charles Francois Charotte,,,sold,,600,EUR,Secondary,Secondary,Violin
+,,2019-05-05,159,,Hugues Emile Blondelet,,,sold,,1200,EUR,Secondary,Secondary,Violin
+,,2019-05-05,168,,Joseph Francois Breton,,,sold,,2280,EUR,Secondary,Secondary,Violin
+,,2019-05-05,172,,Joseph Francois Breton,,,sold,,2040,EUR,Secondary,Secondary,Violin

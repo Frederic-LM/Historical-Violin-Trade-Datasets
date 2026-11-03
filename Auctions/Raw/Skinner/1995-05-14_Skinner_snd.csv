@@ -1,0 +1,102 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1995-05-14,20,,"Guerra, Alberto",,,sold,,16100,USD,Secondary,Cross-checked,Cello
+,,1995-05-14,21,,"Methfessel, Gustave",,,sold,,11500,USD,Secondary,Cross-checked,Cello
+,,1995-05-14,34,,CUNIOT-HURY EUGÈNE,,,sold,,1610,USD,Secondary,Secondary,Violin Bow
+,,1995-05-14,37,,"Henry, Joseph",,,sold,,18400,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,38,,"Hill & Sons, W. E. Firm",,,sold,,2300,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,39,,"Hoyer, Otto A.",,,sold,,1092,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,40,,"Sartory, Eugène Nicolas",,,sold,,12650,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,41,,Hart & Son,,,sold,,1840,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,42,,Caressa & Français Firm,,,sold,,2300,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,43,,"Hill & Sons, W. E. Firm",,,sold,,1955,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,44,,"Nürnberger, Albert",,,sold,,1035,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,45,,"Nürnberger, Albert",,,sold,,2070,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,47,,"Thomassin, Claude Auguste",,,sold,,4025,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,48,,"Dodd, John I",,,sold,,1380,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,49,,"Bouvin, Jean",,,sold,,748,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,51,,"Morizot, Louis Joseph père",,,sold,,2530,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,54,,"Hoyer, Otto A.",,,sold,,1150,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,55,,"Nürnberger, Albert",,,sold,,1092,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,59,,"Sirdevan, John",,,sold,,546,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,60,,"Dodd, John I",,,sold,,2530,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,62,,NÜRNBERGER AUGUST,,,sold,,977,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,63,,"Voigt, Arnold",,,sold,,690,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,64,,"Bouvin, Jean",,,sold,,805,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,67,,"Withers, George Thomas Henry",,,sold,,1380,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,68,,"Sirdevan, John",,,sold,,920,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,69,,"Nürnberger, Albert",,,sold,,1725,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,73,,"Pfretzschner, Hermann Richard",,,sold,,1495,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,74,,"Gould, John Alfred",,,sold,,920,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,76,,"Bouvin, Jean",,,sold,,575,USD,Secondary,Cross-checked,Viola Bow
+,,1995-05-14,81,,"Sartory, Eugène Nicolas",,,sold,,5060,USD,Secondary,Cross-checked,Cello Bow
+,,1995-05-14,82,,"Voirin, François Nicolas",,,sold,,12075,USD,Secondary,Cross-checked,Cello Bow
+,,1995-05-14,83,,"Lamy, Alfred dit neveu",,,sold,,3738,USD,Secondary,Cross-checked,Cello Bow
+,,1995-05-14,88,,"Mohr, Rodney D.",,,sold,,546,USD,Secondary,Cross-checked,Violin Bow
+,,1995-05-14,89,,"Bouvin, Jean",,,sold,,1035,USD,Secondary,Cross-checked,Cello Bow
+,,1995-05-14,90,,DUPREE EMILE,,,sold,,1495,USD,Secondary,Cross-checked,Cello Bow
+,,1995-05-14,99,,"Pedrazzini, Giuseppe",,,sold,,16100,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,100,,"Poller, Anton II",,,sold,,7475,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,103,,"Millant, Roger & Max Firm",,,sold,,8050,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,104,,"Dieudonné, Amédée",,,sold,,1840,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,105,,"Pellacani, Giuseppe",,,sold,,6325,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,106,,"Gagliano, Ferdinando",,,sold,,56350,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,107,,"Peternella, Jago",,,sold,,9775,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,109,,"Cavalli, Aristide",,,sold,,4600,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,112,,"Boulangeot, Emile",,,sold,,4370,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,113,,"Postiglione, Vincenzo II",,,sold,,28750,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,115,,"Roth, Ernst Heinrich",,,sold,,2415,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,116,,"Hill, Joseph I",,,sold,,5290,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,118,,"Farotto, Celestino",,,sold,,31050,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,119,,"Gemünder, August Martin",,,sold,,2041,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,120,,"Roth, Ernst Heinrich",,,sold,,2185,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,123,,"Postiglione, Vincenzo II",,,sold,,35650,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,124,,"Esposti, Piergiuseppe",,,sold,,1840,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,125,,"Calace, Giuseppe",,,sold,,4255,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,127,,MILITELLA MARIANO,,,sold,,3565,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,132,,"Vuillaume, Jean-Baptiste",,,sold,,9200,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,133,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,3680,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,137,,"Hall, Roscoe G.",,,sold,,3105,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,138,,Kloz Family,,,sold,,4025,USD,Secondary,Secondary,Violin
+,,1995-05-14,139,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,4140,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,143,,"Hill, William Ebsworth",,,sold,,2760,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,144,,"Nemessányi, Samuel (Samu)",,,sold,,6325,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,146,,"Gould, John Alfred",,,sold,,4140,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,148,,"Heckel, Rudolf",,,sold,,2185,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,158,,"Capela, Antonio",,,sold,,5290,USD,Secondary,Cross-checked,Viola
+,,1995-05-14,161,,"Farotto, Celestino",,,sold,,4025,USD,Secondary,Cross-checked,Viola
+,,1995-05-14,162,,"Zani, Aldo",,,sold,,4600,USD,Secondary,Cross-checked,Viola
+,,1995-05-14,164,,"Kuczer, John Thomas",,,sold,,2185,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,166,,"Prentiss, Henry",,,sold,,1265,USD,Secondary,Cross-checked,Bass
+,,1995-05-14,229,,LOWENDALL HERMAN,,,sold,,546,USD,Secondary,Secondary,Violin
+,,1995-05-14,233,,"Squier, Jerome Bonaparte",,,sold,,1725,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,239,,MALIGNAGGI PAUL,,,sold,,632,USD,Secondary,Secondary,Violin
+,,1995-05-14,240,,Kloz Family,,,sold,,920,USD,Secondary,Secondary,Violin
+,,1995-05-14,244,,"Fischer Inc., Carl",,,sold,,690,USD,Secondary,Secondary,Violin
+,,1995-05-14,255,,"Friedrich, John",,,sold,,1610,USD,Secondary,Secondary,Violin
+,,1995-05-14,256,,BELLIVEAU LEANDER,,,sold,,345,USD,Secondary,Secondary,Violin
+,,1995-05-14,258,,"Taylor, Nathan Sleeper",,,sold,,1380,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,260,,KRIEGER BOHUMIL J.,,,sold,,747,USD,Secondary,Secondary,Violin
+,,1995-05-14,267,,"Paulsen, Peter Christian",,,sold,,1610,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,268,,"Duerer, Wilhelm",,,sold,,259,USD,Secondary,Secondary,Violin
+,,1995-05-14,275,,"Lowendall, Louis",,,sold,,489,USD,Secondary,Secondary,Violin
+,,1995-05-14,277,,"Bruno, Carlo Colombo",,,sold,,1265,USD,Secondary,Secondary,Violin
+,,1995-05-14,292,,"Wilkanowski, William",,,sold,,978,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,300,,"Plumerel, Charles",,,sold,,345,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,303,,Kloz Family,,,sold,,978,USD,Secondary,Secondary,Violin
+,,1995-05-14,307,,KLEMM GEORG & AUGUST,,,sold,,977,USD,Secondary,Secondary,Violin
+,,1995-05-14,308,,"Wilkanowski, William",,,sold,,518,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,335,,"Nicolas, Didier l'aîné",,,sold,,748,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,350,,"Bruno, Carlo Colombo",,,sold,,805,USD,Secondary,Secondary,Violin
+,,1995-05-14,358,,"Klotz, Sebastian I",,,sold,,3737,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,359,,"James, Lester L.",,,sold,,1495,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,361,,Robert E. Weber,,,sold,,575,GBP,Secondary,Secondary,Violin
+,,1995-05-14,384,,"Barrett, John",,,sold,,2990,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,386,,HALL ROSCOE G.,,,sold,,2760,USD,Secondary,Secondary,Violin
+,,1995-05-14,388,,FOUGEROLLE CLAUDE,,,sold,,2415,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,393,,"Zari, Fratelli",,,sold,,3737,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,397,,"Krell, Albert",,,sold,,2070,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,398,,"Glass, Johann",,,sold,,3335,USD,Secondary,Cross-checked,Violin
+,,1995-05-14,,,"Testore,",,,sold,,24150,USD,Secondary,Secondary,Violin
+,,1995-05-14,,,"Thibouville-Lamy, Jerome",,,sold,,2185,USD,Secondary,Secondary,Violin
+,,1995-05-14,,,"School of Pajeot,",,,sold,,8625,USD,Secondary,Secondary,Cello Bow
+,,1995-05-14,,,"Vuillaume, Jean Baptiste",,,sold,,6900,USD,Secondary,Secondary,Violin Bow

@@ -1,0 +1,137 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1990-06-14,1,,"Gobetti, Francesco",,,sold,7200,7920,GBP,Secondary,Primary,Violin
+,,1990-06-14,2,,"Derazey, Honoré (Jean-Joseph)",,,sold,1200,1320,GBP,Secondary,Primary,Violin
+,,1990-06-14,5,,"Oddone, Carlo Giuseppe",,,sold,10000,11000,GBP,Secondary,Primary,Violin
+,,1990-06-14,8,,"Valenzano, Joannes Maria",,,sold,32000,35200,GBP,Secondary,Primary,Violin
+,,1990-06-14,14,,"Lupot, Nicolas",,,sold,28000,30800,GBP,Secondary,Primary,Violin
+,,1990-06-14,20,,"Rauch, Thomas",,,sold,900,990,GBP,Secondary,Primary,Violin
+,,1990-06-14,21,,"Neuner, Ludwig",,,sold,1200,1320,GBP,Secondary,Primary,Violin
+,,1990-06-14,23,,"Guadagnini, Giovanni Battista",,,sold,130000,143000,GBP,Secondary,Primary,Violin
+,,1990-06-14,24,,"Hill & Sons, W. E. Firm",,,sold,450,495,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,25,,"Tubbs, James",,,sold,3500,3850,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,26,,"Eury, Jacob (Nicolas)",,,sold,4400,4840,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,33,,"Dorfler, Egidius",,,sold,1100,1210,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,36,,"Vigneron, André 'Vigneron fils'",,,sold,700,770,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,37,,"Vigneron, André 'Vigneron fils'",,,sold,1000,1100,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,40,,"Nürnberger, Albert",,,sold,500,550,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,41,,"Fétique, Victor François",,,sold,1200,1320,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,47,,"Voirin, François Nicolas",,,sold,2100,2310,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,48,,"Sartory, Eugène Nicolas",,,sold,3400,3740,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,49,,"Sartory, Eugène Nicolas",,,sold,3000,3300,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,55,,Bazin Family,,,sold,650,715,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,57,,"Français, Emile Marcel",,,sold,800,880,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,58,,"Français, Emile Marcel",,,sold,900,990,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,60,,"Morizot, Louis Joseph père",,,sold,600,660,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,62,,"Guerra, Evasio Emilio",,,sold,7000,7700,GBP,Secondary,Primary,Violin
+,,1990-06-14,65,,"Albani, Giuseppe I",,,sold,3000,3300,GBP,Secondary,Primary,Violin
+,,1990-06-14,66,,"Mangenot, Paul Alexandre",,,sold,1200,1320,GBP,Secondary,Primary,Violin
+,,1990-06-14,68,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,2000,2200,GBP,Secondary,Primary,Violin
+,,1990-06-14,69,,"Rushworth, Rushworth & Dreaper",,,sold,1900,2090,GBP,Secondary,Primary,Violin
+,,1990-06-14,76,,"Panormo, Vincenzo Trusiano",,,sold,11000,12100,GBP,Secondary,Primary,Violin
+,,1990-06-14,77,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,900,990,GBP,Secondary,Primary,Violin
+,,1990-06-14,80,,"Barbieri, Enzo",,,sold,1700,1870,GBP,Secondary,Primary,Violin
+,,1990-06-14,82,,"Lechi, Antonio",,,sold,600,660,GBP,Secondary,Primary,Violin
+,,1990-06-14,85,,"Briggs, James William",,,sold,2800,3080,GBP,Secondary,Primary,Violin
+,,1990-06-14,89,,"Didier, Marius",,,sold,1500,1650,GBP,Secondary,Primary,Violin
+,,1990-06-14,91,,"Mariani, Antonio",,,sold,13000,14300,GBP,Secondary,Primary,Violin
+,,1990-06-14,95,,"Pyne, George",,,sold,1400,1540,GBP,Secondary,Primary,Violin
+,,1990-06-14,98,,"Gagliano, Nicolò",,,sold,35000,38500,GBP,Secondary,Primary,Violin
+,,1990-06-14,99,,"Nicolas, Didier l'aîné",,,sold,900,990,GBP,Secondary,Primary,Violin
+,,1990-06-14,101,,"Gabrielli, Giovanni Battista",,,sold,36000,39600,GBP,Secondary,Primary,Violin
+,,1990-06-14,102,,"Lantner, Bohuslav",,,sold,1000,1100,GBP,Secondary,Primary,Violin
+,,1990-06-14,103,,"Vlummens, Dominicus C.",,,sold,2100,2310,GBP,Secondary,Primary,Violin
+,,1990-06-14,104,,"Craske, George",,,sold,4200,4620,GBP,Secondary,Primary,Violin
+,,1990-06-14,106,,"Morizot, Louis Joseph père",,,sold,650,715,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,107,,"Morizot, Louis Joseph père",,,sold,650,715,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,112,,"Mougenot, Georges",,,sold,500,550,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,117,,"Pfretzschner, Hermann Richard",,,sold,400,440,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,118,,"Pfretzschner, Hermann Richard",,,sold,620,682,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,119,,"Pfretzschner, Hermann Richard",,,sold,550,605,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,121,,"Eulry, Clément",,,sold,1800,1980,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,122,,"Hill & Sons, W. E. Firm",,,sold,1700,1870,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,123,,"Tubbs, James",,,sold,2700,2970,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,126,,"Thomassin, Claude Auguste",,,sold,950,1045,GBP,Secondary,Primary,Viola Bow
+,,1990-06-14,129,,"Pfretzschner, Hermann Richard",,,sold,500,550,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,133,,"Nürnberger, Albert",,,sold,550,605,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,134,,"Nürnberger, Albert",,,sold,550,605,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,135,,"Nürnberger, Albert",,,sold,500,550,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,136,,"Nürnberger, Albert",,,sold,500,550,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,139,,"Pfretzschner, Hermann Richard",,,sold,650,715,GBP,Secondary,Primary,Viola Bow
+,,1990-06-14,141,,"Tubbs, James",,,sold,1500,1650,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,142,,"Fétique, Victor François",,,sold,2800,3080,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,143,,"Tourte, François Xavier 'le Jeune'",,,sold,9000,9900,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,144,,"Hill & Sons, W. E. Firm",,,sold,2000,2200,GBP,Secondary,Primary,Viola Bow
+,,1990-06-14,145,,"Lamy, Alfred dit neveu",,,sold,3400,3740,GBP,Secondary,Primary,Viola Bow
+,,1990-06-14,189,,"Ventapane, Lorenzo",,,sold,19000,20900,GBP,Secondary,Primary,Violin
+,,1990-06-14,190,,"Chappuy, Nicolas Augustin",,,sold,1100,1210,GBP,Secondary,Primary,Violin
+,,1990-06-14,193,,"Conia, Stefano",,,sold,2900,3190,GBP,Secondary,Primary,Violin
+,,1990-06-14,196,,"Gigli, Giulio Cesare",,,sold,1600,1760,GBP,Secondary,Primary,Violin
+,,1990-06-14,199,,"Bernardel, Auguste Sébastien Philippe père",,,sold,13000,14300,GBP,Secondary,Primary,Violin
+,,1990-06-14,203,,"Thibouville-Lamy, Jérôme Firm",,,sold,900,990,GBP,Secondary,Primary,Violin
+,,1990-06-14,206,,"Hesketh, Thomas Earle",,,sold,2500,2750,GBP,Secondary,Primary,Violin
+,,1990-06-14,207,,"Wamsley, Peter",,,sold,2000,2200,GBP,Secondary,Primary,Violin
+,,1990-06-14,211,,"Cavalli, Aristide",,,sold,1200,1320,GBP,Secondary,Primary,Violin
+,,1990-06-14,213,,"Sorsana, Spirito",,,sold,31000,34100,GBP,Secondary,Primary,Violin
+,,1990-06-14,214,,"Placht, Johann Franz",,,sold,800,880,GBP,Secondary,Primary,Violin
+,,1990-06-14,216,,"Balestrieri, Tommaso",,,sold,23000,25300,GBP,Secondary,Primary,Violin
+,,1990-06-14,221,,Button & Whittaker,,,sold,450,495,GBP,Secondary,Primary,Violin
+,,1990-06-14,222,,"Guidanti, Giovanni",,,sold,14000,15400,GBP,Secondary,Primary,Violin
+,,1990-06-14,224,,"Hill & Sons, W. E. Firm",,,sold,1800,1980,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,226,,"Hill & Sons, W. E. Firm",,,sold,2600,2860,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,228,,"Dodd, James II",,,sold,2000,2200,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,237,,"Möller, Max Sr.",,,sold,700,770,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,249,,"Taylor, Malcolm",,,sold,650,715,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,251,,"Wilson, Garner",,,sold,900,990,GBP,Secondary,Primary,Viola Bow
+,,1990-06-14,254,,"Tubbs, James",,,sold,1600,1760,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,255,,"Hill & Sons, W. E. Firm",,,sold,1100,1210,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,261,,"Perry, James",,,sold,4000,4400,GBP,Secondary,Primary,Viola
+,,1990-06-14,263,,"Sgarabotto, Gaetano",,,sold,3800,4180,GBP,Secondary,Primary,Viola
+,,1990-06-14,264,,"Rost, Franz Georg",,,sold,3200,3520,GBP,Secondary,Primary,Viola
+,,1990-06-14,265,,"Wulme-Hudson, George",,,sold,4500,4950,GBP,Secondary,Primary,Viola
+,,1990-06-14,266,,"Colin, Jean Baptiste",,,sold,1700,1870,GBP,Secondary,Primary,Viola
+,,1990-06-14,271,,"Saunders, Wilfred G.",,,sold,950,1045,GBP,Secondary,Primary,Viola
+,,1990-06-14,273,,"Cocker, Lawrence",,,sold,900,990,GBP,Secondary,Primary,Viola
+,,1990-06-14,275,,"Fendt, Bernard Simon II",,,sold,8500,9350,GBP,Secondary,Primary,Viola
+,,1990-06-14,279,,"Duke, Richard",,,sold,2200,2420,GBP,Secondary,Primary,Viola
+,,1990-06-14,295,,"Prescott, Abraham",,,sold,450,495,GBP,Secondary,Primary,Cello
+,,1990-06-14,296,,"Leeb, Andreas Carl",,,sold,4200,4620,GBP,Secondary,Primary,Cello
+,,1990-06-14,297,,"Pyne, George",,,sold,4200,4620,GBP,Secondary,Primary,Cello
+,,1990-06-14,298,,"Jais, Andreas",,,sold,1400,1540,GBP,Secondary,Primary,Cello
+,,1990-06-14,299,,"Marchi, Giovanni Antonio",,,sold,14500,15950,GBP,Secondary,Primary,Cello
+,,1990-06-14,300,,"Lowendall, Louis",,,sold,2200,2420,GBP,Secondary,Primary,Cello
+,,1990-06-14,301,,"Meinel, Christian",,,sold,1900,2090,GBP,Secondary,Primary,Cello
+,,1990-06-14,304,,"Rottenburgh, Jean Hyacinthe",,,sold,8200,9020,GBP,Secondary,Primary,Cello
+,,1990-06-14,306,,"Wolff, Brothers",,,sold,2000,2200,GBP,Secondary,Primary,Cello
+,,1990-06-14,326,,"Kennedy, Thomas",,,sold,7500,8250,GBP,Secondary,Primary,Cello
+,,1990-06-14,329,,"Furber, Henry John",,,sold,4600,5060,GBP,Secondary,Primary,Cello
+,,1990-06-14,330,,"Cross, Nathaniel",,,sold,9000,9900,GBP,Secondary,Primary,Cello
+,,1990-06-14,332,,"Cole, James",,,sold,6000,6600,GBP,Secondary,Primary,Bass
+,,1990-06-14,333,,"Tubbs, James",,,sold,2300,2530,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,343,,"Dodd, John I",,,sold,650,715,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,344,,"Tubbs, James",,,sold,1000,1100,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,345,,"Dodd, John I",,,sold,650,715,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,347,,"Vuillaume, Jean-Baptiste",,,sold,2200,2420,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,348,,"Hill & Sons, W. E. Firm",,,sold,800,880,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,349,,"Dodd, John I",,,sold,1800,1980,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,357,,"Bryant, Percival Wilfred",,,sold,650,715,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,365,,Dodd Family,,,sold,1500,1650,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,366,,"Hill & Sons, W. E. Firm",,,sold,2400,2640,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,367,,Bazin Family,,,sold,950,1045,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,368,,"Voirin, François Nicolas",,,sold,2800,3080,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,369,,"Sartory, Eugène Nicolas",,,sold,2500,2750,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,370,,"Nürnberger, Albert",,,sold,1000,1100,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,372,,"Hill & Sons, W. E. Firm",,,sold,800,880,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,375,,"Hill & Sons, W. E. Firm",,,sold,450,495,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,376,,"Wilson, Garner",,,sold,700,770,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,379,,"Dugad, André Paul",,,sold,180,198,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,380,,"Hill & Sons, W. E. Firm",,,sold,850,935,GBP,Secondary,Primary,Cello Bow
+,,1990-06-14,381,,"Hill & Sons, W. E. Firm",,,sold,750,825,GBP,Secondary,Primary,Violin Bow
+,,1990-06-14,385,,"Simpson, Thomas",,,sold,600,660,GBP,Secondary,Primary,Violin
+,,1990-06-14,387,,"Forster, William III",,,sold,1300,1430,GBP,Secondary,Primary,Violin
+,,1990-06-14,388,,"Kennedy, Thomas",,,sold,3400,3740,GBP,Secondary,Primary,Violin
+,,1990-06-14,390,,"Goffriller, Francesco",,,sold,22000,24200,GBP,Secondary,Primary,Violin
+,,1990-06-14,391,,"Dieudonné, Amédée",,,sold,1500,1650,GBP,Secondary,Primary,Violin
+,,1990-06-14,397,,"Valenzano, Joannes Maria",,,sold,15000,16500,GBP,Secondary,Primary,Violin
+,,1990-06-14,398,,"Guadagnini, Giovanni Battista",,,sold,44000,48400,GBP,Secondary,Primary,Violin
+,,1990-06-14,399,,Neuner & Hornsteiner,,,sold,1000,1100,GBP,Secondary,Primary,Violin
+,,1990-06-14,403,,"Stirrat, David",,,sold,2400,2640,GBP,Secondary,Primary,Violin

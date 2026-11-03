@@ -1,0 +1,224 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2005-11-12,24,,"Herrmann, Emil",,,sold,,1648,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,26,,"Caussin, François",,,sold,,1923,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,27,,"Guersan, Louis",,,sold,,7690,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,28,,"Thouvenel, Antoine Aimable",,,sold,,1648,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,30,,"Kessler, Wilhelm August",,,sold,,3296,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,31,,"Hume, Andrew (Alexander)",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,32,,"Heberlein, Heinrich Theodore Jr.",,,sold,,4943,USD,Secondary,Secondary,Violin
+,,2005-11-12,33,,"Mönnig, Fritz",,,sold,,1098,USD,Secondary,Secondary,Violin
+,,2005-11-12,34,,"Kloz, Georg I",,,sold,,3021,USD,Secondary,Secondary,Violin
+,,2005-11-12,35,,"Held, Johann Joseph",,,sold,,1785,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,36,,"Hopf, David",,,sold,,2746,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,37,,"Strobl, Michael",,,sold,,15106,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,39,,"Möller, Max Sr.",,,sold,,4120,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,41,,"Spiegel, János",,,sold,,4531,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,42,,"Mangenot, Paul Alexandre",,,sold,,2610,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,43,,"Breton, François",,,sold,,2746,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,45,,"Bauer, Fritz",,,sold,,3021,USD,Secondary,Secondary,Violin
+,,2005-11-12,46,,"Poirson, Elophe",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,47,,"Merciolle, Jules",,,sold,,3021,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,48,,"Klotz, Aegidius Sebastian",,,sold,,6866,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,49,,"Pellacani, Giuseppe",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,51,,"Gartner, Eugen",,,sold,,6591,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,53,,"Edler, Hans",,,sold,,3296,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,54,,"Montefiori, Erminio",,,sold,,2472,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,55,,"Capelli, Aldo",,,sold,,3845,USD,Secondary,Secondary,Viola
+,,2005-11-12,56,,"Nicolas, Didier l'aîné",,,sold,,3570,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,58,,"Charotte-Millot, Joseph",,,sold,,1923,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,59,,"Klotz, Matthias I",,,sold,,10986,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,60,,"Apparut, Georges",,,sold,,3570,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,61,,"Szepessy, Béla",,,sold,,4120,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,62,,"Zust, J. Emil",,,sold,,7553,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,65,,"Knorr, Paul",,,sold,,5768,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,66,,"Dvorak, Jan Baptista",,,sold,,7553,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,67,,"Derazey, Honoré (Jean-Joseph)",,,sold,,3845,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,68,,"Poller, Anton II",,,sold,,6866,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,69,,"Hornsteiner, Mathias II",,,sold,,6866,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,71,,"Hammig, Wilhelm Hermann",,,sold,,11672,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,73,,"Blanchard, Paul Francois",,,sold,,12359,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,74,,"Moglie, Alberto Fernando",,,sold,,3296,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,75,,"Holder, Thomas Jacques",,,sold,,3433,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,76,,"Mougenot, Georges",,,sold,,3845,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,77,,"Klotz, Johann Carl",,,sold,,3570,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,78,,"Audinot, Nestor Dominique",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,79,,"Cavallini, Ettore",,,sold,,6043,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,80,,"Antoniazzi, Romeo",,,sold,,5768,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,82,,"Villaume, Gustave",,,sold,,2746,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,83,,"Riechers, August",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,84,,"Fleta, Ignacio",,,sold,,8239,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,85,,"Hellmer, Carl Joseph",,,sold,,3021,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,86,,"Knorr, Paul",,,sold,,5493,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,89,,"Conti, Aldo",,,sold,,6591,USD,Secondary,Secondary,Cello
+,,2005-11-12,91,,Neuner & Hornsteiner,,,sold,,5493,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,93,,"Schmidt, C. Hans-Karl",,,sold,,3021,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,95,,"Paulus, Johannes O.",,,sold,,961,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,96,,"Pfretzschner, Hermann Richard",,,sold,,1098,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,97,,"Prell, Hermann Wilhelm",,,sold,,687,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,100,,"Rau, August",,,sold,,961,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,102,,"Penzel, Richard",,,sold,,961,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,104,,"Audinot, Pascal",,,sold,,1373,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,105,,"Prager, Gustav Adolf",,,sold,,1236,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,106,,"Prager, August Edwin",,,sold,,961,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,108,,"Alvey, Brian",,,sold,,1373,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,110,,"Schuster, Gotthard",,,sold,,1098,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,112,,"Werner, Emil",,,sold,,1373,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,116,,"Hill & Sons, W. E. Firm",,,sold,,2197,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,119,,"Fétique, Victor François",,,sold,,5218,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,120,,Gand & Bernardel Firm,,,sold,,6316,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,121,,"Vigneron, Joseph Arthur père",,,sold,,5768,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,122,,"Vigneron, André 'Vigneron fils'",,,sold,,3021,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,125,,"Knopf, Carl Heinrich",,,sold,,4669,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,127,,"Bernardel, Gustave Adolphe",,,sold,,5768,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,128,,"Möckel, Otto",,,sold,,4943,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,129,,"Bauer, Jean",,,sold,,2610,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,131,,"Kloz, Georg I",,,sold,,9613,USD,Secondary,Secondary,Violin
+,,2005-11-12,132,,"Brugère, Charles Georges",,,sold,,5218,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,134,,"Silvestre, Pierre & Hippolyte",,,sold,,20598,USD,Secondary,Secondary,Violin
+,,2005-11-12,136,,"Pistucci, Giovanni",,,sold,,6866,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,137,,"Melli, Adolfo",,,sold,,4943,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,138,,"Thir, Johann Georg",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,139,,"Darche, Charles Claude François",,,sold,,6591,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,140,,"Pouillé, Joseph",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,141,,"Bernardel, Gustave Adolphe",,,sold,,11672,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,142,,Silvestre & Maucotel,,,sold,,5493,USD,Secondary,Secondary,Violin
+,,2005-11-12,145,,"Hammig, Wilhelm Hermann",,,sold,,11672,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,146,,"Salomon, Jean Baptiste Deshayes",,,sold,,2610,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,147,,"Hel, Pierre Joseph",,,sold,,21972,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,150,,"Kaul, Paul",,,sold,,6316,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,151,,"Möckel, Otto",,,sold,,5768,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,152,,"Strobl, Michael",,,sold,,5768,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,153,,"Rombouts, Pieter",,,sold,,12359,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,154,,Gand & Bernardel Firm,,,sold,,11672,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,155,,"Klotz, Sebastian I",,,sold,,6043,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,157,,"Poirson, Elophe",,,sold,,4395,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,158,,"Klotz, Joseph Thomas",,,sold,,10299,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,160,,"Dötsch, Michael",,,sold,,20598,USD,Secondary,Secondary,Violin
+,,2005-11-12,163,,"Köberling, Johann",,,sold,,1098,USD,Secondary,Secondary,Violin
+,,2005-11-12,164,,"Kunze, Wilhelm Paul",,,sold,,3296,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,165,,"Koch, Franz Joseph",,,sold,,1923,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,166,,"Leidolff, Johann Christoph",,,sold,,2610,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,170,,"Hilaire, Paul",,,sold,,2472,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,171,,"Pacherele, Pierre",,,sold,,4943,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,174,,"Antonelli, Gino",,,sold,,2815,USD,Secondary,Secondary,Violin
+,,2005-11-12,175,,"Hopf, David",,,sold,,2197,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,178,,"Hill & Sons, W. E. Firm",,,sold,,3296,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,182,,"Stuber, Johann",,,sold,,3433,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,183,,"Conia, Stefano",,,sold,,3433,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,185,,"Bourguignon, Maurice",,,sold,,16479,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,187,,"Hjorth & Sons, Emil",,,sold,,9613,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,189,,"Silvestre, Hippolyte Chrétien",,,sold,,9613,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,191,,"Blanchard, Paul Francois",,,sold,,10986,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,194,,"Schade, Joachim",,,sold,,10986,USD,Secondary,Secondary,Violin
+,,2005-11-12,195,,"Schade, Joachim",,,sold,,12359,USD,Secondary,Secondary,Viola
+,,2005-11-12,199,,"Winterling, Georg",,,sold,,15106,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,200,,"Gadda, Gaetano",,,sold,,10986,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,202,,"Miremont, Claude Augustin",,,sold,,16479,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,205,,"Messori, Pietro",,,sold,,24718,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,207,,"Rovescalli, Azzo",,,sold,,20598,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,208,,"Bailly, Jenny",,,sold,,16479,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,210,,"Gand, Charles François père",,,sold,,19912,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,212,,"Bisiach, Leandro I",,,sold,,17852,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,213,,"Della Corte, Alfonso",,,sold,,20598,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,214,,"Panormo, Vincenzo Trusiano",,,sold,,68661,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,215,,"Gadda, Gaetano",,,sold,,13732,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,217,,"Gartner, Eugen",,,sold,,8926,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,218,,"Vuillaume, Jean-Baptiste",,,sold,,16479,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,219,,"Fleury, Albert",,,sold,,687,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,220,,"Penzel, Emil Max",,,sold,,1648,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,222,,"Chalupetzky, Franz",,,sold,,1510,USD,Secondary,Secondary,Viola Bow
+,,2005-11-12,230,,"Pfretzschner, Hermann Richard",,,sold,,3158,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,232,,"Knopf, Carl Heinrich",,,sold,,1648,USD,Secondary,Cross-checked,Viola Bow
+,,2005-11-12,237,,Gand & Bernardel Firm,,,sold,,2060,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,238,,"Vuillaume, Jean-Baptiste",,,sold,,2610,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,239,,"Pfretzschner, Wilhelm August",,,sold,,2746,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,242,,"Peccatte, François",,,sold,,2746,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,243,,"Peccatte, Dominique",,,sold,,54929,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,244,,"Fétique, Victor François",,,sold,,17852,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,246,,"Maire, Nicolas Rémy",,,sold,,17852,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,247,,"Maline, Nicolas I",,,sold,,3296,USD,Secondary,Cross-checked,Cello Bow
+,,2005-11-12,249,,"Gagliano, Giuseppe & Antonio",,,sold,,75528,USD,Secondary,Secondary,Cello
+,,2005-11-12,250,,"Balestrieri, Tommaso",,,sold,,233449,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,251,,"Antoniazzi, Romeo",,,sold,,34331,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,252,,"Vuillaume, Jean-Baptiste",,,sold,,240315,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,264,,"Gotz, Johann Michael",,,sold,,1236,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,266,,"Paulus, Bruno Franz",,,sold,,1373,USD,Secondary,Secondary,Violin
+,,2005-11-12,267,,"Heberlein, Albert Theodor",,,sold,,1236,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,270,,"Schmidt, Arnold Otto",,,sold,,6043,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,273,,"Klotz, Johann Carl",,,sold,,7553,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,274,,"Herrmann, Emil",,,sold,,3570,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,275,,"Berger, Theodor",,,sold,,1648,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,276,,"Mennesson, Emile",,,sold,,3021,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,277,,"Paulus, Bruno Franz",,,sold,,1923,USD,Secondary,Secondary,Viola
+,,2005-11-12,279,,"Bernardel, Léon",,,sold,,4943,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,280,,"Grimm, Karl",,,sold,,4120,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,281,,"Lippold, Carl Friedrich",,,sold,,3021,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,282,,"Bailly, Charles",,,sold,,3296,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,283,,"Gaggini, Pierre",,,sold,,3433,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,284,,"Simoutre, Nicolas",,,sold,,2610,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,285,,"Heberlein, Johann Gottlob",,,sold,,1648,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,286,,Silvestre & Maucotel,,,sold,,7553,USD,Secondary,Secondary,Viola
+,,2005-11-12,287,,Moinel & Cherpitel Firm,,,sold,,1648,USD,Secondary,Secondary,Violin
+,,2005-11-12,288,,"Winterling, Georg",,,sold,,13732,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,289,,"Kloz, Georg I",,,sold,,5218,USD,Secondary,Secondary,Violin
+,,2005-11-12,293,,"Lemböck, Gabriel (Gábor)",,,sold,,19912,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,294,,"Otto, Louis",,,sold,,3570,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,296,,"Salzard, Dominique",,,sold,,1648,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,297,,"Hornsteiner, Franz Georg",,,sold,,6591,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,298,,"Chappuy, Nicolas Augustin",,,sold,,2197,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,299,,"Poirson, Elophe",,,sold,,3296,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,300,,"Bernardel, Gustave Adolphe",,,sold,,10299,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,301,,"Mougenot-Gauche, Léon",,,sold,,1923,USD,Secondary,Secondary,Violin
+,,2005-11-12,302,,"Klotz, Aegidius Sebastian",,,sold,,7553,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,304,,"Straube, J. C. E.",,,sold,,3433,USD,Secondary,Secondary,Violin
+,,2005-11-12,306,,"Klotz, Aegidius Sebastian",,,sold,,6043,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,308,,"Zimmermann, Julius Heinrich",,,sold,,3021,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,309,,"Riechers, August",,,sold,,4395,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,310,,"Dotschkail, Reinhold",,,sold,,1236,USD,Secondary,Secondary,Viola Bow
+,,2005-11-12,314,,"Weichold, Richard",,,sold,,961,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,318,,"Schuster, Gotthard",,,sold,,961,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,319,,"Grünke, Richard",,,sold,,1098,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,321,,"Winkler, Franz",,,sold,,823,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,322,,"van der Meer, Karel",,,sold,,1373,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,323,,"van der Meer, Karel",,,sold,,1098,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,325,,"Schuster, Adolf Curt",,,sold,,550,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,328,,"Weidhaas, Ewald",,,sold,,961,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,330,,"Paulus, Günter A.",,,sold,,961,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,332,,"Herrmann, August Friedrich",,,sold,,1098,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,335,,"Henry, Joseph",,,sold,,4120,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,336,,Caressa & Français Firm,,,sold,,6316,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,338,,"Vigneron, Joseph Arthur père",,,sold,,10299,USD,Secondary,Cross-checked,Cello Bow
+,,2005-11-12,339,,"Lamy, Alfred dit neveu",,,sold,,5768,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,340,,"Acoulon, Alexandre Alfred",,,sold,,3296,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,342,,"Watson, William D.",,,sold,,5218,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,343,,Caressa & Français Firm,,,sold,,6316,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,351,,"Hill & Sons, W. E. Firm",,,sold,,4120,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,361,,"Neuner, Mathias II",,,sold,,2472,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,367,,"Hamm, Johann Gottfried",,,sold,,1098,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,371,,"Klotz, Michael",,,sold,,4120,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,373,,"Mathieu, Nicolas",,,sold,,1236,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,377,,"Stefanini, Giuseppe",,,sold,,2060,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,381,,"Glaesel, Conrad",,,sold,,5493,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,383,,"Blondelet, Hugues Emile",,,sold,,1923,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,384,,"Heberlein, Ludwig Fritz",,,sold,,2197,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,387,,"Scrollavezza, Renato",,,sold,,21285,USD,Secondary,Cross-checked,Viola
+,,2005-11-12,389,,"Azzola, Luigi",,,sold,,6866,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,390,,"Gadda, Gaetano",,,sold,,13732,USD,Secondary,Cross-checked,Cello
+,,2005-11-12,397,,"Gosselin, Jean",,,sold,,16479,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,400,,"Roazzi, Umberto",,,sold,,9613,USD,Secondary,Secondary,Violin
+,,2005-11-12,403,,"Durrschmidt, Otto Carl",,,sold,,412,USD,Secondary,Cross-checked,Violin Bow
+,,2005-11-12,405,,"Daber, Jean François",,,sold,,823,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,406,,"Daber, Jean François",,,sold,,823,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,410,,"Gerome, Roger",,,sold,,687,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,411,,"Schuller, Otto",,,sold,,687,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,412,,"Paulus, Günter A.",,,sold,,550,USD,Secondary,Secondary,Violin Bow
+,,2005-11-12,415,,"Vautrin, Joseph",,,sold,,1098,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,416,,"Schult, Johann Heinrich",,,sold,,687,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,420,,"Koch, Franz Joseph",,,sold,,687,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,435,,"Lotte, Georges",,,sold,,1236,USD,Secondary,Cross-checked,Violin
+,,2005-11-12,,,"Panormo, Vincenzo Trusiano",,,sold,,67258,USD,Secondary,Secondary,Viola
+,,2005-11-12,,,"Balestrieri, Tommaso",,,sold,,228676,USD,Secondary,Secondary,Violin
+,,2005-11-12,,,"Silvestre, Pierre & Hippolyte",,,sold,,20598,USD,Secondary,Secondary,Violin
+,,2005-11-12,,,"Della Corte, Alfonso",,,sold,,20598,USD,Secondary,Secondary,Violin
+,,2005-11-12,,,"Gagliano, Giuseppe & Antonio",,,sold,,73984,USD,Secondary,Secondary,Cello
+,,2005-11-12,,,"Gand, Charles François père",,,sold,,19912,USD,Secondary,Secondary,Violin

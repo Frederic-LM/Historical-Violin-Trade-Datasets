@@ -1,0 +1,46 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2000-06-02,33,,"Duwaer, Herman Gerard",,,sold,,2645,GBP,Secondary,Secondary,Violin
+,,2000-06-02,34,,"Duke, Richard",,,sold,,1984,GBP,Secondary,Secondary,Violin
+,,2000-06-02,35,,"Pillement, François",,,sold,,991,GBP,Secondary,Secondary,Violin
+,,2000-06-02,41,,"Duncan, George",,,sold,,1984,GBP,Secondary,Secondary,Violin
+,,2000-06-02,59,,"Fleury, Benoit",,,sold,,1190,GBP,Secondary,Secondary,Violin
+,,2000-06-02,67,,"Chanot, Joseph Anthony",,,sold,,3306,GBP,Secondary,Secondary,Violin
+,,2000-06-02,71,,"Schönfelder, Johann Georg",,,sold,,596,GBP,Secondary,Secondary,Violin
+,,2000-06-02,79,,"de Rub, Augusto (Angelo)",,,sold,,10580,GBP,Secondary,Secondary,Violin
+,,2000-06-02,80,,"Gigli, Giulio Cesare",,,sold,,9919,GBP,Secondary,Secondary,Violin
+,,2000-06-02,82,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3703,GBP,Secondary,Secondary,Violin
+,,2000-06-02,86,,"Vincent, Alfred",,,sold,,3306,GBP,Secondary,Secondary,Violin
+,,2000-06-02,97,,"Vignali, Giuseppe",,,sold,,3571,GBP,Secondary,Secondary,Violin
+,,2000-06-02,99,,"Mougenot, Georges",,,sold,,5026,GBP,Secondary,Secondary,Violin
+,,2000-06-02,105,,"Kaul, Paul",,,sold,,5951,GBP,Secondary,Secondary,Violin
+,,2000-06-02,113,,"Wahlberg, Leif",,,sold,,2116,GBP,Secondary,Secondary,Violin
+,,2000-06-02,116,,"Castello, Paolo",,,sold,,46710,GBP,Secondary,Secondary,Violin
+,,2000-06-02,130,,"Johnson, John",,,sold,,3703,GBP,Secondary,Secondary,Violin
+,,2000-06-02,131,,"Simonazzi, Amadeo",,,sold,,3174,GBP,Secondary,Secondary,Viola
+,,2000-06-02,145,,"Wulme-Hudson, George",,,sold,,1323,GBP,Secondary,Secondary,Violin
+,,2000-06-02,149,,"Duke, Richard",,,sold,,1323,GBP,Secondary,Secondary,Violin
+,,2000-06-02,150,,"Nicolas, Didier l'aîné",,,sold,,1058,GBP,Secondary,Secondary,Violin
+,,2000-06-02,156,,"Cocker, Lawrence",,,sold,,926,GBP,Secondary,Secondary,Viola
+,,2000-06-02,161,,"Mangenot, Paul Alexandre",,,sold,,926,GBP,Secondary,Secondary,Violin
+,,2000-06-02,177,,"Lorange, Paul II",,,sold,,1719,GBP,Secondary,Secondary,Viola
+,,2000-06-02,181,,"Blondelet, Hugues Emile",,,sold,,793,GBP,Secondary,Secondary,Violin
+,,2000-06-02,183,,"Fairfax, Anneleen",,,sold,,1058,GBP,Secondary,Secondary,Viola
+,,2000-06-02,185,,"Hill & Sons, W. E. Firm",,,sold,,1150,GBP,Secondary,Cross-checked,Cello Bow
+,,2000-06-02,189,,"Tubbs, James",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-06-02,192,,"Hill & Sons, W. E. Firm",,,sold,,1610,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-06-02,193,,"Hill & Sons, W. E. Firm",,,sold,,1150,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-06-02,195,,"Hill & Sons, W. E. Firm",,,sold,,690,GBP,Secondary,Cross-checked,Viola Bow
+,,2000-06-02,196,,"Hill & Sons, W. E. Firm",,,sold,,1380,GBP,Secondary,Cross-checked,Cello Bow
+,,2000-06-02,199,,"Henry, Joseph",,,sold,,14375,GBP,Secondary,Cross-checked,Cello Bow
+,,2000-06-02,200,,"Hill & Sons, W. E. Firm",,,sold,,1265,GBP,Secondary,Cross-checked,Cello Bow
+,,2000-06-02,203,,"Tubbs, James",,,sold,,2300,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-06-02,204,,"Hill & Sons, W. E. Firm",,,sold,,782,GBP,Secondary,Secondary,Violin Bow
+,,2000-06-02,207,,"Hill & Sons, W. E. Firm",,,sold,,1323,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-06-02,274,,"Withers, Edward I",,,sold,,14548,GBP,Secondary,Secondary,Cello
+,,2000-06-02,275,,"Richardson, Arthur",,,sold,,10580,GBP,Secondary,Secondary,Cello
+,,2000-06-02,280,,Neuner & Hornsteiner,,,sold,,2513,GBP,Secondary,Secondary,Cello
+,,2000-06-02,282,,"Pillement, François",,,sold,,3703,GBP,Secondary,Secondary,Cello
+,,2000-06-02,289,,"Gaillard-Lajoue, Jules",,,sold,,14548,GBP,Secondary,Secondary,Cello
+,,2000-06-02,298,,Neuner & Hornsteiner,,,sold,,899,GBP,Secondary,Secondary,Violin
+,,2000-06-02,300,,Neuner & Hornsteiner,,,sold,,661,GBP,Secondary,Secondary,Violin
+,,2000-06-02,333,,"Barzoni, François",,,sold,,518,GBP,Secondary,Cross-checked,Violin

@@ -1,0 +1,5 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,1,,Nicolas Mathieu,,,sold,,468,GBP,Secondary,Secondary,Violin
+,,,3,,Lucien Schmitt,,,sold,,4678,GBP,Secondary,Secondary,Viola
+,,,7,,Ary France,,,sold,,84,GBP,Secondary,Secondary,Violin Bow
+,,,9,,Yamaha,,,sold,,75,GBP,Secondary,Secondary,Small Violin

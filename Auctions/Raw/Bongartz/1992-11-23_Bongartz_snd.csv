@@ -1,0 +1,76 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1992-11-23,44,,"Dieudonné, Amédée",,,sold,,2059,USD,Secondary,Secondary,Violin
+,,1992-11-23,47,,"Spiegel, János",,,sold,,4393,USD,Secondary,Secondary,Violin
+,,1992-11-23,49,,"Zach, Thomas",,,sold,,4119,USD,Secondary,Secondary,Violin
+,,1992-11-23,51,,"Vettori, Carlo",,,sold,,4668,USD,Secondary,Secondary,Viola
+,,1992-11-23,53,,"Thir, Mathias",,,sold,,8238,USD,Secondary,Secondary,Violin
+,,1992-11-23,69,,"Gaillard, Charles",,,sold,,7551,USD,Secondary,Secondary,Viola
+,,1992-11-23,73,,"Vuillaume, Jean-Baptiste",,,sold,,11670,USD,Secondary,Secondary,Violin
+,,1992-11-23,74,,"Fagnola, Annibale",,,sold,,45307,USD,Secondary,Secondary,Violin
+,,1992-11-23,83,,"Winterling, Georg",,,sold,,446,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,84,,"Prager, August Edwin",,,sold,,343,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,86,,"Prager, Gustav Adolf",,,sold,,481,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,87,,Bazin Family,,,sold,,961,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,88,,"Pfretzschner, F.C.",,,sold,,961,USD,Secondary,Secondary,Viola Bow
+,,1992-11-23,89,,"Wilson, Garner",,,sold,,892,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,90,,"Bazin, Charles Louis",,,sold,,961,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,91,,"Wilson, Garner",,,sold,,1098,USD,Secondary,Secondary,Viola Bow
+,,1992-11-23,92,,"Lotte, François",,,sold,,1236,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,97,,"Wunderlich, Friedrich Wilhelm",,,sold,,1922,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,98,,"van der Meer, Karel",,,sold,,1236,USD,Secondary,Secondary,Cello Bow
+,,1992-11-23,100,,"Millant, Roger & Max Firm",,,sold,,1922,USD,Secondary,Secondary,Viola Bow
+,,1992-11-23,101,,"Stuber, Johann",,,sold,,1785,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,103,,"Hill & Sons, W. E. Firm",,,sold,,2609,USD,Secondary,Secondary,Viola Bow
+,,1992-11-23,104,,"Duchaine, Nicolas I",,,sold,,1922,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,106,,"Nürnberger, Albert",,,sold,,3158,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,107,,"Gillet, Louis Henri",,,sold,,2059,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,108,,"Gerome, Roger",,,sold,,2746,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,109,,"Vuillaume, Jean-Baptiste",,,sold,,3432,USD,Secondary,Secondary,Cello Bow
+,,1992-11-23,111,,"Hill & Sons, W. E. Firm",,,sold,,4805,USD,Secondary,Secondary,Cello Bow
+,,1992-11-23,117,,"Berger, Theodor",,,sold,,2059,USD,Secondary,Secondary,Violin
+,,1992-11-23,123,,"Neuner, Mathias II",,,sold,,4119,USD,Secondary,Secondary,Violin
+,,1992-11-23,124,,"Hoyer, Christian Gottfried",,,sold,,3089,USD,Secondary,Secondary,Viola
+,,1992-11-23,125,,"Widhalm, Leopold I",,,sold,,4805,USD,Secondary,Secondary,Violin
+,,1992-11-23,127,,"Carletti, Nullo",,,sold,,5835,USD,Secondary,Secondary,Violin
+,,1992-11-23,129,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,4119,USD,Secondary,Secondary,Violin
+,,1992-11-23,132,,"Aldric, Jean-François",,,sold,,8924,USD,Secondary,Secondary,Violin
+,,1992-11-23,135,,"Conia, Stefano",,,sold,,9611,USD,Secondary,Secondary,Cello
+,,1992-11-23,136,,"De Comble, Ambroise",,,sold,,7894,USD,Secondary,Secondary,Cello
+,,1992-11-23,137,,"Nicolas, Didier l'aîné",,,sold,,10984,USD,Secondary,Secondary,Cello
+,,1992-11-23,138,,Caressa & Français Firm,,,sold,,10984,USD,Secondary,Secondary,Viola
+,,1992-11-23,139,,"Szepessy, Béla",,,sold,,13729,USD,Secondary,Secondary,Violin
+,,1992-11-23,140,,"Auciello, Luigi",,,sold,,12356,USD,Secondary,Secondary,Cello
+,,1992-11-23,142,,"Winterling, Georg",,,sold,,9611,USD,Secondary,Secondary,Violin
+,,1992-11-23,144,,"Gand, Charles Eugène",,,sold,,19221,USD,Secondary,Secondary,Violin
+,,1992-11-23,145,,"Vuillaume, Jean-Baptiste",,,sold,,48053,USD,Secondary,Secondary,Violin
+,,1992-11-23,146,,"Balestrieri, Tommaso",,,sold,,61096,USD,Secondary,Secondary,Violin
+,,1992-11-23,148,,"Rocca, Enrico",,,sold,,37069,USD,Secondary,Secondary,Violin
+,,1992-11-23,153,,"Schünemann, Otto",,,sold,,1236,USD,Secondary,Secondary,Violin
+,,1992-11-23,156,,"Nicolas, Didier l'aîné",,,sold,,1236,USD,Secondary,Secondary,Violin
+,,1992-11-23,158,,"Deblaye, Albert",,,sold,,1030,USD,Secondary,Secondary,Violin
+,,1992-11-23,167,,"Otto, Louis",,,sold,,3432,USD,Secondary,Secondary,Violin
+,,1992-11-23,170,,"Rocchi, Sesto",,,sold,,3432,USD,Secondary,Secondary,Viola
+,,1992-11-23,176,,"Buchstetter, Gabriel David",,,sold,,6865,USD,Secondary,Secondary,Violin
+,,1992-11-23,180,,"Tononi, Carlo Antonio",,,sold,,48053,USD,Secondary,Secondary,Violin
+,,1992-11-23,181,,"Schuster, Adolf Curt",,,sold,,206,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,182,,"Rau, August",,,sold,,206,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,183,,"Pfretzschner, F.C.",,,sold,,240,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,192,,"Morizot, Louis Joseph père",,,sold,,618,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,193,,"Lotte, Roger François",,,sold,,618,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,199,,"Pillot, J",,,sold,,618,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,202,,"Tournier, Joseph Alexis",,,sold,,1236,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,203,,Bazin Family,,,sold,,549,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,205,,"Morizot, Louis Joseph père",,,sold,,1648,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,206,,"Seifert, Lothar",,,sold,,1442,USD,Secondary,Secondary,Violin Bow
+,,1992-11-23,227,,"Gütter, Kurt Arno",,,sold,,1510,USD,Secondary,Secondary,Viola
+,,1992-11-23,230,,"Romer, Adolf",,,sold,,2471,USD,Secondary,Secondary,Violin
+,,1992-11-23,231,,"Schuster, Edouard",,,sold,,824,USD,Secondary,Secondary,Violin
+,,1992-11-23,233,,"Thir, Johann Georg",,,sold,,3432,USD,Secondary,Secondary,Violin
+,,1992-11-23,238,,"Raab, Willibald",,,sold,,2746,USD,Secondary,Secondary,Violin
+,,1992-11-23,242,,"Nicolas, Didier l'aîné",,,sold,,4119,USD,Secondary,Secondary,Violin
+,,1992-11-23,245,,"Conia, Stefano",,,sold,,4119,USD,Secondary,Secondary,Violin
+,,1992-11-23,246,,"Conia, Stefano",,,sold,,4462,USD,Secondary,Secondary,Viola
+,,1992-11-23,248,,"Kantuscher, Joseph",,,sold,,11670,USD,Secondary,Secondary,Cello
+,,1992-11-23,249,,"Ceruti, Enrico",,,sold,,43248,USD,Secondary,Secondary,Violin
+,,1992-11-23,259,,"Pistucci, Giovanni",,,sold,,30205,USD,Secondary,Secondary,Violin
+,,1992-11-23,261,,"Thomassin, Claude Auguste",,,sold,,4119,USD,Secondary,Secondary,Violin Bow

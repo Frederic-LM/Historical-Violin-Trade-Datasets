@@ -1,0 +1,9 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1997-10-17,39,,"Morlot, Nicolas",,,sold,,559,USD,Secondary,Secondary,Violin
+,,1997-10-17,41,,"Guérin, Alexandre Sauveur",,,sold,,895,USD,Secondary,Secondary,Violin
+,,1997-10-17,49,,"Mathieu, Nicolas",,,sold,,969,USD,Secondary,Secondary,Violin
+,,1997-10-17,50,,"Dieudonné, Amédée",,,sold,,1957,USD,Secondary,Secondary,Violin
+,,1997-10-17,65,,"Vuillaume, Jean-Baptiste",,,sold,,16401,USD,Secondary,Secondary,Violin
+,,1997-10-17,93,,"Sartory, Eugène Nicolas",,,sold,,5778,USD,Secondary,Secondary,Violin Bow
+,,1997-10-17,94,,"Voirin, François Nicolas",,,sold,,4846,USD,Secondary,Secondary,Violin Bow
+,,1997-10-17,96,,"Lotte, François",,,sold,,652,USD,Secondary,Secondary,Violin Bow

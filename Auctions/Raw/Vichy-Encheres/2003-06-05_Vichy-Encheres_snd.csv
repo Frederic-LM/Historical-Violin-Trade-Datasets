@@ -1,0 +1,7 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2003-06-05,155,,"Farotti, Celeste",,,sold,15000,18588,EUR,Secondary,Secondary,Violin
+,,2003-06-05,162,,"Farotti, Celeste",,,sold,41250,51117,EUR,Secondary,Secondary,Violin
+,,2003-06-05,172,,"Carletti, Natale",,,sold,11800,14623,EUR,Secondary,Secondary,Cello
+,,2003-06-05,182,,"Adam, Jean 'Grand'",,,sold,14000,17349,EUR,Secondary,Secondary,Violin Bow
+,,2003-06-05,200,,"Adam, Jean 'Grand'",,,sold,16500,20447,EUR,Secondary,Secondary,Cello Bow
+,,2003-06-05,,,"Hel, Pierre Joseph",,,sold,17900,22182,EUR,Secondary,Secondary,Violin

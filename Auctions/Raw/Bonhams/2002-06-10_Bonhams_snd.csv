@@ -1,0 +1,46 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2002-06-10,16,,"Owen, John William",,,sold,2400,2820,GBP,Secondary,Cross-checked,Viola
+,,2002-06-10,27,,"Ferm, Eric Tore",,,sold,850,999,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,53,,Goulding & Co.,,,sold,1400,1645,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,54,,"Craske, George",,,sold,1500,1762,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,59,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,1000,1175,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,69,,"Chanot, Georges Adolphe",,,sold,900,1058,GBP,Secondary,Secondary,Violin
+,,2002-06-10,71,,"Young, John",,,sold,2000,2350,GBP,Secondary,Cross-checked,Viola
+,,2002-06-10,72,,"Bailly, Paul",,,sold,5500,6462,GBP,Secondary,Secondary,Violin
+,,2002-06-10,80,,"Vuillaume, Jean-Baptiste",,,sold,12000,14100,GBP,Secondary,Secondary,Small Violin
+,,2002-06-10,81,,"Gaida, Giovanni",,,sold,1900,2232,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,84,,"Derazey, Justin Amedée",,,sold,8000,9400,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,90,,"Pedrazzini, Giuseppe",,,sold,13000,15275,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,91,,"Varotti, Joannes",,,sold,8000,9400,GBP,Secondary,Secondary,Violin
+,,2002-06-10,93,,"Lecchi, Giuseppe Bernardo",,,sold,10000,11750,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,100,,"Cuypers, Johannes Bernardus",,,sold,10000,11750,GBP,Secondary,Secondary,Violin
+,,2002-06-10,101,,"Vuillaume, Jean-Baptiste",,,sold,43200,49770,GBP,Secondary,Secondary,Violin
+,,2002-06-10,103,,"Vuillaume, Jean-Baptiste",,,sold,12000,14100,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,104,,"Boullangier, Charles",,,sold,9500,11162,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,114,,"Hill & Sons, W. E. Firm",,,sold,1500,1762,GBP,Secondary,Secondary,Cello Bow
+,,2002-06-10,115,,"Henry, Joseph",,,sold,15000,17625,GBP,Secondary,Cross-checked,Cello Bow
+,,2002-06-10,116,,"Hill & Sons, W. E. Firm",,,sold,1000,1175,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-06-10,121,,"Tubbs, James",,,sold,1200,1410,GBP,Secondary,Secondary,Violin Bow
+,,2002-06-10,122,,"Hill & Sons, W. E. Firm",,,sold,1600,1880,GBP,Secondary,Secondary,Viola Bow
+,,2002-06-10,126,,"Millant, Roger & Max Firm",,,sold,600,705,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-06-10,133,,"Sartory, Eugène Nicolas",,,sold,6000,7050,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-06-10,137,,"Bryant, Percival Wilfred",,,sold,550,646,GBP,Secondary,Secondary,Violin Bow
+,,2002-06-10,145,,"Vigneron, André 'Vigneron fils'",,,sold,2000,2350,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-06-10,149,,"Hill & Sons, W. E. Firm",,,sold,700,822,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-06-10,150,,"Wilson, Garner",,,sold,650,764,GBP,Secondary,Secondary,Viola Bow
+,,2002-06-10,153,,"Voirin, François Nicolas",,,sold,,6415,GBP,Secondary,Cross-checked,Cello Bow
+,,2002-06-10,154,,"Hill & Sons, W. E. Firm",,,sold,620,728,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-06-10,159,,"Paulus, Günter A.",,,sold,620,728,GBP,Secondary,Secondary,Violin Bow
+,,2002-06-10,161,,"Hill & Sons, W. E. Firm",,,sold,1450,1704,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-06-10,162,,"Dolling, Kurt",,,sold,550,646,GBP,Secondary,Secondary,Violin Bow
+,,2002-06-10,163,,"Pfretzschner, Hermann Richard",,,sold,550,646,GBP,Secondary,Secondary,Violin Bow
+,,2002-06-10,183,,"Barrett, John",,,sold,11000,12925,GBP,Secondary,Secondary,Cello
+,,2002-06-10,221,,"Hawkes, Hawkes & Sons",,,sold,800,940,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,223,,"Barzoni, François",,,sold,850,999,GBP,Secondary,Secondary,Violin
+,,2002-06-10,225,,"Dodd, Thomas I",,,sold,28700,33722,GBP,Secondary,Secondary,Cello
+,,2002-06-10,233,,"Paulus, Albin Ludwig",,,sold,600,705,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,234,,"Milton, Louis Frank",,,sold,750,881,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,255,,"Lowendall, Louis",,,sold,1900,2232,GBP,Secondary,Secondary,Violin
+,,2002-06-10,271,,"Woodward, C.F.",,,sold,600,705,GBP,Secondary,Cross-checked,Viola
+,,2002-06-10,273,,"Mangenot, Paul Alexandre",,,sold,600,705,GBP,Secondary,Cross-checked,Violin
+,,2002-06-10,,,"Derazey, Juste",,,sold,8000,,USD,Secondary,Secondary,Violin

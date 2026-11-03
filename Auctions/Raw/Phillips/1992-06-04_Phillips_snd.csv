@@ -1,0 +1,67 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1992-06-04,24,,"Thibouville-Lamy, Jérôme Firm",,,sold,,242,GBP,Secondary,Cross-checked,Small Violin
+,,1992-06-04,28,,"Dodd, Stephen H.",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1992-06-04,32,,"Mayson, Walter H.",,,sold,,682,GBP,Secondary,Secondary,Violin
+,,1992-06-04,33,,"Nicolas, Didier l'aîné",,,sold,,352,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,37,,"Thibouville-Lamy, Jérôme Firm",,,sold,,748,GBP,Secondary,Cross-checked,Viola
+,,1992-06-04,46,,"Perry, James",,,sold,,440,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,48,,"Mayson, Walter H.",,,sold,,605,GBP,Secondary,Secondary,Violin
+,,1992-06-04,54,,"Ward, George",,,sold,,990,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,59,,"Marshall, John",,,sold,,1265,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,60,,"Bazin, Charles Louis",,,sold,,572,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,61,,"Millant, Jean-Jacques",,,sold,,352,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,62,,"Hill & Sons, W. E. Firm",,,sold,,572,GBP,Secondary,Secondary,Viola Bow
+,,1992-06-04,63,,"Mougenot, Léon Victor",,,sold,,352,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,65,,"Reynolds, John B.",,,sold,,352,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,66,,Gand & Bernardel Firm,,,sold,,1430,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,70,,"Weichold, Richard",,,sold,,748,GBP,Secondary,Cross-checked,Viola Bow
+,,1992-06-04,71,,"Moritz, Alfred",,,sold,,440,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,74,,"Roth, Ernst Heinrich",,,sold,,2068,GBP,Secondary,Secondary,Violin
+,,1992-06-04,75,,"Pyne, George",,,sold,,1650,GBP,Secondary,Secondary,Violin
+,,1992-06-04,78,,"Heinicke, Mathias",,,sold,,1595,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,86,,"Capelli, Aldo",,,sold,,1100,GBP,Secondary,Secondary,Viola
+,,1992-06-04,87,,"Thomassin, Claude Auguste",,,sold,,902,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,90,,"Bazin, Charles Louis",,,sold,,286,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,91,,Bazin Family,,,sold,,462,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,92,,"Renz, Walter Gerhard",,,sold,,220,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,94,,"Duke, Richard",,,sold,,715,GBP,Secondary,Secondary,Violin
+,,1992-06-04,96,,"Hill & Sons, W. E. Firm",,,sold,,506,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,97,,"Day, John",,,sold,,2530,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,98,,"Storioni, Carlo",,,sold,,880,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,102,,"Mayson, Walter H.",,,sold,,647,GBP,Secondary,Secondary,Violin
+,,1992-06-04,104,,"Ballantyne, Robert",,,sold,,308,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,107,,"Derazey, Honoré (Jean-Joseph)",,,sold,,7700,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,111,,"Lotte, François",,,sold,,462,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,113,,"Finkel, Siegfried",,,sold,,1265,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,114,,"Hill & Sons, W. E. Firm",,,sold,,1012,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,115,,"Nürnberger, Albert",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,116,,"Pfretzschner, Hermann Richard",,,sold,,462,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,118,,"Bultitude, Arthur Richard",,,sold,,858,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,120,,"Nolli, Marco",,,sold,,1485,GBP,Secondary,Secondary,Violin
+,,1992-06-04,121,,"Pfretzschner, Hermann Richard",,,sold,,187,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,122,,"Werro, Jean",,,sold,,1980,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,123,,"Laprevotte, Etienne",,,sold,,286,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,126,,"Cuypers, Johannes Bernardus",,,sold,,6050,GBP,Secondary,Secondary,Violin
+,,1992-06-04,127,,"Degani, Eugenio",,,sold,,7700,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,129,,"Ardern, Job",,,sold,,682,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,138,,"Richardson, Arthur",,,sold,,1870,GBP,Secondary,Cross-checked,Viola
+,,1992-06-04,139,,"Bultitude, Arthur Richard",,,sold,,715,GBP,Secondary,Cross-checked,Viola Bow
+,,1992-06-04,140,,"Voigt, Arnold",,,sold,,660,GBP,Secondary,Cross-checked,Viola Bow
+,,1992-06-04,142,,"Roth, Ernst Heinrich",,,sold,,1760,GBP,Secondary,Secondary,Violin
+,,1992-06-04,143,,Gand & Bernardel Firm,,,sold,,1430,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,146,,"Vuillaume, Jean-Baptiste",,,sold,,4180,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,148,,"Hill & Sons, W. E. Firm",,,sold,,1265,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,150,,"Degani, Giulio Ettore",,,sold,,6600,GBP,Secondary,Secondary,Violin
+,,1992-06-04,152,,"Morizot, Louis Joseph père",,,sold,,638,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,154,,"Blanchard, Paul Francois",,,sold,,5500,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,157,,"Lamy, Alfred dit neveu",,,sold,,1980,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,158,,"Sartory, Eugène Nicolas",,,sold,,3190,GBP,Secondary,Secondary,Violin Bow
+,,1992-06-04,159,,"Hoyer, Otto A.",,,sold,,572,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-06-04,172,,"Vigneron, André 'Vigneron fils'",,,sold,,2750,GBP,Secondary,Cross-checked,Cello Bow
+,,1992-06-04,175,,"Audinot, Jacques",,,sold,,825,GBP,Secondary,Secondary,Cello Bow
+,,1992-06-04,189,,"Vuillaume, Jean-Baptiste",,,sold,,22000,GBP,Secondary,Secondary,Cello
+,,1992-06-04,190,,"Boullangier, Charles",,,sold,,9680,GBP,Secondary,Cross-checked,Cello
+,,1992-06-04,192,,"Tilley, Thomas",,,sold,,5060,GBP,Secondary,Cross-checked,Cello
+,,1992-06-04,218,,"Lowendall, Louis",,,sold,,220,GBP,Secondary,Secondary,Small Violin
+,,1992-06-04,219,,"Moritz, Alfred",,,sold,,187,GBP,Secondary,Cross-checked,Violin
+,,1992-06-04,230,,"Curatoli, Antonio",,,sold,,440,GBP,Secondary,Cross-checked,Violin

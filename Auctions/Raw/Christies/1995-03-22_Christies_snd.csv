@@ -1,0 +1,67 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1995-03-22,11,,"Pfretzschner, Hermann Richard",,,sold,1500,1725,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,12,,"Hill & Sons, W. E. Firm",,,sold,1800,2070,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,13,,"Hill & Sons, W. E. Firm",,,sold,800,920,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,14,,"Nürnberger, Albert",,,sold,500,575,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,15,,"Hill & Sons, W. E. Firm",,,sold,800,920,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,17,,Bazin Family,,,sold,1900,2185,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,19,,"Hill & Sons, W. E. Firm",,,sold,1600,1840,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,20,,"Nürnberger, Albert",,,sold,1200,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,21,,"Nürnberger, Albert",,,sold,500,575,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,23,,"Hill & Sons, W. E. Firm",,,sold,1400,1610,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,24,,"Hill & Sons, W. E. Firm",,,sold,1300,1495,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,25,,"Hill & Sons, W. E. Firm",,,sold,2400,2760,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,26,,"Hill & Sons, W. E. Firm",,,sold,3000,3450,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,27,,"Bultitude, Arthur Richard",,,sold,1150,1322,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,29,,"Hill & Sons, W. E. Firm",,,sold,750,862,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,30,,"Pfretzschner, Leopold",,,sold,850,977,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,32,,"Hill & Sons, W. E. Firm",,,sold,900,1035,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,34,,"Lewis, William Lewis & Son",,,sold,600,690,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,34A,,"Hill & Sons, W. E. Firm",,,sold,1500,1725,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,35,,Eugene Cuniot-Hury,,,sold,,1955,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,36,,"Sartory, Eugène Nicolas",,,sold,1800,2070,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-22,38,,"Tubbs, James",,,sold,1800,2070,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,39,,"Hill & Sons, W. E. Firm",,,sold,2800,3220,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-22,40,,"Nürnberger, Albert",,,sold,2600,2990,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,42,,"Hill & Sons, W. E. Firm",,,sold,2400,2760,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,43,,"Hill & Sons, W. E. Firm",,,sold,2400,2760,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,44,,"Hill & Sons, W. E. Firm",,,sold,1400,1610,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,47,,Hart & Son,,,sold,1495,1719,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,50,,"Hill & Sons, W. E. Firm",,,sold,1300,1495,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,52,,"Morizot, Louis Joseph père",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,54,,"Tubbs, James",,,sold,3000,3450,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,57,,"Lamy, Alfred dit neveu",,,sold,7500,8625,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,58,,"Sartory, Eugène Nicolas",,,sold,8000,9200,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-22,59,,"Cocker, Lawrence",,,sold,1600,1840,GBP,Secondary,Cross-checked,Viola
+,,1995-03-22,61,,"Grandjon, Jules Joseph",,,sold,2400,2760,GBP,Secondary,Cross-checked,Viola
+,,1995-03-22,64,,"Whitmarsh, Emanuel",,,sold,1700,1955,GBP,Secondary,Cross-checked,Viola
+,,1995-03-22,66,,"Betts, John I",,,sold,4200,4830,GBP,Secondary,Cross-checked,Viola
+,,1995-03-22,67,,"Capela, Antonio",,,sold,3500,4025,GBP,Secondary,Cross-checked,Viola
+,,1995-03-22,68,,"Thompson, Charles & Samuel",,,sold,1900,2185,GBP,Secondary,Cross-checked,Viola
+,,1995-03-22,69,,"Craske, George",,,sold,5800,6670,GBP,Secondary,Cross-checked,Viola
+,,1995-03-22,73,,"Lang, Benedikt",,,sold,1000,1150,GBP,Secondary,Cross-checked,Cello
+,,1995-03-22,79,,"Meinel, Paul",,,sold,8500,9775,GBP,Secondary,Cross-checked,Cello
+,,1995-03-22,83,,"Riviere, Riviere & Hawkes",,,sold,5175,5951,GBP,Secondary,Secondary,Cello
+,,1995-03-22,87,,"Mougenot, Léon Victor",,,sold,2200,2530,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,89,,"Heaton, William",,,sold,600,690,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,90,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,750,862,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,94,,"Galla, Anton",,,sold,3450,3967,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,101,,"Lazzaro, Giovanni",,,sold,1800,2070,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,102,,"Scolari, Giorgio",,,sold,4000,4600,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,103,,"Whitmarsh, Emanuel",,,sold,1800,2070,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,104,,"Simonin, Charles II",,,sold,4000,4600,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,106,,"Cornelissen, Marten",,,sold,3500,4025,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,107,,"Flambeau, Pierre",,,sold,2200,2530,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,111,,"Vuillaume, Jean-Baptiste",,,sold,3000,3450,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,120,,"Mougenot, Léon Victor",,,sold,1400,1610,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,121,,"Betts, Edward",,,sold,675,776,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,125A,,"Owen, John William",,,sold,1840,2116,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,127A,,"Bailly, Paul",,,sold,3500,4025,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,129,,"Vettori, Carlo",,,sold,4500,5175,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,137,,"Bucci, M.",,,sold,6200,7130,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,143,,"Calcagno, Bernardo",,,sold,26000,29900,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,144,,"Silvestre, Hippolyte Chrétien",,,sold,8000,9200,GBP,Secondary,Cross-checked,Violin
+,,1995-03-22,,,"Baldantoni, Giuseppe",,,sold,,20100.85,USD,Secondary,Secondary,Violin
+,,1995-03-22,,,"Klotz,",,,sold,,4020.17,USD,Secondary,Secondary,Violin
+,,1995-03-22,,,"Ceruti, Giuseppe",,,sold,,14618.8,USD,Secondary,Secondary,Viola
+,,1995-03-22,,,"Collin-Mezin, Charles Jean Baptiste",,,sold,,4751.11,USD,Secondary,Secondary,Viola

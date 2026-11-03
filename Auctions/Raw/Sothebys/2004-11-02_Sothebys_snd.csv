@@ -1,0 +1,80 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2004-11-02,6,,"Derazey, Honoré (Jean-Joseph)",,,sold,,1440,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,8,,"Jombar, Paul",,,sold,,3120,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,9,,"Michetti, Plinio",,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,12,,"Zanotti, Antonio",,,sold,,3000,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,14,,"Mori Costa, Felice",,,sold,,50400,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,15,,Gand & Bernardel Firm,,,sold,,10800,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,18,,"Rocca, Giuseppe Antonio",,,sold,,140000,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,24,,"Hill & Sons, W. E. Firm",,,sold,,6600,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,25,,"Mangenot, Paul Alexandre",,,sold,,1560,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,27,,"Grancino, Giovanni Battista I",,,sold,,72000,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,29,,"Curatoli, Antonio",,,sold,,5400,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,30,,"Curatoli, Antonio",,,sold,,2640,GBP,Secondary,Secondary,Violin
+,,2004-11-02,35,,"Degani, Eugenio",,,sold,,21600,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,36,,"Pressenda, Giovanni Francesco",,,sold,,145600,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,39,,"Morizot, Louis frères",,,sold,,1320,GBP,Secondary,Secondary,Viola Bow
+,,2004-11-02,40,,"Hill & Sons, W. E. Firm",,,sold,,1680,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,41,,Bazin Family,,,sold,,2040,GBP,Secondary,Secondary,Violin Bow
+,,2004-11-02,42,,"Vigneron, André 'Vigneron fils'",,,sold,,2640,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,45,,"Hill & Sons, W. E. Firm",,,sold,,4200,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,46,,"Tubbs, James",,,sold,,4800,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,47,,"Vuillaume, Jean-Baptiste",,,sold,,1800,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,48,,"Thomassin, Claude Auguste",,,sold,,5040,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,50,,"Lotte, François",,,sold,,1800,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,51,,"Tubbs, Thomas",,,sold,,2640,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,52,,"Vigneron, Joseph Arthur père",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,55,,"Maline, Nicolas I",,,sold,,1440,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,56,,"Morizot, Louis frères",,,sold,,1200,GBP,Secondary,Secondary,Violin Bow
+,,2004-11-02,58,,"Hill & Sons, W. E. Firm",,,sold,,3600,GBP,Secondary,Cross-checked,Cello Bow
+,,2004-11-02,59,,"Lamy, Joseph Alfred père",,,sold,,5400,GBP,Secondary,Cross-checked,Cello Bow
+,,2004-11-02,61,,"Hill & Sons, W. E. Firm",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,63,,"Sartory, Eugène Nicolas",,,sold,,3360,GBP,Secondary,Secondary,Violin Bow
+,,2004-11-02,64,,"Hill & Sons, W. E. Firm",,,sold,,3360,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,66,,"Nürnberger, Albert",,,sold,,2160,GBP,Secondary,Secondary,Cello Bow
+,,2004-11-02,67,,"Schmidt, C. Hans-Karl",,,sold,,960,GBP,Secondary,Cross-checked,Cello Bow
+,,2004-11-02,69,,"Schmidt, C. Hans-Karl",,,sold,,1560,GBP,Secondary,Cross-checked,Cello Bow
+,,2004-11-02,70,,"Adam, Jean I",,,sold,,4800,GBP,Secondary,Secondary,Violin Bow
+,,2004-11-02,71,,"Maline, Guillaume",,,sold,,3360,GBP,Secondary,Secondary,Violin Bow
+,,2004-11-02,72,,"Vigneron, Joseph Arthur père",,,sold,,3840,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,76,,"Duke, Richard",,,sold,,3840,GBP,Secondary,Cross-checked,Viola
+,,2004-11-02,78,,"Chanot, Georges I",,,sold,,15600,GBP,Secondary,Cross-checked,Viola
+,,2004-11-02,79,,"Forster, William III",,,sold,,7800,GBP,Secondary,Cross-checked,Viola
+,,2004-11-02,81,,"Gagliano, Nicolò",,,sold,,40800,GBP,Secondary,Cross-checked,Viola
+,,2004-11-02,82,,"Noebe, Louis",,,sold,,8400,GBP,Secondary,Cross-checked,Cello
+,,2004-11-02,88,,"Mougenot, Georges",,,sold,,15600,GBP,Secondary,Cross-checked,Cello
+,,2004-11-02,91,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,13200,GBP,Secondary,Cross-checked,Cello
+,,2004-11-02,92,,"Wamsley, Peter",,,sold,,10800,GBP,Secondary,Cross-checked,Cello
+,,2004-11-02,95,,"Didier, Marius",,,sold,,6000,GBP,Secondary,Cross-checked,Cello
+,,2004-11-02,97,,"Derazey, Justin Amedée",,,sold,,7200,GBP,Secondary,Cross-checked,Cello
+,,2004-11-02,99,,"Vuillaume, Jean-Baptiste",,,sold,,60000,GBP,Secondary,Cross-checked,Cello
+,,2004-11-02,100,,"Heberlein, Albert Theodor",,,sold,,2640,GBP,Secondary,Secondary,Cello
+,,2004-11-02,108,,"Vigneron, Joseph Arthur père",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,110,,"Fétique, Victor François",,,sold,,3600,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,113,,Dodd Family,,,sold,,720,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,114,,"Lotte, François",,,sold,,3120,GBP,Secondary,Cross-checked,Cello Bow
+,,2004-11-02,116,,"Voirin, François Nicolas",,,sold,,5760,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,117,,"Vigneron, Joseph Arthur père",,,sold,,2640,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,118,,"Dodd, James II",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,120,,"Pfretzschner, Hermann Richard",,,sold,,1560,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,124,,"Morizot, Louis frères",,,sold,,1800,GBP,Secondary,Secondary,Violin Bow
+,,2004-11-02,125,,"Oxley, Peter",,,sold,,900,GBP,Secondary,Secondary,Viola Bow
+,,2004-11-02,126,,"Vigneron, André 'Vigneron fils'",,,sold,,4200,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,128,,"Lamy, Joseph Alfred père",,,sold,,5040,GBP,Secondary,Cross-checked,Violin Bow
+,,2004-11-02,133,,"Heinicke, Mathias",,,sold,,1560,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,138,,"Prokop, Ladislav F.",,,sold,,1560,GBP,Secondary,Secondary,Violin
+,,2004-11-02,140,,"Vuillaume, Jean-Baptiste",,,sold,,6600,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,141,,"Varagnolo, Ferruccio",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,142,,"Mozzani, Luigi",,,sold,,4200,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,144,,"Pierray, Claude",,,sold,,13800,GBP,Secondary,Secondary,Violin
+,,2004-11-02,147,,"Fagnola, Annibale",,,sold,,38400,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,148,,"Tononi, Giovanni",,,sold,,42000,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,149,,"Degani, Eugenio",,,sold,,15600,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,150,,"Gand, Charles François père",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,151,,"Gagliano, Gennaro",,,sold,,78000,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,152,,"Amati, Nicolò",,,sold,,100800,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,154,,"Soffritti, Ettore",,,sold,,22800,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,218,,"Pamphilon, Edward",,,sold,,10200,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,226,,"Karner, Bartholomew",,,sold,,4560,GBP,Secondary,Secondary,Violin
+,,2004-11-02,227,,"Brown, William",,,sold,,1800,GBP,Secondary,Cross-checked,Violin
+,,2004-11-02,239,,Dodd Family,,,sold,,840,GBP,Secondary,Cross-checked,Violin Bow

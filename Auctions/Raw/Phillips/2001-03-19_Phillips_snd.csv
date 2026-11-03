@@ -1,0 +1,49 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-03-19,11,,"Nicolas, Didier l'aîné",,,sold,,500,GBP,Secondary,Secondary,Violin
+,,2001-03-19,29,,"Gartner, Eugen",,,sold,,2400,GBP,Secondary,Secondary,Violin
+,,2001-03-19,39,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2700,GBP,Secondary,Secondary,Violin
+,,2001-03-19,40,,"Hill & Sons, W. E. Firm",,,sold,,3400,GBP,Secondary,Secondary,Violin
+,,2001-03-19,42,,"Puglisi, Michelangelo",,,sold,,2800,GBP,Secondary,Secondary,Violin
+,,2001-03-19,46,,"Mumby, Ernest",,,sold,,788,GBP,Secondary,Cross-checked,Violin
+,,2001-03-19,49,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1600,GBP,Secondary,Secondary,Violin
+,,2001-03-19,54,,"Whitmarsh, Emanuel",,,sold,,920,GBP,Secondary,Cross-checked,Violin
+,,2001-03-19,57,,"Antonelli, Gino",,,sold,,1800,GBP,Secondary,Secondary,Violin
+,,2001-03-19,58,,"Pareschi, Gaetano",,,sold,,4000,GBP,Secondary,Secondary,Viola
+,,2001-03-19,64,,"Maggini, Giovanni Paolo",,,sold,,12500,GBP,Secondary,Secondary,Violin
+,,2001-03-19,65,,"Simonazzi, Amadeo",,,sold,,4140,GBP,Secondary,Cross-checked,Violin
+,,2001-03-19,68,,"Vuillaume, Nicolas III",,,sold,,2400,GBP,Secondary,Secondary,Violin
+,,2001-03-19,75,,"Methfessel, Gustave",,,sold,,2100,GBP,Secondary,Secondary,Violin
+,,2001-03-19,78,,"Hjorth & Sons, Emil",,,sold,,2100,GBP,Secondary,Secondary,Violin
+,,2001-03-19,85,,"Kennedy, Thomas",,,sold,,3220,GBP,Secondary,Cross-checked,Violin
+,,2001-03-19,88,,"Vincent, Alfred",,,sold,,2017,GBP,Secondary,Cross-checked,Violin
+,,2001-03-19,89,,"Boullangier, Charles",,,sold,,4100,GBP,Secondary,Secondary,Violin
+,,2001-03-19,90,,"Atkinson, William",,,sold,,1840,GBP,Secondary,Cross-checked,Violin
+,,2001-03-19,93,,"Priestnall, John",,,sold,,250,GBP,Secondary,Secondary,Violin
+,,2001-03-19,119,,"Vettori, Carlo",,,sold,,3200,GBP,Secondary,Secondary,Violin
+,,2001-03-19,122,,"Dieudonné, Amédée",,,sold,,2500,GBP,Secondary,Secondary,Violin
+,,2001-03-19,123,,"Dieudonné, Amédée",,,sold,,2000,GBP,Secondary,Secondary,Violin
+,,2001-03-19,124,,"Hesketh, Thomas Earle",,,sold,,4400,GBP,Secondary,Secondary,Violin
+,,2001-03-19,127,,"Pressenda, Giovanni Francesco",,,sold,,160000,GBP,Secondary,Secondary,Violin
+,,2001-03-19,131,,"Hill & Sons, W. E. Firm",,,sold,,2185,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-19,132,,"Sartory, Eugène Nicolas",,,sold,,9200,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-19,133,,"Voirin, François Nicolas",,,sold,,4830,GBP,Secondary,Cross-checked,Viola Bow
+,,2001-03-19,142,,"Vigneron, André 'Vigneron fils'",,,sold,,5290,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-19,143,,"Tubbs, James",,,sold,,3220,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-19,144,,"Hill & Sons, W. E. Firm",,,sold,,2070,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-19,145,,"Hill & Sons, W. E. Firm",,,sold,,2645,GBP,Secondary,Cross-checked,Viola Bow
+,,2001-03-19,146,,"Sartory, Eugène Nicolas",,,sold,,6325,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-19,147,,"Hill & Sons, W. E. Firm",,,sold,,4140,GBP,Secondary,Secondary,Viola Bow
+,,2001-03-19,155,,"Hill & Sons, W. E. Firm",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-19,164,,"Hill & Sons, W. E. Firm",,,sold,,920,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-19,165,,"Lamy, Alfred dit neveu",,,sold,,3450,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-19,166,,"Hill & Sons, W. E. Firm",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-19,167,,"Hill & Sons, W. E. Firm",,,sold,,2070,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-19,174,,"Hill & Sons, W. E. Firm",,,sold,,747,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-19,176,,"Sartory, Eugène Nicolas",,,sold,,518,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-19,184,,"Hill & Sons, W. E. Firm",,,sold,,862,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-19,193,,"Morrison, John",,,sold,,6000,GBP,Secondary,Secondary,Cello
+,,2001-03-19,210,,Neuner & Hornsteiner,,,sold,,1700,GBP,Secondary,Secondary,Cello
+,,2001-03-19,238,,"Chappuy, Nicolas Augustin",,,sold,,560,GBP,Secondary,Secondary,Violin
+,,2001-03-19,239,,"Klier, Otto",,,sold,,450,GBP,Secondary,Secondary,Viola
+,,2001-03-19,242,,"Lowendall, Louis",,,sold,,1400,GBP,Secondary,Secondary,Violin
+,,2001-03-19,244,,"Colin, Jean Baptiste",,,sold,,800,GBP,Secondary,Secondary,Violin

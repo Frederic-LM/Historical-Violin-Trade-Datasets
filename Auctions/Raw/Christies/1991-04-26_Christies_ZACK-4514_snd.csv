@@ -1,0 +1,11 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1991-04-26,46,,"Landon, Christophe",,,sold,900,990,GBP,Secondary,Primary,Viola Bow
+,,1991-04-26,71,,"Prager, Gustav Adolf",,,sold,600,660,GBP,Secondary,Primary,Violin Bow
+,,1991-04-26,112,,"Barbieri, Bruno",,,sold,1700,1870,GBP,Secondary,Primary,Viola
+,,1991-04-26,116,,"Gadda, Mario",,,sold,2400,2640,GBP,Secondary,Primary,Viola
+,,1991-04-26,134,,"Roth, Ernst Heinrich",,,sold,1300,1430,GBP,Secondary,Primary,Violin
+,,1991-04-26,150,,"Tobin, Richard",,,sold,700,770,GBP,Secondary,Primary,Violin
+,,1991-04-26,203,,"Roth, Ernst Heinrich",,,sold,1300,1430,GBP,Secondary,Primary,Violin
+,,1991-04-26,218,,"Guarneri, Giuseppe 'filius Andreae'",,,sold,,33000,GBP,Secondary,Secondary,Violin
+,,1991-04-26,223,,"Merling, Pauli",,,sold,2000,2200,GBP,Secondary,Primary,Cello
+,,1991-04-26,232,,"Forster, Simon Andrew",,,sold,9000,9900,GBP,Secondary,Primary,Cello

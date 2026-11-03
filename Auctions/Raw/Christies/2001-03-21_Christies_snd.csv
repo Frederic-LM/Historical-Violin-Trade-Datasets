@@ -1,0 +1,61 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-03-21,15,,"Verbeek, Gisbert",,,sold,,22325,GBP,Secondary,Secondary,Violin
+,,2001-03-21,16,,"Kennedy, John",,,sold,,1762,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,18,,"Blondelet, Hugues Emile",,,sold,,940,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,19,,"Whitmarsh, Emanuel",,,sold,,2115,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,23,,"Szepessy, Béla",,,sold,,4112,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,24,,"Spidlen, Frantisek",,,sold,,2350,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,26,,"Ficker, Johann Christian II",,,sold,,2820,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,27,,"Antoniazzi, Riccardo",,,sold,,22325,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,28,,"Derazey, Justin Amedée",,,sold,,2115,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,29,,"Klotz, Johann Carl",,,sold,,1645,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,31,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1880,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,34,,"Fagnola, Annibale",,,sold,,49350,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,35,,"Klotz, Matthias I",,,sold,,4112,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,36,,"Mozzani, Luigi",,,sold,,2585,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,40,,"Stoss, Martin (Johann Martin)",,,sold,,5875,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,41,,"Gilbert, Jeffrey James",,,sold,,1762,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,45,,"Voirin, François Nicolas",,,sold,,4700,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,46,,"Peccatte, Charles",,,sold,,4935,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,48,,"Thomassin, Claude Auguste",,,sold,,2820,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,56,,"Vigneron, André 'Vigneron fils'",,,sold,,940,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-21,82,,"Priestnall, John",,,sold,,493,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,86,,"Schmitt, Lucien",,,sold,,1175,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,88,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,1645,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,92,,"Rovatti, Luigi",,,sold,,2820,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,94,,"Storioni, Lorenzo",,,sold,,44650,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,95,,"Gagliano, Nicolò",,,sold,,97250,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,96,,"Nürnberger, Albert",,,sold,,1645,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,97,,"Thomassin, Claude Auguste",,,sold,,1880,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,99,,"Voirin, François Nicolas",,,sold,,1997,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,100,,"Hums, Albin",,,sold,,493,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,101,,"Dolling, Kurt",,,sold,,329,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-21,105,,"Schuller, Otto",,,sold,,376,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-21,106,,Maucotel & Deschamp Firm,,,sold,,822,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,109,,Chanot & Chardon Firm,,,sold,,1116,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,114,,"Adam, Jean Dominique",,,sold,,1410,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-21,121,,"Dodd, John I",,,sold,,940,GBP,Secondary,Cross-checked,Viola Bow
+,,2001-03-21,124,,"Morizot, Louis Joseph père",,,sold,,1410,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,127,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1762,GBP,Secondary,Cross-checked,Viola
+,,2001-03-21,128,,"Antonelli, Gino",,,sold,,1410,GBP,Secondary,Secondary,Viola
+,,2001-03-21,134,,"Ferraroni, Pietro Alfonso",,,sold,,2350,GBP,Secondary,Secondary,Violin
+,,2001-03-21,140,,"Chipot, Paul Jean Baptiste",,,sold,,1410,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,144,,"Jais, Johann I",,,sold,,3525,GBP,Secondary,Cross-checked,Viola
+,,2001-03-21,145,,"Guerra, Alberto",,,sold,,6462,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,162,,Bazin Family,,,sold,,940,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-21,170,,"Collin-Mézin, Charles Jean-Baptiste père",,,sold,,998,GBP,Secondary,Secondary,Cello Bow
+,,2001-03-21,171,,"Weichold, Richard",,,sold,,763,GBP,Secondary,Secondary,Cello Bow
+,,2001-03-21,173,,"Deroux, Sébastien Auguste",,,sold,,822,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,174,,"Pfretzschner, Hermann Richard",,,sold,,587,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-21,175,,"Thomä, Arthur Adolf",,,sold,,293,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-21,178,,"Wilson, Garner",,,sold,,587,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-21,182,,"Knoll, Alfred",,,sold,,352,GBP,Secondary,Secondary,Cello Bow
+,,2001-03-21,183,,"Mettal, Walter",,,sold,,705,GBP,Secondary,Secondary,Cello Bow
+,,2001-03-21,184,,Dodd Family,,,sold,,470,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-21,186,,"Candi, Oreste",,,sold,,12925,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,188,,"Derazey, Justin Amedée",,,sold,,3525,GBP,Secondary,Secondary,Violin
+,,2001-03-21,191,,"Altavilla, Armando",,,sold,,3760,GBP,Secondary,Secondary,Violin
+,,2001-03-21,194,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1410,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,195,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1997,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,204,,"Thibout, Jacques-Pierre",,,sold,,8225,GBP,Secondary,Cross-checked,Violin
+,,2001-03-21,222,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2115,GBP,Secondary,Secondary,Violin

@@ -1,0 +1,61 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2000-04-30,42,,"Mougenot, Georges",,,sold,,1534,USD,Secondary,Secondary,Viola
+,,2000-04-30,45,,"Brugère, Charles Georges",,,sold,,4163,USD,Secondary,Secondary,Violin
+,,2000-04-30,47,,"Morizot, Louis Joseph père",,,sold,,801,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,52,,"Lamy, Alfred dit neveu",,,sold,,352,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,53,,"Cuniot, Eugène ""Cuniot-Hury""",,,sold,,801,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,78,,"Cuniot, Eugène ""Cuniot-Hury""",,,sold,,1121,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,79,,"Colas, Prosper",,,sold,,1922,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,90,,"Cuniot, Eugène ""Cuniot-Hury""",,,sold,,1362,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,104,,"Dieudonné, Amédée",,,sold,,1895,USD,Secondary,Secondary,Violin
+,,2000-04-30,111,,"Audinot, Nestor Dominique",,,sold,,6207,USD,Secondary,Secondary,Violin
+,,2000-04-30,112,,"Vuillaume, Nicolas III",,,sold,,4996,USD,Secondary,Secondary,Violin
+,,2000-04-30,116,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3164,USD,Secondary,Secondary,Violin
+,,2000-04-30,122,,"Mougenot, Léon Victor",,,sold,,1986,USD,Secondary,Secondary,Violin
+,,2000-04-30,124,,"Werro, Jean",,,sold,,541,USD,Secondary,Secondary,Violin
+,,2000-04-30,129,,"Boquay, Jacques",,,sold,,4163,USD,Secondary,Secondary,Violin
+,,2000-04-30,160,,"Mangenot, Amati",,,sold,,12816,USD,Secondary,Secondary,Cello
+,,2000-04-30,162,,"Silvestre, Hippolyte Chrétien",,,sold,,44057,USD,Secondary,Secondary,Cello
+,,2000-04-30,163,,"Jombar, Paul",,,sold,,24031,USD,Secondary,Secondary,Cello
+,,2000-04-30,164,,Gand & Bernardel Firm,,,sold,,32842,USD,Secondary,Secondary,Cello
+,,2000-04-30,166,,"Morizot, Louis Joseph père",,,sold,,1442,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,175,,"Morizot, Louis Joseph père",,,sold,,481,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,176,,"Morizot, Louis Joseph père",,,sold,,1314,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,178,,"Bazin, Charles Louis",,,sold,,465,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,189,,"Husson, Mars Auguste",,,sold,,1762,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,191,,"Colas, Prosper",,,sold,,561,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,192,,"Bazin, Charles Nicolas",,,sold,,1682,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,195,,"Cuniot, Eugène ""Cuniot-Hury""",,,sold,,1282,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,198,,"Bazin, Charles Louis",,,sold,,1121,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,203,,"Bazin, Charles Nicolas",,,sold,,1121,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,207,,"Poirson, Dominique ""Justin""",,,sold,,1602,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,211,,"Simon, Franz",,,sold,,14338,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,212,,"Vigneron, André 'Vigneron fils'",,,sold,,6155,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,214,,"Bazin, Charles Nicolas",,,sold,,2770,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,215,,"Vigneron, André 'Vigneron fils'",,,sold,,2403,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,217,,"Lamy, Alfred dit neveu",,,sold,,4924,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,221,,"Vigneron, André 'Vigneron fils'",,,sold,,5693,USD,Secondary,Secondary,Viola Bow
+,,2000-04-30,222,,"Sartory, Eugène Nicolas",,,sold,,8150,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,223,,"Fétique, Jules",,,sold,,4308,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,225,,"Peccatte, Charles",,,sold,,7244,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,226,,"Lamy, Alfred dit neveu",,,sold,,7395,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,227,,"Sartory, Eugène Nicolas",,,sold,,5232,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,228,,"Voirin, François Nicolas",,,sold,,9810,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,229,,"Sartory, Eugène Nicolas",,,sold,,7546,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,230,,"Lamy, Alfred dit neveu",,,sold,,5847,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,231,,"Peccatte, Charles",,,sold,,9055,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,232,,"Vigneron, André 'Vigneron fils'",,,sold,,4616,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,240,,"Bazin, Charles Nicolas",,,sold,,1762,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,242,,"Fétique, Victor François",,,sold,,1522,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,244,,"Millant, Bernard",,,sold,,4001,USD,Secondary,Secondary,Cello Bow
+,,2000-04-30,250,,"Rau, August",,,sold,,449,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,255,,"Gillet, Louis Henri",,,sold,,401,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,284,,"Cherpitel, Louis",,,sold,,848,USD,Secondary,Secondary,Violin
+,,2000-04-30,301,,"Pique, François-Louis",,,sold,,16982,USD,Secondary,Secondary,Violin
+,,2000-04-30,317,,"Aubry, Joseph",,,sold,,3497,USD,Secondary,Secondary,Violin
+,,2000-04-30,327,,"Lapierre, Marcel Charles",,,sold,,1602,USD,Secondary,Secondary,Viola Bow
+,,2000-04-30,329,,"Morizot, Louis Joseph père",,,sold,,1522,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,334,,"Bazin, Charles Louis",,,sold,,721,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,336,,"Morizot, Louis Joseph père",,,sold,,1121,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,345,,"Lamy, Alfred dit neveu",,,sold,,3385,USD,Secondary,Secondary,Violin Bow
+,,2000-04-30,349,,"Voirin, François Nicolas",,,sold,,3847,USD,Secondary,Secondary,Cello Bow

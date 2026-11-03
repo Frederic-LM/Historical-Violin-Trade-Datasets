@@ -1,0 +1,52 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1997-07-17,45,,"Geissenhof, Franz",,,sold,,11500,GBP,Secondary,Secondary,Violin
+,,1997-07-17,52,,"Candi, Cesare",,,sold,,14375,GBP,Secondary,Secondary,Violin
+,,1997-07-17,55,,"Silvestre, Hippolyte Chrétien",,,sold,,9430,GBP,Secondary,Secondary,Violin
+,,1997-07-17,60,,"Lucci, Giuseppe",,,sold,,4485,GBP,Secondary,Secondary,Violin
+,,1997-07-17,62,,"Hill & Sons, W. E. Firm",,,sold,,2070,GBP,Secondary,Secondary,Violin Bow
+,,1997-07-17,63,,"Withers, George Thomas Henry",,,sold,,920,GBP,Secondary,Secondary,Violin Bow
+,,1997-07-17,68,,"Buckman, George Hatton",,,sold,,782,GBP,Secondary,Secondary,Viola
+,,1997-07-17,70,,"Atkinson, William",,,sold,,2415,GBP,Secondary,Secondary,Violin
+,,1997-07-17,75,,"Mougenot, Léon Victor",,,sold,,2070,GBP,Secondary,Secondary,Violin
+,,1997-07-17,76,,"Craske, George",,,sold,,3220,GBP,Secondary,Secondary,Viola
+,,1997-07-17,77,,"Withers, Edward I",,,sold,,1725,GBP,Secondary,Secondary,Violin
+,,1997-07-17,79,,"Colin, Jean Baptiste",,,sold,,1610,GBP,Secondary,Secondary,Violin
+,,1997-07-17,95,,"Bailly, Paul",,,sold,,6210,GBP,Secondary,Secondary,Violin
+,,1997-07-17,104,,"Smith, Thomas",,,sold,,1265,GBP,Secondary,Secondary,Violin
+,,1997-07-17,116,,"Chanot, Frederick William",,,sold,,4255,GBP,Secondary,Secondary,Violin
+,,1997-07-17,122,,"Withers, George Thomas Henry",,,sold,,2070,GBP,Secondary,Secondary,Violin
+,,1997-07-17,125,,"Barzoni, François",,,sold,,920,GBP,Secondary,Secondary,Viola
+,,1997-07-17,141,,"Germain, Émile",,,sold,,4140,GBP,Secondary,Secondary,Violin
+,,1997-07-17,145,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1380,GBP,Secondary,Secondary,Violin
+,,1997-07-17,149,,"Drozen, Frantisek Xavier",,,sold,,2070,GBP,Secondary,Secondary,Violin
+,,1997-07-17,151,,"Voigt, Werner August Theodor",,,sold,,1150,GBP,Secondary,Secondary,Violin
+,,1997-07-17,155,,"Thibouville-Lamy, Jérôme Firm",,,sold,,437,GBP,Secondary,Secondary,Violin
+,,1997-07-17,157,,"Mayson, Walter H.",,,sold,,1035,GBP,Secondary,Secondary,Violin
+,,1997-07-17,169,,Neuner & Hornsteiner,,,sold,,368,GBP,Secondary,Secondary,Violin
+,,1997-07-17,171,,"Wolff, Brothers",,,sold,,575,GBP,Secondary,Secondary,Violin
+,,1997-07-17,176,,"Boianciuc, Roman",,,sold,,828,GBP,Secondary,Secondary,Viola
+,,1997-07-17,188,,"Schuster, Edouard",,,sold,,1150,GBP,Secondary,Secondary,Violin
+,,1997-07-17,191,,"Raeburn, John",,,sold,,805,GBP,Secondary,Secondary,Violin
+,,1997-07-17,197,,"Lowendall, Louis",,,sold,,690,GBP,Secondary,Secondary,Violin
+,,1997-07-17,198,,"Gloor, Adolf",,,sold,,1495,GBP,Secondary,Secondary,Cello
+,,1997-07-17,208,,"Thibouville-Lamy, Jérôme Firm",,,sold,,897,GBP,Secondary,Secondary,Violin
+,,1997-07-17,218,,"Wilson, Garner",,,sold,,1058,GBP,Secondary,Secondary,Cello Bow
+,,1997-07-17,219,,"Hill & Sons, W. E. Firm",,,sold,,1610,GBP,Secondary,Secondary,Violin Bow
+,,1997-07-17,222,,"Hill & Sons, W. E. Firm",,,sold,,805,GBP,Secondary,Secondary,Violin Bow
+,,1997-07-17,223,,"Sartory, Eugène Nicolas",,,sold,,9775,GBP,Secondary,Secondary,Cello Bow
+,,1997-07-17,224,,"Lamy, Alfred dit neveu",,,sold,,2990,GBP,Secondary,Secondary,Violin Bow
+,,1997-07-17,225,,"Morizot, Louis Joseph père",,,sold,,1150,GBP,Secondary,Secondary,Violin Bow
+,,1997-07-17,230,,"Cuniot, Eugène ""Cuniot-Hury""",,,sold,,759,GBP,Secondary,Secondary,Cello Bow
+,,1997-07-17,231,,"Hill & Sons, W. E. Firm",,,sold,,2070,GBP,Secondary,Secondary,Cello Bow
+,,1997-07-17,242,,"Hill & Sons, W. E. Firm",,,sold,,1265,GBP,Secondary,Secondary,Cello Bow
+,,1997-07-17,249,,"Hill & Sons, W. E. Firm",,,sold,,1495,GBP,Secondary,Secondary,Cello Bow
+,,1997-07-17,256,,"Hill & Sons, W. E. Firm",,,sold,,196,GBP,Secondary,Secondary,Violin Bow
+,,1997-07-17,317,,"Hill, Joseph I",,,sold,,14950,GBP,Secondary,Secondary,Cello
+,,1997-07-17,319,,"Hill, Joseph I",,,sold,,21850,GBP,Secondary,Secondary,Cello
+,,1997-07-17,342,,"Thibouville-Lamy, Jérôme Firm",,,sold,,1035,GBP,Secondary,Secondary,Cello
+,,1997-07-17,347,,"Thibouville-Lamy, Jérôme Firm",,,sold,,288,GBP,Secondary,Secondary,Violin
+,,1997-07-17,355,,"Thibouville-Lamy, Jérôme Firm",,,sold,,529,GBP,Secondary,Secondary,Violin
+,,1997-07-17,359,,"Vuillaume, Nicolas III",,,sold,,1495,GBP,Secondary,Secondary,Violin
+,,1997-07-17,381,,"Thibouville-Lamy, Jérôme Firm",,,sold,,311,GBP,Secondary,Secondary,Violin
+,,1997-07-17,387,,"Gotz, C. A.",,,sold,,506,GBP,Secondary,Secondary,Viola
+,,1997-07-17,409,,"Thibouville-Lamy, Jérôme Firm",,,sold,,207,GBP,Secondary,Secondary,Violin

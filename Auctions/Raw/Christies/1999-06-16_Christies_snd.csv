@@ -1,0 +1,51 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1999-06-16,101,,"Millant, Roger & Max Firm",,,sold,800,920,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,108,,"Nürnberger, Albert",,,sold,450,518,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,109,,"Colas, Prosper",,,sold,300,345,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,114,,Eugene Cuniot-Hury,,,sold,,402,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,115,,"Penzel, Gerhard Kurt",,,sold,500,575,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,116,,"Hill & Sons, W. E. Firm",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,117,,"Vigneron, Joseph Arthur père",,,sold,800,920,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,119,,"Lotte, François",,,sold,350,402,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,121,,"Voirin, François Nicolas",,,sold,4000,4600,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,122,,"Hill & Sons, W. E. Firm",,,sold,1200,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,124,,"Hill & Sons, W. E. Firm",,,sold,1200,1380,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,126,,"Tubbs, James",,,sold,2800,3220,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,128,,"Sartory, Eugène Nicolas",,,sold,3800,4370,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,130,,"Tubbs, James",,,sold,2600,2990,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,131,,"Lotte, François",,,sold,500,575,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,139,,"Tubbs, James",,,sold,2500,2875,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,142,,"Nicolas, Didier l'aîné",,,sold,600,690,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,145,,"Thibouville-Lamy, Jérôme Firm",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,152,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,800,920,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,154,,ROTH ERNST HEINRICH,,,sold,,2990,GBP,Secondary,Secondary,Violin
+,,1999-06-16,157,,"Hel, Pierre Joseph",,,sold,3200,3680,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,159,,"Nicolas, Didier l'aîné",,,sold,2400,2760,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,160,,"Atkinson, William",,,sold,900,1035,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,164,,"Weller, Frederick",,,sold,500,575,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,171,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,1500,1725,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,173,,"Michetti, Plinio",,,sold,1500,1725,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,175,,"Deblaye, Albert",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,183,,"Mougenot, Léon Victor",,,sold,1300,1495,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,186,,"Havelka, Johann Baptist",,,sold,1400,1610,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,187,,"Craske, George",,,sold,2100,2415,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,188,,"Lucci, Giuseppe",,,sold,6000,6900,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,192,,"Vavra, Josef",,,sold,800,920,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,195,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,1100,1265,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,221,,"Moennig, Fritz",,,sold,2200,2530,GBP,Secondary,Cross-checked,Cello
+,,1999-06-16,223,,"Conia, Stefano",,,sold,2000,2300,GBP,Secondary,Cross-checked,Viola
+,,1999-06-16,225,,Neuner & Hornsteiner,,,sold,3200,3680,GBP,Secondary,Cross-checked,Cello
+,,1999-06-16,228,,Thibouville-Lamy,,,sold,,2990,GBP,Secondary,Cross-checked,Cello
+,,1999-06-16,229,,"Mougenot, Léon Victor",,,sold,3800,4370,GBP,Secondary,Cross-checked,Cello
+,,1999-06-16,231,,"Thibouville-Lamy, Jérôme Firm",,,sold,2200,2530,GBP,Secondary,Cross-checked,Cello
+,,1999-06-16,239,,"Lotte, François",,,sold,250,288,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,240,,Bazin Family,,,sold,180,207,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,245,,"Lapierre, Marcel Charles",,,sold,140,161,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-06-16,250,,"Pfretzschner, Hermann Richard",,,sold,280,322,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,254,,"Rau, August",,,sold,190,218,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,257,,HERRMANN PAUL,,,sold,,92,GBP,Secondary,Secondary,Violin Bow
+,,1999-06-16,259,,"Seifert, Lothar",,,sold,120,138,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,261,,"Lotte, Roger François",,,sold,250,288,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,276,,"Duerer, Wilhelm",,,sold,320,368,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,300,,"Dieudonné, Amédée",,,sold,700,805,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,337,,"Guersan, Louis",,,sold,345,397,GBP,Secondary,Cross-checked,Violin

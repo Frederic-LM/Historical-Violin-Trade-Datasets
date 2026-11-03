@@ -1,0 +1,8 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2003-11-10,8,,"Buchstetter, Gabriel David",,,sold,,10000,EUR,Secondary,Secondary,Violin
+,,2003-11-10,81,,"Bajoni, Luigi",,,sold,,50000,EUR,Secondary,Secondary,Cello
+,,2003-11-10,86,,"Lassi, Francesco",,,sold,,17000,EUR,Secondary,Secondary,Viola
+,,2003-11-10,103,,"Zach, Thomas",,,sold,,12500,EUR,Secondary,Secondary,Violin
+,,2003-11-10,203,,"Durrschmidt, Otto Carl",,,sold,,1400,EUR,Secondary,Secondary,Cello Bow
+,,2003-11-10,206,,"Pfretzschner, Hermann Richard",,,sold,,1300,EUR,Secondary,Secondary,Violin Bow
+,,2003-11-10,231,,"Durrschmidt, Otto Carl",,,sold,,1000,EUR,Secondary,Secondary,Violin Bow

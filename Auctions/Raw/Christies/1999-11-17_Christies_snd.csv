@@ -1,0 +1,60 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1999-11-17,24,,"Contino, Alfredo",,,sold,12000,13800,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,25,,Amedee Dominique Dieudonne,,,sold,,2185,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,28,,"Gemünder, George I",,,sold,7500,8625,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,29,,"Pressenda, Giovanni Francesco",,,sold,35000,40250,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,32,,"Krumbholz, Lorenz",,,sold,2800,3220,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,34,,"Gaida, Giovanni",,,sold,10000,11500,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,38,,MESSON E.,,,sold,,1035,GBP,Secondary,Secondary,Violin
+,,1999-11-17,39,,"Postiglione, Vincenzo II",,,sold,17000,19550,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,40,,"Fétique, Victor François",,,sold,3000,3450,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,42,,"Schuster, Gotthard",,,sold,650,747,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,44,,"Hill & Sons, W. E. Firm",,,sold,1200,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,45,,"Bazin, Charles Louis",,,sold,1300,1495,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,46,,"Tubbs, James",,,sold,3000,3450,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,49,,"Sartory, Eugène Nicolas",,,sold,6000,6900,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,52,,W. E. Hill & Sons,,,sold,,1725,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,56,,"Hill & Sons, W. E. Firm",,,sold,1700,1955,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,58,,"Hill & Sons, W. E. Firm",,,sold,1800,2070,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,60,,"Pfretzschner, Hermann Richard",,,sold,400,460,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,67,,"Bultitude, Arthur Richard",,,sold,1800,2070,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,73,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,2500,2875,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,74,,"Deblaye, Albert",,,sold,1500,1725,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,77,,"Deblaye, Albert",,,sold,1600,1840,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,79,,"Chanot, Georges I",,,sold,10000,11500,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,83,,"Schmitt, Lucien",,,sold,2500,2875,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,86,,"Vuillaume, Jean-Baptiste",,,sold,26000,29900,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,87,,"Thompson, Charles & Samuel",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,88,,"Mangenot, Paul Alexandre",,,sold,1400,1610,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,93,,"Chipot, Paul Jean Baptiste",,,sold,2600,2990,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,96,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,2800,3220,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,104,,"Soffritti, Ettore",,,sold,8000,9200,GBP,Secondary,Cross-checked,Viola
+,,1999-11-17,109,,"Maraviglia, Guido",,,sold,1300,1495,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,128,,"Lamy, Joseph Alfred père",,,sold,2000,2300,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-11-17,129,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,1100,1265,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-11-17,137,,"Sartory, Eugène Nicolas",,,sold,7000,8050,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-11-17,138,,"Vickers, J.E.",,,sold,420,483,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-11-17,145,,"Tubbs, James",,,sold,3200,3680,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,147,,"Vuillaume, Jean-Baptiste",,,sold,1500,1725,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,149,,"Thomassin, Claude Auguste",,,sold,1600,1840,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,151,,"Hill & Sons, W. E. Firm",,,sold,1100,1265,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,153,,"Hill & Sons, W. E. Firm",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,156,,"Vigneron, André 'Vigneron fils'",,,sold,3800,4370,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,161,,"Nürnberger, Albert",,,sold,950,1092,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,162,,"Maline, Guillaume",,,sold,2200,2530,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,164,,"Sartory, Eugène Nicolas",,,sold,5500,6325,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,166,,"Bryant, Percival Wilfred",,,sold,600,690,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,167,,"Bazin, Charles Louis",,,sold,450,518,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,170,,"Pfretzschner, Hermann Richard",,,sold,200,230,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,172,,"Rovatti, Luigi",,,sold,2800,3220,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,180,,"Neuner, Mathias II",,,sold,1200,1380,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,181,,"Henry, Joseph",,,sold,17000,19550,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-11-17,183,,"Mermillot, Maurice",,,sold,6000,6900,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,191,,PIEROTTE JULES,,,sold,,345,GBP,Secondary,Secondary,Violin
+,,1999-11-17,193,,"Couturieux, Michel",,,sold,500,575,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,201,,"Thibouville-Lamy, Jérôme Firm",,,sold,480,552,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,204,,"Thibouville-Lamy, Jérôme Firm",,,sold,600,690,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,230,,"Mangenot, Paul Alexandre",,,sold,700,805,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,232,,"Nicolas, Didier l'aîné",,,sold,700,805,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,233,,RIEGER PAUL,,,sold,,1035,GBP,Secondary,Secondary,Violin
+,,1999-11-17,258,,Kloz Family,,,sold,1400,1610,GBP,Secondary,Secondary,Violin

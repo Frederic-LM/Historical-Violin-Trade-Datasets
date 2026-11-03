@@ -1,0 +1,89 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1991-03-14,1,,"Vincent, Alfred",,,sold,2000,2200,GBP,Secondary,Primary,Violin
+,,1991-03-14,2,,"Winterling, Georg",,,sold,4000,4400,GBP,Secondary,Primary,Violin
+,,1991-03-14,8,,"Withers, Edward I",,,sold,1200,1320,GBP,Secondary,Primary,Violin
+,,1991-03-14,11,,"Deleplanque, Gérard J.",,,sold,1500,1650,GBP,Secondary,Primary,Violin
+,,1991-03-14,13,,"Degani, Eugenio",,,sold,5600,6160,GBP,Secondary,Primary,Violin
+,,1991-03-14,14,,"Vuillaume, Jean-Baptiste",,,sold,36000,39600,GBP,Secondary,Primary,Violin
+,,1991-03-14,15,,"Warrick, A.",,,sold,1500,1650,GBP,Secondary,Primary,Violin
+,,1991-03-14,17,,"Gagliano, Gennaro",,,sold,19000,20900,GBP,Secondary,Primary,Violin
+,,1991-03-14,19,,"Renisto, Andreas",,,sold,1400,1540,GBP,Secondary,Primary,Violin
+,,1991-03-14,20,,"Wulme-Hudson, George",,,sold,2800,3080,GBP,Secondary,Primary,Violin
+,,1991-03-14,21,,"Chanot, Georges Adolphe",,,sold,3000,3300,GBP,Secondary,Primary,Violin
+,,1991-03-14,22,,"Carcassi, Lorenzo & Tomaso",,,sold,25000,27500,GBP,Secondary,Primary,Violin
+,,1991-03-14,23,,"Dvorák, Carolus Boromäus",,,sold,3600,3960,GBP,Secondary,Primary,Violin
+,,1991-03-14,24,,"Homolka, Ferdinand August Vincenz",,,sold,2200,2420,GBP,Secondary,Primary,Violin
+,,1991-03-14,26,,"Amati, Antonio",,,sold,40000,44000,GBP,Secondary,Primary,Violin
+,,1991-03-14,27,,"Hill & Sons, W. E. Firm",,,sold,2000,2200,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,28,,"Tubbs, James",,,sold,2000,2200,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,30,,"Tubbs, James",,,sold,1500,1650,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,37,,"Sartory, Eugène Nicolas",,,sold,2500,2750,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,38,,"Hill & Sons, W. E. Firm",,,sold,1000,1100,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,39,,"Hill & Sons, W. E. Firm",,,sold,1000,1100,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,40,,"Vigneron, André 'Vigneron fils'",,,sold,600,660,GBP,Secondary,Primary,Cello Bow
+,,1991-03-14,41,,"Hums, Albin",,,sold,700,770,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,42,,"Penzel, Gustav",,,sold,250,275,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,43,,"Nürnberger, Albert",,,sold,380,418,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,47,,"Sartory, Eugène Nicolas",,,sold,3600,3960,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,48,,"Hill & Sons, W. E. Firm",,,sold,1200,1320,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,49,,"Tubbs, James",,,sold,5200,5720,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,50,,"Vuillaume, Jean-Baptiste",,,sold,3200,3520,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,52,,"Tubbs, James",,,sold,900,990,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,53,,"Hums, Albin",,,sold,700,770,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,55,,"Wunderlich, Friedrich Wilhelm",,,sold,500,550,GBP,Secondary,Primary,Cello Bow
+,,1991-03-14,56,,"Hill & Sons, W. E. Firm",,,sold,920,1012,GBP,Secondary,Primary,Cello Bow
+,,1991-03-14,57,,Bazin Family,,,sold,850,935,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,62,,Hart & Son,,,sold,700,770,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,63,,"Hill & Sons, W. E. Firm",,,sold,1500,1650,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,64,,"Hill & Sons, W. E. Firm",,,sold,1400,1540,GBP,Secondary,Primary,Viola Bow
+,,1991-03-14,65,,"Withers, George Thomas Henry",,,sold,500,550,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,69,,"Szepessy, Béla",,,sold,340,374,GBP,Secondary,Primary,Viola
+,,1991-03-14,76,,"Hume, Andrew (Alexander)",,,sold,1200,1320,GBP,Secondary,Primary,Violin
+,,1991-03-14,77,,"Gagliano, Giuseppe",,,sold,10000,11000,GBP,Secondary,Primary,Violin
+,,1991-03-14,78,,"Buthod, Charles",,,sold,700,770,GBP,Secondary,Primary,Small Violin
+,,1991-03-14,80,,"Kulik, Johann",,,sold,4200,4620,GBP,Secondary,Primary,Violin
+,,1991-03-14,81,,"Barbieri, Bruno",,,sold,2800,3080,GBP,Secondary,Primary,Violin
+,,1991-03-14,82,,"Gobetti, Francesco",,,sold,20000,22000,GBP,Secondary,Primary,Violin
+,,1991-03-14,83,,"Salzard, François",,,sold,950,1045,GBP,Secondary,Primary,Violin
+,,1991-03-14,85,,"Cuypers, Johannes Theodorus",,,sold,10500,11550,GBP,Secondary,Primary,Violin
+,,1991-03-14,86,,"Vuillaume, Jean-Baptiste",,,sold,27000,29700,GBP,Secondary,Primary,Violin
+,,1991-03-14,87,,"Derazey, Honoré (Jean-Joseph)",,,sold,4200,4620,GBP,Secondary,Primary,Violin
+,,1991-03-14,88,,"Banks, James & Henry",,,sold,8500,9350,GBP,Secondary,Primary,Violin
+,,1991-03-14,90,,"Rugeri, Francesco",,,sold,16000,17600,GBP,Secondary,Primary,Small Violin
+,,1991-03-14,94,,"Kennedy, Thomas",,,sold,8000,8800,GBP,Secondary,Primary,Cello
+,,1991-03-14,97,,"Ventapane, Lorenzo",,,sold,9500,10450,GBP,Secondary,Primary,Cello
+,,1991-03-14,107,,"Guersan, Louis",,,sold,4500,4950,GBP,Secondary,Primary,Cello
+,,1991-03-14,109,,"Norman, Barak",,,sold,1800,1980,GBP,Secondary,Primary,Cello
+,,1991-03-14,113,,"Maline, Guillaume",,,sold,5500,6050,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,114,,"Hill & Sons, W. E. Firm",,,sold,2100,2310,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,115,,"Eury, Jacob (Nicolas)",,,sold,3200,3520,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,116,,"Hill & Sons, W. E. Firm",,,sold,1800,1980,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,117,,"Tubbs, James",,,sold,2400,2640,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,120,,"Hill & Sons, W. E. Firm",,,sold,850,935,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,121,,"Hill & Sons, W. E. Firm",,,sold,1300,1430,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,122,,"Hill & Sons, W. E. Firm",,,sold,1400,1540,GBP,Secondary,Primary,Viola Bow
+,,1991-03-14,124,,"Silvestre, Hippolyte",,,sold,2000,2200,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,126,,"Hill & Sons, W. E. Firm",,,sold,750,825,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,127,,"Voigt, Arnold",,,sold,650,715,GBP,Secondary,Primary,Cello Bow
+,,1991-03-14,129,,"Morizot, Louis Joseph père",,,sold,1100,1210,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,131,,"Sartory, Eugène Nicolas",,,sold,2500,2750,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,132,,"Morizot, Louis Joseph père",,,sold,720,792,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,133,,"Hill & Sons, W. E. Firm",,,sold,1600,1760,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,135,,"Voirin, François Nicolas",,,sold,1800,1980,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,136,,"Vigneron, André 'Vigneron fils'",,,sold,1800,1980,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,137,,"Tubbs, James",,,sold,1300,1430,GBP,Secondary,Primary,Violin Bow
+,,1991-03-14,143,,"Blanchard, Paul Francois",,,sold,4200,4620,GBP,Secondary,Primary,Violin
+,,1991-03-14,145,,"Duke, Richard",,,sold,3500,3850,GBP,Secondary,Primary,Violin
+,,1991-03-14,146,,"Boullangier, Charles",,,sold,4300,4730,GBP,Secondary,Primary,Violin
+,,1991-03-14,152,,"Degani, Eugenio",,,sold,13000,14300,GBP,Secondary,Primary,Violin
+,,1991-03-14,156,,"Banks, James & Henry",,,sold,4000,4400,GBP,Secondary,Primary,Violin
+,,1991-03-14,157,,"Craske, George",,,sold,1000,1100,GBP,Secondary,Primary,Violin
+,,1991-03-14,161,,"Magniere, Gabriel",,,sold,1100,1210,GBP,Secondary,Primary,Violin
+,,1991-03-14,163,,"Widhalm, Martin Leopold (Leopold II)",,,sold,3000,3300,GBP,Secondary,Primary,Violin
+,,1991-03-14,165,,"Vuillaume, Jean-Baptiste",,,sold,32000,35200,GBP,Secondary,Primary,Violin
+,,1991-03-14,166,,"Furber, Matthew",,,sold,2900,3190,GBP,Secondary,Primary,Violin
+,,1991-03-14,167,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,1600,1760,GBP,Secondary,Primary,Violin
+,,1991-03-14,169,,"Gagliano, Ferdinando",,,sold,32000,35200,GBP,Secondary,Primary,Violin
+,,1991-03-14,170,,"Klotz, Aegidius Sebastian",,,sold,4800,5280,GBP,Secondary,Primary,Violin
+,,1991-03-14,173,,"Selva, Giuseppe",,,sold,2700,2970,GBP,Secondary,Primary,Violin
+,,1991-03-14,175,,Perry & Wilkinson Firm,,,sold,700,770,GBP,Secondary,Primary,Violin

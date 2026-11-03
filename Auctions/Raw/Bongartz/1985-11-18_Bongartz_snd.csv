@@ -1,0 +1,175 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1985-11-18,36,,Neuner & Hornsteiner,,,sold,,799,USD,Secondary,Secondary,Violin
+,,1985-11-18,39,,"Bisch, Paul",,,sold,,841,USD,Secondary,Secondary,Violin
+,,1985-11-18,42,,"Auciello, Luigi",,,sold,,926,USD,Secondary,Secondary,Violin
+,,1985-11-18,43,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1851,USD,Secondary,Secondary,Violin
+,,1985-11-18,45,,"Apparut, Georges",,,sold,,1094,USD,Secondary,Secondary,Violin
+,,1985-11-18,46,,"Simonin, Charles II",,,sold,,715,USD,Secondary,Secondary,Violin
+,,1985-11-18,47,,"Capelli, Annibale",,,sold,,1851,USD,Secondary,Secondary,Violin
+,,1985-11-18,49,,"Gavinies, François",,,sold,,1599,USD,Secondary,Secondary,Violin
+,,1985-11-18,50,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2440,USD,Secondary,Secondary,Violin
+,,1985-11-18,52,,"Ferroni, Fernandino",,,sold,,1346,USD,Secondary,Secondary,Violin
+,,1985-11-18,53,,"Delivet, Auguste",,,sold,,1683,USD,Secondary,Secondary,Violin
+,,1985-11-18,54,,"Audinot, Nestor Dominique",,,sold,,2020,USD,Secondary,Secondary,Violin
+,,1985-11-18,55,,"Capela, Antonio",,,sold,,2356,USD,Secondary,Secondary,Violin
+,,1985-11-18,56,,"Bailly, Charles",,,sold,,1683,USD,Secondary,Secondary,Violin
+,,1985-11-18,58,,"Gaibisso, Giovanni Battista",,,sold,,841,USD,Secondary,Secondary,Violin
+,,1985-11-18,60,,"Chanot, Georges I",,,sold,,5722,USD,Secondary,Secondary,Violin
+,,1985-11-18,62,,"Klotz, Sebastian I",,,sold,,3787,USD,Secondary,Secondary,Violin
+,,1985-11-18,63,,"Bisiach, Leandro II",,,sold,,3787,USD,Secondary,Secondary,Violin
+,,1985-11-18,65,,"Soffritti, Ettore",,,sold,,7573,USD,Secondary,Secondary,Violin
+,,1985-11-18,66,,"Germain, Émile",,,sold,,5890,USD,Secondary,Secondary,Violin
+,,1985-11-18,67,,"Hel, Pierre Joseph",,,sold,,9256,USD,Secondary,Secondary,Violin
+,,1985-11-18,68,,"Thoma, Albert",,,sold,,42,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,71,,"Thoma, Albert",,,sold,,126,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,73,,"Herrmann, Lothar Edwin",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,74,,"Morizot, Louis Joseph père",,,sold,,210,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,75,,"Morizot, Louis Joseph père",,,sold,,252,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,76,,"Eury, Jacob (Nicolas)",,,sold,,295,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,79,,"Vigneron, André 'Vigneron fils'",,,sold,,463,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,82,,"Simon, Pierre",,,sold,,2020,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,84,,"Fétique, Victor François",,,sold,,1262,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,85,,"Dorfler, Egidius",,,sold,,799,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,87,,"Pfretzschner, Hermann Richard",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,88,,"Nürnberger, Albert",,,sold,,631,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,89,,"Rau, August",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,90,,"Thomassin, Claude Auguste",,,sold,,673,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,91,,Gand & Bernardel Firm,,,sold,,1136,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,92,,"Schuster, Adolf Curt",,,sold,,168,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,93,,"Deroux, Sébastien Auguste",,,sold,,379,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,96,,"Colas, Prosper",,,sold,,421,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,97,,"Vuillaume, Jean-Baptiste",,,sold,,841,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,99,,"Weichold, Richard",,,sold,,1010,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,100,,"Lavest, Jules",,,sold,,210,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,101,,"Maline, Guillaume",,,sold,,2020,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,102,,"Thomassin, Claude Auguste",,,sold,,337,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,103,,"Ouchard, Émile François",,,sold,,379,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,104,,"Lamy, Alfred dit neveu",,,sold,,505,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,106,,Silvestre & Maucotel,,,sold,,337,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,107,,"Hill & Sons, W. E. Firm",,,sold,,926,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,108,,"Hilaire, Paul",,,sold,,505,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,109,,"Lotte, François",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,110,,"Bailly, Charles",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,114,,"Thomassin, Claude Auguste",,,sold,,926,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,116,,"Bazin, Charles Louis",,,sold,,1094,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,118,,"Fétique, Victor François",,,sold,,4838,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,119,,"Vuillaume, Jean-Baptiste",,,sold,,421,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,121,,"Simon, Pierre",,,sold,,1262,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,122,,"Sartory, Eugène Nicolas",,,sold,,3997,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,123,,"Henry, Joseph",,,sold,,4418,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,124,,"Simon, Pierre",,,sold,,4207,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,127,,Neuner & Hornsteiner,,,sold,,147,USD,Secondary,Secondary,Small Violin
+,,1985-11-18,138,,"Enel, Charles",,,sold,,1178,USD,Secondary,Secondary,Violin
+,,1985-11-18,153,,"Morella, Morglato",,,sold,,6311,USD,Secondary,Secondary,Viola
+,,1985-11-18,154,,"Bailly, Paul",,,sold,,3997,USD,Secondary,Secondary,Violin
+,,1985-11-18,155,,Caressa & Français Firm,,,sold,,4628,USD,Secondary,Secondary,Violin
+,,1985-11-18,156,,"Sannino, Vincenzo",,,sold,,5049,USD,Secondary,Secondary,Violin
+,,1985-11-18,157,,"Klotz, Johann Carl",,,sold,,2104,USD,Secondary,Secondary,Violin
+,,1985-11-18,158,,"Oddone, Carlo Giuseppe",,,sold,,4628,USD,Secondary,Secondary,Violin
+,,1985-11-18,159,,"Maucotel, Charles",,,sold,,3155,USD,Secondary,Secondary,Violin
+,,1985-11-18,160,,"Silvestre, Pierre",,,sold,,8793,USD,Secondary,Secondary,Violin
+,,1985-11-18,162,,"Mangenot, Paul Alexandre",,,sold,,7994,USD,Secondary,Secondary,Cello
+,,1985-11-18,164,,"Thibout, Jacques-Pierre",,,sold,,7994,USD,Secondary,Secondary,Cello
+,,1985-11-18,165,,"Gand, Charles François père",,,sold,,16829,USD,Secondary,Secondary,Violin
+,,1985-11-18,168,,"Landolfi, Pietro Antonio",,,sold,,35762,USD,Secondary,Secondary,Violin
+,,1985-11-18,169,,"Guadagnini, Giovanni Battista",,,sold,,88353,USD,Secondary,Secondary,Violin
+,,1985-11-18,196,,Caressa & Français Firm,,,sold,,1178,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,198,,"Durrschmidt, Otto Carl",,,sold,,252,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,199,,"Laberte, Marc André Joseph",,,sold,,295,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,201,,"Duhaut, Gilles",,,sold,,210,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,202,,"Gauthie, Pierre",,,sold,,295,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,204,,"Prager, Gustav Adolf",,,sold,,168,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,210,,"Peccatte, Charles",,,sold,,2735,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,211,,"Henry, Joseph",,,sold,,3155,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,214,,Bazin Family,,,sold,,884,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,215,,"Knopf, Carl Heinrich",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,216,,"Bultitude, Arthur Richard",,,sold,,926,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,217,,"Tubbs, James",,,sold,,1515,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,218,,"Acoulon, Alexandre Alfred",,,sold,,295,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,219,,"Tubbs, James",,,sold,,757,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,220,,"Morizot, Louis Joseph père",,,sold,,547,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,221,,"Hill & Sons, W. E. Firm",,,sold,,1262,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,222,,"Maire, Nicolas Rémy",,,sold,,631,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,226,,"Adam, Jean Dominique",,,sold,,2945,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,228,,"Sartory, Eugène Nicolas",,,sold,,3576,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,229,,"Husson, Mars Auguste",,,sold,,1094,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,231,,"Bazin, Charles Louis",,,sold,,1094,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,232,,"Morizot, Louis Joseph père",,,sold,,379,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,233,,"Tubbs, James",,,sold,,2104,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,235,,"Vuillaume, Jean-Baptiste",,,sold,,1683,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,239,,Neuner & Hornsteiner,,,sold,,547,USD,Secondary,Secondary,Violin
+,,1985-11-18,242,,"Thibouville-Lamy, Jérôme Firm",,,sold,,337,USD,Secondary,Secondary,Violin
+,,1985-11-18,246,,"Delanoy, Alexandre",,,sold,,1262,USD,Secondary,Secondary,Violin
+,,1985-11-18,248,,"Ficker, Carl Friedrich",,,sold,,1767,USD,Secondary,Secondary,Violin
+,,1985-11-18,250,,"Nicolas, Didier l'aîné",,,sold,,926,USD,Secondary,Secondary,Violin
+,,1985-11-18,251,,"Chappuy, Nicolas Augustin",,,sold,,379,USD,Secondary,Secondary,Violin
+,,1985-11-18,252,,"Derazey, Honoré (Jean-Joseph)",,,sold,,463,USD,Secondary,Secondary,Violin
+,,1985-11-18,253,,"Mangenot, Paul Alexandre",,,sold,,1683,USD,Secondary,Secondary,Violin
+,,1985-11-18,254,,"Dieudonné, Amédée",,,sold,,1010,USD,Secondary,Secondary,Violin
+,,1985-11-18,255,,"Meier-Pauselius, Wilhelm",,,sold,,715,USD,Secondary,Secondary,Violin
+,,1985-11-18,256,,"Viertel, Holm",,,sold,,1515,USD,Secondary,Secondary,Violin
+,,1985-11-18,257,,"Leidolff, Johann Christoph",,,sold,,2314,USD,Secondary,Secondary,Violin
+,,1985-11-18,258,,"Geissenhof, Franz",,,sold,,1683,USD,Secondary,Secondary,Violin
+,,1985-11-18,264,,"Olry, J.",,,sold,,3997,USD,Secondary,Secondary,Cello
+,,1985-11-18,267,,"Marengo Rinaldi, Romano",,,sold,,3787,USD,Secondary,Secondary,Violin
+,,1985-11-18,268,,"Klotz, Matthias I",,,sold,,3997,USD,Secondary,Secondary,Violin
+,,1985-11-18,269,,"Silvestre, Hippolyte Chrétien",,,sold,,2104,USD,Secondary,Secondary,Violin
+,,1985-11-18,270,,"Miremont, Claude Augustin",,,sold,,6732,USD,Secondary,Secondary,Violin
+,,1985-11-18,271,,"Vuillaume, Jean-Baptiste",,,sold,,23561,USD,Secondary,Secondary,Violin
+,,1985-11-18,272,,"Blanchard, Paul Francois",,,sold,,5469,USD,Secondary,Secondary,Violin
+,,1985-11-18,273,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,8415,USD,Secondary,Secondary,Viola
+,,1985-11-18,274,,"Guadagnini, Giovanni Battista",,,sold,,67317,USD,Secondary,Secondary,Violin
+,,1985-11-18,275,,"Pfretzschner, Hermann Richard",,,sold,,231,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,277,,"Prager, Gustav Adolf",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,278,,"Seifert, Lothar",,,sold,,168,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,279,,"Voirin, François Nicolas",,,sold,,379,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,280,,"Finkel, Johannes S.",,,sold,,715,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,281,,"Hill & Sons, W. E. Firm",,,sold,,968,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,282,,"Pfretzschner, Hermann Richard",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,284,,"Millant, Jean-Jacques",,,sold,,463,USD,Secondary,Secondary,Viola Bow
+,,1985-11-18,285,,"Peccatte, Charles",,,sold,,2735,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,287,,"Lamy, Alfred dit neveu",,,sold,,757,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,288,,"Millant, Jean-Jacques",,,sold,,505,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,289,,"Pfretzschner, Hermann Richard",,,sold,,379,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,291,,"Hill & Sons, W. E. Firm",,,sold,,673,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,292,,"Hill & Sons, W. E. Firm",,,sold,,841,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,293,,Silvestre & Maucotel,,,sold,,337,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,294,,"Penzel, Emil Max",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,296,,"Weidhaas, Paul",,,sold,,210,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,298,,"Buthod, Charles",,,sold,,505,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,300,,"Voirin, François Nicolas",,,sold,,1599,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,301,,"Knopf, Carl Heinrich",,,sold,,1136,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,303,,"Lamy, Alfred dit neveu",,,sold,,1935,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,305,,"Voirin, François Nicolas",,,sold,,1767,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,306,,"Herrmann, Emil",,,sold,,126,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,307,,Bazin Family,,,sold,,379,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,308,,"Hoyer, Carl Adolf",,,sold,,168,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,309,,"Voirin, François Nicolas",,,sold,,295,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,319,,"Prager, Gustav Adolf",,,sold,,126,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,322,,"Bazin, Gustave",,,sold,,421,USD,Secondary,Secondary,Violin
+,,1985-11-18,323,,"Le Lyonnais, Charles",,,sold,,841,USD,Secondary,Secondary,Violin
+,,1985-11-18,325,,"Voiry, Charles Pierre",,,sold,,1178,USD,Secondary,Secondary,Violin
+,,1985-11-18,327,,"Franke, Rodolph",,,sold,,1178,USD,Secondary,Secondary,Violin
+,,1985-11-18,328,,"Boquay, Jacques",,,sold,,631,USD,Secondary,Secondary,Violin
+,,1985-11-18,330,,"Perrin, François",,,sold,,799,USD,Secondary,Secondary,Violin
+,,1985-11-18,331,,"Thibouville-Lamy, Jérôme Firm",,,sold,,968,USD,Secondary,Secondary,Viola
+,,1985-11-18,335,,"Dieudonné, Amédée",,,sold,,1262,USD,Secondary,Secondary,Violin
+,,1985-11-18,336,,"Cherpitel, Louis",,,sold,,1178,USD,Secondary,Secondary,Violin
+,,1985-11-18,340,,"Hoffmann, Ignaz",,,sold,,1262,USD,Secondary,Secondary,Violin
+,,1985-11-18,344,,"Lippold, Carl Friedrich",,,sold,,379,USD,Secondary,Secondary,Violin
+,,1985-11-18,351,,"Bausch, Josef",,,sold,,463,USD,Secondary,Secondary,Violin
+,,1985-11-18,352,,"Nicolas, Didier l'aîné",,,sold,,379,USD,Secondary,Secondary,Violin
+,,1985-11-18,353,,"Sartory, Eugène Nicolas",,,sold,,2314,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,355,,"Audinot, Victor",,,sold,,3997,USD,Secondary,Secondary,Cello
+,,1985-11-18,356,,"Klotz, Georg Karl II",,,sold,,4207,USD,Secondary,Secondary,Violin
+,,1985-11-18,357,,"Aldric, Jean-François",,,sold,,4207,USD,Secondary,Secondary,Violin
+,,1985-11-18,358,,"Vuillaume, Jean-Baptiste",,,sold,,29451,USD,Secondary,Secondary,Violin
+,,1985-11-18,359,,"Laurent, Émile père",,,sold,,4628,USD,Secondary,Secondary,Violin
+,,1985-11-18,360,,"Fétique, Jules",,,sold,,2314,USD,Secondary,Secondary,Violin Bow
+,,1985-11-18,364,,"Fétique, Victor François",,,sold,,3787,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,365,,"Klotz, Aegidius Sebastian",,,sold,,6101,USD,Secondary,Secondary,Violin
+,,1985-11-18,366,,"Gagliano, Nicolò",,,sold,,12622,USD,Secondary,Secondary,Violin
+,,1985-11-18,369,,"Boulangeot, Emile",,,sold,,3366,USD,Secondary,Secondary,Violin
+,,1985-11-18,373,,"Vigneron, André 'Vigneron fils'",,,sold,,2524,USD,Secondary,Secondary,Cello Bow
+,,1985-11-18,375,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,27347,USD,Secondary,Secondary,Cello
+,,1985-11-18,377,,"Sartory, Eugène Nicolas",,,sold,,3366,USD,Secondary,Secondary,Violin Bow

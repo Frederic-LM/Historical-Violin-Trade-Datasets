@@ -1,0 +1,154 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1985-11-14,1,,"Pedrazzini, Giuseppe",,,sold,,8140,GBP,Secondary,Secondary,Violin
+,,1985-11-14,2,,"Silvestre, Pierre",,,sold,,4840,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,3,,"Fagnola, Annibale",,,sold,,9020,GBP,Secondary,Secondary,Violin
+,,1985-11-14,6,,"Chanot, Georges I",,,sold,,2640,GBP,Secondary,Secondary,Violin
+,,1985-11-14,7,,"Schwarz, Giovanni",,,sold,,3960,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,8,,"Vuillaume, Jean-Baptiste",,,sold,,28600,GBP,Secondary,Secondary,Violin
+,,1985-11-14,10,,"Balestrieri, Tommaso",,,sold,,30800,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,11,,"Urquhart, Thomas",,,sold,,3080,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,12,,"Sartory, Eugène Nicolas",,,sold,,2860,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,13,,"Beare, John & Arthur",,,sold,,1210,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,15,,"Voirin, François Nicolas",,,sold,,1650,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,16,,"Tubbs, James",,,sold,,2420,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,17,,"Dodd, John I",,,sold,,1760,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,18,,"Voirin, François Nicolas",,,sold,,1980,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,19,,"Dodd, John I",,,sold,,1540,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,20,,"Sartory, Eugène Nicolas",,,sold,,1100,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,22,,"Gagliano, Nicolò",,,sold,,17600,GBP,Secondary,Secondary,Violin
+,,1985-11-14,23,,"Hill & Sons, W. E. Firm",,,sold,,2200,GBP,Secondary,Secondary,Violin
+,,1985-11-14,24,,"Arassi, Enzo",,,sold,,2310,GBP,Secondary,Secondary,Violin
+,,1985-11-14,26,,"Gadda, Gaetano",,,sold,,5060,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,28,,Perry & Wilkinson Firm,,,sold,,1870,GBP,Secondary,Secondary,Violin
+,,1985-11-14,29,,"Merlin, Joseph",,,sold,,2090,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,30,,"Eberle, Tomaso",,,sold,,11000,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,31,,"Gaida, Giovanni",,,sold,,5500,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,34,,"Gragnani, Antonio",,,sold,,17600,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,36,,"Amati, Nicolò",,,sold,,53900,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,37,,"Zanotti, Antonio",,,sold,,12100,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,40,,"Rayman, Jacob",,,sold,,10450,GBP,Secondary,Cross-checked,Viola
+,,1985-11-14,41,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2420,GBP,Secondary,Cross-checked,Viola
+,,1985-11-14,42,,"Vincent, Alfred",,,sold,,2200,GBP,Secondary,Cross-checked,Viola
+,,1985-11-14,43,,"Lott, John Frederick II",,,sold,,7150,GBP,Secondary,Cross-checked,Viola
+,,1985-11-14,44,,"Hill, Joseph I",,,sold,,13200,GBP,Secondary,Cross-checked,Viola
+,,1985-11-14,45,,"Tubbs, James",,,sold,,2750,GBP,Secondary,Cross-checked,Violin Bow
+,,1985-11-14,46,,"Hill & Sons, W. E. Firm",,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,47,,"Sartory, Eugène Nicolas",,,sold,,4840,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,48,,"Pajeot, Étienne",,,sold,,3520,GBP,Secondary,Cross-checked,Violin Bow
+,,1985-11-14,49,,"Hill & Sons, W. E. Firm",,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,50,,"Nürnberger, Karl Albert II",,,sold,,1540,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,51,,"Hill & Sons, W. E. Firm",,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,52,,"Fétique, Victor François",,,sold,,2090,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,53,,"Tubbs, James",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,54,,"Vigneron, André 'Vigneron fils'",,,sold,,2200,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,55,,"Nürnberger, Franz Albert I",,,sold,,2750,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,56,,"Sartory, Eugène Nicolas",,,sold,,2970,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,57,,"Lamy, Joseph Alfred père",,,sold,,3520,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,59,,"Hill & Sons, W. E. Firm",,,sold,,3520,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,60,,"Hill & Sons, W. E. Firm",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,61,,"Tubbs, James",,,sold,,1210,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,62,,"Bristow, Stephen",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,63,,"Hill & Sons, W. E. Firm",,,sold,,1375,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,64,,"Voirin, François Nicolas",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,65,,"Gragnani, Antonio",,,sold,,9350,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,66,,"Sgarbi, Giuseppe",,,sold,,4400,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,67,,"Brugère, Charles Georges",,,sold,,3520,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,70,,"Vuillaume, Jean-Baptiste",,,sold,,19800,GBP,Secondary,Secondary,Violin
+,,1985-11-14,71,,"Szepessy, Béla",,,sold,,3740,GBP,Secondary,Secondary,Violin
+,,1985-11-14,74,,"Pedrazzini, Giuseppe",,,sold,,5500,GBP,Secondary,Secondary,Violin
+,,1985-11-14,78,,"Guarneri, Pietro of Mantua",,,sold,,52800,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,79,,"Schwarz, Giovanni",,,sold,,2860,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,80,,"Amati, Antonio & Girolamo",,,sold,,16500,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,81,,"Testore, Paolo Antonio",,,sold,,9350,GBP,Secondary,Cross-checked,Cello
+,,1985-11-14,83,,"Banks, Benjamin",,,sold,,6380,GBP,Secondary,Cross-checked,Cello
+,,1985-11-14,89,,"Hill & Sons, W. E. Firm",,,sold,,1540,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,91,,"Hill & Sons, W. E. Firm",,,sold,,1430,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,94,,"Peccatte, Charles",,,sold,,3740,GBP,Secondary,Cross-checked,Cello Bow
+,,1985-11-14,96,,"Adam, Jean 'Grand'",,,sold,,5940,GBP,Secondary,Cross-checked,Violin Bow
+,,1985-11-14,98,,"Hill & Sons, W. E. Firm",,,sold,,1430,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,99,,"Hill & Sons, W. E. Firm",,,sold,,1430,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,100,,"Sartory, Eugène Nicolas",,,sold,,1760,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,101,,"Tubbs, James",,,sold,,1760,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,102,,"Vuillaume, Jean-Baptiste",,,sold,,1650,GBP,Secondary,Cross-checked,Violin Bow
+,,1985-11-14,103,,"Hill & Sons, W. E. Firm",,,sold,,880,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,104,,"Rocca, Giuseppe Antonio",,,sold,,35200,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,106,,"Kennedy, Thomas",,,sold,,2750,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,112,,"Derazey, Honoré (Jean-Joseph)",,,sold,,3080,GBP,Secondary,Secondary,Violin
+,,1985-11-14,114,,"Szepessy, Béla",,,sold,,3300,GBP,Secondary,Secondary,Violin
+,,1985-11-14,138,,"Vincent, Alfred",,,sold,,2980,GBP,Secondary,Secondary,Violin
+,,1985-11-14,139,,"Day, William Samuel I",,,sold,,418,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,144,,"Claudot, Nicolas",,,sold,,495,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,146,,"Liessem, Remerus",,,sold,,935,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,150,,"Colin, Jean Baptiste",,,sold,,1045,GBP,Secondary,Secondary,Violin
+,,1985-11-14,151,,"Klotz, Aegidius Sebastian",,,sold,,1155,GBP,Secondary,Secondary,Violin
+,,1985-11-14,154,,Kloz Family,,,sold,,1430,GBP,Secondary,Secondary,Violin
+,,1985-11-14,155,,"Hill, Henry Lockey",,,sold,,3080,GBP,Secondary,Secondary,Violin
+,,1985-11-14,165,,"Mayson, Walter H.",,,sold,,352,GBP,Secondary,Secondary,Violin
+,,1985-11-14,173,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1650,GBP,Secondary,Secondary,Violin
+,,1985-11-14,178,,"Prager, August Edwin",,,sold,,308,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,182,,"Serdet, Paul",,,sold,,462,GBP,Secondary,Cross-checked,Viola Bow
+,,1985-11-14,184,,"Hill & Sons, W. E. Firm",,,sold,,528,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,185,,"Hill & Sons, W. E. Firm",,,sold,,638,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,186,,"Nürnberger, Albert",,,sold,,385,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,188,,"Voigt, Arnold",,,sold,,385,GBP,Secondary,Cross-checked,Viola Bow
+,,1985-11-14,189,,"Hill & Sons, W. E. Firm",,,sold,,770,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,190,,"Weichold, Richard",,,sold,,330,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,191,,"Hill & Sons, W. E. Firm",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,194,,"Hill & Sons, W. E. Firm",,,sold,,605,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,195,,Silvestre & Maucotel,,,sold,,605,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,196,,"Hill & Sons, W. E. Firm",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,203,,"Hill & Sons, W. E. Firm",,,sold,,495,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,204,,Caressa & Français Firm,,,sold,,352,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,205,,"Bryant, Percival Wilfred",,,sold,,990,GBP,Secondary,Cross-checked,Viola Bow
+,,1985-11-14,207,,"Paulus, Johannes O.",,,sold,,440,GBP,Secondary,Cross-checked,Violin Bow
+,,1985-11-14,208,,"Hill & Sons, W. E. Firm",,,sold,,770,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,209,,"Nürnberger, Franz Albert I",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,210,,"Hill & Sons, W. E. Firm",,,sold,,825,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,211,,"Vigneron, André 'Vigneron fils'",,,sold,,1430,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,212,,"Hill & Sons, W. E. Firm",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,217,,"Magniere, Gabriel",,,sold,,1210,GBP,Secondary,Cross-checked,Viola
+,,1985-11-14,226,,"Thibouville-Lamy, Jérôme Firm",,,sold,,352,GBP,Secondary,Secondary,Cello
+,,1985-11-14,232,,"Thibouville-Lamy, Jérôme Firm",,,sold,,550,GBP,Secondary,Secondary,Cello
+,,1985-11-14,236,,"Thibouville-Lamy, Jérôme Firm",,,sold,,990,GBP,Secondary,Secondary,Cello
+,,1985-11-14,240,,"Knoll, Alfred",,,sold,,154,GBP,Secondary,Secondary,Bass Bow
+,,1985-11-14,241,,"Hill & Sons, W. E. Firm",,,sold,,462,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,243,,"Hill & Sons, W. E. Firm",,,sold,,385,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,246,,"Kessler, Ernst",,,sold,,352,GBP,Secondary,Cross-checked,Violin Bow
+,,1985-11-14,247,,"Hums, Albin",,,sold,,495,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,248,,"Hill & Sons, W. E. Firm",,,sold,,935,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,249,,"Hel, Pierre Joseph",,,sold,,495,GBP,Secondary,Cross-checked,Cello Bow
+,,1985-11-14,254,,"Lamy, Alfred dit neveu",,,sold,,880,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,255,,"Wilson, Garner",,,sold,,605,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,256,,"Penzel, Gerhard Kurt",,,sold,,528,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,257,,"Voigt, Arnold",,,sold,,220,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,259,,"Thomassin, Claude Auguste",,,sold,,198,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,261,,"Hill & Sons, W. E. Firm",,,sold,,495,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,262,,"Hill & Sons, W. E. Firm",,,sold,,660,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,263,,"Hill & Sons, W. E. Firm",,,sold,,770,GBP,Secondary,Secondary,Cello Bow
+,,1985-11-14,264,,"Hill & Sons, W. E. Firm",,,sold,,440,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,266,,"Chanot, Frederick William",,,sold,,385,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,270,,"Tubbs, James",,,sold,,2200,GBP,Secondary,Secondary,Viola Bow
+,,1985-11-14,271,,"Pfretzschner, Hermann Richard",,,sold,,605,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,272,,"Hill & Sons, W. E. Firm",,,sold,,825,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,273,,"Tubbs, James",,,sold,,1540,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,274,,"Sartory, Eugène Nicolas",,,sold,,1760,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,275,,"Bryant, Percival Wilfred",,,sold,,418,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,276,,"Hill & Sons, W. E. Firm",,,sold,,825,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,277,,"Tubbs, William",,,sold,,1045,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,278,,"Thomassin, Claude Auguste",,,sold,,495,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,279,,"Sartory, Eugène Nicolas",,,sold,,1320,GBP,Secondary,Secondary,Violin Bow
+,,1985-11-14,286,,"Hesketh, Thomas Earle",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,1985-11-14,290,,"Vincent, Alfred",,,sold,,990,GBP,Secondary,Secondary,Violin
+,,1985-11-14,294,,"Moya, Hidalgo",,,sold,,935,GBP,Secondary,Secondary,Violin
+,,1985-11-14,295,,"Armour-Brown, Rowan",,,sold,,880,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,296,,"Nicolas, Didier l'aîné",,,sold,,330,GBP,Secondary,Secondary,Violin
+,,1985-11-14,299,,"Werro, Jean",,,sold,,1155,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,305,,"Nicolas, Joseph (fils)",,,sold,,660,GBP,Secondary,Secondary,Violin
+,,1985-11-14,314,,"Thibouville-Lamy, Jérôme Firm",,,sold,,220,GBP,Secondary,Secondary,Small Violin
+,,1985-11-14,317,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,1985-11-14,320,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1210,GBP,Secondary,Secondary,Violin
+,,1985-11-14,329,,"Pyne, George",,,sold,,1320,GBP,Secondary,Secondary,Violin
+,,1985-11-14,330,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,990,GBP,Secondary,Secondary,Violin
+,,1985-11-14,333,,"Thibouville-Lamy, Jérôme Firm",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1985-11-14,338,,"Vuillaume, Nicolas III",,,sold,,1980,GBP,Secondary,Cross-checked,Violin
+,,1985-11-14,339,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1980,GBP,Secondary,Secondary,Violin

@@ -1,0 +1,75 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1998-11-08,68,,"Craske, George",,,sold,,5462,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,69,,"Knopf, Heinrich (Henry) Richard",,,sold,,2875,USD,Secondary,Secondary,Violin
+,,1998-11-08,70,,"Michetti, Plinio",,,sold,,7475,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,71,,"Roth, Ernst Heinrich",,,sold,,2415,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,72,,Gand & Bernardel Firm,,,sold,,16100,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,76,,"Friedrich, John",,,sold,,2300,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,77,,"Castello, Paolo",,,sold,,10350,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,78,,"Klotz, Aegidius Sebastian",,,sold,,4255,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,82,,"Sgarabotto, Gaetano",,,sold,,26450,USD,Secondary,Secondary,Violin
+,,1998-11-08,83,,"Albanelli, Franco",,,sold,,2990,USD,Secondary,Secondary,Violin
+,,1998-11-08,84,,"Dolling, Robert A.",,,sold,,1495,USD,Secondary,Secondary,Violin
+,,1998-11-08,87,,"Kaul, Paul",,,sold,,2990,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,93,,"Roth, Ernst Heinrich",,,sold,,1092,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,97,,"Nupieri, Giuseppe",,,sold,,1150,USD,Secondary,Secondary,Violin
+,,1998-11-08,118,,"Duke, Richard",,,sold,,1495,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,119,,"Lutz, Ignaz Anton",,,sold,,4485,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,120,,"Nupieri, Giuseppe",,,sold,,1495,USD,Secondary,Secondary,Violin
+,,1998-11-08,121,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,4255,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,127,,"Vigneron, Joseph Arthur père",,,sold,,2415,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,133,,"Hill & Sons, W. E. Firm",,,sold,,1380,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,139,,"Lapierre, Marcel Charles",,,sold,,1265,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,140,,"Hill & Sons, W. E. Firm",,,sold,,2530,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,142,,"Nürnberger, Albert",,,sold,,1092,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,143,,"Tubbs, James",,,sold,,2990,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,144,,"Ouchard, Émile-Auguste",,,sold,,6037,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,145,,"Hill & Sons, W. E. Firm",,,sold,,1610,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,147,,"Fétique, Jules",,,sold,,5750,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,149,,"Hill & Sons, W. E. Firm",,,sold,,3450,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,150,,"Maline, Guillaume",,,sold,,11500,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,152,,"Tubbs, James",,,sold,,6037,USD,Secondary,Cross-checked,Viola Bow
+,,1998-11-08,157,,"Nürnberger, Albert",,,sold,,805,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,158,,"Pfretzschner, Hermann Richard",,,sold,,1035,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,164,,"Fendt, Bernard Simon II",,,sold,,13800,USD,Secondary,Cross-checked,Viola
+,,1998-11-08,165,,"Forster, William III",,,sold,,12650,USD,Secondary,Secondary,Viola
+,,1998-11-08,175,,"Ferroni, Fernandino",,,sold,,2645,USD,Secondary,Cross-checked,Viola
+,,1998-11-08,177,,"Contavalli, Primo",,,sold,,3680,USD,Secondary,Cross-checked,Viola
+,,1998-11-08,182,,"Kennedy, Thomas",,,sold,,9487,USD,Secondary,Secondary,Cello
+,,1998-11-08,207,,"Heberlein, Heinrich Theodore",,,sold,,2530,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,208,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3565,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,210,,"Pajeot, Étienne",,,sold,,13800,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,213,,"Sartory, Eugène Nicolas",,,sold,,5750,USD,Secondary,Secondary,Cello Bow
+,,1998-11-08,223,,"Gerome, Roger",,,sold,,1725,USD,Secondary,Secondary,Cello Bow
+,,1998-11-08,232,,"Hill & Sons, W. E. Firm",,,sold,,2875,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,235,,"Hill & Sons, W. E. Firm",,,sold,,3220,USD,Secondary,Cross-checked,Viola Bow
+,,1998-11-08,238,,"Weichold, Richard",,,sold,,1725,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,241,,"Grünke, Richard",,,sold,,920,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,245,,"Tubbs, James",,,sold,,2875,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,246,,"Prell, Hermann Wilhelm",,,sold,,1035,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,249,,"Schuster, Adolf Curt",,,sold,,1495,USD,Secondary,Cross-checked,Viola Bow
+,,1998-11-08,254,,"Weichold, Richard",,,sold,,488,USD,Secondary,Secondary,Violin Bow
+,,1998-11-08,261,,"Callier, Frank J.",,,sold,,345,USD,Secondary,Cross-checked,Violin Bow
+,,1998-11-08,271,,"Schuster, Gotthard",,,sold,,805,USD,Secondary,Cross-checked,Cello Bow
+,,1998-11-08,300,,"Beyer, George W.",,,sold,,690,USD,Secondary,Cross-checked,Viola
+,,1998-11-08,307,,"Bryant, L. D.",,,sold,,488,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,308,,"Spitz, Jóssef",,,sold,,747,USD,Secondary,Secondary,Violin
+,,1998-11-08,318,,"Peters, William L.",,,sold,,1610,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,330,,"Reichert, Eduard",,,sold,,431,USD,Secondary,Secondary,Small Violin
+,,1998-11-08,331,,"Martin, E. Firm",,,sold,,402,USD,Secondary,Secondary,Small Violin
+,,1998-11-08,332,,"Heinel, Oskar Bernhard",,,sold,,805,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,333,,"Reichert, Eduard",,,sold,,316,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,335,,"Heberlein, Heinrich Theodore",,,sold,,805,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,336,,"Willard, Eli A.",,,sold,,488,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,338,,"Wilkanowski, William",,,sold,,517,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,339,,"Smith, William",,,sold,,201,USD,Secondary,Secondary,Violin
+,,1998-11-08,347,,"Juzek, Jan (John)",,,sold,,546,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,349,,"Ball, Harvey",,,sold,,1150,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,350,,"Hopf, David",,,sold,,1380,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,365,,"Colin, Jean Baptiste",,,sold,,920,USD,Secondary,Secondary,Violin
+,,1998-11-08,368,,"Nicolas, Didier l'aîné",,,sold,,488,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,395,,"Neuner, Mathias II",,,sold,,345,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,434,,"Bullard, Olin B.",,,sold,,920,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,435,,"Henning, Gustav",,,sold,,690,USD,Secondary,Cross-checked,Violin
+,,1998-11-08,437,,"Sgarabotto, Pietro",,,sold,,977,USD,Secondary,Secondary,Violin
+,,1998-11-08,462,,"Ficker, Johann Christian II",,,sold,,1840,USD,Secondary,Cross-checked,Violin

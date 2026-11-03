@@ -1,0 +1,24 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,110,,"Howell, T.",,,sold,800,940,GBP,Secondary,Secondary,Viola
+,,,112,,"Caussin, François",,,sold,1800,2115,GBP,Secondary,Secondary,Violin
+,,,126,,"Guastalla, Dante & Alfredo",,,sold,4400,5170,GBP,Secondary,Secondary,Violin
+,,,148,,"Roth, Ernst Heinrich",,,sold,1200,1410,GBP,Secondary,Cross-checked,Violin
+,,,149,,"Vuillaume, Nicolas III",,,sold,4500,5288,GBP,Secondary,Secondary,Violin
+,,,152,,"Smith, Bert",,,sold,400,470,GBP,Secondary,Cross-checked,Violin
+,,,165,,"Laberte, Marc André Joseph",,,sold,500,588,GBP,Secondary,Secondary,Violin Bow
+,,,168,,"Hill & Sons, W. E. Firm",,,sold,1450,1704,GBP,Secondary,Cross-checked,Violin Bow
+,,,169,,"Vuillaume, Jean-Baptiste",,,sold,1800,2115,GBP,Secondary,Secondary,Violin Bow
+,,,179,,"Sartory, Eugène Nicolas",,,sold,2600,3055,GBP,Secondary,Secondary,Violin Bow
+,,,183,,"Bryant, Percival Wilfred",,,sold,500,588,GBP,Secondary,Cross-checked,Violin Bow
+,,,185,,"Hill & Sons, W. E. Firm",,,sold,1400,1645,GBP,Secondary,Secondary,Violin Bow
+,,,188,,"Wilson, Garner",,,sold,700,822,GBP,Secondary,Secondary,Violin Bow
+,,,189,,"Hill & Sons, W. E. Firm",,,sold,1450,1704,GBP,Secondary,Secondary,Violin Bow
+,,,190,,"Tubbs, James",,,sold,800,940,GBP,Secondary,Secondary,Violin Bow
+,,,195,,"Mettal, Walter",,,sold,180,212,GBP,Secondary,Secondary,Viola Bow
+,,,216,,"Taylor, Michael",,,sold,1200,1410,GBP,Secondary,Secondary,Violin Bow
+,,,263,,"Kriner, Simon",,,sold,2900,3408,GBP,Secondary,Cross-checked,Cello
+,,,272,,"Grandjon, Prosper Gérard père",,,sold,280,329,GBP,Secondary,Cross-checked,Small Violin
+,,,302,,"Schmidt, Ernst Reinhold",,,sold,600,705,GBP,Secondary,Cross-checked,Violin
+,,,303,,"Striebig, Jean",,,sold,340,400,GBP,Secondary,Cross-checked,Violin
+,,,308,,"Perry, Thomas II",,,sold,600,705,GBP,Secondary,Secondary,Violin
+,,,340,,"Couturieux, Michel",,,sold,650,764,GBP,Secondary,Secondary,Violin

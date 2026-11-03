@@ -1,0 +1,12 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2003-04-04,19,,"Jirowsky, Anton",,,sold,,4000,EUR,Secondary,Secondary,Violin
+,,2003-04-04,48,,"Pfretzschner, Hermann Richard",,,sold,,1200,EUR,Secondary,Secondary,Violin Bow
+,,2003-04-04,68,,"Fagnola, Annibale",,,sold,,40000,EUR,Secondary,Secondary,Violin
+,,2003-04-04,69,,"Geissenhof, Franz",,,sold,,20000,EUR,Secondary,Secondary,Violin
+,,2003-04-04,78,,"Sannino, Vincenzo",,,sold,,17000,EUR,Secondary,Secondary,Violin
+,,2003-04-04,85,,"Albani, Matthias II",,,sold,,30000,EUR,Secondary,Secondary,Cello
+,,2003-04-04,108,,"Brandl, Carl (Károly)",,,sold,,1200,EUR,Secondary,Secondary,Violin
+,,2003-04-04,136,,"Weidhaas, Paul",,,sold,,1000,EUR,Secondary,Secondary,Violin Bow
+,,2003-04-04,138,,"Durrschmidt, Otto Carl",,,sold,,750,EUR,Secondary,Secondary,Violin Bow
+,,2003-04-04,145,,"Herrmann, Lothar Edwin",,,sold,,500,EUR,Secondary,Secondary,Viola Bow
+,,2003-04-04,152,,"Penzel, Emil Max",,,sold,,360,EUR,Secondary,Secondary,Violin Bow

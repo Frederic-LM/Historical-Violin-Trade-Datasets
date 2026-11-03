@@ -1,0 +1,339 @@
+﻿house_folder,file,sale_number,sale_title,first_day,last_day,place,country,currency,text_language,lots,sold,unsold,withdrawn,status_not_given,prices_published,text_source,price_source,buyer_premium
+Aguttes,Aguttes/2022-06-03_Aguttes_V18996.csv,V18996,Violons & Archets,2022-06-03,2022-06-03,,France,EUR,French (English text in description_english),14,14,0,0,0,hammer,Primary,Primary,"25 % + VAT up to EUR 150 000, 23 % + VAT above"
+Aguttes,Aguttes/2023-06-08_Aguttes_G000081.csv,G000081,Instruments & Archets du quatuor,2023-06-08,2023-06-08,,France,EUR,French (English text in description_english),79,79,0,0,0,hammer,Primary,Primary,20 % + VAT
+Aguttes,Aguttes/2023-11-27_Aguttes_G000288.csv,G000288,Instruments & Archets du quatuor,2023-11-27,2023-11-27,,France,EUR,French (English text in description_english),156,156,0,0,0,hammer,Primary,Primary,20 % + VAT
+Aguttes,Aguttes/2024-06-03_Aguttes_G000313.csv,G000313,Instruments & Archets du quatuor,2024-06-03,2024-06-03,,France,EUR,French (English text in description_english),78,78,0,0,0,hammer,Primary,Primary,20 % + VAT
+Aguttes,Aguttes/2024-11-30_Aguttes_G000228.csv,G000228,Instruments et Archets du quatuor,2024-11-30,2024-11-30,,France,EUR,French (English text in description_english),97,97,0,0,0,hammer,Primary,Primary,20 % + VAT
+Aguttes,Aguttes/2025-06-10_Aguttes_G000229.csv,G000229,Instruments & Archets du quatuor,2025-06-10,2025-06-10,,France,EUR,French (English text in description_english),135,135,0,0,0,hammer,Primary,Primary,
+Aguttes,Aguttes/2025-11-28_Aguttes_V19726.csv,V19726,Instruments & Archets du quatuor,2025-11-28,2025-11-28,,France,EUR,French (English text in description_english),149,149,0,0,0,hammer,Primary,Primary,21 % + VAT
+Aguttes,Aguttes/2026-03-26_Aguttes_V26MUS01.csv,V26MUS01,Instruments & Archets du quatuor,2026-03-26,2026-03-26,,France,EUR,French (English text in description_english),65,65,0,0,0,hammer,Primary,Primary,21 % + VAT
+Aguttes,Aguttes/2026-05-29_Aguttes_V26MUS02.csv,V26MUS02,Instruments & Archets du Quatuor,2026-05-29,2026-05-29,,France,EUR,French (English text in description_english),87,87,0,0,0,hammer,Primary,Primary,21 % + VAT
+Artcurial,Artcurial/2025-12-16_Artcurial.csv,,,2025-12-16,2025-12-16,,France,EUR,French,1,1,0,0,0,price with fees,Primary,Primary,"27 % + VAT up to EUR 850 000, 21 % + VAT to 6 000 000, 14.5 % + VAT above"
+Bonhams,Bonhams/2003-02-17_Bonhams_10051.csv,10051,Musical Instruments,2003-02-17,2003-02-17,,United Kingdom,GBP,English,229,159,63,7,0,hammer and price with fees,Primary,Primary,"17.5 % up to GBP 30 000, 10 % above"
+Bonhams,Bonhams/2003-03-10_Bonhams_10087.csv,10087,Fine Musical Instruments,2003-03-10,2003-03-10,,United Kingdom,GBP,English,319,195,118,6,0,hammer and price with fees,Primary,Primary,"17.5 % up to GBP 30 000, 10 % above"
+Bonhams,Bonhams/2003-05-08_Bonhams_10247.csv,10247,Musical Instruments,2003-05-08,2003-05-08,,United Kingdom,GBP,English,326,215,92,18,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2003-09-08_Bonhams_10488.csv,10488,Musical Instruments,2003-09-08,2003-09-08,,United Kingdom,GBP,English,359,249,97,11,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2003-11-10_Bonhams_10489.csv,10489,Fine Musical Instruments,2003-11-10,2003-11-10,,United Kingdom,GBP,English,290,165,122,2,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2004-02-09_Bonhams_10689.csv,10689,Musical Instruments,2004-02-09,2004-02-09,,United Kingdom,GBP,English,380,292,82,6,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2004-03-29_Bonhams_10690.csv,10690,Fine Musical Instruments,2004-03-29,2004-03-29,,United Kingdom,GBP,English,400,262,134,4,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2004-05-17_Bonhams_10691.csv,10691,Musical Instruments,2004-05-17,2004-05-17,,United Kingdom,GBP,English,325,225,88,12,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2004-07-12_Bonhams_10759.csv,10759,Fine Musical Instruments,2004-07-12,2004-07-12,,United Kingdom,GBP,English,223,124,99,0,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2004-09-06_Bonhams_11253.csv,11253,Musical Instruments,2004-09-06,2004-09-06,,United Kingdom,GBP,English,296,227,64,5,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2004-11-01_Bonhams_11254.csv,11254,Fine Musical Instruments,2004-11-01,2004-11-01,,United Kingdom,GBP,English,194,117,74,2,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2005-01-24_Bonhams_11521.csv,11521,Musical Instruments,2005-01-24,2005-01-24,,United Kingdom,GBP,English,311,212,97,2,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2005-02-21_Bonhams_11522.csv,11522,Fine Musical Instruments,2005-02-21,2005-02-21,,United Kingdom,GBP,English,200,128,68,4,0,hammer and price with fees,Primary,Primary,"19.5 % up to GBP 70 000, 10 % above"
+Bonhams,Bonhams/2005-05-23_Bonhams_11523.csv,11523,Fine Musical Instruments,2005-05-23,2005-05-23,,United Kingdom,GBP,English,347,227,115,4,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2005-07-18_Bonhams_11524.csv,11524,Musical Instruments,2005-07-18,2005-07-18,,United Kingdom,GBP,English,259,156,98,5,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2005-09-12_Bonhams_11525.csv,11525,Musical Instruments,2005-09-12,2005-09-12,,United Kingdom,GBP,English,323,181,138,4,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2005-10-31_Bonhams_11526.csv,11526,Fine Musical Instruments,2005-10-31,2005-10-31,,United Kingdom,GBP,English,284,148,131,5,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2006-02-27_Bonhams_13458.csv,13458,Fine Musical Instruments,2006-02-27,2006-02-27,,United Kingdom,GBP,English,424,323,100,1,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2006-04-10_Bonhams_13459.csv,13459,Musical Instruments,2006-04-10,2006-04-10,,United Kingdom,GBP,English,351,201,145,4,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2006-06-05_Bonhams_13460.csv,13460,Musical Instruments,2006-06-05,2006-06-05,,United Kingdom,GBP,English,326,149,174,3,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2006-07-10_Bonhams_13461.csv,13461,Fine Musical Instruments,2006-07-10,2006-07-10,,United Kingdom,GBP,English,344,210,129,3,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2006-09-18_Bonhams_13462.csv,13462,Musical Instruments,2006-09-18,2006-09-18,,United Kingdom,GBP,English,262,206,54,1,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2006-11-06_Bonhams_13463.csv,13463,Fine Musical Instruments,2006-11-06,2006-11-06,,United Kingdom,GBP,English,221,127,92,2,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2007-02-26_Bonhams_14844.csv,14844,Fine Musical Instruments,2007-02-26,2007-02-26,,United Kingdom,GBP,English,447,309,136,2,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2007-07-09_Bonhams_14845.csv,14845,Fine Musical Instruments,2007-07-09,2007-07-09,,United Kingdom,GBP,English,309,182,125,2,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2007-09-10_Bonhams_15565.csv,15565,Musical Instruments,2007-09-10,2007-09-10,,United Kingdom,GBP,English,337,247,83,7,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2007-11-05_Bonhams_15323.csv,15323,Fine Musical Instruments,2007-11-05,2007-11-05,,United Kingdom,GBP,English,233,111,122,0,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2008-03-10_Bonhams_16003.csv,16003,Fine Musical Instruments,2008-03-10,2008-03-10,,United Kingdom,GBP,English,379,248,129,2,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2008-06-24_Bonhams_16004.csv,16004,Fine Musical Instruments,2008-06-24,2008-06-24,,United Kingdom,GBP,English,355,227,126,1,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2008-11-04_Bonhams_16013.csv,16013,Fine Musical Instruments,2008-11-04,2008-11-04,,United Kingdom,GBP,English,278,150,126,2,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2009-03-11_Bonhams_16782.csv,16782,Fine Musical Instruments,2009-03-11,2009-03-11,,United Kingdom,GBP,English,398,287,105,4,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2009-10-07_Bonhams_16874.csv,16874,Fine Musical Instruments,2009-10-07,2009-10-07,,United Kingdom,GBP,English,210,152,58,0,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2010-03-10_Bonhams_17825.csv,17825,Fine Musical Instruments,2010-03-10,2010-03-10,,United Kingdom,GBP,English,331,241,88,2,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2010-10-06_Bonhams_17856.csv,17856,Fine Musical Instruments,2010-10-06,2010-10-06,,United Kingdom,GBP,English,315,194,117,4,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2011-03-09_Bonhams_18768.csv,18768,Fine Musical Instruments,2011-03-09,2011-03-09,,United Kingdom,GBP,English,182,133,46,3,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2011-10-05_Bonhams_18948.csv,18948,Fine Musical Instruments,2011-10-05,2011-10-05,,United Kingdom,GBP,English,245,165,79,1,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
+Bonhams,Bonhams/2012-03-07_Bonhams_19958.csv,19958,Fine Musical Instruments,2012-03-07,2012-03-07,,United Kingdom,GBP,English,213,151,60,2,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
+Bonhams,Bonhams/2012-10-31_Bonhams_20019.csv,20019,Fine Musical Instruments,2012-10-31,2012-10-31,,United Kingdom,GBP,English,348,186,160,2,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
+Bonhams,Bonhams/2013-05-22_Bonhams_20769.csv,20769,Musical Instruments,2013-05-22,2013-05-22,,United Kingdom,GBP,English,249,137,109,3,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
+Bonhams,Bonhams/2013-08-07_Bonhams_20936.csv,20936,Musical Instruments,2013-08-07,2013-08-07,,United Kingdom,GBP,English,293,132,157,4,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
+Bonhams,Bonhams/2013-10-30_Bonhams_20770.csv,20770,Musical Instruments,2013-10-30,2013-10-30,,United Kingdom,GBP,English,245,139,105,1,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
+Bonhams,Bonhams/2014-05-12_Bonhams_21678.csv,21678,Musical Instruments,2014-05-12,2014-05-12,,United Kingdom,GBP,English,319,158,159,2,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
+Bonhams,Bonhams/2014-10-29_Bonhams_21679.csv,21679,Musical Instruments,2014-10-29,2014-10-29,,United Kingdom,GBP,English,255,130,122,3,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
+Bonhams,Bonhams/2015-05-11_Bonhams_22597.csv,22597,Musical Instruments,2015-05-11,2015-05-11,,United Kingdom,GBP,English,213,104,105,4,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
+Christies,Christies/1984-04-04_Christies_catalogue.csv,,Musical Instruments,1984-04-04,1984-04-04,,,GBP,English,110,27,0,0,83,hammer,Primary,"Cross-checked, Secondary",8 %
+Christies,Christies/1984-06-20_Christies_catalogue.csv,,Musical Instruments,1984-06-20,1984-06-20,,,GBP,English,101,83,0,0,18,hammer,Primary,"Cross-checked, Secondary",8 %
+Christies,Christies/1985-04-02_Christies_catalogue.csv,,Musical Instruments,1985-04-02,1985-04-02,,,GBP,English,124,60,0,0,64,hammer,Primary,"Cross-checked, Secondary",8 %
+Christies,Christies/1985-07-03_Christies_ZEBEDEE-3177.csv,ZEBEDEE-3177,Musical Instruments,1985-07-03,1985-07-03,,,GBP,English,144,130,0,0,0,price with fees,Primary,Primary,8 %
+Christies,Christies/1987-11-11_Christies_catalogue.csv,,Musical Instruments,1987-11-11,1987-11-11,,,GBP,English,203,131,1,0,71,hammer,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
+Christies,Christies/1988-06-21_Christies_ZIGGY-3856.csv,ZIGGY-3856,Musical Instruments,1988-06-21,1988-06-21,,,GBP,English,278,261,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Christies,Christies/1989-03-31_Christies_catalogue.csv,,Musical Instruments,1989-03-31,1989-03-31,,,GBP,English,186,0,0,0,186,none,Primary,,10 % + VAT on the premium
+Christies,Christies/1989-06-14_Christies_catalogue.csv,,Musical Instruments,1989-06-14,1989-06-14,,,GBP,English,269,233,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Christies,Christies/1990-11-21_Christies_ZENANA-4412.csv,ZENANA-4412,Musical Instruments,1990-11-21,1990-11-21,,,GBP,English,306,242,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Christies,Christies/1991-04-26_Christies_ZACK-4514.csv,ZACK-4514,Musical Instruments,1991-04-26,1991-04-26,,,GBP,English,207,167,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Christies,Christies/1991-07-01_Christies_ZEPPO-4568.csv,ZEPPO-4568,Musical Instruments,1991-07-01,1991-07-01,,,GBP,English,111,89,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Christies,Christies/1991-11-06_Christies_ZED-4642.csv,ZED-4642,Musical Instruments,1991-11-06,1991-11-06,,,GBP,English,194,153,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Christies,Christies/1992-11-20_Christies_4837_prices.csv,4837,,1992-11-20,1992-11-20,,,GBP,English,202,202,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Christies,Christies/1993-03-17_Christies_catalogue.csv,,Musical Instruments,1993-03-17,1993-03-17,,,GBP,English,142,0,0,0,142,none,Primary,,15 % + VAT on the premium
+Christies,Christies/2002-03-13_Christies_9343_prices.csv,9343,,2002-03-13,2002-03-13,,,GBP,English,144,142,0,2,0,hammer,,Primary,17.5 % (lots up to GBP 30 000)
+Christies,Christies/2007-10-12_Christies_1889.csv,1889,Fine Musical Instruments,2007-10-12,2007-10-12,New York,United States,USD,English,163,163,0,0,0,price with fees,Primary,Primary,"25 % up to USD 20 000, 20 % up to USD 500 000, 12 % above"
+Christies,Christies/2008-04-04_Christies_1982.csv,1982,Fine Musical Instruments,2008-04-04,2008-04-04,New York,United States,USD,English,169,169,0,0,0,price with fees,Primary,Primary,"25 % up to USD 20 000, 20 % up to USD 500 000, 12 % above"
+Christies,Christies/2008-10-10_Christies_2033.csv,2033,Fine Musical Instruments,2008-10-10,2008-10-10,New York,United States,USD,English,213,213,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2009-04-03_Christies_2152.csv,2152,Fine Musical Instruments,2009-04-03,2009-04-03,New York,United States,USD,English,89,89,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2009-10-13_Christies_2204.csv,2204,Fine Musical Instruments,2009-10-13,2009-10-13,New York,United States,USD,English,295,295,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2010-04-28_Christies_2298.csv,2298,Fine Musical Instruments,2010-04-28,2010-04-28,New York,United States,USD,English,142,142,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2010-04-29_Christies_2857.csv,2857,Twenty rooms: The private collection of the late Mrs Elias-Vaes,2010-04-29,2010-04-29,Amsterdam,Netherlands,EUR,English,1,1,0,0,0,price with fees,Primary,Primary,
+Christies,Christies/2010-07-15_Christies_2332.csv,2332,The Roy Rogers & Dale Evans Museum Collection ,2010-07-15,2010-07-15,New York,United States,USD,English,1,1,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2010-10-08_Christies_2346.csv,2346,Fine Musical Instruments ,2010-10-08,2010-10-08,New York,United States,USD,English,127,127,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2011-04-29_Christies_2429.csv,2429,Fine Musical Instruments,2011-04-29,2011-04-29,New York,United States,USD,English,103,103,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2011-05-10_Christies_6093.csv,6093,Christie's Interiors,2011-05-10,2011-05-10,London (South Kensington),United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
+Christies,Christies/2011-10-14_Christies_2471.csv,2471,Fine Musical Instruments,2011-10-14,2011-10-14,New York,United States,USD,English,117,117,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2012-04-26_Christies_2549.csv,2549,Fine Musical Instruments,2012-04-26,2012-04-26,New York,United States,USD,English,75,75,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2012-11-27_Christies_2588.csv,2588,Fine Musical Instruments,2012-11-27,2012-11-27,New York,United States,USD,English,145,145,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2012-12-09_Christies_7613.csv,7613,Harewood: The Attic sale,2012-12-09,2012-12-09,London (South Kensington),United Kingdom,GBP,English,3,3,0,0,0,price with fees,Primary,Primary,
+Christies,Christies/2013-09-19_Christies_1186.csv,1186,"The Collection of Professor Sir Albert Richardson, P.R.A. ",2013-09-19,2013-09-19,London,United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
+Christies,Christies/2014-06-18_Christies_3479.csv,3479,An American Dynasty: The Clark Family Treasures,2014-06-18,2014-06-18,New York,United States,USD,English,3,3,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2024-01-31_Christies_21929.csv,21929,The Mark Knopfler Guitar Collection,2024-01-31,2024-01-31,London,United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
+Christies,Christies/2025-01-22_Christies_22991.csv,22991,Jeff Beck: The Guitar Collection,2025-01-22,2025-01-22,London,United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
+Christies,Christies/2026-03-17_Christies_24631.csv,24631,,2026-03-17,2026-03-17,,,USD,English,1,1,0,0,0,price with fees,Primary,Primary,
+Gardiner-Houlgate,Gardiner-Houlgate/2019-12-13_Gardiner-Houlgate_catalogue.csv,,,2019-12-13,2019-12-13,,United Kingdom,GBP,English,541,0,0,0,541,none,Primary,,20 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2020-06-26_Gardiner-Houlgate_25.csv,25,Musical Instruments,2020-06-26,2020-06-26,,United Kingdom,GBP,English,307,254,0,0,53,hammer,Primary,Primary,20 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2020-09-11_Gardiner-Houlgate_22.csv,22,Musical Instruments,2020-09-11,2020-09-11,,United Kingdom,GBP,English,456,393,0,0,63,hammer,Primary,Primary,20 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2020-12-11_Gardiner-Houlgate_11.csv,11,Musical Instruments,2020-12-11,2020-12-11,,United Kingdom,GBP,English,651,538,0,0,113,hammer,Primary,Primary,20 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2021-03-12_Gardiner-Houlgate_9.csv,9,Musical Instruments,2021-03-12,2021-03-12,,United Kingdom,GBP,English,398,316,0,0,82,hammer,Primary,Primary,20 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2021-06-18_Gardiner-Houlgate_5.csv,5,Musical Instruments,2021-06-18,2021-06-18,,United Kingdom,GBP,English,463,400,0,0,63,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2021-09-10_Gardiner-Houlgate_2.csv,2,Musical Instruments,2021-09-10,2021-09-10,,United Kingdom,GBP,English,446,322,0,0,124,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2021-12-10_Gardiner-Houlgate_4.csv,4,Musical Instruments,2021-12-10,2021-12-10,,United Kingdom,GBP,English,429,363,0,0,66,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2022-03-10_Gardiner-Houlgate_17.csv,17,"Amplification, Effects, Spares and Studio Equipment",2022-03-10,2022-03-10,,United Kingdom,GBP,English,616,584,0,0,32,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2022-03-11_Gardiner-Houlgate_28.csv,28,Musical Instruments,2022-03-11,2022-03-11,,United Kingdom,GBP,English,430,374,0,0,56,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2022-06-17_Gardiner-Houlgate_33.csv,33,Musical Instruments,2022-06-17,2022-06-17,,United Kingdom,GBP,English,391,0,0,0,391,none,Primary,,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2022-09-09_Gardiner-Houlgate_36.csv,36,Musical Instruments,2022-09-09,2022-09-09,,United Kingdom,GBP,English,306,259,0,0,47,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2022-12-09_Gardiner-Houlgate_39.csv,39,Musical Instruments,2022-12-09,2022-12-09,,United Kingdom,GBP,English,414,344,0,0,70,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2023-03-10_Gardiner-Houlgate_44.csv,44,Musical Instruments,2023-03-10,2023-03-10,,United Kingdom,GBP,English,310,279,0,0,31,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2023-06-16_Gardiner-Houlgate_47.csv,47,Musical Instruments,2023-06-16,2023-06-16,,United Kingdom,GBP,English,389,332,0,0,57,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2023-09-08_Gardiner-Houlgate_50.csv,50,Musical Instruments,2023-09-08,2023-09-08,,United Kingdom,GBP,English,494,412,0,0,82,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2023-12-08_Gardiner-Houlgate_52.csv,52,Musical Instruments,2023-12-08,2023-12-08,,United Kingdom,GBP,English,481,369,0,0,112,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2024-03-08_Gardiner-Houlgate_53.csv,53,Musical Instruments,2024-03-08,2024-03-08,,United Kingdom,GBP,English,377,376,0,0,1,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2024-06-14_Gardiner-Houlgate_56.csv,56,Musical Instruments,2024-06-14,2024-06-14,,United Kingdom,GBP,English,528,452,0,0,76,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2024-09-06_Gardiner-Houlgate_58.csv,58,Musical Instruments,2024-09-06,2024-09-06,,United Kingdom,GBP,English,363,267,0,0,96,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2024-12-06_Gardiner-Houlgate_60.csv,60,Musical Instruments to include The Fine Keyboard Collection of Michael Turner,2024-12-06,2024-12-06,,United Kingdom,GBP,English,493,413,0,0,80,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2025-03-14_Gardiner-Houlgate_61.csv,61,Musical Instruments,2025-03-14,2025-03-14,,United Kingdom,GBP,English,466,326,0,0,140,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2025-03-28_Gardiner-Houlgate_62.csv,62,Fine Stringed Musical Instrument Collection from the Estate of Peter Voigt,2025-03-28,2025-03-28,,United Kingdom,GBP,English,124,78,0,0,46,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2025-06-13_Gardiner-Houlgate_63.csv,63,Musical Instruments,2025-06-13,2025-06-13,,United Kingdom,GBP,English,507,366,0,0,141,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2025-09-12_Gardiner-Houlgate_67.csv,67,Musical Instruments,2025-09-12,2025-09-12,,United Kingdom,GBP,English,329,329,0,0,0,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2025-10-27_Gardiner-Houlgate_70.csv,70,Fine Stringed Musical Instruments - Timed Online Sale,2025-10-27,2025-10-27,,United Kingdom,GBP,English,151,67,0,0,84,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2025-12-05_Gardiner-Houlgate_69.csv,69,Musical Instruments including the Jacqueline Du Pré Collection,2025-12-05,2025-12-05,,United Kingdom,GBP,English,507,315,0,0,192,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2026-03-13_Gardiner-Houlgate_72.csv,72,Musical Instruments,2026-03-13,2026-03-13,,United Kingdom,GBP,English,354,354,0,0,0,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2026-03-31_Gardiner-Houlgate_73.csv,73,Fine Stringed Musical Instruments with London Preview,2026-03-31,2026-03-31,,United Kingdom,GBP,English,118,57,0,0,61,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2026-06-12_Gardiner-Houlgate_75.csv,75,Musical Instruments,2026-06-12,2026-06-12,,United Kingdom,GBP,English,468,468,0,0,0,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2026-09-04_Gardiner-Houlgate_81.csv,81,The Jacqueline du Pré Collection Part II,2026-09-04,2026-09-04,,United Kingdom,GBP,English,114,114,0,0,0,hammer,Primary,Primary,22 % + VAT on the premium
+Gardiner-Houlgate,Gardiner-Houlgate/2026-09-11_Gardiner-Houlgate_78.csv,78,Musical Instruments,2026-09-11,2026-09-11,,United Kingdom,GBP,English,680,491,0,0,189,hammer,Primary,Primary,22 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2020-10_Ingles-Hayday_1016.csv,1016,,2020-10,2020-10,,United Kingdom,GBP,English,188,139,46,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2021-11_Ingles-Hayday_1018.csv,1018,,2021-11,2021-11,,United Kingdom,GBP,English,139,109,28,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2022-03_Ingles-Hayday_1019.csv,1019,,2022-03,2022-03,,United Kingdom,GBP,English,150,122,28,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2022-11_Ingles-Hayday_1020.csv,1020,,2022-11,2022-11,,United Kingdom,GBP,English,191,143,47,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2023-03_Ingles-Hayday_1021.csv,1021,,2023-03,2023-03,,United Kingdom,GBP,English,173,162,11,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2023-03_Ingles-Hayday_1022.csv,1022,,2023-03,2023-03,,United Kingdom,GBP,English,139,102,37,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2023-10_Ingles-Hayday_1023.csv,1023,,2023-10,2023-10,,United Kingdom,GBP,English,277,188,88,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2024-03_Ingles-Hayday_1024.csv,1024,,2024-03,2024-03,,United Kingdom,GBP,English,153,117,35,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2024-10_Ingles-Hayday_1025.csv,1025,,2024-10,2024-10,,United Kingdom,GBP,English,179,137,42,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2025-03_Ingles-Hayday_1026.csv,1026,,2025-03,2025-03,,United Kingdom,GBP,English,168,133,35,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2025-10_Ingles-Hayday_1027.csv,1027,,2025-10,2025-10,,United Kingdom,GBP,English,252,148,103,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Ingles-Hayday,Ingles-Hayday/2026-03_Ingles-Hayday_1028.csv,1028,,2026-03,2026-03,,United Kingdom,GBP,English,220,169,50,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
+Phillips,Phillips/1975-05-01_Phillips_20239_prices.csv,20239,,1975-05-01,1975-05-01,,United Kingdom,GBP,English,181,181,0,0,0,hammer,,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1975-06-05_Phillips_20278.csv,20278,Musical Instruments,1975-06-05,1975-06-05,,United Kingdom,GBP,English,270,253,2,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1975-07-03_Phillips_20317.csv,20317,Musical Instruments,1975-07-03,1975-07-03,,United Kingdom,GBP,English,322,310,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1975-09-04_Phillips_20387.csv,20387,Musical Instruments,1975-09-04,1975-09-04,,United Kingdom,GBP,English,315,304,2,1,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1975-10-02_Phillips_20428.csv,20428,Musical Instruments,1975-10-02,1975-10-02,,United Kingdom,GBP,English,237,219,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1975-11-20_Phillips_catalogue.csv,,Musical Instruments,1975-11-20,1975-11-20,,United Kingdom,GBP,English,195,0,0,0,195,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1975-12-11_Phillips_catalogue.csv,,Musical Instruments,1975-12-11,1975-12-11,,United Kingdom,GBP,English,185,0,0,0,185,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1976-01-20_Phillips_catalogue.csv,,Musical Instruments,1976-01-20,1976-01-20,,United Kingdom,GBP,English,174,13,0,0,161,hammer,Primary,Secondary,none: the buyer paid the hammer
+Phillips,Phillips/1976-01-22_Phillips_20567_prices.csv,20567,,1976-01-22,1976-01-22,,United Kingdom,GBP,English,198,192,6,0,0,hammer,,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1976-02-26_Phillips_20615.csv,20615,Musical Instruments,1976-02-26,1976-02-26,,United Kingdom,GBP,English,252,252,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1976-04-08_Phillips_catalogue.csv,,Musical Instruments,1976-04-08,1976-04-08,,United Kingdom,GBP,English,209,0,0,0,209,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1976-07-22_Phillips_catalogue.csv,,Musical Instruments,1976-07-22,1976-07-22,,United Kingdom,GBP,English,203,0,0,0,203,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1976-09-16_Phillips_20869_prices.csv,20869,,1976-09-16,1976-09-16,,United Kingdom,GBP,English,267,267,0,0,0,hammer,,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1976-10-14_Phillips_20911.csv,20911,Musical Instruments,1976-10-14,1976-10-14,,United Kingdom,GBP,English,250,241,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1976-11-11_Phillips_20953.csv,20953,Musical Instruments,1976-11-11,1976-11-11,,United Kingdom,GBP,English,306,294,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1976-12-16_Phillips_21011.csv,21011,Musical Instruments,1976-12-16,1976-12-16,,United Kingdom,GBP,English,287,287,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1977-01-20_Phillips_21051_prices.csv,21051,,1977-01-20,1977-01-20,,United Kingdom,GBP,English,207,204,0,3,0,hammer,,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1977-03-10_Phillips_21128.csv,21128,Musical Instruments,1977-03-10,1977-03-10,,United Kingdom,GBP,English,363,349,0,2,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1977-04-21_Phillips_21188.csv,21188,Musical Instruments,1977-04-21,1977-04-21,,United Kingdom,GBP,English,290,278,0,1,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1977-05-19_Phillips_21233.csv,21233,Musical Instruments,1977-05-19,1977-05-19,,United Kingdom,GBP,English,306,298,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1977-06-16_Phillips_21266.csv,21266,Musical Instruments,1977-06-16,1977-06-16,,United Kingdom,GBP,English,258,242,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1977-07-21_Phillips_21317.csv,21317,Musical Instruments,1977-07-21,1977-07-21,,United Kingdom,GBP,English,313,287,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1977-09-15_Phillips_catalogue.csv,,Musical Instruments,1977-09-15,1977-09-15,,United Kingdom,GBP,English,242,0,0,0,242,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1977-12-15_Phillips_21532_prices.csv,21532,,1977-12-15,1977-12-15,,United Kingdom,GBP,English,275,275,0,0,0,hammer,,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1978-01-19_Phillips_catalogue.csv,,Musical Instruments,1978-01-19,1978-01-19,,United Kingdom,GBP,English,220,0,0,0,220,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1978-03-09_Phillips_21643_prices.csv,21643,,1978-03-09,1978-03-09,,United Kingdom,GBP,English,300,300,0,0,0,hammer,,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1978-04-20_Phillips_catalogue.csv,,Musical Instruments,1978-04-20,1978-04-20,,United Kingdom,GBP,English,276,0,0,0,276,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1978-05-18_Phillips_21737_prices.csv,21737,,1978-05-18,1978-05-18,,United Kingdom,GBP,English,220,220,0,0,0,hammer,,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1978-07-20_Phillips_21828.csv,21828,Musical Instruments,1978-07-20,1978-07-20,,United Kingdom,GBP,English,274,259,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1978-08-17_Phillips_21865.csv,21865,Musical Instruments,1978-08-17,1978-08-17,,United Kingdom,GBP,English,212,199,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Phillips,Phillips/1978-09-14_Phillips_21899.csv,21899,Musical Instruments,1978-09-14,1978-09-14,,United Kingdom,GBP,English,225,214,0,0,0,hammer,Primary,Primary,10 %
+Phillips,Phillips/1978-10-12_Phillips_catalogue.csv,,Musical Instruments,1978-10-12,1978-10-12,,United Kingdom,GBP,English,233,0,0,0,233,none,Primary,,10 %
+Phillips,Phillips/1978-11-16_Phillips_21997_prices.csv,21997,,1978-11-16,1978-11-16,,United Kingdom,GBP,English,278,277,0,1,0,hammer,,Primary,10 %
+Phillips,Phillips/1978-12-14_Phillips_catalogue.csv,,Musical Instruments,1978-12-14,1978-12-14,,United Kingdom,GBP,English,189,0,0,0,189,none,Primary,,10 %
+Phillips,Phillips/1979-09-13_Phillips_22417_prices.csv,22417,,1979-09-13,1979-09-13,,United Kingdom,GBP,English,275,275,0,0,0,hammer,,Primary,10 %
+Phillips,Phillips/1979-10-11_Phillips_catalogue.csv,,Musical Instruments,1979-10-11,1979-10-11,,United Kingdom,GBP,English,271,0,0,0,271,none,Primary,,10 %
+Phillips,Phillips/1980-02-21_Phillips_22656_prices.csv,22656,,1980-02-21,1980-02-21,,United Kingdom,GBP,English,258,258,0,0,0,hammer,,Primary,10 %
+Phillips,Phillips/1980-03-27_Phillips_catalogue.csv,,Musical Instruments,1980-03-27,1980-03-27,,United Kingdom,GBP,English,236,0,0,0,236,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1980-05-15_Phillips_22783.csv,22783,Musical Instruments,1980-05-15,1980-05-15,,United Kingdom,GBP,English,295,268,0,2,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1980-06-12_Phillips_22824.csv,22824,Musical Instruments,1980-06-12,1980-06-12,,United Kingdom,GBP,English,307,292,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1980-07-17_Phillips_22877.csv,22877,Musical Instruments,1980-07-17,1980-07-17,,United Kingdom,GBP,English,296,291,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1980-09-11_Phillips_22951.csv,22951,Musical Instruments,1980-09-11,1980-09-11,,United Kingdom,GBP,English,323,291,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1980-10-09_Phillips_22998.csv,22998,Musical Instruments,1980-10-09,1980-10-09,,United Kingdom,GBP,English,201,183,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1980-11-13_Phillips_23059.csv,23059,Musical Instruments,1980-11-13,1980-11-13,,United Kingdom,GBP,English,279,249,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1980-12-11_Phillips_23110.csv,23110,Musical Instruments,1980-12-11,1980-12-11,,United Kingdom,GBP,English,309,285,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-01-15_Phillips_catalogue.csv,,Musical Instruments,1981-01-15,1981-01-15,,United Kingdom,GBP,English,151,0,0,0,151,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1981-02-19_Phillips_catalogue.csv,,Musical Instruments,1981-02-19,1981-02-19,,United Kingdom,GBP,English,191,0,0,0,191,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1981-03-26_Phillips_23259_prices.csv,23259,,1981-03-26,1981-03-26,,United Kingdom,GBP,English,210,210,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-05-14_Phillips_23330_prices.csv,23330,,1981-05-14,1981-05-14,,United Kingdom,GBP,English,260,260,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-06-18_Phillips_23384.csv,23384,Musical Instruments,1981-06-18,1981-06-18,,United Kingdom,GBP,English,224,195,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-08-06_Phillips_catalogue.csv,,Musical Instruments,1981-08-06,1981-08-06,,United Kingdom,GBP,English,183,0,0,0,183,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1981-09-10_Phillips_23505.csv,23505,Musical Instruments,1981-09-10,1981-09-10,,United Kingdom,GBP,English,311,290,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-10-15_Phillips_23561.csv,23561,Musical Instruments,1981-10-15,1981-10-15,,United Kingdom,GBP,English,273,256,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-11-19_Phillips_23620.csv,23620,Musical Instruments,1981-11-19,1981-11-19,,United Kingdom,GBP,English,263,230,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-12-17_Phillips_catalogue.csv,,Musical Instruments,1981-12-17,1981-12-17,,United Kingdom,GBP,English,285,0,0,0,285,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1982-01-21_Phillips_23708_prices.csv,23708,,1982-01-21,1982-01-21,,United Kingdom,GBP,English,173,173,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1982-02-25_Phillips_23762.csv,23762,Musical Instruments,1982-02-25,1982-02-25,,United Kingdom,GBP,English,180,173,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1982-04-01_Phillips_23819.csv,23819,Musical Instruments,1982-04-01,1982-04-01,,United Kingdom,GBP,English,298,284,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1982-05-13_Phillips_catalogue.csv,,Musical Instruments,1982-05-13,1982-05-13,,United Kingdom,GBP,English,201,0,0,0,201,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1983-03-31_Phillips_24361_prices.csv,24361,,1983-03-31,1983-03-31,,United Kingdom,GBP,English,218,218,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1983-05-12_Phillips_catalogue.csv,,Musical Instruments,1983-05-12,1983-05-12,,United Kingdom,GBP,English,231,0,0,0,231,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1983-08-04_Phillips_24556_prices.csv,24556,,1983-08-04,1983-08-04,,United Kingdom,GBP,English,242,242,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1983-09-15_Phillips_24654.csv,24654,Musical Instruments,1983-09-15,1983-09-15,,United Kingdom,GBP,English,316,275,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1983-10-13_Phillips_24654.csv,24654,Musical Instruments,1983-10-13,1983-10-13,,United Kingdom,GBP,English,305,297,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1983-11-17_Phillips_catalogue.csv,,Musical Instruments,1983-11-17,1983-11-17,,United Kingdom,GBP,English,210,0,0,0,210,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1983-12-15_Phillips_24763.csv,24763,Musical Instruments,1983-12-15,1983-12-15,,United Kingdom,GBP,English,202,181,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-01-19_Phillips_24796.csv,24796,Musical Instruments,1984-01-19,1984-01-19,,United Kingdom,GBP,English,209,201,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-03-01_Phillips_catalogue.csv,,Musical Instruments,1984-03-01,1984-03-01,,United Kingdom,GBP,English,180,0,0,0,180,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1984-03-29_Phillips_24905.csv,24905,Musical Instruments,1984-03-29,1984-03-29,,United Kingdom,GBP,English,202,189,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-05-10_Phillips_24967.csv,24967,Musical Instruments,1984-05-10,1984-05-10,,United Kingdom,GBP,English,211,198,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-06-14_Phillips_25019.csv,25019,Musical Instruments,1984-06-14,1984-06-14,,United Kingdom,GBP,English,246,225,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-07-19_Phillips_25075.csv,25075,Musical Instruments,1984-07-19,1984-07-19,,United Kingdom,GBP,English,239,222,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-08-23_Phillips_25125.csv,25125,Musical Instruments,1984-08-23,1984-08-23,,United Kingdom,GBP,English,172,163,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-10-11_Phillips_catalogue.csv,,Musical Instruments,1984-10-11,1984-10-11,,United Kingdom,GBP,English,259,0,0,0,259,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1984-11-08_Phillips_25240_prices.csv,25240,,1984-11-08,1984-11-08,,United Kingdom,GBP,English,212,212,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1984-12-13_Phillips_25302.csv,25302,Musical Instruments,1984-12-13,1984-12-13,,United Kingdom,GBP,English,241,231,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-01-17_Phillips_25334.csv,25334,Musical Instruments,1985-01-17,1985-01-17,,United Kingdom,GBP,English,249,234,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-02-14_Phillips_25375.csv,25375,Musical Instruments,1985-02-14,1985-02-14,,United Kingdom,GBP,English,175,163,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-03-14_Phillips_25420.csv,25420,Musical Instruments,1985-03-14,1985-03-14,,United Kingdom,GBP,English,242,209,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-05-02_Phillips_25493.csv,25493,Musical Instruments,1985-05-02,1985-05-02,,United Kingdom,GBP,English,251,236,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-06-27_Phillips_25581.csv,25581,Musical Instruments,1985-06-27,1985-06-27,,United Kingdom,GBP,English,299,289,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-08-01_Phillips_25639.csv,25639,Musical Instruments,1985-08-01,1985-08-01,,United Kingdom,GBP,English,358,338,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-09-12_Phillips_25691.csv,25691,Musical Instruments,1985-09-12,1985-09-12,,United Kingdom,GBP,English,256,237,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-10-17_Phillips_25747.csv,25747,Musical Instruments,1985-10-17,1985-10-17,,United Kingdom,GBP,English,238,219,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1985-11-13_Phillips_catalogue.csv,,Musical Instruments,1985-11-13,1985-11-13,,United Kingdom,GBP,English,204,0,0,0,204,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1985-12-19_Phillips_catalogue.csv,,Musical Instruments,1985-12-19,1985-12-19,,United Kingdom,GBP,English,186,1,0,0,185,hammer,Primary,Secondary,10 % + VAT on the premium
+Phillips,Phillips/1986-01-16_Phillips_25875.csv,25875,Musical Instruments,1986-01-16,1986-01-16,,United Kingdom,GBP,English,141,126,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1986-02-20_Phillips_catalogue.csv,,Musical Instruments,1986-02-20,1986-02-20,,United Kingdom,GBP,English,155,0,0,0,155,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1986-03-27_Phillips_25986_prices.csv,25986,,1986-03-27,1986-03-27,,United Kingdom,GBP,English,243,243,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1986-05-21_Phillips_catalogue.csv,,Musical Instruments,1986-05-21,1986-05-21,,United Kingdom,GBP,English,399,0,0,0,399,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1986-07-17_Phillips_26172.csv,26172,Musical Instruments,1986-07-17,1986-07-17,,United Kingdom,GBP,English,262,223,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1986-09-04_Phillips_26235.csv,26235,Musical Instruments,1986-09-04,1986-09-04,,United Kingdom,GBP,English,285,256,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1986-10-09_Phillips_catalogue.csv,,Musical Instruments,1986-10-09,1986-10-09,,United Kingdom,GBP,English,212,0,0,0,212,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1986-12-18_Phillips_26427.csv,26427,Musical Instruments,1986-12-18,1986-12-18,,United Kingdom,GBP,English,251,227,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1987-01-22_Phillips_26460.csv,26460,Musical Instruments,1987-01-22,1987-01-22,,United Kingdom,GBP,English,169,166,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1987-03-26_Phillips_26564.csv,26564,Musical Instruments,1987-03-26,1987-03-26,,United Kingdom,GBP,English,357,347,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1987-04-23_Phillips_26600.csv,26600,Musical Instruments,1987-04-23,1987-04-23,,United Kingdom,GBP,English,204,189,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1987-05-21_Phillips_26645.csv,26645,Musical Instruments,1987-05-21,1987-05-21,,United Kingdom,GBP,English,202,190,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1987-06-25_Phillips_catalogue.csv,,Musical Instruments,1987-06-25,1987-06-25,,United Kingdom,GBP,English,214,0,0,0,214,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1987-07-23_Phillips_26746_prices.csv,26746,,1987-07-23,1987-07-23,,United Kingdom,GBP,English,202,202,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1987-09-24_Phillips_catalogue.csv,,Musical Instruments,1987-09-24,1987-09-24,,United Kingdom,GBP,English,328,0,0,0,328,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1987-10-22_Phillips_26869_prices.csv,26869,,1987-10-22,1987-10-22,,United Kingdom,GBP,English,206,206,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1987-11-19_Phillips_catalogue.csv,,Musical Instruments,1987-11-19,1987-11-19,,United Kingdom,GBP,English,217,0,0,0,217,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1987-12-17_Phillips_26964_prices.csv,26964,,1987-12-17,1987-12-17,,United Kingdom,GBP,English,208,208,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-01-28_Phillips_27002.csv,27002,Musical Instruments,1988-01-28,1988-01-28,,United Kingdom,GBP,English,221,207,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-03-03_Phillips_27055.csv,27055,Musical Instruments,1988-03-03,1988-03-03,,United Kingdom,GBP,English,262,244,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-04-14_Phillips_catalogue.csv,,Musical Instruments,1988-04-14,1988-04-14,,United Kingdom,GBP,English,256,0,0,0,256,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1988-05-19_Phillips_27166.csv,27166,Musical Instruments,1988-05-19,1988-05-19,,United Kingdom,GBP,English,276,250,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-06-16_Phillips_27209.csv,27209,Musical Instruments,1988-06-16,1988-06-16,,United Kingdom,GBP,English,252,238,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-07-21_Phillips_27265.csv,27265,Musical Instruments,1988-07-21,1988-07-21,,United Kingdom,GBP,English,216,193,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-09-15_Phillips_27330.csv,27330,Musical Instruments,1988-09-15,1988-09-15,,United Kingdom,GBP,English,372,349,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-10-13_Phillips_catalogue.csv,,Musical Instruments,1988-10-13,1988-10-13,,United Kingdom,GBP,English,204,0,0,0,204,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1988-11-17_Phillips_27440_prices.csv,27440,,1988-11-17,1988-11-17,,United Kingdom,GBP,English,234,234,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1988-12-15_Phillips_27488.csv,27488,Musical Instruments,1988-12-15,1988-12-15,,United Kingdom,GBP,English,279,241,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-01-26_Phillips_27528.csv,27528,Musical Instruments,1989-01-26,1989-01-26,,United Kingdom,GBP,English,232,210,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-03-16_Phillips_27601.csv,27601,Musical Instruments,1989-03-16,1989-03-16,,United Kingdom,GBP,English,301,273,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-04-13_Phillips_27638.csv,27638,Musical Instruments,1989-04-13,1989-04-13,,United Kingdom,GBP,English,244,228,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-05-18_Phillips_27693.csv,27693,Musical Instruments,1989-05-18,1989-05-18,,United Kingdom,GBP,English,297,258,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-06-22_Phillips_27746.csv,27746,Musical Instruments,1989-06-22,1989-06-22,,United Kingdom,GBP,English,355,326,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-07-27_Phillips_27801.csv,27801,Musical Instruments,1989-07-27,1989-07-27,,United Kingdom,GBP,English,272,260,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-09-14_Phillips_27207.csv,27207,Musical Instruments,1989-09-14,1989-09-14,,United Kingdom,GBP,English,421,393,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-10-12_Phillips_27897.csv,27897,Musical Instruments,1989-10-12,1989-10-12,,United Kingdom,GBP,English,195,174,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-11-16_Phillips_27950.csv,27950,Musical Instruments,1989-11-16,1989-11-16,,United Kingdom,GBP,English,349,311,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1989-12-14_Phillips_catalogue.csv,,Musical Instruments,1989-12-14,1989-12-14,,United Kingdom,GBP,English,218,0,0,0,218,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1990-06-21_Phillips_28237_prices.csv,28237,,1990-06-21,1990-06-21,,United Kingdom,GBP,English,455,455,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Phillips,Phillips/1990-07-26_Phillips_28294.csv,28294,Musical Instruments,1990-07-26,1990-07-26,,United Kingdom,GBP,English,224,198,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1990-09-13_Phillips_28336.csv,28336,Musical Instruments,1990-09-13,1990-09-13,,United Kingdom,GBP,English,331,272,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1990-10-18_Phillips_catalogue.csv,,Musical Instruments,1990-10-18,1990-10-18,,United Kingdom,GBP,English,255,0,0,0,255,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1995-05-11_Phillips_29830_prices.csv,29830,,1995-05-11,1995-05-11,,United Kingdom,GBP,English,220,220,0,0,0,hammer,,Primary,"15 % up to GBP 30 000, 10 % above, + VAT on the premium"
+Phillips,Phillips/1995-06-19_Phillips_catalogue.csv,,Musical Instruments,1995-06-19,1995-06-19,,United Kingdom,GBP,English,237,0,0,0,237,none,Primary,,"15 % up to GBP 30 000, 10 % above, + VAT on the premium"
+Phillips,Phillips/1998-05-12_Phillips_30547.csv,30547,Musical Instruments,1998-05-12,1998-05-12,,United Kingdom,GBP,English,197,197,0,0,0,hammer,,Primary,15 % + VAT on the premium
+Phillips,Phillips/1998-06-30_Phillips_catalogue.csv,,Musical Instruments,1998-06-30,1998-06-30,,United Kingdom,GBP,English,18,4,0,0,14,hammer,Primary,Secondary,15 % + VAT on the premium
+Skinner,Skinner/2005-05-08_Skinner_2274.csv,2274,Fine Musical Instruments,2005-05-08,2005-05-08,,United States,USD,English,433,395,38,0,0,hammer and price with fees,Primary,Primary,17.5 %
+Skinner,Skinner/2005-10-16_Skinner_2287.csv,2287,Fine Musical Instruments,2005-10-16,2005-10-16,,United States,USD,English,331,301,30,0,0,hammer and price with fees,Primary,Primary,17.5 %
+Skinner,Skinner/2006-10-15_Skinner_2333.csv,2333,Fine Musical Instruments,2006-10-15,2006-10-15,,United States,USD,English,330,305,25,0,0,hammer and price with fees,Primary,Primary,17.5 %
+Skinner,Skinner/2007-10-14_Skinner_2380.csv,2380,Fine Musical Instruments,2007-10-14,2007-10-14,,United States,USD,English,325,279,46,0,0,hammer and price with fees,Primary,Primary,17.5 %
+Skinner,Skinner/2008-05-04_Skinner_2407.csv,2407,Fine Musical Instruments,2008-05-04,2008-05-04,,United States,USD,English,407,356,51,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2008-10-12_Skinner_2428.csv,2428,Fine Musical Instruments,2008-10-12,2008-10-12,,United States,USD,English,380,286,94,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2009-05-03_Skinner_2455.csv,2455,Fine Musical Instruments,2009-05-03,2009-05-03,,United States,USD,English,437,332,105,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2009-10-11_Skinner_2477.csv,2477,Fine Musical Instruments,2009-10-11,2009-10-11,,United States,USD,English,285,242,43,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2010-04-25_Skinner_2501.csv,2501,Fine Musical Instruments,2010-04-25,2010-04-25,,United States,USD,English,352,301,51,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2010-10-10_Skinner_2520B.csv,2520B,Fine Musical Instruments,2010-10-10,2010-10-10,,United States,USD,English,673,632,41,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2011-05-01_Skinner_2544B.csv,2544B,Fine Musical Instruments,2011-05-01,2011-05-01,,United States,USD,English,463,422,41,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2011-11-06_Skinner_2569B.csv,2569B,Fine Musical Instruments,2011-11-06,2011-11-06,,United States,USD,English,387,336,51,0,0,hammer and price with fees,Primary,Primary,18.5 %; some lots 22.5 %
+Skinner,Skinner/2012-04-29_Skinner_2595B.csv,2595B,Fine Musical Instruments,2012-04-29,2012-04-29,,United States,USD,English,359,299,60,0,0,hammer and price with fees,Primary,Primary,18.5 %; some lots 22.5 %
+Skinner,Skinner/2012-10-14_Skinner_2617B.csv,2617B,Fine Musical Instruments,2012-10-14,2012-10-14,,United States,USD,English,377,322,55,0,0,hammer and price with fees,Primary,Primary,20 %; some lots 23 %
+Skinner,Skinner/2013-04-28_Skinner_2648B.csv,2648B,Fine Musical Instruments,2013-04-28,2013-04-28,,United States,USD,English,332,278,54,0,0,hammer and price with fees,Primary,Primary,20 %; some lots 23 %
+Skinner,Skinner/2013-09-26_Skinner_2670T.csv,2670T,Musical Instruments - Online,2013-09-26,2013-09-26,,United States,USD,English,279,177,102,0,0,hammer and price with fees,Primary,Primary,20 %; some lots 23 %
+Skinner,Skinner/2013-11-24_Skinner_2688B.csv,2688B,Fine Musical Instruments,2013-11-24,2013-11-24,,United States,USD,English,382,306,76,0,0,hammer and price with fees,Primary,Primary,20 %; some lots 23 %
+Skinner,Skinner/2014-04-13_Skinner_2717B.csv,2717B,Fine Musical Instruments,2014-04-13,2014-04-13,,United States,USD,English,300,197,103,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2014-11-09_Skinner_2767B.csv,2767B,Fine Musical Instruments,2014-11-09,2014-11-09,,United States,USD,English,302,271,31,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2015-04-26_Skinner_2806B.csv,2806B,Fine Musical Instruments,2015-04-26,2015-04-26,,United States,USD,English,400,325,75,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2016-05-22_Skinner_2892B.csv,2892B,Fine Musical Instruments,2016-05-22,2016-05-22,,United States,USD,English,254,240,14,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2017-05-14_Skinner_3007B.csv,3007B,Fine Musical Instruments,2017-05-14,2017-05-14,,United States,USD,English,327,301,26,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2017-11-19_Skinner_3051B.csv,3051B,Fine Musical Instruments,2017-11-19,2017-11-19,,United States,USD,English,427,393,34,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2018-05-21_Skinner_3109T.csv,3109T,Fine Musical Instruments online,2018-05-21,2018-05-21,,United States,USD,English,242,225,17,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2018-11-11_Skinner_3170B.csv,3170B,Fine Musical Instruments,2018-11-11,2018-11-11,,United States,USD,English,364,318,46,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2019-06-02_Skinner_3260B.csv,3260B,Fine Musical Instruments,2019-06-02,2019-06-02,,United States,USD,English,372,314,58,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2019-11-24_Skinner_3308B.csv,3308B,Fine Musical Instruments,2019-11-24,2019-11-24,,United States,USD,English,325,267,58,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2021-06-17_Skinner_3661T.csv,3661T,Fine Musical Instruments,2021-06-17,2021-06-17,,United States,USD,English,385,346,39,0,0,hammer and price with fees,Primary,Primary,25 %
+Sothebys,Sothebys/1968-11-07_Sothebys_catalogue.csv,,Musical Instruments,1968-11-07,1968-11-07,,United Kingdom,GBP,English,145,141,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Sothebys,Sothebys/1969-04-24_Sothebys_catalogue.csv,,Musical Instruments,1969-04-24,1969-04-24,,United Kingdom,GBP,English,103,97,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Sothebys,Sothebys/1972-05-11_Sothebys_catalogue.csv,,Musical Instruments,1972-05-11,1972-05-11,,United Kingdom,GBP,English,147,142,0,2,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Sothebys,Sothebys/1972-10-26_Sothebys_ALMAIN.csv,ALMAIN,Musical Instruments,1972-10-26,1972-10-26,,United Kingdom,GBP,English,275,247,4,2,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Sothebys,Sothebys/1973-05-24_Sothebys_GYMEL.csv,GYMEL,Musical Instruments,1973-05-24,1973-05-24,,United Kingdom,GBP,English,169,165,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Sothebys,Sothebys/1975-02-13_Sothebys_FANTASIA.csv,FANTASIA,Musical Instruments,1975-02-13,1975-02-13,,United Kingdom,GBP,English,209,176,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
+Sothebys,Sothebys/1975-10-23_Sothebys_GYMEL.csv,GYMEL,Musical Instruments,1975-10-23,1975-10-23,,United Kingdom,GBP,English,206,180,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1975-11-27_Sothebys_VOLTA.csv,VOLTA,Musical Instruments,1975-11-27,1975-11-27,,United Kingdom,GBP,English,158,140,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1976-02-12_Sothebys_BRANLE_prices.csv,BRANLE,,1976-02-12,1976-02-12,,United Kingdom,GBP,English,204,204,0,0,0,hammer,,Primary,10 %
+Sothebys,Sothebys/1976-05-06_Sothebys_SALTERELLO.csv,SALTERELLO,Musical Instruments,1976-05-06,1976-05-06,,United Kingdom,GBP,English,194,172,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1976-10-07_Sothebys_catalogue.csv,,Musical Instruments,1976-10-07,1976-10-07,,United Kingdom,GBP,English,6,3,0,0,3,hammer,Primary,Secondary,10 %
+Sothebys,Sothebys/1976-11-25_Sothebys_catalogue.csv,,Musical Instruments,1976-11-25,1976-11-25,,United Kingdom,GBP,English,162,109,1,0,52,hammer,Primary,"Cross-checked, Secondary",10 %
+Sothebys,Sothebys/1977-05-12_Sothebys_DUET.csv,DUET,Musical Instruments,1977-05-12,1977-05-12,,United Kingdom,GBP,English,196,179,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1977-06-16_Sothebys_catalogue.csv,,Musical Instruments,1977-06-16,1977-06-16,,United Kingdom,GBP,English,139,21,0,0,118,hammer,Primary,"Cross-checked, Secondary",10 %
+Sothebys,Sothebys/1977-11-17_Sothebys_PHILIDOR.csv,PHILIDOR,Musical Instruments,1977-11-17,1977-11-17,,United Kingdom,GBP,English,275,239,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1978-02-16_Sothebys_SALTARELLO.csv,SALTARELLO,Musical Instruments,1978-02-16,1978-02-16,,United Kingdom,GBP,English,275,242,0,1,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1978-03-14_Sothebys_catalogue.csv,,Musical Instruments,1978-03-14,1978-03-14,,United Kingdom,GBP,English,423,413,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1978-05-16_Sothebys_catalogue.csv,,Musical Instruments,1978-05-16,1978-05-16,,United Kingdom,GBP,English,249,185,4,0,60,hammer,Primary,"Cross-checked, Secondary",10 %
+Sothebys,Sothebys/1978-11-09_Sothebys_EBERSHOLT.csv,EBERSHOLT,Musical Instruments,1978-11-09,1978-11-09,,United Kingdom,GBP,English,292,156,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1979-03-06_Sothebys_SALTARELLO.csv,SALTARELLO,Musical Instruments,1979-03-06,1979-03-06,,United Kingdom,GBP,English,191,178,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-05-03_Sothebys_HOWARD.csv,HOWARD,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,71,67,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-05-03_Sothebys_KREISLER.csv,KREISLER,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,294,167,0,0,51,hammer,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-06-19_Sothebys_catalogue.csv,,Musical Instruments,1979-06-19,1979-06-19,,United Kingdom,GBP,English,208,0,0,0,208,none,Primary,,10 % + VAT on the premium
+Sothebys,Sothebys/1979-07-19_Sothebys_SOLO.csv,SOLO,Musical Instruments,1979-07-19,1979-07-19,,United Kingdom,GBP,English,221,188,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-10-08_Sothebys_MACGILLIVRAY_prices.csv,MACGILLIVRAY,,1979-10-08,1979-10-08,,United Kingdom,GBP,English,62,62,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-10-18_Sothebys_catalogue.csv,,Musical Instruments,1979-10-18,1979-10-18,,United Kingdom,GBP,English,138,0,0,0,138,none,Primary,,10 % + VAT on the premium
+Sothebys,Sothebys/1979-11-08_Sothebys_ROTHSCHILD.csv,ROTHSCHILD,Musical Instruments,1979-11-08,1979-11-08,,United Kingdom,GBP,English,273,236,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1980-03-20_Sothebys_BROADWOOD.csv,BROADWOOD,Musical Instruments,1980-03-20,1980-03-20,,United Kingdom,GBP,English,184,151,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1981-02-20_Sothebys_ARCO_prices.csv,ARCO,,1981-02-20,1981-02-20,,United Kingdom,GBP,English,236,236,0,0,0,hammer,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1982-04-07_Sothebys_catalogue.csv,,Musical Instruments,1982-04-07,1982-04-07,,United Kingdom,GBP,English,194,0,0,0,194,none,Primary,,10 % + VAT on the premium
+Sothebys,Sothebys/1983-04-07_Sothebys_BARBIROLLI.csv,BARBIROLLI,Musical Instruments,1983-04-07,1983-04-07,,United Kingdom,GBP,English,551,536,0,0,0,hammer and price with fees,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1984-04-05_Sothebys_ALETTA_prices.csv,ALETTA,,1984-04-05,1984-04-05,,United Kingdom,GBP,English,458,458,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1984-06-21_Sothebys_CAROLINE.csv,CAROLINE,Musical Instruments,1984-06-21,1984-06-21,,United Kingdom,GBP,English,315,295,0,0,0,hammer and price with fees,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1984-11-22_Sothebys_CATHEDRALE.csv,CATHEDRALE,Highly Important Musical Instruments,1984-11-22,1984-11-22,,United Kingdom,GBP,English,430,368,0,0,62,hammer,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
+Sothebys,Sothebys/1984-11-22_Sothebys_CATHEDRALE_prices.csv,CATHEDRALE,,1984-11-22,1984-11-22,,United Kingdom,GBP,English,539,539,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1985-09-19_Sothebys_ANDANTE_prices.csv,ANDANTE,,1985-09-19,1985-09-19,,United Kingdom,GBP,English,158,158,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1987-11-13_Sothebys_FIEDE_prices.csv,FIEDE,,1987-11-13,1987-11-13,,United Kingdom,GBP,English,344,344,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1990-06-14_Sothebys_FOSS_prices.csv,FOSS,,1990-06-14,1990-06-14,,United Kingdom,GBP,English,261,261,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1991-03-14_Sothebys_10735_prices.csv,10735,,1991-03-14,1991-03-14,,United Kingdom,GBP,English,128,128,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1991-06-06_Sothebys_11571_prices.csv,11571,,1991-06-06,1991-06-06,,United Kingdom,GBP,English,160,160,0,0,0,price with fees,,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1992-11-26_Sothebys_3101.csv,3101,Musical Instruments,1992-11-26,1992-11-26,,United Kingdom,GBP,English,449,300,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1995-10-31_Sothebys_LN5656_prices.csv,LN5656,,1995-10-31,1995-10-31,,United Kingdom,GBP,English,469,262,204,0,0,hammer and price with fees,,Primary,"15 % up to USD 100 000 (from 1 Jan 1993), 10 % above"
+Sothebys,Sothebys/1998-06-16_Sothebys_LN8351_prices.csv,LN8351,,1998-06-16,1998-06-16,,United Kingdom,GBP,English,163,87,71,2,1,hammer,,Primary,"15 % up to USD 100 000 (from 1 Jan 1993), 10 % above"
+Sothebys,Sothebys/2002-03-12_Sothebys_L02250.csv,L02250,Musical Instruments,2002-03-12,2002-03-12,,United Kingdom,GBP,English,173,103,9,0,0,hammer,Primary,Primary,"20 % up to GBP 10 000, 15 % to GBP 60 000, 10 % above, + VAT on the premium"
+Sothebys,Sothebys/2005-11-01_Sothebys_L05252.csv,L05252,Musical Instruments,2005-11-01,2005-11-01,,United Kingdom,GBP,English,314,209,0,0,0,hammer,Primary,Primary,"20 % up to GBP 100 000, 12 % above"

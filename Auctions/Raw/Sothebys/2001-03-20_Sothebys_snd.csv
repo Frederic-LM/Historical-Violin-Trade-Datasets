@@ -1,0 +1,91 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-03-20,13,,"Poller, Anton II",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,14,,"Banks, Benjamin",,,sold,,6600,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,15,,"Kaul, Paul",,,sold,,3120,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,16,,"Hill & Sons, W. E. Firm",,,sold,,4800,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,17,,"Herclik, Josef Bohumil",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,22,,"Mougenot, Georges",,,sold,,5400,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,23,,"Falisse, Auguste",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,27,,"Capicchioni, Marino",,,sold,,14875,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,28,,"Salomon, Jean Baptiste Deshayes",,,sold,,3120,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,30,,"Silvestre, Hippolyte Chrétien",,,sold,,14300,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,33,,"Geissenhof, Franz",,,sold,,16600,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,38AA,,"Conia, Stefano",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,38,,"Bailly, Paul",,,sold,,7800,GBP,Secondary,Secondary,Violin
+,,2001-03-20,39,,"Willems, Hendrick",,,sold,,4320,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,40,,"Albani, Matthias II",,,sold,,7800,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,41,,"Foschini, Giovanni",,,sold,,2400,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,43,,"Blanchard, Paul Francois",,,sold,,5400,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,49,,"Hill & Sons, W. E. Firm",,,sold,,1560,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,50,,"Nürnberger, Karl Albert II",,,sold,,1200,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,51,,"Voirin, François Nicolas",,,sold,,3360,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,52,,"Hill & Sons, W. E. Firm",,,sold,,1680,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,53,,"Dodd, John I",,,sold,,1920,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,54,,"Thomassin, Claude Auguste",,,sold,,1680,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,55,,"Grünke, Richard",,,sold,,1680,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,56,,Gand & Bernardel Firm,,,sold,,600,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,57,,"Fétique, Victor François",,,sold,,6000,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,58,,"Sartory, Eugène Nicolas",,,sold,,6600,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,59,,"Lamy, Joseph Alfred père",,,sold,,5040,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,60,,"Fétique, Victor François",,,sold,,4200,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,61,,"Nürnberger, Karl Albert II",,,sold,,960,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,66,,"Weichold, Richard",,,sold,,900,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,69,,"Wanka, Herbert",,,sold,,1320,GBP,Secondary,Secondary,Viola Bow
+,,2001-03-20,74,,"Maline, Guillaume",,,sold,,5400,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,75,,"Poirson, Dominique ""Justin""",,,sold,,1440,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,80,,"Cone, Georges",,,sold,,2280,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,81,,"Grünke, Richard",,,sold,,960,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,82,,"Thibouville-Lamy, Jérôme Firm",,,sold,,960,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,86,,"Hill & Sons, W. E. Firm",,,sold,,3120,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,87,,"Jombar, Paul",,,sold,,3360,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,91,,"Ouchard, Émile-Auguste",,,sold,,3600,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,92,,"Pineau, Joseph",,,sold,,1440,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,95,,"Bazin, Charles Louis",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,97,,"Hill & Sons, W. E. Firm",,,sold,,420,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,98,,"Süss, Johann Christian",,,sold,,780,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,99,,Caressa & Français Firm,,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,103,,"Maline, Guillaume",,,sold,,3360,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,105,,"Bazin, Charles Louis",,,sold,,1080,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,109,,"Bernardel, Gustave Adolphe",,,sold,,9000,GBP,Secondary,Secondary,Viola
+,,2001-03-20,111,,"Cocker, Lawrence",,,sold,,1440,GBP,Secondary,Cross-checked,Viola
+,,2001-03-20,112,,"Banks, Benjamin",,,sold,,3000,GBP,Secondary,Cross-checked,Viola
+,,2001-03-20,114,,"Bertelli, Enzo",,,sold,,3120,GBP,Secondary,Secondary,Viola
+,,2001-03-20,115,,"Millant, Max",,,sold,,4560,GBP,Secondary,Cross-checked,Viola
+,,2001-03-20,118,,"Pedrazzini, Giuseppe",,,sold,,23500,GBP,Secondary,Secondary,Cello
+,,2001-03-20,120,,"Kessler, Heinrich",,,sold,,4800,GBP,Secondary,Cross-checked,Cello
+,,2001-03-20,124,,"Bird, Richmond Henry",,,sold,,3600,GBP,Secondary,Cross-checked,Cello
+,,2001-03-20,126,,"Forster, William III",,,sold,,7200,GBP,Secondary,Cross-checked,Cello
+,,2001-03-20,134,,"Gerome, Roger",,,sold,,420,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,136,,"Morizot, Louis Joseph père",,,sold,,720,GBP,Secondary,Secondary,Cello Bow
+,,2001-03-20,142,,"Bultitude, Arthur Richard",,,sold,,1440,GBP,Secondary,Secondary,Viola Bow
+,,2001-03-20,143,,"Paesold, Roderich",,,sold,,780,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,148,,"Sartory, Eugène Nicolas",,,sold,,7440,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,149,,"Fétique, Victor François",,,sold,,4200,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,150,,"Sartory, Eugène Nicolas",,,sold,,6600,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,151,,"Voirin, François Nicolas",,,sold,,6000,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,152,,"Nürnberger, Karl Albert II",,,sold,,1080,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,159,,"Prager, Gustav Adolf",,,sold,,1080,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,161,,"Tubbs, James",,,sold,,3000,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,163,,"Henry, Joseph",,,sold,,15450,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,166,,"Pfretzschner, Hermann Richard",,,sold,,540,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,167,,"Hill & Sons, W. E. Firm",,,sold,,2160,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,168,,"Sartory, Eugène Nicolas",,,sold,,3360,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,169,,"van der Meer, Karel",,,sold,,1080,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,176,,"Fétique, Victor François",,,sold,,6600,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,177,,"van der Meer, Karel",,,sold,,840,GBP,Secondary,Secondary,Cello Bow
+,,2001-03-20,178,,"Prager, August Edwin",,,sold,,960,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,181,,Gand & Bernardel Firm,,,sold,,660,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,182,,"Nürnberger, Franz Albert I",,,sold,,960,GBP,Secondary,Secondary,Violin Bow
+,,2001-03-20,183,,"Hill & Sons, W. E. Firm",,,sold,,1560,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,184,,"Nürnberger, Karl Albert II",,,sold,,780,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-03-20,186,,"Cuniot, Eugène ""Cuniot-Hury""",,,sold,,840,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-03-20,191,,"Lorange, Paul II",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,192,,"Guastalla, Dante & Alfredo",,,sold,,6000,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,193,,"Vatelot, Marcel",,,sold,,1800,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,194,,"Fiorini, Giuseppe",,,sold,,32700,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,195,,"Geissenhof, Franz",,,sold,,11400,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,202,,"Corvisier, Eugene",,,sold,,2400,GBP,Secondary,Secondary,Violin
+,,2001-03-20,204,,"Bisiach, Giacomo & Leandro",,,sold,,1320,GBP,Secondary,Secondary,Violin
+,,2001-03-20,217,,"Hel, Pierre Joseph",,,sold,,18900,GBP,Secondary,Secondary,Violin
+,,2001-03-20,218,,"Stradivari, Antonio",,,sold,,388500,GBP,Secondary,Cross-checked,Violin
+,,2001-03-20,P,,"Banks, Benjamin",,,sold,,6600,GBP,Secondary,Secondary,Violin

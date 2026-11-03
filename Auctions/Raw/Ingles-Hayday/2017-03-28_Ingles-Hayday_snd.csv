@@ -1,0 +1,97 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2017-03-28,1,,"Klotz, Johann Carl",,,sold,,10200,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,2,,"Hill & Sons, W. E. Firm",,,sold,,13200,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,3,,"Salomon, Jean Baptiste Deshayes",,,sold,,9000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,4,,"Caussin, François",,,sold,,14400,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,5,,"Widhalm, Leopold I",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,6,,"Gaida, Giovanni",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,8,,"Sironi, Ambrogio",,,sold,,20400,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,10,,Gand & Bernardel Firm,,,sold,,15600,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,11,,"Capela, Antonio",,,sold,,5400,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,12,,"Bailly, Paul",,,sold,,5040,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,13,,"De Luccia, Gennaro",,,sold,,12000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,16,,"Aubert, Claude",,,sold,,5760,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,17,,"Silvestre, Pierre",,,sold,,22800,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,19,,"Ravizza, Carlo",,,sold,,12000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,21,,"Melegari, Enrico Clodoveo",,,sold,,19200,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,22,,"Carcassi, Lorenzo & Tomaso",,,sold,,54000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,25,,"Becker, Carl Sr.",,,sold,,21600,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,27,,"Cuypers, Johannes Theodorus",,,sold,,38400,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,28,,"Stradivari, Antonio",,,sold,,1920000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,29,,"Bazin, Charles Louis",,,sold,,2040,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,30,,"Morizot, Louis Joseph père",,,sold,,1680,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,31,,"Hill & Sons, W. E. Firm",,,sold,,3120,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,33,,"Hill & Sons, W. E. Firm",,,sold,,3120,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,34,,"Hill & Sons, W. E. Firm",,,sold,,5400,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,36,,"Nürnberger, Albert",,,sold,,1200,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,37,,"Sartory, Eugène Nicolas",,,sold,,19200,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,38,,"Sartory, Eugène Nicolas",,,sold,,16800,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,39,,"Sartory, Eugène Nicolas",,,sold,,18000,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,40,,"Fétique, Jules",,,sold,,10200,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,41,,"Taylor, Michael",,,sold,,2040,GBP,Secondary,Cross-checked,Viola Bow
+,,2017-03-28,49,,"Vigneron, Joseph Arthur père",,,sold,,7800,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,50,,"Fétique, Victor François",,,sold,,9600,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,51,,"Martin, Jean-Joseph",,,sold,,7200,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,52,,"Thomassin, Victor",,,sold,,5040,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,54,,"Diehl, Johann",,,sold,,3840,GBP,Secondary,Cross-checked,Viola
+,,2017-03-28,58,,"Blanchi, Alberto Luigi",,,sold,,6600,GBP,Secondary,Cross-checked,Viola
+,,2017-03-28,59,,"Tononi, Carlo Annibale",,,sold,,108000,GBP,Secondary,Cross-checked,Viola
+,,2017-03-28,60,,"Jacquot, Charles",,,sold,,10200,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,63,,"Gagliano, Giuseppe, Antonio & Giovanni",,,sold,,10200,GBP,Secondary,Secondary,Small Violin
+,,2017-03-28,65,,"Hel, Pierre Joseph",,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,66,,"Panormo, Vincenzo Trusiano",,,sold,,45600,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,67,,"Germain, Émile",,,sold,,4200,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,79,,"Calcagno, Bernardo",,,sold,,38400,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,84,,"Darche, Hilaire",,,sold,,4200,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,86,,"Aldric, Jean-François",,,sold,,42000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,87,,"Storioni, Lorenzo",,,sold,,432000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,89,,"Finkel, Johannes S.",,,sold,,1800,GBP,Secondary,Cross-checked,Viola Bow
+,,2017-03-28,90,,"Bazin, Charles Nicolas",,,sold,,3360,GBP,Secondary,Cross-checked,Viola Bow
+,,2017-03-28,91,,"Hill & Sons, W. E. Firm",,,sold,,3360,GBP,Secondary,Cross-checked,Viola Bow
+,,2017-03-28,92,,"Hill & Sons, W. E. Firm",,,sold,,5040,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,93,,"Hill & Sons, W. E. Firm",,,sold,,3840,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,95,,"Dodd, John I",,,sold,,1920,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,96,,"Schuster, Adolf Curt",,,sold,,1440,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,97,,"Schmidt, C. Hans-Karl",,,sold,,3840,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,98,,"Sartory, Eugène Nicolas",,,sold,,16800,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,99,,"Sartory, Eugène Nicolas",,,sold,,18000,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,100,,"Sartory, Eugène Nicolas",,,sold,,6000,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,101,,"Lamy, Joseph Alfred père",,,sold,,11400,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,103,,"Grünke, Richard",,,sold,,2160,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,104,,"Clasquin, Célestin Émile",,,sold,,2640,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,106,,"Henry, Joseph",,,sold,,2400,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,108,,"Voirin, François Nicolas",,,sold,,8400,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,109,,"Voirin, François Nicolas",,,sold,,10800,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,110,,"Colas, Prosper",,,sold,,1320,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,114,,"Simon, Pierre",,,sold,,16800,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,115,,"Vigneron, Joseph Arthur père",,,sold,,5760,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,116,,"Tubbs, James",,,sold,,7800,GBP,Secondary,Cross-checked,Cello Bow
+,,2017-03-28,120,,"Thibouville-Lamy, Jérôme Firm",,,sold,,8400,GBP,Secondary,Cross-checked,Cello
+,,2017-03-28,123,,"Millant, Roger & Max Firm",,,sold,,19200,GBP,Secondary,Cross-checked,Cello
+,,2017-03-28,128,,"Farotti, Celeste",,,sold,,84000,GBP,Secondary,Cross-checked,Cello
+,,2017-03-28,130,,"Forster, William III",,,sold,,78000,GBP,Secondary,Cross-checked,Cello
+,,2017-03-28,144,,"Hill & Sons, W. E. Firm",,,sold,,10800,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,145,,"Hill & Sons, W. E. Firm",,,sold,,6000,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,146,,"Hill & Sons, W. E. Firm",,,sold,,6600,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,148,,"Voirin, François Nicolas",,,sold,,4560,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,149,,"Vigneron, Joseph Arthur père",,,sold,,4200,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,151,,"Lamy, Joseph Alfred père",,,sold,,3360,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,152,,"Lamy, Joseph Alfred père",,,sold,,6000,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,153,,"Peccatte, Dominique",,,sold,,69600,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,155,,"Hill & Sons, W. E. Firm",,,sold,,2160,GBP,Secondary,Secondary,Violin Bow
+,,2017-03-28,156,,"Hill & Sons, W. E. Firm",,,sold,,2280,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,158,,"Liu, Lloyd",,,sold,,2040,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,159,,"Peccatte, Dominique",,,sold,,48000,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,160,,"Hill & Sons, W. E. Firm",,,sold,,1800,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,161,,"Nürnberger, Albert",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,162,,"Hill & Sons, W. E. Firm",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,163,,"Retford, William Charles",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,164,,"Nürnberger, Albert",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,165,,"Nürnberger, Albert",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2017-03-28,166,,"Rapoport, Hahn",,,sold,,2880,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,176,,"Rugeri, Francesco",,,sold,,120000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,179,,"Antoniazzi, Romeo",,,sold,,16800,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,181,,"Eberle, Tomaso",,,sold,,36000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,182,,"Pique, François-Louis",,,sold,,54000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,184,,"Gabrielli, Giovanni Battista",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2017-03-28,185,,"Balestrieri, Tommaso",,,sold,,204000,GBP,Secondary,Cross-checked,Violin

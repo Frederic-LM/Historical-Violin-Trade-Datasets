@@ -1,0 +1,105 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2007-02-27,2,,"Dieudonné, Amédée",,,sold,,3000,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,5,,"Lorange, Paul II",,,sold,,3120,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,10,,"Carcassi, Lorenzo & Tomaso",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,14,,"Craske, George",,,sold,,3360,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,16,,"Charotte, Victor Joseph",,,sold,,1680,GBP,Secondary,Secondary,Violin
+,,2007-02-27,19,,"Gaida, Giovanni",,,sold,,7800,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,22,,"Messori, Pietro",,,sold,,12000,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,27,,"Antoniazzi, Romeo",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,29,,"Boussu, Joseph Benoit",,,sold,,1080,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,31,,"Amati, Nicolò",,,sold,,8400,GBP,Secondary,Secondary,Violin
+,,2007-02-27,32,,"De Comble, Ambroise",,,sold,,9600,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,33,,"Blanchi, Alberto Luigi",,,sold,,2400,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,34,,"Silvestre, Hippolyte Chrétien",,,sold,,14400,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,35,,"Cuypers, Johannes Theodorus",,,sold,,26400,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,39,,"Fendt, Bernard Simon II",,,sold,,10200,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,43,,"Miremont, Claude Augustin",,,sold,,9600,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,45,,"Maurizi, Francesco",,,sold,,2160,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,46,,"Roth, Ernst Heinrich",,,sold,,2400,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,47,,"Gadda, Mario",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,48,,"Farotto, Celestino",,,sold,,12000,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,52,,"Ceruti, Giovanni Battista",,,sold,,26400,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,53,,"Carcassi, Lorenzo & Tomaso",,,sold,,45600,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,54,,"Ouchard, Émile-Auguste",,,sold,,4560,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,55,,"Dupuy, Georges Louis",,,sold,,2400,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,56,,"Voirin, François Nicolas",,,sold,,2400,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,58,,"Lotte, Roger François",,,sold,,1200,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,61,,"Vuillaume, Jean-Baptiste",,,sold,,9600,GBP,Secondary,Cross-checked,Viola Bow
+,,2007-02-27,62,,"Hill & Sons, W. E. Firm",,,sold,,2880,GBP,Secondary,Cross-checked,Viola Bow
+,,2007-02-27,64,,"Bazin, Charles Louis",,,sold,,1680,GBP,Secondary,Secondary,Violin Bow
+,,2007-02-27,69,,"Pfretzschner, Hermann Richard",,,sold,,1020,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,70,,"Vigneron, Joseph Arthur père",,,sold,,14400,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,71,,"Richaume, André",,,sold,,960,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,72,,Gand & Bernardel Firm,,,sold,,4800,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,73,,"Bultitude, Arthur Richard",,,sold,,2280,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,74,,"Hill & Sons, W. E. Firm",,,sold,,1440,GBP,Secondary,Secondary,Violin Bow
+,,2007-02-27,77,,"Ouchard, Émile François",,,sold,,2400,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,80,,"Tubbs, James",,,sold,,3600,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,81,,"Tubbs, James",,,sold,,3000,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,86,,"Deblaye, Albert",,,sold,,1800,GBP,Secondary,Cross-checked,Viola
+,,2007-02-27,87,,"Antoniazzi, Romeo",,,sold,,7200,GBP,Secondary,Cross-checked,Viola
+,,2007-02-27,89,,"Barbieri, Bruno",,,sold,,2160,GBP,Secondary,Cross-checked,Viola
+,,2007-02-27,96,,"Collin-Mézin, Charles fils",,,sold,,5400,GBP,Secondary,Secondary,Cello
+,,2007-02-27,99,,"Marchetti, Enrico",,,sold,,66000,GBP,Secondary,Cross-checked,Cello
+,,2007-02-27,100,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,50400,GBP,Secondary,Cross-checked,Cello
+,,2007-02-27,104,,"Kennedy, Thomas",,,sold,,12000,GBP,Secondary,Cross-checked,Cello
+,,2007-02-27,107,,"Gadda, Mario",,,sold,,6000,GBP,Secondary,Cross-checked,Cello
+,,2007-02-27,108,,"Grancino, Giovanni & Francesco",,,sold,,88800,GBP,Secondary,Cross-checked,Cello
+,,2007-02-27,116,,"Sgarabotto, Gaetano",,,sold,,48000,GBP,Secondary,Cross-checked,Cello
+,,2007-02-27,119,,"Dodds, Edward",,,sold,,2160,GBP,Secondary,Secondary,Violin Bow
+,,2007-02-27,120,,"Lamy, Joseph Alfred père",,,sold,,9000,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,121,,Gand & Bernardel Firm,,,sold,,3120,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,122,,"Lamy, Joseph Alfred père",,,sold,,7200,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,125,,"Sartory, Eugène Nicolas",,,sold,,7800,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,126,,"Lamy, Joseph Alfred père",,,sold,,3360,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,130A,,"Dupuy, Georges Louis",,,sold,,2640,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,130,,"Devillers, Martin",,,sold,,1560,GBP,Secondary,Secondary,Viola Bow
+,,2007-02-27,131,,"Bazin, Charles Alfred",,,sold,,960,GBP,Secondary,Secondary,Violin Bow
+,,2007-02-27,133,,"Poirson, Dominique ""Justin""",,,sold,,1800,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,134,,"Fétique, Victor François",,,sold,,3600,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,135,,"Voirin, François Nicolas",,,sold,,2640,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,136,,"Lamy, Joseph Alfred père",,,sold,,5040,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,138,,"Nürnberger, Albert",,,sold,,1560,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,139,,"Hill & Sons, W. E. Firm",,,sold,,2640,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,140,,"Lapierre, Marcel Charles",,,sold,,840,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,141,,"Hill & Sons, W. E. Firm",,,sold,,1800,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,143,,"Bazin, Charles Alfred",,,sold,,1920,GBP,Secondary,Secondary,Violin Bow
+,,2007-02-27,144,,"Millant, Roger & Max Firm",,,sold,,1080,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,145,,Gand Frères Firm,,,sold,,960,GBP,Secondary,Cross-checked,Cello Bow
+,,2007-02-27,146,,"Vigneron, André 'Vigneron fils'",,,sold,,4800,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,148,,"Pajeot, Étienne",,,sold,,4800,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,149,,"Maline, Nicolas I",,,sold,,2160,GBP,Secondary,Cross-checked,Violin Bow
+,,2007-02-27,152,,"Gadda, Mario",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,153,,"Ceruti, Giovanni Battista",,,sold,,5040,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,155,,"Derazey, Justin Amedée",,,sold,,4560,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,161,,"Craske, George",,,sold,,3600,GBP,Secondary,Secondary,Violin
+,,2007-02-27,163,,"Deconet, Michele",,,sold,,57600,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,164,,"Merling, Pauli",,,sold,,3120,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,167,,"Bisiach, Leandro I",,,sold,,18000,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,168,,"Barbieri, Bruno",,,sold,,5040,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,171,,"Boullangier, Charles",,,sold,,10800,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,172,,"Arcellaschi, Galileo",,,sold,,2400,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,188,,"Emiliani, Francesco",,,sold,,10200,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,189,,"Gagliano, Giuseppe & Antonio",,,sold,,57600,GBP,Secondary,Secondary,Violin
+,,2007-02-27,190,,"Dötsch, Michael",,,sold,,4200,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,193,,"Vuillaume, Jean-Baptiste",,,sold,,16800,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,195,,"Bailly, Charles",,,sold,,1680,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,196,,"Hel, Pierre Joseph",,,sold,,9000,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,198,,"Hornsteiner, Mathias II",,,sold,,3840,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,201,,"Guado, Lorenzo Frassino",,,sold,,2640,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,203,,"Pressenda, Giovanni Francesco",,,sold,,31200,GBP,Secondary,Cross-checked,Violin
+,,2007-02-27,,,"Marchetti, Enrico",,,sold,,66000,GBP,Secondary,Secondary,Cello
+,,2007-02-27,,,"Marchioni, Don Nicola 'Don Nicolo Amati'",,,sold,,8400,GBP,Secondary,Cross-checked,Small Violin
+,,2007-02-27,,,"Vuillaume, Jean-Baptiste",,,sold,,16800,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Antoniazzi, Romeo",,,sold,,24000,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Antoniazzi, Romeo",,,sold,,7200,GBP,Secondary,Secondary,Viola
+,,2007-02-27,,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,50400,GBP,Secondary,Secondary,Cello
+,,2007-02-27,,,"Carcassi, Lorenzo & Tomaso",,,sold,,45600,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Cuypers, Johannes Theodorus",,,sold,,26400,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Sgarabotto, Gaetano",,,sold,,48000,GBP,Secondary,Secondary,Cello
+,,2007-02-27,,,"de Rub, Augusto (Angelo)",,,sold,,10200,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Deconet, Michele",,,sold,,57600,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Fendt, Bernard Simon II",,,sold,,10200,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Gagliano, Giuseppe & Antonio",,,sold,,57600,GBP,Secondary,Secondary,Violin
+,,2007-02-27,,,"Hel, Pierre Joseph",,,sold,,9000,GBP,Secondary,Secondary,Violin

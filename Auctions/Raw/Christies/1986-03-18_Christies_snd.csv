@@ -1,0 +1,82 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1986-03-18,25,,"Fleury, H.",,,sold,,486,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,29,,"Hill & Sons, W. E. Firm",,,sold,,486,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,30,,"Nürnberger, Albert",,,sold,,1188,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,32,,"Hill & Sons, W. E. Firm",,,sold,,864,GBP,Secondary,Secondary,Cello Bow
+,,1986-03-18,33,,"Hill & Sons, W. E. Firm",,,sold,,1080,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,34,,"Hill & Sons, W. E. Firm",,,sold,,216,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,35,,"Corsby, George I",,,sold,,129,GBP,Secondary,Secondary,Cello Bow
+,,1986-03-18,37,,"Thomassin, Louis Joseph",,,sold,,432,GBP,Secondary,Cross-checked,Violin Bow
+,,1986-03-18,38,,"Hill & Sons, W. E. Firm",,,sold,,453,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,41,,"Hill & Sons, W. E. Firm",,,sold,,540,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,42,,"Rau, August",,,sold,,496,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,47,,"Hill & Sons, W. E. Firm",,,sold,,453,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,48,,"Nürnberger, Albert",,,sold,,702,GBP,Secondary,Secondary,Viola Bow
+,,1986-03-18,51,,"Hill & Sons, W. E. Firm",,,sold,,810,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,53,,"Tubbs, James",,,sold,,1944,GBP,Secondary,Secondary,Violin Bow
+,,1986-03-18,60,,"Guersan, Louis",,,sold,,1080,GBP,Secondary,Secondary,Cello
+,,1986-03-18,66,,"Wolff, Brothers",,,sold,,594,GBP,Secondary,Cross-checked,Viola
+,,1986-03-18,73,,"Hill & Sons, W. E. Firm",,,sold,,1080,GBP,Secondary,Cross-checked,Viola
+,,1986-03-18,77,,"Mennesson, Emile",,,sold,,2808,GBP,Secondary,Cross-checked,Cello
+,,1986-03-18,80,,"Richardson, Arthur",,,sold,,1134,GBP,Secondary,Cross-checked,Viola
+,,1986-03-18,89,,"Lemböck, Gabriel (Gábor)",,,sold,,1404,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,91,,Perry & Wilkinson Firm,,,sold,,810,GBP,Secondary,Secondary,Violin
+,,1986-03-18,107,,"Falisse, Auguste",,,sold,,993,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,108,,"Pillement, François",,,sold,,388,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,109,,"Robinson, William",,,sold,,1404,GBP,Secondary,Secondary,Violin
+,,1986-03-18,110,,"Heinicke, Mathias",,,sold,,594,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,116,,"Roth, Ernst Heinrich",,,sold,,302,GBP,Secondary,Secondary,Violin
+,,1986-03-18,117,,"Mayson, Walter H.",,,sold,,237,GBP,Secondary,Secondary,Violin
+,,1986-03-18,127,,"Contino, Alfredo",,,sold,,864,GBP,Secondary,Secondary,Violin
+,,1986-03-18,136,,"Warrick, A.",,,sold,,216,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,141,,"Acoulon, Alexandre Alfred",,,sold,,702,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,142,,"Milton, Louis Frank",,,sold,,475,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,143,,"Vincent, Alfred",,,sold,,734,GBP,Secondary,Secondary,Violin
+,,1986-03-18,144,,"Chanot, Georges Adolphe",,,sold,,432,GBP,Secondary,Secondary,Violin
+,,1986-03-18,145,,"Hesketh, Thomas Earle",,,sold,,1080,GBP,Secondary,Secondary,Violin
+,,1986-03-18,146,,"Thompson, Charles & Samuel",,,sold,,7560,GBP,Secondary,Secondary,Violin
+,,1986-03-18,148,,"Barton, George",,,sold,,4100,GBP,Secondary,Secondary,Violin
+,,1986-03-18,150,,"Barton, George",,,sold,,270,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,153,,"Mennesson, Emile",,,sold,,918,GBP,Secondary,Secondary,Violin
+,,1986-03-18,156,,"Simpson, Thomas",,,sold,,183,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,159,,"Owen, John William",,,sold,,410,GBP,Secondary,Secondary,Violin
+,,1986-03-18,160,,"Tarr, William",,,sold,,756,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,161,,"Degani, Eugenio",,,sold,,5184,GBP,Secondary,Secondary,Violin
+,,1986-03-18,168,,"Roth, Ernst Heinrich",,,sold,,291,GBP,Secondary,Secondary,Violin
+,,1986-03-18,170,,"Schwarz, Heinrich",,,sold,,162,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,171,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,410,GBP,Secondary,Secondary,Violin
+,,1986-03-18,174,,"Robinson, William",,,sold,,594,GBP,Secondary,Secondary,Violin
+,,1986-03-18,179,,"Richardson, Arthur",,,sold,,1512,GBP,Secondary,Secondary,Violin
+,,1986-03-18,180,,"Vincent, Alfred",,,sold,,810,GBP,Secondary,Secondary,Violin
+,,1986-03-18,184,,"Gilbert, Jeffrey James",,,sold,,594,GBP,Secondary,Secondary,Violin
+,,1986-03-18,186,,"Mayson, Walter H.",,,sold,,518,GBP,Secondary,Secondary,Violin
+,,1986-03-18,190,,"Watson, Frank",,,sold,,388,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,192,,"Walton, William",,,sold,,475,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,195,,Hart & Son,,,sold,,302,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,197,,"Klotz, Joseph Thomas",,,sold,,1836,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,198,,"Chanot, Georges Adolphe",,,sold,,810,GBP,Secondary,Secondary,Violin
+,,1986-03-18,200,,"Hesketh, Thomas Earle",,,sold,,918,GBP,Secondary,Secondary,Violin
+,,1986-03-18,202,,"Mason, George",,,sold,,496,GBP,Secondary,Secondary,Violin
+,,1986-03-18,203,,"Müller, Josef",,,sold,,237,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,204,,"Bourguignon, Maurice",,,sold,,345,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,205,,"Pyne, George",,,sold,,302,GBP,Secondary,Secondary,Violin
+,,1986-03-18,206,,"Blondelet, Hugues Emile",,,sold,,594,GBP,Secondary,Secondary,Violin
+,,1986-03-18,207,,"Moennig, Fritz",,,sold,,410,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,208,,"Walker, John Harold",,,sold,,432,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,210,,"Gilbert, Jeffrey James",,,sold,,324,GBP,Secondary,Secondary,Violin
+,,1986-03-18,215,,"Hill, William Ebsworth",,,sold,,3456,GBP,Secondary,Secondary,Violin
+,,1986-03-18,216,,"Bailly, Paul",,,sold,,2592,GBP,Secondary,Secondary,Violin
+,,1986-03-18,217,,"Wulme-Hudson, George",,,sold,,1620,GBP,Secondary,Secondary,Violin
+,,1986-03-18,218,,"Warrick, A.",,,sold,,756,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,222,,"Fendt, Jacob",,,sold,,4320,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,223,,"Duncan, George",,,sold,,918,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,224,,"Fendt, Bernard Simon II",,,sold,,2160,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,225,,"Richardson, Arthur",,,sold,,1296,GBP,Secondary,Secondary,Violin
+,,1986-03-18,226,,"Schwarz, Giovanni",,,sold,,3456,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,227,,"Hel, Pierre Joseph",,,sold,,7020,GBP,Secondary,Secondary,Violin
+,,1986-03-18,228,,"Vuillaume, Jean-Baptiste",,,sold,,10800,GBP,Secondary,Secondary,Violin
+,,1986-03-18,229,,"Jombar, Paul",,,sold,,1404,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,230,,"Hill, Henry Lockey",,,sold,,3780,GBP,Secondary,Secondary,Violin
+,,1986-03-18,233,,"Barbieri, Bruno",,,sold,,1296,GBP,Secondary,Cross-checked,Violin
+,,1986-03-18,234,,"Vuillaume, Jean-Baptiste",,,sold,,19440,GBP,Secondary,Secondary,Violin
+,,1986-03-18,240,,"Rocca, Giuseppe Antonio",,,sold,,25920,GBP,Secondary,Cross-checked,Violin

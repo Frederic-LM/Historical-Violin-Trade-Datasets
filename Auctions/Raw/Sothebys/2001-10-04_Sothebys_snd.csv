@@ -1,0 +1,53 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-10-04,6,,"Thir, Johann Georg",,,sold,,3200,USD,Secondary,Secondary,Violin
+,,2001-10-04,9,,"Reichel, Johann G.",,,sold,,1200,USD,Secondary,Secondary,Violin
+,,2001-10-04,10,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3200,USD,Secondary,Secondary,Violin
+,,2001-10-04,12,,"Lewis, Edward II",,,sold,,1700,USD,Secondary,Secondary,Violin
+,,2001-10-04,16,,"George, Carl H.",,,sold,,8500,USD,Secondary,Secondary,Violin
+,,2001-10-04,18,,"Vaccari, Raffaele",,,sold,,10000,USD,Secondary,Secondary,Violin
+,,2001-10-04,20,,"Pedrazzini, Giuseppe",,,sold,,20000,USD,Secondary,Secondary,Violin
+,,2001-10-04,21,,"Audinot, Victor",,,sold,,2600,USD,Secondary,Secondary,Violin
+,,2001-10-04,22,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2200,USD,Secondary,Secondary,Violin
+,,2001-10-04,25,,"Contavalli, Primo",,,sold,,4200,USD,Secondary,Secondary,Violin
+,,2001-10-04,26,,"Gagliano, Giuseppe",,,sold,,42000,USD,Secondary,Secondary,Violin
+,,2001-10-04,27,,"Vuillaume, Jean-Baptiste",,,sold,,55000,USD,Secondary,Secondary,Violin
+,,2001-10-04,29,,"Peresson, Sergio",,,sold,,18000,USD,Secondary,Secondary,Violin
+,,2001-10-04,30,,"Gagliano, Nicolò",,,sold,,60000,USD,Secondary,Secondary,Violin
+,,2001-10-04,31,,"Tubbs, James",,,sold,,1400,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,32,,"Weichold, Richard",,,sold,,3600,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,33,,Lyon & Healy Firm,,,sold,,1500,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,36,,"Hill & Sons, W. E. Firm",,,sold,,3200,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,37,,"Hill & Sons, W. E. Firm",,,sold,,3400,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,38,,"Liu, Lloyd",,,sold,,3200,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,40,,"Tubbs, James",,,sold,,3000,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,41,,"Riedl, Alfons",,,sold,,480,USD,Secondary,Secondary,Bass Bow
+,,2001-10-04,42,,"Sartory, Eugène Nicolas",,,sold,,2500,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,43,,"Voirin, François Nicolas",,,sold,,8000,USD,Secondary,Secondary,Cello Bow
+,,2001-10-04,45,,"Henry, Joseph",,,sold,,26000,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,47,,"Tomasowsky, Charles",,,sold,,8500,USD,Secondary,Secondary,Cello
+,,2001-10-04,49,,"Vuillaume, Jean-Baptiste",,,sold,,22000,USD,Secondary,Secondary,Cello
+,,2001-10-04,51,,Laberte-Humbert Frères Firm,,,sold,,5500,USD,Secondary,Secondary,Cello
+,,2001-10-04,52,,"Harris, Charles II",,,sold,,19000,USD,Secondary,Secondary,Cello
+,,2001-10-04,53,,"Klotz, Georg Karl II",,,sold,,10000,USD,Secondary,Secondary,Cello
+,,2001-10-04,54,,"Burgess, David",,,sold,,9500,USD,Secondary,Secondary,Viola
+,,2001-10-04,56,,"Giacchetti, Giuseppe",,,sold,,5000,USD,Secondary,Secondary,Viola
+,,2001-10-04,57,,"Storioni, Lorenzo",,,sold,,70000,USD,Secondary,Secondary,Viola
+,,2001-10-04,59,,"Dodd, John I",,,sold,,4000,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,62,,"Tubbs, James",,,sold,,2200,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,63,,Dodd Family,,,sold,,1900,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,64,,"Aubry, Joseph",,,sold,,500,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,66,,"Weidhaas, Paul",,,sold,,1000,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,69,,"Tubbs, James",,,sold,,5000,USD,Secondary,Secondary,Violin Bow
+,,2001-10-04,71,,"Glass, Franz Johann",,,sold,,1800,USD,Secondary,Secondary,Violin
+,,2001-10-04,72,,"Kunze, Wilhelm Paul",,,sold,,1600,USD,Secondary,Secondary,Violin
+,,2001-10-04,74,,"Luff, William H.",,,sold,,5200,USD,Secondary,Secondary,Violin
+,,2001-10-04,75,,"Vuillaume, Jean-Baptiste",,,sold,,20000,USD,Secondary,Secondary,Violin
+,,2001-10-04,76,,"Guarneri, Andrea",,,sold,,55000,USD,Secondary,Secondary,Violin
+,,2001-10-04,78,,Silvestre & Maucotel,,,sold,,3000,USD,Secondary,Secondary,Violin
+,,2001-10-04,79,,"Storioni, Lorenzo",,,sold,,29000,USD,Secondary,Secondary,Violin
+,,2001-10-04,82,,"Guadagnini, Giovanni Battista",,,sold,,180000,USD,Secondary,Secondary,Violin
+,,2001-10-04,83,,"Bissolotti, Francesco",,,sold,,7000,USD,Secondary,Secondary,Violin
+,,2001-10-04,85,,"Capela, Antonio",,,sold,,5500,USD,Secondary,Secondary,Violin
+,,2001-10-04,88,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,9500,USD,Secondary,Secondary,Violin
+,,2001-10-04,89,,"Marengo Rinaldi, Romano",,,sold,,31000,USD,Secondary,Secondary,Violin
+,,2001-10-04,90,,"Widhalm, Leopold I",,,sold,,7500,USD,Secondary,Secondary,Violin

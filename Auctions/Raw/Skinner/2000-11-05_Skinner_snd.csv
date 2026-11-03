@@ -1,0 +1,69 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2000-11-05,36,,"Carletti, Natale",,,sold,,1955,USD,Secondary,Cross-checked,Viola
+,,2000-11-05,39,,"Ferroni, Fernandino",,,sold,,4025,USD,Secondary,Secondary,Viola
+,,2000-11-05,46,,"Bissolotti, Francesco",,,sold,,4600,USD,Secondary,Cross-checked,Viola
+,,2000-11-05,47,,"Pirot, Claude",,,sold,,21850,USD,Secondary,Cross-checked,Cello
+,,2000-11-05,49,,"Willis, Alan E.",,,sold,,3450,USD,Secondary,Cross-checked,Cello
+,,2000-11-05,58,,"Cavani, Giovanni",,,sold,,26450,USD,Secondary,Cross-checked,Cello
+,,2000-11-05,59,,"Rocca, Enrico",,,sold,,29900,USD,Secondary,Cross-checked,Violin
+,,2000-11-05,60,,"Degani, Domenico",,,sold,,19550,USD,Secondary,Cross-checked,Violin
+,,2000-11-05,65,,"Bignami, Otello",,,sold,,8050,USD,Secondary,Cross-checked,Violin
+,,2000-11-05,71,,"Pellacani, Giuseppe",,,sold,,6440,USD,Secondary,Cross-checked,Violin
+,,2000-11-05,75,,"Pollastri, Gaetano",,,sold,,33350,USD,Secondary,Secondary,Violin
+,,2000-11-05,78,,"Bailly, Paul",,,sold,,5520,USD,Secondary,Secondary,Violin
+,,2000-11-05,80,,Kloz Family,,,sold,,2415,USD,Secondary,Secondary,Violin
+,,2000-11-05,84,,"Amati, Antonio & Girolamo",,,sold,,108100,USD,Secondary,Cross-checked,Violin
+,,2000-11-05,85,,"Hill & Sons, W. E. Firm",,,sold,,2185,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,86,,"Grünke, Richard",,,sold,,1150,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,87,,"Sartory, Eugène Nicolas",,,sold,,6900,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,91,,"Hill & Sons, W. E. Firm",,,sold,,1035,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,92,,"Thomassin, Claude Auguste",,,sold,,3335,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,94,,"Thibouville-Lamy, Jérôme Firm",,,sold,,632,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,97,,"Sartory, Eugène Nicolas",,,sold,,10350,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,100,,"Sartory, Eugène Nicolas",,,sold,,12075,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,101,,"Nürnberger, Albert",,,sold,,1092,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,103,,"Grünke, Richard",,,sold,,1092,USD,Secondary,Secondary,Viola Bow
+,,2000-11-05,105,,"Vuillaume, Jean-Baptiste",,,sold,,18400,USD,Secondary,Secondary,Viola Bow
+,,2000-11-05,109,,"Dölling, Heinz",,,sold,,747,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,114,,"Bultitude, Arthur Richard",,,sold,,1035,USD,Secondary,Cross-checked,Cello Bow
+,,2000-11-05,116,,"Kovanda, Frank",,,sold,,977,USD,Secondary,Secondary,Cello Bow
+,,2000-11-05,117,,"Hill & Sons, W. E. Firm",,,sold,,3680,USD,Secondary,Secondary,Cello Bow
+,,2000-11-05,118,,Gand & Bernardel Firm,,,sold,,1495,USD,Secondary,Secondary,Cello Bow
+,,2000-11-05,120,,"Hoyer, Otto A.",,,sold,,172,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,122,,"Thomassin, Claude Auguste",,,sold,,2185,USD,Secondary,Cross-checked,Cello Bow
+,,2000-11-05,127,,"Winkler, Franz",,,sold,,632,USD,Secondary,Secondary,Cello Bow
+,,2000-11-05,130,,"Thomassin, Claude Auguste",,,sold,,9775,USD,Secondary,Secondary,Viola Bow
+,,2000-11-05,132,,"Gillet, Louis Henri",,,sold,,2415,USD,Secondary,Secondary,Viola Bow
+,,2000-11-05,134,,"Vuillaume, Jean-Baptiste",,,sold,,5750,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,135,,"Vuillaume, Jean-Baptiste",,,sold,,2300,USD,Secondary,Secondary,Viola Bow
+,,2000-11-05,136,,"Audinot, Jacques",,,sold,,5750,USD,Secondary,Cross-checked,Viola Bow
+,,2000-11-05,139,,"Paulus, Otto Paul",,,sold,,115,USD,Secondary,Secondary,Viola Bow
+,,2000-11-05,144,,"Sartory, Eugène Nicolas",,,sold,,6900,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,146,,"Voirin, François Nicolas",,,sold,,4370,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,148,,Bazin Family,,,sold,,2300,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,151,,"Hill & Sons, W. E. Firm",,,sold,,2300,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,181,,"Schindler, Gustav",,,sold,,862,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,184,,Bazin Family,,,sold,,1150,USD,Secondary,Cross-checked,Violin Bow
+,,2000-11-05,185,,"Pfretzschner, Hermann Richard",,,sold,,259,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,190,,"Hill & Sons, W. E. Firm",,,sold,,805,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,204,,"Nürnberger, Albert",,,sold,,402,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,210,,"Hoyer, Otto A.",,,sold,,575,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,212,,"Steinel, G. Rudi",,,sold,,374,USD,Secondary,Secondary,Cello Bow
+,,2000-11-05,221,,Silvestre & Maucotel,,,sold,,1610,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,222,,"Roth, Ernst Heinrich",,,sold,,201,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,232,,"Roth, Ernst Heinrich",,,sold,,201,USD,Secondary,Secondary,Violin Bow
+,,2000-11-05,251,,"White, Asa Warren",,,sold,,1150,USD,Secondary,Cross-checked,Violin
+,,2000-11-05,284,,"Goss, Walter Solon",,,sold,,3335,USD,Secondary,Secondary,Violin
+,,2000-11-05,286,,"Goss, Walter Solon",,,sold,,1495,USD,Secondary,Secondary,Violin
+,,2000-11-05,325,,"Goss, Walter Solon",,,sold,,575,USD,Secondary,Secondary,Violin
+,,2000-11-05,344,,"Leidolff, Johann Christoph",,,sold,,920,USD,Secondary,Secondary,Violin
+,,2000-11-05,387,,"Prescott, Abraham",,,sold,,8050,USD,Secondary,Secondary,Bass
+,,2000-11-05,396,,"Forster, William II or Sr",,,sold,,1725,USD,Secondary,Secondary,Violin
+,,2000-11-05,403,,"Cavani, Vincenzo",,,sold,,2300,USD,Secondary,Cross-checked,Violin
+,,2000-11-05,,,Emmett W. Beebe,,,sold,,2654,GBP,Secondary,Secondary,Violin
+,,2000-11-05,,,Walter Solon Goss,,,sold,,1448,GBP,Secondary,Secondary,Violin
+,,2000-11-05,,,Paul S. Johnson,,,sold,,885,GBP,Secondary,Secondary,Violin
+,,2000-11-05,,,H. R. Hanson,,,sold,,2413,GBP,Secondary,Secondary,Viola
+,,2000-11-05,,,Tetsuo Matsuda,,,sold,,4825,GBP,Secondary,Secondary,Viola
+,,2000-11-05,,,"Ubel, Wolfgang",,,sold,,1495,USD,Secondary,Secondary,Viola
+,,2000-11-05,,,"Tepho, Georges",,,sold,,2300,USD,Secondary,Secondary,Viola Bow

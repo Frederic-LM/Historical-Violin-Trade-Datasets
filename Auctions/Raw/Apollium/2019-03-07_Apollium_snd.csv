@@ -1,0 +1,13 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2019-03-07,16,,Alexandre Delanoy,,,sold,,1800,EUR,Secondary,Secondary,Violin
+,,2019-03-07,20,,Jean Baptiste Henry,,,sold,,1920,EUR,Secondary,Secondary,Violin
+,,2019-03-07,22,,Henri Wagner,,,sold,,1680,EUR,Secondary,Secondary,Violin
+,,2019-03-07,23,,Rene Jacquemin,,,sold,,1560,EUR,Secondary,Secondary,Violin
+,,2019-03-07,27,,Pierre (II) Claudot,,,sold,,1800,EUR,Secondary,Secondary,Violin
+,,2019-03-07,28,,Francois Perain,,,sold,,720,EUR,Secondary,Secondary,Violin
+,,2019-03-07,32,,Dino Lelli,,,sold,,1440,EUR,Secondary,Secondary,Violin
+,,2019-03-07,33,,Pierre Trevillot,,,sold,,600,EUR,Secondary,Secondary,Violin
+,,2019-03-07,37,,"Olivier & Bisch, Christian & Paul",,,sold,,2160,EUR,Secondary,Secondary,Violin
+,,2019-03-07,48,,Dino Lelli,,,sold,,1440,EUR,Secondary,Secondary,Viola
+,,2019-03-07,61,,Charles Nicolas Bazin,,,sold,,504,EUR,Secondary,Secondary,Violin Bow
+,,2019-03-07,77,,Morizot Frères,,,sold,,3840,EUR,Secondary,Secondary,Cello Bow

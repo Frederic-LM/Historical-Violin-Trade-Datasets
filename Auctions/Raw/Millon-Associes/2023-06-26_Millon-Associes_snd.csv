@@ -1,0 +1,14 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2023-06-26,1,,Augustin Claudot,,,sold,,960,EUR,Secondary,Secondary,Violin
+,,2023-06-26,5,,Francois Perrin,,,sold,,132,EUR,Secondary,Secondary,Violin
+,,2023-06-26,10,,Albert Joseph Deblaye,,,sold,,1260,EUR,Secondary,Secondary,Violin
+,,2023-06-26,45,,Nicolas Morlot,,,sold,,480,EUR,Secondary,Secondary,Violin
+,,2023-06-26,58,,Albert Joseph Deblaye,,,sold,,1800,EUR,Secondary,Secondary,Violin
+,,2023-06-26,92,,Joseph Francois Breton,,,sold,,156,EUR,Secondary,Secondary,Violin
+,,2023-06-26,186,,Louis Joseph Morizot,,,sold,,2460,EUR,Secondary,Secondary,Violin Bow
+,,2023-06-26,187,,Francois Lotte,,,sold,,816,EUR,Secondary,Secondary,Violin Bow
+,,2023-06-26,188,,Charles Nicolas Bazin,,,sold,,1380,EUR,Secondary,Secondary,Violin Bow
+,,2023-06-26,205,,Francois Lotte,,,sold,,576,EUR,Secondary,Secondary,Violin Bow
+,,2023-06-26,208,,Eugene Cuniot-Hury,,,sold,,2040,EUR,Secondary,Secondary,Violin Bow
+,,2023-06-26,212,,Louis Bazin,,,sold,,720,EUR,Secondary,Secondary,Violin Bow
+,,2023-06-26,235,,Louis Bazin,,,sold,,480,EUR,Secondary,Secondary,Cello Bow

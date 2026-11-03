@@ -1,0 +1,62 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2006-10-13,52,,"Gemünder, George I",,,sold,,9600,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,53,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,5400,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,54,,"Berger, Karl August",,,sold,,7800,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,57,,"Pedrazzini, Giuseppe",,,sold,,26400,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,58,,"Cavani, Vincenzo",,,sold,,16800,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,60,,"Pellacani, Giuseppe",,,sold,,6600,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,62,,"Bisiach, Leandro I",,,sold,,48000,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,63,,"Barrett, John",,,sold,,3360,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,65,,"Albanelli, Franco",,,sold,,3120,USD,Secondary,Secondary,Violin
+,,2006-10-13,66,,"Carletti, Natale",,,sold,,9600,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,69,,"Pellacani, Giuseppe",,,sold,,8400,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,71,,"Gianotti, Alfredo",,,sold,,4800,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,72,,"Carletti, Natale",,,sold,,9000,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,73,,"Pellacani, Giuseppe",,,sold,,5040,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,74,,"Sgarbi, Giuseppe",,,sold,,28800,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,75,,"Simoutre, Nicolas",,,sold,,4560,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,78,,"Pallaver, Giovanni Battista",,,sold,,6000,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,81,,"Farotto, Celestino",,,sold,,5760,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,82,,"Farotto, Celestino",,,sold,,5760,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,83,,"Carletti, Natale",,,sold,,3120,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,84,,"Carletti, Genuzio",,,sold,,1560,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,85,,"Carletti, Genuzio",,,sold,,3120,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,86,,"Carletti, Genuzio",,,sold,,4800,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,87,,"Carletti, Genuzio",,,sold,,2400,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,90,,Maucotel & Deschamp Firm,,,sold,,2160,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,100,,"Annarumma, Vincenzo",,,sold,,12000,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,103,,"Pellacani, Giuseppe",,,sold,,9000,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,106,,Bazin Family,,,sold,,1920,USD,Secondary,Secondary,Violin Bow
+,,2006-10-13,108,,"Hill & Sons, W. E. Firm",,,sold,,3360,USD,Secondary,Cross-checked,Viola Bow
+,,2006-10-13,109,,"Hill & Sons, W. E. Firm",,,sold,,3360,USD,Secondary,Cross-checked,Viola Bow
+,,2006-10-13,110,,"Peccatte, Charles",,,sold,,8400,USD,Secondary,Cross-checked,Cello Bow
+,,2006-10-13,115,,"Hill & Sons, W. E. Firm",,,sold,,2400,USD,Secondary,Cross-checked,Violin Bow
+,,2006-10-13,118,,"Dodd, John I",,,sold,,1440,USD,Secondary,Secondary,Violin Bow
+,,2006-10-13,142,,"Gaida, Giovanni",,,sold,,14400,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,144,,"Audinot, Nestor Dominique",,,sold,,7200,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,145,,"Hoyer, Otto A.",,,sold,,1560,USD,Secondary,Cross-checked,Violin Bow
+,,2006-10-13,146,,"Stainer, Jacob",,,sold,,78000,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,148,,"Storioni, Lorenzo",,,sold,,120000,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,149,,"Balestrieri, Tommaso",,,sold,,486400,USD,Secondary,Cross-checked,Viola
+,,2006-10-13,151,,"Tubbs, James",,,sold,,3600,USD,Secondary,Cross-checked,Violin Bow
+,,2006-10-13,154,,"Lamy, Joseph Alfred père",,,sold,,5400,USD,Secondary,Cross-checked,Violin Bow
+,,2006-10-13,158,,"Ouchard, Jean Claude",,,sold,,1200,USD,Secondary,Cross-checked,Violin Bow
+,,2006-10-13,159,,"Weidhaas, Paul",,,sold,,1020,USD,Secondary,Cross-checked,Violin Bow
+,,2006-10-13,160,,"Mohr, Rodney D.",,,sold,,240,USD,Secondary,Secondary,Violin Bow
+,,2006-10-13,163,,"Nürnberger, Karl Albert II",,,sold,,660,USD,Secondary,Cross-checked,Violin Bow
+,,2006-10-13,165,,"Pfretzschner, Hermann Richard",,,sold,,1440,USD,Secondary,Cross-checked,Cello Bow
+,,2006-10-13,166,,"Nürnberger, Karl Albert II",,,sold,,2160,USD,Secondary,Cross-checked,Cello Bow
+,,2006-10-13,180,,"Gemünder, August Martin",,,sold,,1200,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,190,,"Claudot, Charles I",,,sold,,960,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,205,,"Carletti, Genuzio",,,sold,,3600,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,224,,"Albanelli, Franco",,,sold,,4800,USD,Secondary,Secondary,Violin
+,,2006-10-13,231,,"Lanaro, Luigi",,,sold,,6000,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,242,,"Bignami, Otello",,,sold,,20400,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,248,,"Henning, Gustav",,,sold,,1800,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,251,,"Schuster, Max",,,sold,,360,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,252,,"Martin, E.",,,sold,,300,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,255,,"Eberle, Tomaso",,,sold,,9600,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,258,,"Cappa, Gioffredo",,,sold,,132000,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,260,,"Pellacani, Giuseppe",,,sold,,7800,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,261,,"Testore, Carlo Giuseppe",,,sold,,38400,USD,Secondary,Cross-checked,Violin
+,,2006-10-13,262,,"Guarneri, Pietro of Mantua",,,sold,,419200,USD,Secondary,Cross-checked,Violin

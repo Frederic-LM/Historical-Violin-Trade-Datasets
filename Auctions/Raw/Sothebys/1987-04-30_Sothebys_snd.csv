@@ -1,0 +1,199 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1987-04-30,2,,"Vuillaume, Nicolas François",,,sold,,5280,GBP,Secondary,Secondary,Violin
+,,1987-04-30,4,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2750,GBP,Secondary,Secondary,Violin
+,,1987-04-30,5,,"Blondelet, Hugues Emile",,,sold,,880,GBP,Secondary,Secondary,Violin
+,,1987-04-30,6,,"Gagliano, Nicolò",,,sold,,14300,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,7,,"Szepessy, Béla",,,sold,,2970,GBP,Secondary,Secondary,Violin
+,,1987-04-30,8,,"Germain, Émile",,,sold,,2970,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,9,,"Pressenda, Giovanni Francesco",,,sold,,56100,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,10,,"Gand, Charles François père",,,sold,,3300,GBP,Secondary,Secondary,Violin
+,,1987-04-30,12,,"Vuillaume, Jean-Baptiste",,,sold,,17600,GBP,Secondary,Secondary,Violin
+,,1987-04-30,14,,"Emiliani, Francesco",,,sold,,16500,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,15,,"Schwarz, Giovanni",,,sold,,3740,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,17,,"Fagnola, Annibale",,,sold,,15400,GBP,Secondary,Secondary,Violin
+,,1987-04-30,21,,"Klotz, Aegidius Sebastian",,,sold,,1870,GBP,Secondary,Secondary,Violin
+,,1987-04-30,25,,"Simoutre, Nicolas",,,sold,,3300,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,29,,"Pedrazzini, Giuseppe",,,sold,,9900,GBP,Secondary,Secondary,Violin
+,,1987-04-30,30,,"Widhalm, Martin Leopold (Leopold II)",,,sold,,2970,GBP,Secondary,Secondary,Violin
+,,1987-04-30,34,,"Rogeri, Giovanni Battista",,,sold,,52800,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,36,,"Bailly, Paul",,,sold,,2640,GBP,Secondary,Secondary,Violin
+,,1987-04-30,40,,"Gagliano, Ferdinando",,,sold,,35200,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,41,,"Bisiach, Leandro I",,,sold,,9020,GBP,Secondary,Secondary,Violin
+,,1987-04-30,46,,"Della Corte, Alfonso",,,sold,,5720,GBP,Secondary,Secondary,Violin
+,,1987-04-30,49,,"Fiorini, Giuseppe",,,sold,,9900,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,50,,"Stradivari, Antonio",,,sold,,396000,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,52,,"Hill & Sons, W. E. Firm",,,sold,,1320,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,53,,"Lamy, Alfred dit neveu",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,54,,"Sartory, Eugène Nicolas",,,sold,,2970,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,55,,"Tubbs, James",,,sold,,2420,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,57,,"Voirin, François Nicolas",,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,58,,"Thomassin, Claude Auguste",,,sold,,2420,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,59,,"Maline, Guillaume",,,sold,,3080,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,60,,"Nürnberger, Albert",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,61,,"Sartory, Eugène Nicolas",,,sold,,3190,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,65,,"Nürnberger, Albert",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,66,,"Vuillaume, Jean-Baptiste",,,sold,,2530,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,68,,"Hill & Sons, W. E. Firm",,,sold,,1430,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,71,,"Hill & Sons, W. E. Firm",,,sold,,2200,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,72,,"Hill & Sons, W. E. Firm",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,74,,"Bultitude, Arthur Richard",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,75,,"Tubbs, James",,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,76,,"Forster, William II or Sr",,,sold,,5500,GBP,Secondary,Secondary,Viola
+,,1987-04-30,81,,"Celani, Emidio",,,sold,,3850,GBP,Secondary,Secondary,Viola
+,,1987-04-30,82,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2640,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,83,,"Gagliano, Raffaele & Antonio",,,sold,,2310,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,85,,"Hornsteiner, Mathias II",,,sold,,1650,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,87,,"Gagliano, Giuseppe",,,sold,,18700,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,88,,"Derazey, Honoré (Jean-Joseph)",,,sold,,3960,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,90,,"Politi, Eugenio",,,sold,,5280,GBP,Secondary,Secondary,Viola
+,,1987-04-30,95,,"Ceruti, Giovanni Maria",,,sold,,2420,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,97,,"Tarr, William",,,sold,,3520,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,99,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,3300,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,100,,"Forster, William II or Sr",,,sold,,3960,GBP,Secondary,Secondary,Cello
+,,1987-04-30,101,,"Morrison, John",,,sold,,2090,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,102,,"Betts, John I",,,sold,,4840,GBP,Secondary,Secondary,Cello
+,,1987-04-30,105,,"Thompson, Charles & Samuel",,,sold,,1870,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,111,,"Forster, William II or Sr",,,sold,,3190,GBP,Secondary,Secondary,Cello
+,,1987-04-30,114,,"Castagneri, Andrea",,,sold,,12100,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,115,,"Mangenot, Paul Alexandre",,,sold,,2750,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,117,,"Grancino, Giovanni Battista I",,,sold,,33000,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,118,,"Nürnberger, Albert",,,sold,,1540,GBP,Secondary,Secondary,Cello Bow
+,,1987-04-30,123,,"Tubbs, James",,,sold,,1430,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,124,,"Hill & Sons, W. E. Firm",,,sold,,1980,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,125,,"Voirin, François Nicolas",,,sold,,2970,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,128,,"Voirin, François Nicolas",,,sold,,2200,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,129,,"Dodd, John I",,,sold,,1650,GBP,Secondary,Secondary,Cello Bow
+,,1987-04-30,131,,"Nürnberger, Albert",,,sold,,1320,GBP,Secondary,Secondary,Viola Bow
+,,1987-04-30,132,,"Nürnberger, Albert",,,sold,,1320,GBP,Secondary,Secondary,Viola Bow
+,,1987-04-30,133,,"Tourte, François Xavier 'le Jeune'",,,sold,,8800,GBP,Secondary,Cross-checked,Violin Bow
+,,1987-04-30,134,,"Urquhart, Thomas",,,sold,,2640,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,136,,"Merling, Pauli",,,sold,,2530,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,137,,Kloz Family,,,sold,,1540,GBP,Secondary,Secondary,Violin
+,,1987-04-30,139,,"Wulme-Hudson, George",,,sold,,2750,GBP,Secondary,Secondary,Violin
+,,1987-04-30,141,,"Bourguignon, Maurice",,,sold,,1100,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,142,,"Miremont, Claude Augustin",,,sold,,5060,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,147,,"Vlummens, Dominicus C.",,,sold,,1760,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,149,,"Silvestre, Pierre & Hippolyte",,,sold,,7480,GBP,Secondary,Secondary,Violin
+,,1987-04-30,150,,"Gagliano, Nicolò",,,sold,,36300,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,152,,"Szepessy, Béla",,,sold,,2420,GBP,Secondary,Secondary,Violin
+,,1987-04-30,155,,"Bisiach, Giacomo & Leandro",,,sold,,3300,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,156,,"Maggini, Giovanni Paolo",,,sold,,30800,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,159,,"Gagliano, Alessandro",,,sold,,18700,GBP,Secondary,Secondary,Violin
+,,1987-04-30,161,,"Eberle, Johann Ulrich",,,sold,,7150,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,162,,"Cappa, Gioffredo",,,sold,,35200,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,166,,"Szepessy, Béla",,,sold,,2750,GBP,Secondary,Secondary,Violin
+,,1987-04-30,168,,"Gagliano, Giovanni I",,,sold,,9900,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,169,,"LeJeune, François",,,sold,,3080,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,170,,"Snoeck, Egidius",,,sold,,3300,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,172,,"Hill & Sons, W. E. Firm",,,sold,,2530,GBP,Secondary,Secondary,Violin
+,,1987-04-30,173,,"Degani, Eugenio",,,sold,,4620,GBP,Secondary,Secondary,Violin
+,,1987-04-30,174,,"Guidanti, Giovanni",,,sold,,10780,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,176,,"Mennesson, Emile",,,sold,,1980,GBP,Secondary,Secondary,Violin
+,,1987-04-30,177,,"Rambaux, Claude Victor",,,sold,,3080,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,178,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2640,GBP,Secondary,Secondary,Violin
+,,1987-04-30,179,,"Pedrazzini, Giuseppe",,,sold,,9680,GBP,Secondary,Secondary,Violin
+,,1987-04-30,181,,"Degani, Eugenio",,,sold,,5060,GBP,Secondary,Secondary,Violin
+,,1987-04-30,185,,"Gagliano, Giovanni I",,,sold,,13750,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,187,,"Stradivari, Antonio",,,sold,,154000,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,277,,"Glenister, William",,,sold,,1045,GBP,Secondary,Secondary,Violin
+,,1987-04-30,278,,"Hoyer, Andreas II",,,sold,,440,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,279,,"Mason, George",,,sold,,715,GBP,Secondary,Secondary,Violin
+,,1987-04-30,284,,"Thibouville-Lamy, Jérôme Firm",,,sold,,462,GBP,Secondary,Secondary,Violin
+,,1987-04-30,285,,"Blondelet, Hugues Emile",,,sold,,990,GBP,Secondary,Secondary,Violin
+,,1987-04-30,288,,"Buthod, Charles",,,sold,,990,GBP,Secondary,Secondary,Violin
+,,1987-04-30,289,,"Franot, Patrix",,,sold,,825,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,290,,Neuner & Hornsteiner,,,sold,,2090,GBP,Secondary,Secondary,Violin
+,,1987-04-30,300,,"Thompson, Charles & Samuel",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1987-04-30,301,,"Colin, Jean Baptiste",,,sold,,880,GBP,Secondary,Secondary,Violin
+,,1987-04-30,304,,"Chappuy, Nicolas Augustin",,,sold,,935,GBP,Secondary,Secondary,Violin
+,,1987-04-30,308,,"Smith, John",,,sold,,825,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,309,,"Voigt, Arnold",,,sold,,605,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,312,,"Buthod, Charles",,,sold,,462,GBP,Secondary,Secondary,Violin
+,,1987-04-30,314,,"Tubbs, James",,,sold,,1540,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,317,,"Sartory, Eugène Nicolas",,,sold,,2310,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,318,,"Dodd, John I",,,sold,,2090,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,321,,"Nürnberger, Albert",,,sold,,484,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,325,,"Bultitude, Arthur Richard",,,sold,,858,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,326,,"Sartory, Eugène Nicolas",,,sold,,1320,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,330,,"Hill & Sons, W. E. Firm",,,sold,,440,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,331,,"Lambert, Nicolas",,,sold,,352,GBP,Secondary,Cross-checked,Violin Bow
+,,1987-04-30,332,,"Finkel, Siegfried",,,sold,,275,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,333,,"Hill & Sons, W. E. Firm",,,sold,,440,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,335,,"Wilson, Garner",,,sold,,770,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,336,,"Hill & Sons, W. E. Firm",,,sold,,330,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,337,,"Hill & Sons, W. E. Firm",,,sold,,550,GBP,Secondary,Secondary,Cello Bow
+,,1987-04-30,338,,"Thomassin, Claude Auguste",,,sold,,770,GBP,Secondary,Cross-checked,Cello Bow
+,,1987-04-30,339,,"Tubbs, James",,,sold,,1650,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,343,,"Nürnberger, Albert",,,sold,,330,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,345,,"Vigneron, André 'Vigneron fils'",,,sold,,1430,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,346,,"Voirin, François Nicolas",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,348,,"Toomey, Timothy",,,sold,,330,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,349,,"Thibouville-Lamy, Jérôme Firm",,,sold,,1430,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,352,,"Lindsay, Michael H.",,,sold,,935,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,357,,"Smith, Dennis G.",,,sold,,418,GBP,Secondary,Cross-checked,Viola
+,,1987-04-30,363,,"Capela, Antonio",,,sold,,1980,GBP,Secondary,Secondary,Viola
+,,1987-04-30,364,,"Prokop, Ladislav F.",,,sold,,660,GBP,Secondary,Secondary,Viola
+,,1987-04-30,366,,"Schiller, Emil",,,sold,,1540,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,371,,"Buthod, Charles",,,sold,,2420,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,390,,"Bernardel, Léon",,,sold,,2640,GBP,Secondary,Cross-checked,Cello
+,,1987-04-30,394,,"Hill & Sons, W. E. Firm",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,400,,"Hill & Sons, W. E. Firm",,,sold,,770,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,401,,"Laberte, Marc André Joseph",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,402,,"Laberte, Marc André Joseph",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,404,,"Hill & Sons, W. E. Firm",,,sold,,418,GBP,Secondary,Secondary,Cello Bow
+,,1987-04-30,405,,"Bryant, Percival Wilfred",,,sold,,440,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,407,,"Bultitude, Arthur Richard",,,sold,,825,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,408,,"Bultitude, Arthur Richard",,,sold,,770,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,410,,"Corsby, George I",,,sold,,1210,GBP,Secondary,Secondary,Viola Bow
+,,1987-04-30,412,,"Hill & Sons, W. E. Firm",,,sold,,385,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,413,,"Nürnberger, Albert",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,415,,"Weichold, Richard",,,sold,,220,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,417,,"Paulus, Johannes O.",,,sold,,495,GBP,Secondary,Cross-checked,Violin Bow
+,,1987-04-30,418,,"Neuveville, R.C.",,,sold,,418,GBP,Secondary,Secondary,Cello Bow
+,,1987-04-30,419,,"Hums, Albin",,,sold,,220,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,420,,"Sartory, Eugène Nicolas",,,sold,,2420,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,421,,"Hill & Sons, W. E. Firm",,,sold,,330,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,422,,"Morizot, Louis Joseph père",,,sold,,385,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,423,,"Hill & Sons, W. E. Firm",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,425,,"Prager, August Edwin",,,sold,,825,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,426,,"Dodd, James II",,,sold,,2090,GBP,Secondary,Cross-checked,Cello Bow
+,,1987-04-30,431,,Bazin Family,,,sold,,462,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,433,,"Buthod, Charles",,,sold,,242,GBP,Secondary,Cross-checked,Violin Bow
+,,1987-04-30,435,,"Jombar, Paul",,,sold,,880,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,437,,"Tubbs, James",,,sold,,1760,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,440,,"Hill & Sons, W. E. Firm",,,sold,,385,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,442,,"Penzel, Gerhard Kurt",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,452,,Hart & Son,,,sold,,770,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,456,,"Bryant, Percival Wilfred",,,sold,,660,GBP,Secondary,Secondary,Bass Bow
+,,1987-04-30,457,,"Tubbs, James",,,sold,,2090,GBP,Secondary,Secondary,Violin Bow
+,,1987-04-30,466,,Neuner & Hornsteiner,,,sold,,495,GBP,Secondary,Secondary,Violin
+,,1987-04-30,473,,"Mayson, Walter H.",,,sold,,374,GBP,Secondary,Secondary,Violin
+,,1987-04-30,474,,"Richardson, Arthur",,,sold,,1980,GBP,Secondary,Secondary,Violin
+,,1987-04-30,476,,"Thompson, Charles & Samuel",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1987-04-30,480,,"Charotte-Millot, Joseph",,,sold,,770,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,481,,"Duke, Richard",,,sold,,880,GBP,Secondary,Secondary,Violin
+,,1987-04-30,484,,"Rushworth, Rushworth & Dreaper",,,sold,,385,GBP,Secondary,Secondary,Violin
+,,1987-04-30,488,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1760,GBP,Secondary,Secondary,Violin
+,,1987-04-30,490,,"Glaesel, Ludwig I",,,sold,,660,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,491,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,770,GBP,Secondary,Secondary,Violin
+,,1987-04-30,492,,"Meek, James",,,sold,,550,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,493,,"Thompson, Charles & Samuel",,,sold,,715,GBP,Secondary,Secondary,Violin
+,,1987-04-30,497,,"Whitmarsh, Emanuel",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,1987-04-30,498,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2310,GBP,Secondary,Secondary,Violin
+,,1987-04-30,501,,"Thompson, Charles & Samuel",,,sold,,385,GBP,Secondary,Secondary,Violin
+,,1987-04-30,502,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,330,GBP,Secondary,Secondary,Violin
+,,1987-04-30,503,,"Derazey, Justin Amedée",,,sold,,935,GBP,Secondary,Secondary,Violin
+,,1987-04-30,509,,"Ceruti, Giovanni Maria",,,sold,,660,GBP,Secondary,Secondary,Violin
+,,1987-04-30,525,,"Genin, Louis",,,sold,,495,GBP,Secondary,Secondary,Violin
+,,1987-04-30,526,,"Colin, Jean Baptiste",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1987-04-30,528,,"Rieger, Anton",,,sold,,715,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,532,,"Barrett, John",,,sold,,660,GBP,Secondary,Secondary,Violin
+,,1987-04-30,536,,"Buckman, George Hatton",,,sold,,715,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,537,,"Meek, James",,,sold,,528,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,539,,"Colin, Jean Baptiste",,,sold,,550,GBP,Secondary,Secondary,Violin
+,,1987-04-30,547,,"Ficker, Johann Christian II",,,sold,,385,GBP,Secondary,Secondary,Violin
+,,1987-04-30,549,,"Buthod, Charles",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1987-04-30,557,,"Colin, Jean Baptiste",,,sold,,660,GBP,Secondary,Secondary,Violin
+,,1987-04-30,558,,"Clough, George",,,sold,,275,GBP,Secondary,Cross-checked,Violin
+,,1987-04-30,559,,"Whitmarsh, Emanuel",,,sold,,880,GBP,Secondary,Secondary,Violin
+,,1987-04-30,562,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1430,GBP,Secondary,Secondary,Violin

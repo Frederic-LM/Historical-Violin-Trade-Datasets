@@ -1,0 +1,167 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1988-11-19,53,,"Muschke, Johann",,,sold,,1458,USD,Secondary,Secondary,Violin
+,,1988-11-19,54,,"Schuster, Carl Friedrich",,,sold,,2091,USD,Secondary,Secondary,Viola
+,,1988-11-19,55,,"Viertel, Holm",,,sold,,1965,USD,Secondary,Secondary,Violin
+,,1988-11-19,62,,"Ficker, Johann Christian II",,,sold,,1204,USD,Secondary,Secondary,Violin
+,,1988-11-19,67,,"Audinot, Justin",,,sold,,1774,USD,Secondary,Secondary,Violin
+,,1988-11-19,71,,"Laurent, Émile fils",,,sold,,3422,USD,Secondary,Secondary,Violin
+,,1988-11-19,72,,"Nicolas, Didier l'aîné",,,sold,,2852,USD,Secondary,Secondary,Violin
+,,1988-11-19,75,,"Simoutre, Nicolas",,,sold,,3802,USD,Secondary,Secondary,Violin
+,,1988-11-19,80,,"Gioffredo Rinaldi, Benedetto",,,sold,,6274,USD,Secondary,Secondary,Viola
+,,1988-11-19,82,,"Albani, Matthias II",,,sold,,4436,USD,Secondary,Secondary,Violin
+,,1988-11-19,86,,"Serdet, Paul",,,sold,,12675,USD,Secondary,Secondary,Violin
+,,1988-11-19,87,,"Audinot, Nestor Dominique",,,sold,,8556,USD,Secondary,Secondary,Violin
+,,1988-11-19,88,,"Cuypers, Johannes Theodorus",,,sold,,8872,USD,Secondary,Secondary,Violin
+,,1988-11-19,89,,"Blanchard, Paul Francois",,,sold,,9506,USD,Secondary,Secondary,Violin
+,,1988-11-19,90,,"Garimberti, Ferdinando",,,sold,,8239,USD,Secondary,Secondary,Violin
+,,1988-11-19,91,,"Della Corte, Alfonso",,,sold,,12041,USD,Secondary,Secondary,Violin
+,,1988-11-19,92,,"Capicchioni, Marino",,,sold,,7288,USD,Secondary,Secondary,Violin
+,,1988-11-19,94,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,7922,USD,Secondary,Secondary,Cello
+,,1988-11-19,96,,"Pollastri, Augusto",,,sold,,20280,USD,Secondary,Secondary,Violin
+,,1988-11-19,97,,"Testore, Carlo Antonio",,,sold,,18379,USD,Secondary,Secondary,Violin
+,,1988-11-19,99,,"Vuillaume, Jean-Baptiste",,,sold,,37391,USD,Secondary,Secondary,Violin
+,,1988-11-19,101,,"Nürnberger, Albert",,,sold,,444,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,103,,"Geipel, Richard",,,sold,,241,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,105,,"Hammig, Wilhelm Hermann",,,sold,,570,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,106,,"Durrschmidt, Otto Carl",,,sold,,222,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,109,,"Penzel, Gerhard Kurt",,,sold,,349,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,110,,"Schuster, Adolf Curt",,,sold,,253,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,112,,"Rau, August",,,sold,,570,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,113,,"Hoyer, Hermann Albert",,,sold,,602,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,114,,"Prager, Gustav Adolf",,,sold,,253,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,117,,"Thoma, Albert",,,sold,,285,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,118,,"Bazin, Charles Louis",,,sold,,697,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,119,,"Pfretzschner, Hermann Richard",,,sold,,380,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,121,,"Paulus, Johannes O.",,,sold,,570,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,122,,"Pfretzschner, Hermann Richard",,,sold,,570,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,123,,"Prager, Gustav Adolf",,,sold,,1077,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,125,,"Pfretzschner, Hermann Richard",,,sold,,1394,USD,Secondary,Secondary,Bass Bow
+,,1988-11-19,126,,"Nürnberger, Albert",,,sold,,570,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,127,,"Morizot, Louis Joseph père",,,sold,,1267,USD,Secondary,Secondary,Viola Bow
+,,1988-11-19,128,,"Pfretzschner, Hermann Richard",,,sold,,760,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,129,,"Nürnberger, Albert",,,sold,,824,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,130,,"Hill & Sons, W. E. Firm",,,sold,,1521,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,131,,"Schmidt, C. Hans-Karl",,,sold,,1648,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,133,,"Pfretzschner, Hermann Richard",,,sold,,1141,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,134,,Maucotel & Deschamp Firm,,,sold,,2218,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,136,,"Fétique, Victor François",,,sold,,1204,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,141,,"Pfretzschner, Hermann Richard",,,sold,,1141,USD,Secondary,Secondary,Viola Bow
+,,1988-11-19,142,,"Audinot, Pierre",,,sold,,1458,USD,Secondary,Secondary,Viola Bow
+,,1988-11-19,143,,"Gerome, Roger",,,sold,,1267,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,144,,Gand & Bernardel Firm,,,sold,,1267,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,146,,"Thomassin, Claude Auguste",,,sold,,3549,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,147,,"Vigneron, André 'Vigneron fils'",,,sold,,2788,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,148,,"Nürnberger, Albert",,,sold,,2155,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,149,,"Ouchard, Bernard",,,sold,,1965,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,151,,"Lamy, Alfred dit neveu",,,sold,,3169,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,152,,"Vuillaume, Jean-Baptiste",,,sold,,1838,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,153,,"Simon, Pierre",,,sold,,3295,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,154,,"Lamy, Alfred dit neveu",,,sold,,4563,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,155,,"Lamy, Alfred dit neveu",,,sold,,2788,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,156,,"Sartory, Eugène Nicolas",,,sold,,4436,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,157,,"Sartory, Eugène Nicolas",,,sold,,6654,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,158,,"Sartory, Eugène Nicolas",,,sold,,5070,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,158A,,"Peccatte, Dominique",,,sold,,15210,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,162,,Neuner & Hornsteiner,,,sold,,887,USD,Secondary,Secondary,Small Violin
+,,1988-11-19,166,,"Neuner, Mathias II",,,sold,,1204,USD,Secondary,Secondary,Small Violin
+,,1988-11-19,169,,"Saccani, Benigno",,,sold,,4816,USD,Secondary,Secondary,Violin
+,,1988-11-19,176,,"Jeandel, Pierre Napoléon",,,sold,,1901,USD,Secondary,Secondary,Violin
+,,1988-11-19,179,,"Schünemann, Otto",,,sold,,2028,USD,Secondary,Secondary,Violin
+,,1988-11-19,183,,"Spiegel, János",,,sold,,4119,USD,Secondary,Secondary,Viola
+,,1988-11-19,184,,"Couturieux, Joseph",,,sold,,3169,USD,Secondary,Secondary,Violin
+,,1988-11-19,186,,"Pevere, Ernesto",,,sold,,5830,USD,Secondary,Secondary,Violin
+,,1988-11-19,187,,"Bazin, Gustave",,,sold,,3422,USD,Secondary,Secondary,Violin
+,,1988-11-19,188,,"Widhalm, Martin Leopold (Leopold II)",,,sold,,4753,USD,Secondary,Secondary,Violin
+,,1988-11-19,189,,"Knorr, Paul",,,sold,,6971,USD,Secondary,Secondary,Violin
+,,1988-11-19,190,,"Rovescalli, Azzo",,,sold,,8872,USD,Secondary,Secondary,Violin
+,,1988-11-19,191,,"Möckel, Otto",,,sold,,8872,USD,Secondary,Secondary,Viola
+,,1988-11-19,193,,"Möller, Max Sr.",,,sold,,8872,USD,Secondary,Secondary,Cello
+,,1988-11-19,195,,"Pedrazzini, Giuseppe",,,sold,,9506,USD,Secondary,Secondary,Cello
+,,1988-11-19,196,,"Guerra, Evasio Emilio",,,sold,,9189,USD,Secondary,Secondary,Violin
+,,1988-11-19,197,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,38025,USD,Secondary,Secondary,Cello
+,,1988-11-19,198,,"Galimberti, Luigi",,,sold,,11407,USD,Secondary,Secondary,Violin
+,,1988-11-19,199,,"Blanchard, Paul Francois",,,sold,,10774,USD,Secondary,Secondary,Violin
+,,1988-11-19,200,,"Winterling, Georg",,,sold,,10774,USD,Secondary,Secondary,Viola
+,,1988-11-19,201,,"Klotz, Sebastian I",,,sold,,11091,USD,Secondary,Secondary,Violin
+,,1988-11-19,202,,"Oddone, Carlo Giuseppe",,,sold,,15844,USD,Secondary,Secondary,Violin
+,,1988-11-19,203,,"Gand, Charles Adolphe",,,sold,,19646,USD,Secondary,Secondary,Violin
+,,1988-11-19,204,,"Postiglione, Vincenzo II",,,sold,,19646,USD,Secondary,Secondary,Violin
+,,1988-11-19,205,,"Hel, Pierre Joseph",,,sold,,10774,USD,Secondary,Secondary,Violin
+,,1988-11-19,206,,"Marchetti, Abbondio",,,sold,,22181,USD,Secondary,Secondary,Viola
+,,1988-11-19,207,,"Fagnola, Annibale",,,sold,,36757,USD,Secondary,Secondary,Violin
+,,1988-11-19,208,,"Postiglione, Vincenzo II",,,sold,,38659,USD,Secondary,Secondary,Cello
+,,1988-11-19,209,,Gand & Bernardel Firm,,,sold,,27885,USD,Secondary,Secondary,Cello
+,,1988-11-19,210,,"Vuillaume, Jean-Baptiste",,,sold,,33589,USD,Secondary,Secondary,Violin
+,,1988-11-19,211,,"Landolfi, Carlo Ferdinando",,,sold,,88725,USD,Secondary,Secondary,Violin
+,,1988-11-19,212,,"Vuillaume, Jean-Baptiste",,,sold,,72881,USD,Secondary,Secondary,Cello
+,,1988-11-19,213,,"Guarneri, Andrea",,,sold,,120412,USD,Secondary,Secondary,Violin
+,,1988-11-19,259,,"Kriner, Joseph",,,sold,,285,USD,Secondary,Secondary,Violin
+,,1988-11-19,266,,"Bergmann, Andreas (Andras) I",,,sold,,1394,USD,Secondary,Secondary,Violin
+,,1988-11-19,267,,"Vavra, Josef",,,sold,,1774,USD,Secondary,Secondary,Violin
+,,1988-11-19,268,,"Baader & Co., J. A.",,,sold,,570,USD,Secondary,Secondary,Violin
+,,1988-11-19,269,,"Claudot, Charles I",,,sold,,1584,USD,Secondary,Secondary,Violin
+,,1988-11-19,271,,"Farkas, Béla",,,sold,,1965,USD,Secondary,Secondary,Violin
+,,1988-11-19,272,,"Cabasse, Prosper II",,,sold,,1204,USD,Secondary,Secondary,Viola
+,,1988-11-19,273,,"Schaller, Oswald",,,sold,,1267,USD,Secondary,Secondary,Violin
+,,1988-11-19,274,,"Glaesel, Ludwig I",,,sold,,2028,USD,Secondary,Secondary,Violin
+,,1988-11-19,277,,"Pilát, Paul (Pál) I",,,sold,,6021,USD,Secondary,Secondary,Violin
+,,1988-11-19,281,,"Cavalli, Aristide",,,sold,,3549,USD,Secondary,Secondary,Violin
+,,1988-11-19,282,,"Möller, Max Sr.",,,sold,,6021,USD,Secondary,Secondary,Violin
+,,1988-11-19,283,,"Gedler, Johann Anton",,,sold,,4436,USD,Secondary,Secondary,Violin
+,,1988-11-19,286,,"Heinicke, Mathias",,,sold,,3232,USD,Secondary,Secondary,Violin
+,,1988-11-19,287,,"Hellmer, Johann Georg",,,sold,,5197,USD,Secondary,Secondary,Violin
+,,1988-11-19,290,,"Derazey, Honoré (Jean-Joseph)",,,sold,,3169,USD,Secondary,Secondary,Violin
+,,1988-11-19,295,,"Blanchi, Alberto Luigi",,,sold,,7605,USD,Secondary,Secondary,Violin
+,,1988-11-19,296,,"Ventapane, Lorenzo",,,sold,,24716,USD,Secondary,Secondary,Violin
+,,1988-11-19,302,,"Pfretzschner, Hermann Richard",,,sold,,190,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,303,,"Pfretzschner, Hermann Richard",,,sold,,158,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,304,,"Voigt, Heinrich August",,,sold,,190,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,308,,"Weichold, Richard",,,sold,,95,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,313,,"Hammig, Wilhelm Hermann",,,sold,,444,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,314,,"Lapierre, Marcel Charles",,,sold,,697,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,315,,"Durrschmidt, Otto Carl",,,sold,,380,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,316,,"Steinel, G. Rudi",,,sold,,444,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,317,,"Paulus, Günter A.",,,sold,,507,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,318,,"Mettal, Walter",,,sold,,507,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,319,,"Français, Lucien",,,sold,,507,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,320,,"Thoma, Mathias",,,sold,,380,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,321,,"Bazin, Charles Louis",,,sold,,697,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,323,,"Schuster, Adolf Curt",,,sold,,444,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,324,,"Paulus, Johannes O.",,,sold,,570,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,326,,"Pfretzschner, F.C.",,,sold,,285,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,327,,"Herrmann, Emil",,,sold,,349,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,328,,"Pfretzschner, Hermann Richard",,,sold,,412,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,330,,"Bazin, Charles Nicolas",,,sold,,475,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,331,,"Weidhaas, Paul",,,sold,,824,USD,Secondary,Secondary,Cello Bow
+,,1988-11-19,332,,"Paulus, Johannes O.",,,sold,,539,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,333,,"Rau, August",,,sold,,1172,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,334,,"Prager, Gustav Adolf",,,sold,,475,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,335,,"Prager, Gustav Adolf",,,sold,,824,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,336,,"Gillet, Louis Henri",,,sold,,1584,USD,Secondary,Secondary,Bass Bow
+,,1988-11-19,337,,"Morizot, Louis Joseph père",,,sold,,760,USD,Secondary,Secondary,Bass Bow
+,,1988-11-19,338,,"Morizot, Louis Joseph père",,,sold,,634,USD,Secondary,Secondary,Bass Bow
+,,1988-11-19,339,,"Millant, Jean-Jacques",,,sold,,1774,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,341,,"Bernardel, Gustave Adolphe",,,sold,,760,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,342,,Gand & Bernardel Firm,,,sold,,1077,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,343,,"Blondelet, Hugues Emile",,,sold,,824,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,344,,"Bernardel, Léon",,,sold,,444,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,347,,"Ouchard, Bernard",,,sold,,2218,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,348,,"Tubbs, James",,,sold,,3042,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,349,,"Sartory, Eugène Nicolas",,,sold,,3802,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,350,,"Fétique, Victor François",,,sold,,1901,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,351,,"Gillet, Louis Henri",,,sold,,2915,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,352,,"Sartory, Eugène Nicolas",,,sold,,4690,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,354,,"Leicht, Max",,,sold,,253,USD,Secondary,Secondary,Violin Bow
+,,1988-11-19,373,,"Kriner, Joseph",,,sold,,1141,USD,Secondary,Secondary,Violin
+,,1988-11-19,376,,"Nicolas, Didier l'aîné",,,sold,,1711,USD,Secondary,Secondary,Violin
+,,1988-11-19,377,,"Salomon, Jean Baptiste Deshayes",,,sold,,507,USD,Secondary,Secondary,Violin
+,,1988-11-19,378,,"Leidolff, Johann Christoph",,,sold,,1267,USD,Secondary,Secondary,Violin
+,,1988-11-19,380,,"Claudot, Charles I",,,sold,,951,USD,Secondary,Secondary,Violin
+,,1988-11-19,381,,"Rauch, Sebastian II",,,sold,,253,USD,Secondary,Secondary,Violin
+,,1988-11-19,382,,"Thibouville-Lamy, Jérôme Firm",,,sold,,951,USD,Secondary,Secondary,Violin
+,,1988-11-19,386,,"Blondelet, Hugues Emile",,,sold,,1267,USD,Secondary,Secondary,Violin
+,,1988-11-19,387,,"Tanczer, Georg (Gyorgy) I",,,sold,,1141,USD,Secondary,Secondary,Violin
+,,1988-11-19,390,,"Zatta, Antonio",,,sold,,1267,USD,Secondary,Secondary,Violin
+,,1988-11-19,391,,"Höfer, Ludwig",,,sold,,1648,USD,Secondary,Secondary,Viola
+,,1988-11-19,392,,"Strobl, Michael",,,sold,,3359,USD,Secondary,Secondary,Violin
+,,1988-11-19,394,,"Machold, Oskar",,,sold,,3422,USD,Secondary,Secondary,Violin

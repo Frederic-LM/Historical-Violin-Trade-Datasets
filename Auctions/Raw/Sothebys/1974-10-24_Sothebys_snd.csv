@@ -1,0 +1,4 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1974-10-24,,,"Stradivari, Antonio",,,sold,,6500,GBP,Secondary,Secondary,Violin
+,,1974-10-24,,,"Gagliano, Nicolò",,,sold,,1150,GBP,Secondary,Secondary,Violin
+,,1974-10-24,,,"Guadagnini, Giovanni Battista",,,sold,,10800,GBP,Secondary,Secondary,Violin

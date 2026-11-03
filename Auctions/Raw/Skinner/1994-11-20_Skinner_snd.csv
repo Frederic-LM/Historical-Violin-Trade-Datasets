@@ -1,0 +1,92 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1994-11-20,29,,"Hill, Joseph I",,,sold,,10350,USD,Secondary,Cross-checked,Cello
+,,1994-11-20,35,,ZAPOLSKI ALEX,,,sold,,1092,USD,Secondary,Secondary,Cello
+,,1994-11-20,40,,"Prescott, Abraham",,,sold,,489,USD,Secondary,Cross-checked,Cello
+,,1994-11-20,41,,"Banks, Benjamin",,,sold,,35650,USD,Secondary,Cross-checked,Cello
+,,1994-11-20,42,,Caressa & Français Firm,,,sold,,5463,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,43,,"Bryant, George E.",,,sold,,748,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,44,,"Kantuscher, Joseph",,,sold,,3105,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,45,,"Guerra, Evasio Emilio",,,sold,,24150,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,47,,"Dearlove, Mark William",,,sold,,4485,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,48,,"Barzoni, François",,,sold,,1265,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,49,,DE LUCCIA BROTHERS,,,sold,,3795,USD,Secondary,Secondary,Violin
+,,1994-11-20,50,,"Contino, Alfredo",,,sold,,10925,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,51,,"Roth, Ernst Heinrich",,,sold,,2070,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,55,,"Klotz, Johann Carl",,,sold,,2875,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,56,,"Friedrich, John",,,sold,,3795,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,61,,"Vuillaume, Nicolas III",,,sold,,3105,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,62,,"Castagneri, Andrea",,,sold,,16100,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,65,,"White, Asa Warren",,,sold,,1150,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,66,,"Laurent, Émile père",,,sold,,6900,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,68,,"Postiglione, Vincenzo II",,,sold,,6900,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,69,,"Keenan, Edward",,,sold,,3105,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,71,,John Frederick (I) Lott,,,sold,,17175,GBP,Secondary,Secondary,Violin
+,,1994-11-20,75,,"Barbieri, Enzo",,,sold,,3795,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,76,,"Conia, Stefano",,,sold,,5750,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,83,,"Sorsana, Spirito",,,sold,,35650,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,84,,"Duke, Richard",,,sold,,2875,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,85,,"Roth, Ernst Heinrich",,,sold,,1495,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,87,,"Stanley, Freelan Oscar",,,sold,,1495,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,89,,"Conant, William A.",,,sold,,1150,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,90,,"Hopf, David",,,sold,,1840,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,91,,"Heberlein, Heinrich Theodore",,,sold,,1840,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,92,,Charles Francois Langonet,,,sold,,1643,GBP,Secondary,Secondary,Violin
+,,1994-11-20,93,,"Peccatte, Dominique",,,sold,,17250,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,94,,"Hill & Sons, W. E. Firm",,,sold,,3737,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,95,,"Lapierre, Marcel Charles",,,sold,,1093,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,96,,"Vigneron, André 'Vigneron fils'",,,sold,,2415,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,98,,"Pfretzschner, Hermann Richard",,,sold,,604,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,100,,"Sartory, Eugène Nicolas",,,sold,,17250,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,101,,"Pfretzschner, Hermann Richard",,,sold,,1495,USD,Secondary,Cross-checked,Viola Bow
+,,1994-11-20,103,,"Fétique, Victor François",,,sold,,3220,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,106,,"Hill & Sons, W. E. Firm",,,sold,,1495,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,107,,"Hill & Sons, W. E. Firm",,,sold,,2300,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,108,,"Poirson, Dominique ""Justin""",,,sold,,1955,USD,Secondary,Cross-checked,Viola Bow
+,,1994-11-20,109,,"Hill & Sons, W. E. Firm",,,sold,,1840,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,110,,"Hawkes, Hawkes & Sons",,,sold,,690,USD,Secondary,Secondary,Violin Bow
+,,1994-11-20,111,,"Schuster, Adolf Curt",,,sold,,546,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,112,,"Finkel, Siegfried",,,sold,,1955,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,113,,"Pfretzschner, Wilhelm August",,,sold,,1380,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,114,,"Schmidt, Ernst Reinhold",,,sold,,374,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,115,,"Hill & Sons, W. E. Firm",,,sold,,2185,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,118,,"Sartory, Eugène Nicolas",,,sold,,5463,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,119,,"Paesold, Roderich",,,sold,,690,USD,Secondary,Cross-checked,Viola Bow
+,,1994-11-20,121,,Hart & Son,,,sold,,460,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,122,,"Hill & Sons, W. E. Firm",,,sold,,1840,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,123,,"Weichold, Richard",,,sold,,288,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,124,,"Seifert, Lothar",,,sold,,316,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,125,,"Pfretzschner, Hermann Richard",,,sold,,2300,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,126,,HERRMANN EDWARD,,,sold,,402,USD,Secondary,Secondary,Violin Bow
+,,1994-11-20,128,,"Penzel, Emil Max",,,sold,,978,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,130,,"Bouvin, Jean",,,sold,,805,USD,Secondary,Cross-checked,Viola Bow
+,,1994-11-20,132,,"Hill & Sons, W. E. Firm",,,sold,,2300,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,134,,"Sartory, Eugène Nicolas",,,sold,,5463,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,135,,"Hill & Sons, W. E. Firm",,,sold,,1840,USD,Secondary,Cross-checked,Violin Bow
+,,1994-11-20,139,,"Nürnberger, Albert",,,sold,,1150,USD,Secondary,Cross-checked,Cello Bow
+,,1994-11-20,140,,"Lamy, Joseph Alfred père",,,sold,,1725,USD,Secondary,Cross-checked,Cello Bow
+,,1994-11-20,141,,"Beare, John & Arthur",,,sold,,920,USD,Secondary,Secondary,Cello Bow
+,,1994-11-20,202,,"Cartwright, Charles D.",,,sold,,518,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,205,,SANDER FRIEDRICH,,,sold,,1092,USD,Secondary,Secondary,Violin
+,,1994-11-20,214,,"Paulus, Albin Ludwig",,,sold,,546,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,216,,"Bullard, Olin B.",,,sold,,920,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,222,,"Gordon, Hugh",,,sold,,978,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,226,,"Juzek, Jan (John)",,,sold,,2070,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,233,,"Wrona, Anthony T.",,,sold,,460,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,248,,"Key, Albert E.",,,sold,,690,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,258,,KUAMME MAGNE,,,sold,,431,USD,Secondary,Secondary,Violin
+,,1994-11-20,262,,Dominique (II) Didelot,,,sold,,747,GBP,Secondary,Secondary,Violin
+,,1994-11-20,263,,"Conn, C. G.",,,sold,,633,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,285,,"Baker, Calvin",,,sold,,2645,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,286,,SCHMIDT OSCAR,,,sold,,690,USD,Secondary,Secondary,Violin
+,,1994-11-20,287A,,"Lanaro, Umberto",,,sold,,3450,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,289,,"Gemünder, August Martin",,,sold,,1725,USD,Secondary,Secondary,Violin
+,,1994-11-20,294,,DE ANGELIS ERNESTO,,,sold,,2645,USD,Secondary,Secondary,Violin
+,,1994-11-20,297,,"Klotz, Georg Karl II",,,sold,,2990,USD,Secondary,Cross-checked,Violin
+,,1994-11-20,,,"Costa, Felix Mori",,,sold,,9200,USD,Secondary,Secondary,Viola
+,,1994-11-20,,,Vincenzo Trusiano Panormo,,,sold,,21656,GBP,Secondary,Secondary,Viola
+,,1994-11-20,,,"Bouvin, Jean",,,sold,,2415,USD,Secondary,Secondary,Cello Bow
+,,1994-11-20,,,"Peccatte,",,,sold,,1380,USD,Secondary,Secondary,Violin Bow
+,,1994-11-20,,,"Peccatte, Dominique",,,sold,,3737,USD,Secondary,Secondary,Violin Bow
+,,1994-11-20,,,"Voirin, Francois Nicolas",,,sold,,1725,USD,Secondary,Secondary,Violin Bow
+,,1994-11-20,,,"Amati, Nicolo",,,sold,,4887.5,USD,Secondary,Secondary,Cello
+,,1994-11-20,,,"Derazey, Honore",,,sold,,4025,USD,Secondary,Secondary,Cello

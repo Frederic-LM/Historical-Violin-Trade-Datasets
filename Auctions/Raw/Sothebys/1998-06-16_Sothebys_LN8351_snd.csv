@@ -1,0 +1,52 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1998-06-16,3,,"Guado, Lorenzo Frassino",,,sold,2000,2300,GBP,Secondary,Primary,Violin
+,,1998-06-16,7,,"Mougenot, Georges",,,sold,2500,2875,GBP,Secondary,Primary,Violin
+,,1998-06-16,8,,"Derazey, Justin Amedée",,,sold,1800,2070,GBP,Secondary,Primary,Violin
+,,1998-06-16,9,,"Glenister, William",,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1998-06-16,16,,"Carletti, Carlo",,,sold,2500,2875,GBP,Secondary,Primary,Violin
+,,1998-06-16,19,,"Kudanowski, Jan",,,sold,1100,1265,GBP,Secondary,Primary,Violin
+,,1998-06-16,21,,"Contino, Alfredo",,,sold,10000,11500,GBP,Secondary,Primary,Violin
+,,1998-06-16,22,,"Bisiach, Giacomo & Leandro",,,sold,14000,16100,GBP,Secondary,Cross-checked,Violin
+,,1998-06-16,24,,"Poggi, Ansaldo",,,sold,18000,20700,GBP,Secondary,Cross-checked,Violin
+,,1998-06-16,25,,"Guadagnini, Felice Vittorio",,,sold,30000,34500,GBP,Secondary,Cross-checked,Violin
+,,1998-06-16,27,,"Dieudonné, Amédée",,,sold,1500,1725,GBP,Secondary,Primary,Violin
+,,1998-06-16,28,,"Praga, Eugenio",,,sold,4500,5175,GBP,Secondary,Primary,Violin
+,,1998-06-16,31,,"Guerra, Evasio Emilio",,,sold,8000,9200,GBP,Secondary,Primary,Violin
+,,1998-06-16,38,,"Craske, George",,,sold,1800,2070,GBP,Secondary,Primary,Violin
+,,1998-06-16,41,,"Gagliano, Nicolò",,,sold,54000,60900,GBP,Secondary,Cross-checked,Violin
+,,1998-06-16,42,,"Thomassin, Claude Auguste",,,sold,2300,2645,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,43,,"Sartory, Eugène Nicolas",,,sold,4800,5520,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,45,,"Darche, Hilaire",,,sold,850,977,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,48,,"Pfretzschner, Hermann Richard",,,sold,800,920,GBP,Secondary,Primary,Cello Bow
+,,1998-06-16,51,,"Sartory, Eugène Nicolas",,,sold,5800,6670,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,52,,"Sartory, Eugène Nicolas",,,sold,6600,7590,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,53,,"Lamy, Joseph Alfred père",,,sold,2200,2530,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,54,,"Pajeot, Étienne",,,sold,6500,7475,GBP,Secondary,Primary,Cello Bow
+,,1998-06-16,55,,"Vigneron, Joseph Arthur père",,,sold,1500,1725,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,56,,"Bazin, Charles Nicolas",,,sold,650,747,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,57,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,500,575,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,58,,"Vigneron, Joseph Arthur père",,,sold,2700,3105,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,60,,"Hill & Sons, W. E. Firm",,,sold,1600,1840,GBP,Secondary,Primary,Viola Bow
+,,1998-06-16,65,,"Pajeot, Étienne",,,sold,6200,7130,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,68,,"Lambert, Nicolas",,,sold,800,920,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,69,,"Dupuy, Georges Louis",,,sold,850,977,GBP,Secondary,Primary,Cello Bow
+,,1998-06-16,73,,"Simon, Pierre",,,sold,2000,2300,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,74,,"Thibouville-Lamy, Jérôme Firm",,,sold,450,518,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,75,,"Hill & Sons, W. E. Firm",,,sold,500,575,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,78,,"Schmitt, Lucien",,,sold,800,920,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,79,,"Durrschmidt, Otto Carl",,,sold,750,862,GBP,Secondary,Primary,Viola Bow
+,,1998-06-16,82,,"Sartory, Eugène Nicolas",,,sold,1700,1955,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,84,,"Prager, August Edwin",,,sold,1000,1150,GBP,Secondary,Primary,Violin Bow
+,,1998-06-16,89,,"Barbieri, Bruno",,,sold,,1275,GBP,Secondary,Secondary,Viola
+,,1998-06-16,90,,"Laberte, Marc André Joseph",,,sold,600,690,GBP,Secondary,Primary,Viola
+,,1998-06-16,96,,"Fleta, Ignacio",,,sold,3000,3450,GBP,Secondary,Primary,Viola
+,,1998-06-16,101,,Goulding & Co.,,,sold,,8970,GBP,Secondary,Cross-checked,Cello
+,,1998-06-16,104,,"Dolling, Hermann Moritz I",,,sold,1500,1725,GBP,Secondary,Primary,Cello
+,,1998-06-16,107,,"Bernardel, Léon",,,sold,12000,13800,GBP,Secondary,Cross-checked,Cello
+,,1998-06-16,116,,Longman & Broderip Firm,,,sold,3200,3680,GBP,Secondary,Primary,Cello
+,,1998-06-16,122,,"Klotz, Aegidius Sebastian",,,sold,2000,2300,GBP,Secondary,Primary,Violin
+,,1998-06-16,127,,"Thir, Mathias",,,sold,2600,2990,GBP,Secondary,Primary,Violin
+,,1998-06-16,129,,"Guarneri, Giuseppe 'filius Andreae'",,,sold,82000,91700,GBP,Secondary,Cross-checked,Violin
+,,1998-06-16,134,,"Gagliano, Nicolò",,,sold,38000,43300,GBP,Secondary,Cross-checked,Violin
+,,1998-06-16,146,,"Politi, Raul",,,sold,3500,4025,GBP,Secondary,Primary,Violin
+,,1998-06-16,157,,"Gragnani, Antonio",,,sold,4200,4830,GBP,Secondary,Primary,Violin

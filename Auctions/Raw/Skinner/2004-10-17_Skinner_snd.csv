@@ -1,0 +1,121 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2004-10-17,37,,"Capicchioni, Marino",,,sold,,14100,USD,Secondary,Secondary,Violin
+,,2004-10-17,40,,"Altavilla, Armando",,,sold,,11750,USD,Secondary,Secondary,Violin
+,,2004-10-17,42,,"Bisiach, Leandro I",,,sold,,7050,USD,Secondary,Secondary,Violin
+,,2004-10-17,43,,"Salsedo, Luigi",,,sold,,2468,USD,Secondary,Secondary,Violin
+,,2004-10-17,46,,"Borghi, Pietro",,,sold,,8813,USD,Secondary,Secondary,Violin
+,,2004-10-17,51,,"Hill & Sons, W. E. Firm",,,sold,,7638,USD,Secondary,Secondary,Violin
+,,2004-10-17,52,,"Pique, François-Louis",,,sold,,64625,USD,Secondary,Secondary,Violin
+,,2004-10-17,54,,"Berger, Karl August",,,sold,,3408,USD,Secondary,Secondary,Violin
+,,2004-10-17,57,,"Gould, Orin A.",,,sold,,1880,USD,Secondary,Secondary,Violin
+,,2004-10-17,58,,"Goodwin, Bert",,,sold,,3525,USD,Secondary,Secondary,Violin
+,,2004-10-17,58A,,"Cavani, Vincenzo",,,sold,,7350,USD,Secondary,Secondary,Violin
+,,2004-10-17,60,,"Capicchioni, Marino",,,sold,,30550,USD,Secondary,Secondary,Violin
+,,2004-10-17,65,,"Ceruti, Giovanni Battista",,,sold,,14100,USD,Secondary,Secondary,Violin
+,,2004-10-17,69,,"Fagnola, Annibale",,,sold,,64625,USD,Secondary,Secondary,Violin
+,,2004-10-17,71,,"Amati, Antonio & Girolamo",,,sold,,37600,USD,Secondary,Secondary,Violin
+,,2004-10-17,74,,"Poggi, Ansaldo",,,sold,,7050,USD,Secondary,Secondary,Violin
+,,2004-10-17,76,,"Gould, John Alfred",,,sold,,1410,USD,Secondary,Secondary,Violin
+,,2004-10-17,81,,"Darche, Hilaire",,,sold,,5288,USD,Secondary,Secondary,Violin
+,,2004-10-17,84,,"Roth, Ernst Heinrich",,,sold,,3173,USD,Secondary,Secondary,Violin
+,,2004-10-17,88,,"Roth, Ernst Heinrich",,,sold,,1763,USD,Secondary,Secondary,Violin
+,,2004-10-17,89,,"Derazey, Honoré (Jean-Joseph)",,,sold,,7638,USD,Secondary,Secondary,Violin
+,,2004-10-17,91,,"Antoniazzi, Riccardo",,,sold,,24675,USD,Secondary,Secondary,Violin
+,,2004-10-17,92,,"Balestrieri, Tommaso",,,sold,,86950,USD,Secondary,Secondary,Violin
+,,2004-10-17,93,,"Hill & Sons, W. E. Firm",,,sold,,2468,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,94,,"Audinot, Pascal",,,sold,,1998,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,96,,"Bazin, Charles Nicolas",,,sold,,1528,USD,Secondary,Secondary,Viola Bow
+,,2004-10-17,97,,"Knopf, Carl Heinrich",,,sold,,4994,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,99,,"Gould, Orin A.",,,sold,,235,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,100,,"Lambert, Nicolas",,,sold,,705,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,101,,"Raffin, Jean-François",,,sold,,1645,USD,Secondary,Secondary,Viola Bow
+,,2004-10-17,102,,"Dodd, John I",,,sold,,3408,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,103,,"Thibouville-Lamy, Jérôme Firm",,,sold,,264,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,105,,"Nürnberger, Albert",,,sold,,881,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,106,,"Pfretzschner, Hermann Richard",,,sold,,2233,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,107,,"Nürnberger, Albert",,,sold,,2115,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,109,,"Nürnberger, Albert",,,sold,,1880,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,110,,"Hill & Sons, W. E. Firm",,,sold,,2468,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,111,,"Sartory, Eugène Nicolas",,,sold,,11163,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,113,,"Nürnberger, Albert",,,sold,,1880,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,114,,"Millant, Roger & Max Firm",,,sold,,940,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,115,,"Collin-Mézin, Charles Jean-Baptiste père",,,sold,,2115,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,116,,Gand & Bernardel Firm,,,sold,,4406,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,117,,"Simon, Nicolas FR",,,sold,,1880,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,118,,"Tubbs, James",,,sold,,3819,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,119,,"Fétique, Victor François",,,sold,,2820,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,120,,"Holder, Thomas James",,,sold,,1645,USD,Secondary,Secondary,Viola Bow
+,,2004-10-17,122,,"Dodd, John I",,,sold,,3819,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,123,,"Sartory, Eugène Nicolas",,,sold,,16450,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,127,,"Lapierre, Marcel Charles",,,sold,,3525,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,130,,"Otto, Louis",,,sold,,705,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,132,,"Weidhaas, Ewald",,,sold,,1528,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,135,,"Sartory, Eugène Nicolas",,,sold,,9400,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,136,,"Sartory, Eugène Nicolas",,,sold,,9400,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,137,,"Vitale, Giuseppe",,,sold,,1410,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,140,,Bazin Family,,,sold,,4700,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,141,,Bazin Family,,,sold,,1645,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,143,,"Lapierre, Marcel Charles",,,sold,,1880,USD,Secondary,Secondary,Cello Bow
+,,2004-10-17,144,,"Hill & Sons, W. E. Firm",,,sold,,4113,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,145,,"Voirin, François Nicolas",,,sold,,1528,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,146,,"Tubbs, James",,,sold,,7638,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,147,,"Hill & Sons, W. E. Firm",,,sold,,4406,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,148,,"Morizot, Louis Joseph père",,,sold,,1175,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,149,,"Lamy, Joseph Alfred père",,,sold,,5875,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,150,,"Pfretzschner, Hermann Richard",,,sold,,2820,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,151,,"Pfretzschner, G.A.",,,sold,,1116,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,154,,"Sartory, Eugène Nicolas",,,sold,,11750,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,155,,"Hill & Sons, W. E. Firm",,,sold,,2703,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,158,,"Pfretzschner, F.C.",,,sold,,705,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,159,,"Lotte, Roger François",,,sold,,1175,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,160,,"Hill & Sons, W. E. Firm",,,sold,,3643,USD,Secondary,Secondary,Viola Bow
+,,2004-10-17,164,,"Maire, Nicolas Rémy",,,sold,,4935,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,165,,"Maline, Nicolas I",,,sold,,6815,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,166,,"Fétique, Marcel Gaston",,,sold,,5581,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,168,,"Simon, Nicolas FR",,,sold,,1175,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,169,,"Nürnberger, Albert",,,sold,,1998,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,170,,"Nürnberger, Albert",,,sold,,1763,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,171,,"Bazin, Charles Nicolas",,,sold,,2350,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,175,,Silvestre & Maucotel,,,sold,,1410,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,177A,,"Perry, Thomas II",,,sold,,3408,USD,Secondary,Secondary,Violin
+,,2004-10-17,192,,"Mages, Karl",,,sold,,176,USD,Secondary,Secondary,Violin
+,,2004-10-17,208,,"Duerer, Wilhelm",,,sold,,499,USD,Secondary,Secondary,Violin
+,,2004-10-17,210,,"Heberlein, Heinrich Theodore Jr.",,,sold,,764,USD,Secondary,Secondary,Violin
+,,2004-10-17,219,,"Jacquemin, Rene",,,sold,,999,USD,Secondary,Secondary,Viola
+,,2004-10-17,249,,"Gould, Orin A.",,,sold,,353,USD,Secondary,Secondary,Violin
+,,2004-10-17,251,,"Panormo, Joseph",,,sold,,1293,USD,Secondary,Secondary,Violin
+,,2004-10-17,253A,,"Tourte, Nicolas Léonard 'l'Ainé'",,,sold,,2233,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,254,,"Hoyer, Otto A.",,,sold,,2115,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,255,,"Pfretzschner, Hermann Richard",,,sold,,881,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,258,,"Colas, Prosper",,,sold,,1880,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,260,,"Audinot, Pascal",,,sold,,940,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,261,,"Nürnberger, Albert",,,sold,,499,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,262,,"Schuster, Albert",,,sold,,206,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,263,,"Lee, John Norwood",,,sold,,1116,USD,Secondary,Secondary,Viola Bow
+,,2004-10-17,277,,"Hammig, Wilhelm Hermann",,,sold,,764,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,280,,"Wunderlich, Otto Felix",,,sold,,1116,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,285,,"Kun, Joseph",,,sold,,499,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,286,,"Sirdevan, John",,,sold,,294,USD,Secondary,Secondary,Violin Bow
+,,2004-10-17,299,,"Heberlein, Heinrich Theodore Jr.",,,sold,,1763,USD,Secondary,Secondary,Cello
+,,2004-10-17,303,,"Gould, Orin A.",,,sold,,4700,USD,Secondary,Secondary,Violin
+,,2004-10-17,304,,"Holzapfel, Carl C.",,,sold,,881,USD,Secondary,Secondary,Violin
+,,2004-10-17,305,,"Squier, Jerome Bonaparte",,,sold,,881,USD,Secondary,Secondary,Violin
+,,2004-10-17,306,,"Hall, Roscoe G.",,,sold,,1175,USD,Secondary,Secondary,Violin
+,,2004-10-17,307,,"Wood, Daniel L.",,,sold,,235,USD,Secondary,Secondary,Violin
+,,2004-10-17,308,,"Wilkanowski, William",,,sold,,823,USD,Secondary,Secondary,Violin
+,,2004-10-17,309,,"Wood, Daniel L.",,,sold,,264,USD,Secondary,Secondary,Violin
+,,2004-10-17,313,,"Hall, Roscoe G.",,,sold,,1528,USD,Secondary,Secondary,Violin
+,,2004-10-17,316,,"Carlisle, James Reynold",,,sold,,3173,USD,Secondary,Secondary,Violin
+,,2004-10-17,317,,"Gould, John Alfred",,,sold,,7050,USD,Secondary,Secondary,Violin
+,,2004-10-17,318,,"Nebel, Martin",,,sold,,2585,USD,Secondary,Secondary,Violin
+,,2004-10-17,321,,"Holzapfel, Carl C.",,,sold,,558,USD,Secondary,Secondary,Violin
+,,2004-10-17,322,,"Dodds, Edward",,,sold,,4113,USD,Secondary,Secondary,Violin
+,,2004-10-17,325,,"Paulus, Albin Ludwig",,,sold,,1998,USD,Secondary,Secondary,Violin
+,,2004-10-17,326,,"Heberlein, Heinrich Theodore Jr.",,,sold,,2233,USD,Secondary,Secondary,Violin
+,,2004-10-17,333,,"Bisiach, Carlo",,,sold,,6345,USD,Secondary,Secondary,Violin
+,,2004-10-17,335,,"Leidolff, Joseph Ferdinand",,,sold,,5581,USD,Secondary,Secondary,Violin
+,,2004-10-17,336,,"Bernardel, Gustave Adolphe",,,sold,,11750,USD,Secondary,Secondary,Violin
+,,2004-10-17,337,,"Lucci, Giuseppe",,,sold,,10575,USD,Secondary,Secondary,Violin
+,,2004-10-17,338,,"Poggi, Ansaldo",,,sold,,47000,USD,Secondary,Secondary,Violin
+,,2004-10-17,339,,"Grancino, Giovanni & Francesco",,,sold,,18800,USD,Secondary,Secondary,Violin
+,,2004-10-17,340,,"Testore, Carlo Giuseppe",,,sold,,14100,USD,Secondary,Secondary,Violin

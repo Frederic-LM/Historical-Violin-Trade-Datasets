@@ -1,0 +1,49 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2002-05-30,27,,"Friedrich, John",,,sold,,1957,GBP,Secondary,Secondary,Violin
+,,2002-05-30,28,,"Widhalm, Leopold I",,,sold,,3425,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,29,,"Millant, Roger & Max Firm",,,sold,,5708,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,30,,"Knopf, Carl Heinrich",,,sold,,2446,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,36,,"Logan, John",,,sold,,1794,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,39,,"Scarampella, Stefano",,,sold,,40771,GBP,Secondary,Secondary,Violin
+,,2002-05-30,44,,"Fiorini, Giuseppe",,,sold,,19570,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,46,,"Lamy, Hippolyte Camille dit 1er fils",,,sold,,4077,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-05-30,47,,"Henry, Joseph",,,sold,,6116,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-05-30,57,,"Pajeot, Étienne",,,sold,,8990,GBP,Secondary,Secondary,Violin Bow
+,,2002-05-30,59,,"Maline, Nicolas I",,,sold,,8970,GBP,Secondary,Secondary,Violin Bow
+,,2002-05-30,62,,"Vuillaume, Jean-Baptiste",,,sold,,6523,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-05-30,69,,"Maggiali, Cesare",,,sold,,4077,GBP,Secondary,Cross-checked,Viola
+,,2002-05-30,72,,"Hill, Lockey",,,sold,,4898,GBP,Secondary,Cross-checked,Viola
+,,2002-05-30,78,,"Antoniazzi, Riccardo",,,sold,,30986,GBP,Secondary,Cross-checked,Viola
+,,2002-05-30,79,,"Millant, Roger & Max Firm",,,sold,,5708,GBP,Secondary,Secondary,Viola Bow
+,,2002-05-30,80,,"Gillet, Louis Henri",,,sold,,5301,GBP,Secondary,Cross-checked,Viola Bow
+,,2002-05-30,81,,"Piernot, Marie Louis",,,sold,,3262,GBP,Secondary,Cross-checked,Viola Bow
+,,2002-05-30,82,,"Chardon, André",,,sold,,2854,GBP,Secondary,Cross-checked,Viola Bow
+,,2002-05-30,84,,"Weichold, Richard",,,sold,,1223,GBP,Secondary,Secondary,Cello Bow
+,,2002-05-30,89,,"Roth, Ernst Heinrich",,,sold,,1305,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,95,,"Lupot, Nicolas",,,sold,,53003,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,100,,"Vuillaume, Jean-Baptiste",,,sold,,32617,GBP,Secondary,Secondary,Violin
+,,2002-05-30,101,,"Gagliano, Nicolò",,,sold,,65234,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,111,,"Noyse, Harry C.",,,sold,,571,GBP,Secondary,Secondary,Violin
+,,2002-05-30,113,,"Ritchie, Archibald",,,sold,,652,GBP,Secondary,Secondary,Violin
+,,2002-05-30,117,,"Herrmann, Karl",,,sold,,815,GBP,Secondary,Cross-checked,Violin
+,,2002-05-30,127,,"Ouchard, Émile-Auguste",,,sold,,4485,GBP,Secondary,Secondary,Violin Bow
+,,2002-05-30,134,,"Dölling, Heinz",,,sold,,448,GBP,Secondary,Secondary,Violin Bow
+,,2002-05-30,140,,"Tubbs, Thomas",,,sold,,2120,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-05-30,182,,"Paesold, Roderich",,,sold,,1631,GBP,Secondary,Cross-checked,Cello
+,,2002-05-30,197,,"Sartory, Eugène Nicolas",,,sold,,8154,GBP,Secondary,Cross-checked,Cello Bow
+,,2002-05-30,200,,"Süss, Johann Christian",,,sold,,611,GBP,Secondary,Secondary,Cello Bow
+,,2002-05-30,203,,"Pfretzschner, Hermann Richard",,,sold,,652,GBP,Secondary,Secondary,Cello Bow
+,,2002-05-30,206,,"Morizot, Louis frères",,,sold,,897,GBP,Secondary,Cross-checked,Cello Bow
+,,2002-05-30,,,"Clark, Homer",,,sold,,2868,USD,Secondary,Secondary,Violin
+,,2002-05-30,,,"Dodd,",,,sold,,2629,USD,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,"Dodd, John",,,sold,,2390,USD,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,"Gillet, Louis Henry",,,sold,,3585,USD,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,Alfred Joseph Lamy,,,sold,,6310,GBP,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,"Maire, Nicholas Remy",,,sold,,8963,USD,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,"Nurnberger,",,,sold,,2032,USD,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,"Ouchard, Emile",,,sold,,8365,USD,Secondary,Secondary,Viola Bow
+,,2002-05-30,,,"Persois,",,,sold,,7170,USD,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,"Sartory, Eugene",,,sold,,8963,USD,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,James Tubbs,,,sold,,2945,GBP,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,Francois Nicolas Voirin,,,sold,,7151,GBP,Secondary,Secondary,Violin Bow
+,,2002-05-30,,,"Gand & Bernardel Freres,",,,sold,,32265,USD,Secondary,Secondary,Cello

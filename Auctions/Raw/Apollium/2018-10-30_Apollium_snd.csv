@@ -1,0 +1,10 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2018-10-30,38,,Thomas Nicolas,,,sold,,720,EUR,Secondary,Secondary,Violin
+,,2018-10-30,60,,Mathias Heinicke,,,sold,,840,EUR,Secondary,Secondary,Violin
+,,2018-10-30,127,,Francois Lotte,,,sold,,576,EUR,Secondary,Secondary,Violin Bow
+,,2018-10-30,152,,Celestin Emile Clasquin,,,sold,,720,EUR,Secondary,Secondary,Violin Bow
+,,2018-10-30,186,,Louis Collenot,,,sold,,600,EUR,Secondary,Secondary,Violin
+,,2018-10-30,195,,Paul Chevrier,,,sold,,600,EUR,Secondary,Secondary,Violin
+,,2018-10-30,217,,Nicolas Mathieu,,,sold,,240,EUR,Secondary,Secondary,Violin
+,,2018-10-30,229,,David Christian Hopf,,,sold,,528,EUR,Secondary,Secondary,Violin
+,,2018-10-30,253,,Feyzeau,,,sold,,384,EUR,Secondary,Secondary,Violin

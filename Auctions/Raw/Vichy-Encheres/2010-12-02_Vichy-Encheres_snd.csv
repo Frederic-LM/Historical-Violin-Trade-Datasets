@@ -1,0 +1,6 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2010-12-02,,,"Pajeot, Étienne",,,sold,33000,40894,EUR,Secondary,Secondary,Violin Bow
+,,2010-12-02,,,"Tourte, François Xavier 'le Jeune'",,,sold,39000,48329,EUR,Secondary,Secondary,Violin Bow
+,,2010-12-02,,,"Vuillaume, Jean-Baptiste",,,sold,78000,96658,EUR,Secondary,Secondary,Violin
+,,2010-12-02,,,"Antoniazzi, Romeo",,,sold,26000,32219,EUR,Secondary,Secondary,Violin
+,,2010-12-02,,,"Bernardel, Auguste Sébastien Philippe père",,,sold,90000,111528,EUR,Secondary,Secondary,Cello

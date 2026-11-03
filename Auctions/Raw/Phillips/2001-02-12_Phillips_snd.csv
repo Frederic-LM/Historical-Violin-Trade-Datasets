@@ -1,0 +1,29 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-02-12,13,,"Ardern, Job",,,sold,,850,GBP,Secondary,Secondary,Violin
+,,2001-02-12,32,,"Thibouville-Lamy, Jérôme Firm",,,sold,,1300,GBP,Secondary,Secondary,Violin
+,,2001-02-12,43,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,700,GBP,Secondary,Secondary,Violin
+,,2001-02-12,47,,"Thompson, James",,,sold,,850,GBP,Secondary,Secondary,Violin
+,,2001-02-12,50,,"Craske, George",,,sold,,2600,GBP,Secondary,Secondary,Violin
+,,2001-02-12,54,,"Vettori, Carlo",,,sold,,3000,GBP,Secondary,Secondary,Violin
+,,2001-02-12,56,,"Bailly, Paul",,,sold,,2800,GBP,Secondary,Secondary,Violin
+,,2001-02-12,57,,"Ferrari, Luigi",,,sold,,1500,GBP,Secondary,Secondary,Violin
+,,2001-02-12,78,,"Nicolas, Didier l'aîné",,,sold,,450,GBP,Secondary,Secondary,Violin
+,,2001-02-12,80,,"Duke, Richard",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,2001-02-12,81,,"Devoney, Frank",,,sold,,550,GBP,Secondary,Secondary,Violin
+,,2001-02-12,83,,"Mangenot, Amati",,,sold,,800,GBP,Secondary,Secondary,Violin
+,,2001-02-12,94,,"Vincent, Alfred",,,sold,,1500,GBP,Secondary,Secondary,Violin
+,,2001-02-12,110,,"Voirin, François Nicolas",,,sold,,2530,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-02-12,112,,"Hill & Sons, W. E. Firm",,,sold,,1035,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-02-12,115,,"Lamy, Alfred dit neveu",,,sold,,2760,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-02-12,118,,"Tubbs, James",,,sold,,1725,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-02-12,120,,"Panormo, Louis",,,sold,,920,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-02-12,123,,"Hill & Sons, W. E. Firm",,,sold,,1035,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-02-12,137,,"Hill & Sons, W. E. Firm",,,sold,,989,GBP,Secondary,Secondary,Violin Bow
+,,2001-02-12,138,,"Tubbs, James",,,sold,,1265,GBP,Secondary,Secondary,Violin Bow
+,,2001-02-12,203,,"Wolff, Brothers",,,sold,,450,GBP,Secondary,Secondary,Small Violin
+,,2001-02-12,232,,"Storioni, Carlo",,,sold,,600,GBP,Secondary,Secondary,Violin
+,,2001-02-12,264,,"Owen, John William",,,sold,,800,GBP,Secondary,Secondary,Violin
+,,2001-02-12,274,,"Aspinall, James",,,sold,,220,GBP,Secondary,Secondary,Violin
+,,2001-02-12,284,,"Monk, John King",,,sold,,250,GBP,Secondary,Secondary,Violin
+,,2001-02-12,304,,"Petzold, Franz Paul",,,sold,,450,GBP,Secondary,Secondary,Violin
+,,2001-02-12,322,,"Smith, John",,,sold,,210,GBP,Secondary,Secondary,Violin

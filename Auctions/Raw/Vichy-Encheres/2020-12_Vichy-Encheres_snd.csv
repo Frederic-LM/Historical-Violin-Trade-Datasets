@@ -1,0 +1,11 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,580,,Charles Nicolas Bazin,,,sold,2300,2852,EUR,Secondary,Secondary,Viola Bow
+,,,2028,,Louis Bazin,,,sold,1742,2160,EUR,Secondary,Secondary,Violin Bow
+,,,2030,,Marc Laberte,,,sold,870,1079,EUR,Secondary,Secondary,Violin Bow
+,,,2033,,Pierre Cuniot,,,sold,630,781,EUR,Secondary,Secondary,Violin Bow
+,,,2035,,Roger Lotte,,,sold,726,900,EUR,Secondary,Secondary,Violin Bow
+,,,2038,,Emile Francois Ouchard,,,sold,1065,1321,EUR,Secondary,Secondary,Violin Bow
+,,,2076,,Francois Bazin,,,sold,290,360,EUR,Secondary,Secondary,Viola Bow
+,,,2171,,Pillement,,,sold,387,480,EUR,Secondary,Secondary,Violin
+,,,2180,,Emile Francois Ouchard,,,sold,1258,1560,EUR,Secondary,Secondary,Cello Bow
+,,,2192,,Eugene Cuniot-Hury,,,sold,435,539,EUR,Secondary,Secondary,Violin Bow

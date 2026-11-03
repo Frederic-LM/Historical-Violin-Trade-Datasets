@@ -1,0 +1,5 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1982-06-17,30,,"Hill, Lockey",,,sold,,935,GBP,Secondary,Secondary,Violin
+,,1982-06-17,,,"Rogeri, Giovanni Battista",,,sold,,66000,GBP,Secondary,Secondary,Cello
+,,1982-06-17,,,"Boquay, Jacques",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,1982-06-17,,,"Sorsana, Spirito",,,sold,,9090,GBP,Secondary,Cross-checked,Violin

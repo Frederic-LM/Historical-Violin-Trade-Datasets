@@ -1,0 +1,46 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2000-03-15,26,,"Deblaye, Albert",,,sold,1300,1495,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,27,,"Mangenot, Amati",,,sold,1200,1380,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,28,,"Contino, Alfredo",,,sold,7500,8625,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,31,,"Scarampella, Stefano",,,sold,28000,32200,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,34,,"Knorr, Paul",,,sold,3000,3450,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,38,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,2800,3220,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,39,,"Dieudonné, Amédée",,,sold,2000,2300,GBP,Secondary,Secondary,Violin
+,,2000-03-15,40,,"Fagnola, Annibale",,,sold,36000,41400,GBP,Secondary,Secondary,Violin
+,,2000-03-15,44,,"Jombar, Paul",,,sold,1600,1840,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,46,,"Sartory, Eugène Nicolas",,,sold,7000,8050,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,49,,"Hill & Sons, W. E. Firm",,,sold,2400,2760,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,50,,"Voirin, François Nicolas",,,sold,4000,4600,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,54,,"Lamy, Alfred dit neveu",,,sold,3200,3680,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,57,,"Laberte, Marc André Joseph",,,sold,1400,1610,GBP,Secondary,Secondary,Violin Bow
+,,2000-03-15,61,,"Nürnberger, Albert",,,sold,500,575,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,62,,"Vuillaume, Jean-Baptiste",,,sold,5500,6325,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,63,,"Hill & Sons, W. E. Firm",,,sold,1600,1840,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,68,,"Fétique, Victor François",,,sold,3600,4140,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,69,,"Fétique, Jules",,,sold,3200,3680,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,70,,"Hill & Sons, W. E. Firm",,,sold,4000,4600,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,74,,"Bazin, Charles Louis",,,sold,400,460,GBP,Secondary,Secondary,Violin Bow
+,,2000-03-15,77,,"Gauthie, Pierre",,,sold,2600,2990,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,85,,"Jacquemin, Rene",,,sold,3400,3910,GBP,Secondary,Secondary,Cello
+,,2000-03-15,86,,Silvestre & Maucotel,,,sold,8500,9775,GBP,Secondary,Secondary,Cello
+,,2000-03-15,93,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,1700,1955,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,95,,"Mantegazza, Pietro Giovanni",,,sold,38000,43700,GBP,Secondary,Secondary,Violin
+,,2000-03-15,97,,"Serafin, Santo",,,sold,24000,27600,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,99,,"Beuscher, Paul",,,sold,1300,1495,GBP,Secondary,Secondary,Violin
+,,2000-03-15,102,,"Villaume, Gustave",,,sold,2000,2300,GBP,Secondary,Cross-checked,Viola
+,,2000-03-15,119,,"Thomassin, Claude Auguste",,,sold,2200,2530,GBP,Secondary,Secondary,Violin Bow
+,,2000-03-15,122,,"Fétique, Victor François",,,sold,2000,2300,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,124,,"Vigneron, André 'Vigneron fils'",,,sold,1900,2185,GBP,Secondary,Cross-checked,Viola Bow
+,,2000-03-15,125,,"Fritsch, Jean",,,sold,600,690,GBP,Secondary,Cross-checked,Viola Bow
+,,2000-03-15,129,,"Werner, Emil",,,sold,300,345,GBP,Secondary,Cross-checked,Violin Bow
+,,2000-03-15,133,,"Bazin, Charles Louis",,,sold,600,690,GBP,Secondary,Cross-checked,Cello Bow
+,,2000-03-15,135,,"Thibouville-Lamy, Jérôme Firm",,,sold,700,805,GBP,Secondary,Secondary,Cello Bow
+,,2000-03-15,136,,"Morizot, Louis Joseph père",,,sold,1100,1265,GBP,Secondary,Cross-checked,Bass Bow
+,,2000-03-15,158,,"Vautrin, Joseph",,,sold,1700,1955,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,179,,"Cherpitel, Louis",,,sold,1800,2070,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,193,,"Peterson, P. A.",,,sold,320,368,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,222,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,800,920,GBP,Secondary,Secondary,Violin
+,,2000-03-15,235,,"Apparut, Georges",,,sold,1200,1380,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,240,,"Rombouts, Pieter",,,sold,5500,6325,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,241,,"Laberte, Marc André Joseph",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin
+,,2000-03-15,246,,"Krumbholz, Lorenz",,,sold,2400,2760,GBP,Secondary,Cross-checked,Violin

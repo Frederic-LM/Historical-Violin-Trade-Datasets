@@ -1,0 +1,107 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2003-07-15,1,,"Vincent, Alfred",,,sold,,3840,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,3,,"Gartner, Eugen",,,sold,,2880,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,4,,"Koch, Franz Joseph",,,sold,,1800,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,5,,"Puntin, Odino",,,sold,,2160,GBP,Secondary,Secondary,Violin
+,,2003-07-15,6,,"Kunze, Wilhelm Paul",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,7,,"Hesketh, Thomas Earle",,,sold,,5400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,10,,"Delivet, Auguste",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,12,,"Betts, John I",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,14,,"Ornati, Giuseppe",,,sold,,21000,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,16,,"Kaul, Paul",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,17,,Gand Frères Firm,,,sold,,9000,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,19,,"Maussiell, Leonhard",,,sold,,4800,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,21,,"Fagnola, Annibale",,,sold,,40800,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,25,,"Hill & Sons, W. E. Firm",,,sold,,3360,GBP,Secondary,Secondary,Violin
+,,2003-07-15,27,,"Alf, Gregg",,,sold,,1680,GBP,Secondary,Secondary,Violin
+,,2003-07-15,28,,"Degani, Eugenio",,,sold,,10200,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,31,,"Albani, Matthias II",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,32,,"Carcassi, Tomaso",,,sold,,10800,GBP,Secondary,Secondary,Violin
+,,2003-07-15,33,,"Camilli, Camillo",,,sold,,62400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,34,,"Hill & Sons, W. E. Firm",,,sold,,1140,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,35,,"Bryant, Percival Wilfred",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,36,,"Bazin, Charles Louis",,,sold,,1200,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,38,,"Blondelet, Hugues Emile",,,sold,,3360,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,39,,"Dodd, John I",,,sold,,1080,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,42,,"Hill & Sons, W. E. Firm",,,sold,,2640,GBP,Secondary,Cross-checked,Viola Bow
+,,2003-07-15,46,,"Vuillaume, Jean-Baptiste",,,sold,,4800,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,47,,"Simon, Pierre",,,sold,,6600,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,49,,"Tubbs, James",,,sold,,2400,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,50,,"Wunderlich, Friedrich Wilhelm",,,sold,,780,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,54,,"Gerome, Roger",,,sold,,1200,GBP,Secondary,Secondary,Viola Bow
+,,2003-07-15,55,,"Tubbs, James",,,sold,,1920,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,58,,Dodd Family,,,sold,,840,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,59,,Caressa & Français Firm,,,sold,,2160,GBP,Secondary,Cross-checked,Cello Bow
+,,2003-07-15,60,,Dodd Family,,,sold,,1680,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,61,,"Tubbs, James",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,62,,"Bazin, Charles Nicolas",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,63,,"Thomassin, Claude Auguste",,,sold,,3360,GBP,Secondary,Cross-checked,Cello Bow
+,,2003-07-15,64,,"Morizot, Louis Joseph père",,,sold,,1080,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,67,,"Hill & Sons, W. E. Firm",,,sold,,1680,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,68,,"Thomassin, Claude Auguste",,,sold,,2400,GBP,Secondary,Secondary,Cello Bow
+,,2003-07-15,73,,"Hill & Sons, W. E. Firm",,,sold,,1680,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,77,,"Hill & Sons, W. E. Firm",,,sold,,1200,GBP,Secondary,Cross-checked,Cello Bow
+,,2003-07-15,78,,"Nürnberger, Albert",,,sold,,1440,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,79,,"Morizot, Louis frères",,,sold,,456,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,80,,Hart & Son,,,sold,,900,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,83,,"Hill & Sons, W. E. Firm",,,sold,,900,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,86,,"Hill & Sons, W. E. Firm",,,sold,,1680,GBP,Secondary,Cross-checked,Viola Bow
+,,2003-07-15,87,,"Sartory, Eugène Nicolas",,,sold,,6000,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,88,,"Voirin, François Nicolas",,,sold,,7200,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,90,,"Tubbs, James",,,sold,,7800,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,96,,"Hoyer, Andreas II",,,sold,,3840,GBP,Secondary,Cross-checked,Viola
+,,2003-07-15,97,,Gand & Bernardel Firm,,,sold,,3600,GBP,Secondary,Cross-checked,Viola
+,,2003-07-15,100,,"Forster, William III",,,sold,,7200,GBP,Secondary,Secondary,Viola
+,,2003-07-15,110,,"Norris, Norris & Barnes",,,sold,,4560,GBP,Secondary,Cross-checked,Cello
+,,2003-07-15,115,,"Eberle, Eugène I",,,sold,,5040,GBP,Secondary,Cross-checked,Cello
+,,2003-07-15,130,,Caressa & Français Firm,,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,131,,"Postiglione, Vincenzo II",,,sold,,12600,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,133,,"Testore, Carlo Antonio",,,sold,,27600,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,134,,"Vuillaume, Jean-Baptiste",,,sold,,48000,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,135A,,"Bernardel, Léon",,,sold,,1560,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,136,,"Soliani, Angelo",,,sold,,26400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,139,,"Claudot, Paul",,,sold,,2040,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,145,,"Jais, Anton",,,sold,,2160,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,150,,"Klotz, Aegidius Sebastian",,,sold,,3240,GBP,Secondary,Secondary,Violin
+,,2003-07-15,152,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1080,GBP,Secondary,Secondary,Violin
+,,2003-07-15,160,,"Genin, Louis",,,sold,,840,GBP,Secondary,Secondary,Small Violin
+,,2003-07-15,164,,"Bernardel, Gustave Adolphe",,,sold,,7800,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,165,,"Rugeri, Francesco",,,sold,,100800,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,166,,"Wunderlich, Friedrich Wilhelm",,,sold,,1080,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,167,,"Hill & Sons, W. E. Firm",,,sold,,1440,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,170,,"Nürnberger, Albert",,,sold,,540,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,171,,"Ouchard, Bernard",,,sold,,1440,GBP,Secondary,Cross-checked,Cello Bow
+,,2003-07-15,173,,"Lotte, François",,,sold,,780,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,174,,"Buthod, Charles",,,sold,,1200,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,177,,"Dodd, James II",,,sold,,5040,GBP,Secondary,Cross-checked,Cello Bow
+,,2003-07-15,178,,"Vigneron, Joseph Arthur père",,,sold,,3360,GBP,Secondary,Cross-checked,Cello Bow
+,,2003-07-15,181,,"Thibouville-Lamy, Jérôme Firm",,,sold,,420,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,184,,"Piernot, Marie Louis",,,sold,,1320,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,192,,"Lotte, François",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,195,,"Fétique, Marcel Gaston",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,197,,"Bazin, Charles Nicolas",,,sold,,780,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,198,,"Lotte, Roger François",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,206,,"Gerome, Roger",,,sold,,840,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,207,,"Hill & Sons, W. E. Firm",,,sold,,1200,GBP,Secondary,Cross-checked,Cello Bow
+,,2003-07-15,208,,"Grünke, Richard",,,sold,,960,GBP,Secondary,Cross-checked,Viola Bow
+,,2003-07-15,209,,"Gerome, Roger",,,sold,,600,GBP,Secondary,Secondary,Viola Bow
+,,2003-07-15,210,,"Hill & Sons, W. E. Firm",,,sold,,960,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,211,,"Hill & Sons, W. E. Firm",,,sold,,2640,GBP,Secondary,Cross-checked,Viola Bow
+,,2003-07-15,213,,"Colas, Prosper",,,sold,,2640,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,214,,"Hill & Sons, W. E. Firm",,,sold,,3120,GBP,Secondary,Secondary,Viola Bow
+,,2003-07-15,215,,"Nürnberger, Albert",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,216,,"Tubbs, James",,,sold,,9000,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,217,,"Lamy, Joseph Alfred père",,,sold,,5040,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,218,,"Sartory, Eugène Nicolas",,,sold,,7800,GBP,Secondary,Cross-checked,Violin Bow
+,,2003-07-15,219,,"Vuillaume, Jean-Baptiste",,,sold,,1800,GBP,Secondary,Secondary,Violin Bow
+,,2003-07-15,220,,"Bellarosa, Vittorio",,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,222,,"Milton, Louis Frank",,,sold,,1800,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,223,,"Hill & Sons, W. E. Firm",,,sold,,9000,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,229,,"Hesketh, Thomas Earle",,,sold,,4200,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,230,,"Guillami, Juan I",,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,233,,"Defat, Georges",,,sold,,2400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,236,,"Mayr, Andreas Ferdinand",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,237,,"Rocca, Giuseppe Antonio",,,sold,,100800,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,238,,"Kennedy, Thomas",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,239,,"Oddone, Carlo Giuseppe",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2003-07-15,240,,"Guadagnini, Giovanni Battista",,,sold,,117600,GBP,Secondary,Secondary,Violin

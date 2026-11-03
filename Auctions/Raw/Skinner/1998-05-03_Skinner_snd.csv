@@ -1,0 +1,95 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1998-05-03,14,,"Farotto, Celestino",,,sold,,5750,USD,Secondary,Cross-checked,Viola
+,,1998-05-03,37,,"Roth, Ernst Heinrich",,,sold,,2875,USD,Secondary,Secondary,Cello
+,,1998-05-03,39,,"Farotti, Celeste",,,sold,,68500,USD,Secondary,Secondary,Cello
+,,1998-05-03,43,,"Fuchs, Wenzl",,,sold,,2990,USD,Secondary,Cross-checked,Cello
+,,1998-05-03,49,,"Silvestre, Hippolyte Chrétien",,,sold,,36800,USD,Secondary,Cross-checked,Cello
+,,1998-05-03,57,,"De Zorzi, Valentino",,,sold,,14950,USD,Secondary,Secondary,Violin
+,,1998-05-03,58,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,19550,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,64,,"Vettori, Paolo",,,sold,,4312,USD,Secondary,Secondary,Violin
+,,1998-05-03,65,,"Galla, Anton",,,sold,,2760,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,72,,"Knorr, Albert",,,sold,,3737,USD,Secondary,Secondary,Violin
+,,1998-05-03,75,,"Vuillaume, Jean-Baptiste",,,sold,,7762,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,76,,"Colas, Prosper",,,sold,,2300,USD,Secondary,Secondary,Viola Bow
+,,1998-05-03,78,,"Vigneron, Joseph Arthur père",,,sold,,1092,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,80,,"Hoyer, Otto A.",,,sold,,1265,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,81,,"Hill & Sons, W. E. Firm",,,sold,,2645,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,84,,"Sartory, Eugène Nicolas",,,sold,,4140,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,87,,"Morizot, Louis Joseph père",,,sold,,1840,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,90,,"Schuster, Max Kurt",,,sold,,1035,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,91,,"Hoyer, Otto A.",,,sold,,1150,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,95,,"Pajeot, Étienne",,,sold,,6900,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,97,,"Mohr, Rodney D.",,,sold,,690,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,98,,"Watson, William D.",,,sold,,1840,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,100,,"Vigneron, Joseph Arthur père",,,sold,,2990,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,114,,"Poirson, Elophe",,,sold,,15525,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,117,,"Dieudonné, Amédée",,,sold,,2300,USD,Secondary,Secondary,Violin
+,,1998-05-03,122,,"Klotz, Sebastian I",,,sold,,4255,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,123,,"Apparut, Georges",,,sold,,2070,USD,Secondary,Secondary,Violin
+,,1998-05-03,125,,Hart & Son,,,sold,,3335,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,128,,"Chappuy, Nicolas Augustin",,,sold,,2875,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,138,,"Vuillaume, Jean-Baptiste",,,sold,,2875,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,139,,"Weichold, Richard",,,sold,,1035,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,140,,"Schuster, Albert",,,sold,,1035,USD,Secondary,Cross-checked,Viola Bow
+,,1998-05-03,142,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,,862,USD,Secondary,Secondary,Viola Bow
+,,1998-05-03,144,,"Hill & Sons, W. E. Firm",,,sold,,2185,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,147,,"Thomassin, Claude Auguste",,,sold,,2645,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,148,,"Lotte, François",,,sold,,2070,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,149,,"Vuillaume, Jean-Baptiste",,,sold,,1840,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,150,,"Simon, Pierre",,,sold,,6325,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,151,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,,690,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,152,,"Zabinski, Roger",,,sold,,546,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,153,,"Zabinski, Roger",,,sold,,517,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,156,,"Sartory, Eugène Nicolas",,,sold,,920,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,160,,"Hoyer, Otto A.",,,sold,,517,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,161,,"Hoyer, Otto A.",,,sold,,575,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,163,,"Bazin, Charles Louis",,,sold,,632,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,168,,"Nürnberger, Albert",,,sold,,546,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,170,,Bazin Family,,,sold,,1092,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,171,,"Hoyer, Otto A.",,,sold,,920,USD,Secondary,Cross-checked,Violin Bow
+,,1998-05-03,221,,"Bailly, René",,,sold,,1380,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,222,,"Gemünder, August Martin",,,sold,,575,USD,Secondary,Secondary,Violin
+,,1998-05-03,229,,"Monk, John King",,,sold,,460,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,231,,"Stümpel, H. C.",,,sold,,402,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,234,,"Klinth, Albert W.",,,sold,,431,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,253,,"Schmidt, Reinhold Wilhelm",,,sold,,1150,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,258,,"Farley, Charles Emery",,,sold,,575,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,264,,"Henderson, Frank Vernon",,,sold,,517,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,268,,"Hums, Albin",,,sold,,1035,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,271,,"Stanley, Carlton F.",,,sold,,1840,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,278,,"Squier, Victor Carroll",,,sold,,374,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,303,,"Chevrier, Claude",,,sold,,1092,USD,Secondary,Secondary,Violin
+,,1998-05-03,324,,"Roth, Ernst Heinrich",,,sold,,920,USD,Secondary,Secondary,Violin
+,,1998-05-03,329,,"Reichert, Eduard",,,sold,,575,USD,Secondary,Secondary,Violin
+,,1998-05-03,333,,Neuner & Hornsteiner,,,sold,,460,USD,Secondary,Secondary,Violin
+,,1998-05-03,335,,"Paine, Thomas D.",,,sold,,287,USD,Secondary,Secondary,Violin
+,,1998-05-03,351,,"Meisel, Johann Georg",,,sold,,575,USD,Secondary,Secondary,Violin
+,,1998-05-03,352,,"Schmidt, Ernst Reinhold",,,sold,,2070,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,357,,"Wood, Otis",,,sold,,431,USD,Secondary,Secondary,Violin
+,,1998-05-03,373,,"Nicolas, Didier l'aîné",,,sold,,747,USD,Secondary,Secondary,Violin
+,,1998-05-03,374,,"Lange, Franz",,,sold,,747,USD,Secondary,Secondary,Violin
+,,1998-05-03,386,,"Callier, Frank J.",,,sold,,690,USD,Secondary,Secondary,Violin
+,,1998-05-03,388,,"Balazs, Istvan",,,sold,,1610,USD,Secondary,Secondary,Violin
+,,1998-05-03,402,,"Desiato, Giuseppe",,,sold,,3220,USD,Secondary,Secondary,Violin
+,,1998-05-03,404,,"Laberte, Marc André Joseph",,,sold,,2875,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,405,,"Roth, Ernst Heinrich",,,sold,,2300,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,411,,"Schuster, Max",,,sold,,1380,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,413,,"Bentin, Henry",,,sold,,1610,USD,Secondary,Cross-checked,Violin
+,,1998-05-03,417,,"Reindahl, Knute",,,sold,,1840,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Allen, Joseph S.",,,sold,,3335,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Allison, John L.",,,sold,,518,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Bodor, John",,,sold,,2875,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Couch, C.M.",,,sold,,345,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Ewbank, Henry",,,sold,,345,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,Robert (II) Glier,,,sold,,917,GBP,Secondary,Secondary,Violin
+,,1998-05-03,,,"Kvamme, Magne",,,sold,,575,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Leavitte, F.A.",,,sold,,518,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Meinel, Oskar C.",,,sold,,920,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,Gustav Menzinger,,,sold,,847,GBP,Secondary,Secondary,Violin
+,,1998-05-03,,,Arthur M. Paine,,,sold,,1129,GBP,Secondary,Secondary,Violin
+,,1998-05-03,,,"Powloski-Banchero, Patricia",,,sold,,1840,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Wade, H. F.",,,sold,,690,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,"Wilhelm, Christian Heinrich",,,sold,,3220,USD,Secondary,Secondary,Violin
+,,1998-05-03,,,Hermann Ritter,,,sold,,282,GBP,Secondary,Secondary,Viola
+,,1998-05-03,,,"Thompson, Claude",,,sold,,2645,USD,Secondary,Secondary,Violin Bow
+,,1998-05-03,,,"Meinel, Oskar C.",,,sold,,2875,USD,Secondary,Secondary,Cello

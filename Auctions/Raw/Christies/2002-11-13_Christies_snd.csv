@@ -1,0 +1,49 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2002-11-13,30,,"Johnson, John",,,sold,,1057,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,31,,"Stoss, Bernhard",,,sold,,9987,GBP,Secondary,Secondary,Violin
+,,2002-11-13,35,,"Duke, Richard",,,sold,,4112,GBP,Secondary,Secondary,Violin
+,,2002-11-13,37,,"Fiorini, Giuseppe",,,sold,,15275,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,41,,"Beare, John",,,sold,,587,GBP,Secondary,Secondary,Violin
+,,2002-11-13,53,,"Marchetti, Enrico",,,sold,,14100,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,54,,"Guarneri, Giuseppe 'filius Andreae'",,,sold,,75250,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,56,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,6815,GBP,Secondary,Cross-checked,Viola
+,,2002-11-13,59,,"Pressenda, Giovanni Francesco",,,sold,,113750,GBP,Secondary,Cross-checked,Viola
+,,2002-11-13,62,,"Chanot, Joseph Anthony",,,sold,,4465,GBP,Secondary,Cross-checked,Viola
+,,2002-11-13,72,,"Reményi, Michael (Mihály)",,,sold,,2585,GBP,Secondary,Cross-checked,Viola
+,,2002-11-13,77,,"Werner, Emil",,,sold,,493,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,80,,"Hill & Sons, W. E. Firm",,,sold,,1057,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,81,,"Alvey, Brian",,,sold,,1292,GBP,Secondary,Secondary,Violin Bow
+,,2002-11-13,82,,"Taylor, David W.",,,sold,,940,GBP,Secondary,Secondary,Violin Bow
+,,2002-11-13,86,,"Peccatte, Dominique",,,sold,,7050,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,89,,"Sartory, Eugène Nicolas",,,sold,,4700,GBP,Secondary,Cross-checked,Cello Bow
+,,2002-11-13,100A,,"Bristow, Stephen",,,sold,,822,GBP,Secondary,Secondary,Cello Bow
+,,2002-11-13,101,,"Bazin, Charles Nicolas",,,sold,,1080,GBP,Secondary,Secondary,Cello Bow
+,,2002-11-13,102,,"Bazin, Charles Nicolas",,,sold,,881,GBP,Secondary,Secondary,Violin Bow
+,,2002-11-13,106,,"Stengel, Herbert",,,sold,,3525,GBP,Secondary,Secondary,Cello
+,,2002-11-13,108,,"Reményi, Michael (Mihály)",,,sold,,7050,GBP,Secondary,Cross-checked,Cello
+,,2002-11-13,130,,"Thir, Johann Georg",,,sold,,4465,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,134,,"Degani, Giulio Ettore",,,sold,,10575,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,138,,"Tóth, Johannes (János)",,,sold,,2232,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,152,,"Bailly, Jenny",,,sold,,940,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,155,,"Pfretzschner, Hermann Richard",,,sold,,1880,GBP,Secondary,Cross-checked,Viola Bow
+,,2002-11-13,157,,"Adam, Jean I",,,sold,,940,GBP,Secondary,Secondary,Violin Bow
+,,2002-11-13,161,,"Ouchard, Émile-Auguste",,,sold,,2350,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,166,,"Lamy, Alfred dit neveu",,,sold,,7050,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,167,,"Fétique, Victor François",,,sold,,4465,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,176,,"Bryant, Percival Wilfred",,,sold,,822,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,180,,Bazin Family,,,sold,,1645,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,181,,"Hill & Sons, W. E. Firm",,,sold,,3525,GBP,Secondary,Cross-checked,Violin Bow
+,,2002-11-13,183,,"De Zorzi, Valentino",,,sold,,10575,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,184,,Gand & Bernardel Firm,,,sold,,14100,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,185,,"Guadagnini, Giuseppe I",,,sold,,86250,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,197,,"Widhalm, Leopold I",,,sold,,2232,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,218,,"Hofmann, Anton",,,sold,,3525,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,219,,"Widhalm, Leopold I",,,sold,,3525,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,224,,Kloz Family,,,sold,,470,GBP,Secondary,Secondary,Violin
+,,2002-11-13,240,,"Furber, Henry John",,,sold,,1527,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,245,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,940,GBP,Secondary,Secondary,Violin
+,,2002-11-13,248,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2820,GBP,Secondary,Secondary,Violin
+,,2002-11-13,252,,"Guarneri, Giuseppe 'filius Andreae'",,,sold,,289750,GBP,Secondary,Cross-checked,Violin
+,,2002-11-13,,,"Markert, Ignatius",,,sold,,3760,USD,Secondary,Secondary,Violin
+,,2002-11-13,,,W. E. Hill & Sons,,,sold,,2115,GBP,Secondary,Secondary,Violin Bow
+,,2002-11-13,,,"Osnabruck, Herbert",,,sold,,3525,USD,Secondary,Secondary,Cello

@@ -1,0 +1,4 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,3005,,John Mather,,,sold,,600,GBP,Secondary,Secondary,Viola
+,,,3009,,John Mather,,,sold,,600,GBP,Secondary,Secondary,Violin
+,,,3019,,John Mather,,,sold,,720,GBP,Secondary,Secondary,Violin

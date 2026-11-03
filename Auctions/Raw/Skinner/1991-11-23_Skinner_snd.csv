@@ -1,0 +1,62 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1991-11-23,36,,"Agostinelli, Luigi",,,sold,,8800,USD,Secondary,Secondary,Cello
+,,1991-11-23,39,,Caressa & Français Firm,,,sold,,6325,USD,Secondary,Secondary,Cello
+,,1991-11-23,54,,"Weichold, Richard",,,sold,,330,USD,Secondary,Secondary,Cello Bow
+,,1991-11-23,55,,"Tubbs, James",,,sold,,2310,USD,Secondary,Secondary,Cello Bow
+,,1991-11-23,60,,"Nürnberger, Albert",,,sold,,1320,USD,Secondary,Secondary,Cello Bow
+,,1991-11-23,61,,"Vuillaume, Jean-Baptiste",,,sold,,3960,USD,Secondary,Secondary,Cello Bow
+,,1991-11-23,63,,"Bisch, Paul",,,sold,,605,USD,Secondary,Secondary,Cello Bow
+,,1991-11-23,64,,"Lotte, François",,,sold,,1100,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,67,,"Hill & Sons, W. E. Firm",,,sold,,1320,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,68,,"Nürnberger, Albert",,,sold,,275,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,71,,"Nürnberger, Albert",,,sold,,1430,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,72,,"Hel, Pierre Joseph",,,sold,,1100,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,74,,"Deblaye, Albert",,,sold,,770,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,75,,"Germain, Émile",,,sold,,2640,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,77,,"Vuillaume, Jean-Baptiste",,,sold,,2200,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,80,,Gand & Bernardel Firm,,,sold,,1210,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,81,,"Hill & Sons, W. E. Firm",,,sold,,2750,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,82,,"Hill & Sons, W. E. Firm",,,sold,,1100,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,83,,"Peccatte, Charles",,,sold,,5500,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,86,,"Lotte, Roger François",,,sold,,1100,USD,Secondary,Secondary,Viola Bow
+,,1991-11-23,87A,,"Lamy, Joseph Alfred père",,,sold,,4290,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,96,,"Schuster, Adolf Curt",,,sold,,523,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,98,,"Hawkes, Hawkes & Sons",,,sold,,523,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,101,,"Nürnberger, Albert",,,sold,,825,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,102,,"Pfretzschner, Hermann Richard",,,sold,,715,USD,Secondary,Secondary,Violin Bow
+,,1991-11-23,110A,,Gand Frères Firm,,,sold,,2200,USD,Secondary,Secondary,Violin
+,,1991-11-23,111,,"Sannino, Vincenzo",,,sold,,10450,USD,Secondary,Secondary,Violin
+,,1991-11-23,112,,"Bisiach, Leandro I",,,sold,,22000,USD,Secondary,Secondary,Violin
+,,1991-11-23,113,,"Guerra, Alberto",,,sold,,4400,USD,Secondary,Secondary,Violin
+,,1991-11-23,115,,"Richardson, Arthur",,,sold,,3630,USD,Secondary,Secondary,Violin
+,,1991-11-23,117,,"Deblaye, Albert",,,sold,,2750,USD,Secondary,Secondary,Violin
+,,1991-11-23,121,,"Mougenot, Léon Victor",,,sold,,2750,USD,Secondary,Secondary,Violin
+,,1991-11-23,124,,"Conia, Stefano",,,sold,,3520,USD,Secondary,Secondary,Violin
+,,1991-11-23,126,,"Girardi, Mario",,,sold,,4125,USD,Secondary,Secondary,Violin
+,,1991-11-23,127,,"Bernardel, Léon",,,sold,,7150,USD,Secondary,Secondary,Violin
+,,1991-11-23,128,,"Kaplan, Ladislav",,,sold,,2860,USD,Secondary,Secondary,Violin
+,,1991-11-23,129,,"Martino, Giuseppe",,,sold,,1320,USD,Secondary,Secondary,Violin
+,,1991-11-23,130,,"Berger, Karl August",,,sold,,3850,USD,Secondary,Secondary,Violin
+,,1991-11-23,139,,"Agostinelli, Luigi",,,sold,,3850,USD,Secondary,Secondary,Violin
+,,1991-11-23,141,,"Mougenot, Léon Victor",,,sold,,2860,USD,Secondary,Secondary,Violin
+,,1991-11-23,143,,"Derazey, Honoré (Jean-Joseph)",,,sold,,3080,USD,Secondary,Secondary,Violin
+,,1991-11-23,146,,"Maussiell, Leonhard",,,sold,,6050,USD,Secondary,Secondary,Viola
+,,1991-11-23,147,,"Ficker, Carl Friedrich",,,sold,,2090,USD,Secondary,Secondary,Viola
+,,1991-11-23,171,,"Hamm, Alban",,,sold,,770,USD,Secondary,Secondary,Violin
+,,1991-11-23,184,,"Martino, Giuseppe",,,sold,,1210,USD,Secondary,Secondary,Violin
+,,1991-11-23,185,,"Powers, Clark",,,sold,,358,USD,Secondary,Secondary,Violin
+,,1991-11-23,188,,"Lowendall, Louis",,,sold,,358,USD,Secondary,Secondary,Violin
+,,1991-11-23,193,,"Durrschmidt, Wilhelm August",,,sold,,412,USD,Secondary,Secondary,Violin
+,,1991-11-23,194,,"Paulus, Otto Paul",,,sold,,385,USD,Secondary,Secondary,Violin
+,,1991-11-23,198,,"Callier, Frank J.",,,sold,,935,USD,Secondary,Secondary,Violin
+,,1991-11-23,200,,"Roth, Ernst Heinrich",,,sold,,990,USD,Secondary,Secondary,Violin
+,,1991-11-23,204,,"Wilkanowski, William",,,sold,,303,USD,Secondary,Secondary,Violin
+,,1991-11-23,207,,"Heinicke, Mathias",,,sold,,1100,USD,Secondary,Secondary,Violin
+,,1991-11-23,209,,"Farley, Charles Emery",,,sold,,605,USD,Secondary,Secondary,Violin
+,,1991-11-23,210,,"Aireton, Edmund I",,,sold,,1320,USD,Secondary,Secondary,Violin
+,,1991-11-23,212,,"Wilkanowski, William",,,sold,,330,USD,Secondary,Secondary,Violin
+,,1991-11-23,218,,"Murdoch, Alexander",,,sold,,550,USD,Secondary,Secondary,Violin
+,,1991-11-23,221,,"Clough, George",,,sold,,660,USD,Secondary,Secondary,Violin
+,,1991-11-23,247,,"Cartwright, Charles D.",,,sold,,220,USD,Secondary,Secondary,Violin
+,,1991-11-23,252,,"Heberlein, Ludwig Fritz",,,sold,,1100,USD,Secondary,Secondary,Violin
+,,1991-11-23,259,,"Salzard, Dominique",,,sold,,192,USD,Secondary,Secondary,Violin

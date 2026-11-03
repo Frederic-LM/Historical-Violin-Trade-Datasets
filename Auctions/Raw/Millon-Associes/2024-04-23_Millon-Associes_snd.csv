@@ -1,0 +1,11 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2024-04-23,119,,Leon Mougenot Gauche,,,sold,,1020,EUR,Secondary,Secondary,Violin
+,,2024-04-23,125,,Charles Bailly,,,sold,,2400,EUR,Secondary,Secondary,Violin
+,,2024-04-23,141,,Friedrich August Meisel,,,sold,,1200,EUR,Secondary,Secondary,Violin
+,,2024-04-23,162,,Nicolas Morlot,,,sold,,492,EUR,Secondary,Secondary,Violin
+,,2024-04-23,171,,Paul Bailly,,,sold,,3720,EUR,Secondary,Secondary,Violin
+,,2024-04-23,257,,Bernard Lefevre,,,sold,,1800,EUR,Secondary,Secondary,Viola
+,,2024-04-23,264,,Visnaire Cabasse,,,sold,,1920,EUR,Secondary,Secondary,Cello
+,,2024-04-23,300,,Louis Joseph Morizot,,,sold,,2280,EUR,Secondary,Secondary,Violin Bow
+,,2024-04-23,302,,Otto Paulus,,,sold,,1740,EUR,Secondary,Secondary,Viola Bow
+,,2024-04-23,305,,Louis Bazin,,,sold,,2760,EUR,Secondary,Secondary,Cello Bow

@@ -1,0 +1,10 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,2,,Francois Caussin,,,sold,,1000,EUR,Secondary,Secondary,Violin
+,,,9,,Pillement,,,sold,,562,EUR,Secondary,Secondary,Violin
+,,,25,,Francois Hippolyte Caussin,,,sold,,2500,EUR,Secondary,Secondary,Violin
+,,,40,,Marc Laberte,,,sold,,1875,EUR,Secondary,Secondary,Violin Bow
+,,,42,,Emile Francois Ouchard,,,sold,,2750,EUR,Secondary,Secondary,Violin Bow
+,,,44,,Francois Lotte,,,sold,,1500,EUR,Secondary,Secondary,Violin Bow
+,,,46,,Louis Bazin,,,sold,,1375,EUR,Secondary,Secondary,Violin Bow
+,,,48,,Joseph Thomassin,,,sold,,2625,EUR,Secondary,Secondary,Violin Bow
+,,,50,,Jérôme Thibouville Lamy,,,sold,,875,EUR,Secondary,Secondary,Violin Bow

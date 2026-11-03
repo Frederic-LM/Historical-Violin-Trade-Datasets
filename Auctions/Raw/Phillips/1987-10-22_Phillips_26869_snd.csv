@@ -1,0 +1,35 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1987-10-22,21,,"Migge, Otto",,,sold,400,440,GBP,Secondary,Primary,Violin
+,,1987-10-22,22,,"Hawkes, Hawkes & Sons",,,sold,360,396,GBP,Secondary,Primary,Violin
+,,1987-10-22,23,,"Klemm, Johann Georg",,,sold,580,638,GBP,Secondary,Primary,Violin
+,,1987-10-22,27,,"Widhalm, Leopold I",,,sold,580,638,GBP,Secondary,Primary,Violin
+,,1987-10-22,35,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,800,880,GBP,Secondary,Primary,Violin
+,,1987-10-22,53,,"Cavalli, Aristide",,,sold,800,880,GBP,Secondary,Primary,Violin
+,,1987-10-22,55,,"Moritz, Alfred",,,sold,450,495,GBP,Secondary,Primary,Violin
+,,1987-10-22,57,,"Thompson, Charles & Samuel",,,sold,650,715,GBP,Secondary,Primary,Violin
+,,1987-10-22,58,,"Paesold, Roderich",,,sold,200,220,GBP,Secondary,Primary,Violin
+,,1987-10-22,63,,"Viertel, Karl Georg",,,sold,750,825,GBP,Secondary,Primary,Violin
+,,1987-10-22,64,,"Colin, Jean Baptiste",,,sold,1050,1155,GBP,Secondary,Primary,Violin
+,,1987-10-22,67,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,1250,1375,GBP,Secondary,Primary,Violin
+,,1987-10-22,68,,"Vickers, J.E.",,,sold,260,286,GBP,Secondary,Primary,Violin
+,,1987-10-22,86,,"Viener, Otto",,,sold,520,572,GBP,Secondary,Primary,Violin
+,,1987-10-22,87,,"Acton, William John",,,sold,200,220,GBP,Secondary,Primary,Violin
+,,1987-10-22,88,,"Storioni, Carlo",,,sold,1000,1100,GBP,Secondary,Primary,Violin
+,,1987-10-22,99,,"Thibouville-Lamy, Jérôme Firm",,,sold,130,143,GBP,Secondary,Primary,Violin Bow
+,,1987-10-22,100,,"Glenister, William",,,sold,680,748,GBP,Secondary,Primary,Violin
+,,1987-10-22,102,,"Foster, Georg",,,sold,500,550,GBP,Secondary,Primary,Violin
+,,1987-10-22,111,,"Barzoni, François",,,sold,400,440,GBP,Secondary,Primary,Violin
+,,1987-10-22,114,,"Dugarde, Aubrey",,,sold,450,495,GBP,Secondary,Primary,Violin
+,,1987-10-22,115,,"Whitmarsh, Emanuel",,,sold,750,825,GBP,Secondary,Primary,Violin
+,,1987-10-22,119,,"Foster, Georg",,,sold,300,330,GBP,Secondary,Primary,Viola
+,,1987-10-22,126,,"Boullangier, Charles",,,sold,1800,1980,GBP,Secondary,Primary,Violin
+,,1987-10-22,127,,"Hudson, George",,,sold,1800,1980,GBP,Secondary,Primary,Violin
+,,1987-10-22,128,,"Simonazzi, Amadeo",,,sold,1800,1980,GBP,Secondary,Primary,Viola
+,,1987-10-22,129,,"Hesketh, Thomas Earle",,,sold,1000,1100,GBP,Secondary,Primary,Violin
+,,1987-10-22,130,,"Sgarabotto, Pietro",,,sold,3200,3520,GBP,Secondary,Primary,Violin
+,,1987-10-22,133,,"Hill & Sons, W. E. Firm",,,sold,450,495,GBP,Secondary,Primary,Violin Bow
+,,1987-10-22,134,,"Hill & Sons, W. E. Firm",,,sold,420,462,GBP,Secondary,Primary,Violin Bow
+,,1987-10-22,136,,"Bultitude, Arthur Richard",,,sold,920,1012,GBP,Secondary,Primary,Violin Bow
+,,1987-10-22,152,,"Herrmann, Lothar Edwin",,,sold,140,154,GBP,Secondary,Primary,Violin Bow
+,,1987-10-22,153,,"Werro, Jean",,,sold,70,77,GBP,Secondary,Primary,Violin Bow
+,,1987-10-22,180,,"Hornsteiner, Joseph",,,sold,200,220,GBP,Secondary,Primary,Violin

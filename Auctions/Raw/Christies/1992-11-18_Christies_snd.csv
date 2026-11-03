@@ -1,0 +1,58 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1992-11-18,1,,"Hill & Sons, W. E. Firm",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,3,,"Nürnberger, Albert",,,sold,,550,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,6,,"Hill & Sons, W. E. Firm",,,sold,,1430,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,7,,"Hill & Sons, W. E. Firm",,,sold,,1045,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,12,,"Schuster, Adolf Curt",,,sold,,440,GBP,Secondary,Cross-checked,Cello Bow
+,,1992-11-18,13,,"Tubbs, James",,,sold,,1870,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,14,,"Hill & Sons, W. E. Firm",,,sold,,3740,GBP,Secondary,Secondary,Cello Bow
+,,1992-11-18,15,,"Hill & Sons, W. E. Firm",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,18,,"Nürnberger, Albert",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,22,,"Tubbs, James",,,sold,,2530,GBP,Secondary,Cross-checked,Cello Bow
+,,1992-11-18,24,,"Tubbs, James",,,sold,,3190,GBP,Secondary,Cross-checked,Cello Bow
+,,1992-11-18,25,,"Panormo, Louis",,,sold,,1100,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-11-18,26,,"Vigneron, Joseph Arthur père",,,sold,,3740,GBP,Secondary,Cross-checked,Cello Bow
+,,1992-11-18,28,,"Voirin, François Nicolas",,,sold,,3300,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,29,,"Simon, Franz",,,sold,,6600,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,30,,"Maire, Nicolas Rémy",,,sold,,3300,GBP,Secondary,Cross-checked,Violin Bow
+,,1992-11-18,32,,"Vuillaume, Jean-Baptiste",,,sold,,6600,GBP,Secondary,Cross-checked,Viola Bow
+,,1992-11-18,33,,"Hill & Sons, W. E. Firm",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,39,,"Lapierre, Marcel Charles",,,sold,,550,GBP,Secondary,Cross-checked,Viola Bow
+,,1992-11-18,41,,"Tubbs, James",,,sold,,1870,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,42,,"Hill & Sons, W. E. Firm",,,sold,,2640,GBP,Secondary,Secondary,Viola Bow
+,,1992-11-18,44,,"Riedl, Rudolf",,,sold,,220,GBP,Secondary,Secondary,Cello Bow
+,,1992-11-18,46,,"Hill & Sons, W. E. Firm",,,sold,,3300,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,47,,"Tubbs, James",,,sold,,1980,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,48,,"Voirin, François Nicolas",,,sold,,2750,GBP,Secondary,Cross-checked,Cello Bow
+,,1992-11-18,49,,"Voirin, François Nicolas",,,sold,,2200,GBP,Secondary,Secondary,Violin Bow
+,,1992-11-18,56,,"Spiegel, János",,,sold,,3300,GBP,Secondary,Cross-checked,Viola
+,,1992-11-18,57,,"Conia, Stefano",,,sold,,1980,GBP,Secondary,Cross-checked,Viola
+,,1992-11-18,58,,"Kennedy, Thomas",,,sold,,2530,GBP,Secondary,Cross-checked,Viola
+,,1992-11-18,71,,"Hume, Andrew (Alexander)",,,sold,,1980,GBP,Secondary,Cross-checked,Cello
+,,1992-11-18,72,,"Wamsley, Peter",,,sold,,4400,GBP,Secondary,Cross-checked,Cello
+,,1992-11-18,74,,"Grancino, Giovanni Battista I",,,sold,,9900,GBP,Secondary,Cross-checked,Cello
+,,1992-11-18,75,,"Capela, Antonio",,,sold,,7150,GBP,Secondary,Cross-checked,Cello
+,,1992-11-18,76,,"Derazey, Honoré (Jean-Joseph)",,,sold,,7150,GBP,Secondary,Cross-checked,Cello
+,,1992-11-18,78,,"Bergonzi, Lorenzo",,,sold,,990,GBP,Secondary,Secondary,Violin
+,,1992-11-18,87,,"Conia, Stefano",,,sold,,2420,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,93,,"Gilkes, William",,,sold,,935,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,95,,"Gosselin, Jean",,,sold,,1760,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,108,,"Mougenot, Georges",,,sold,,1870,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,111,,"White, Ira Johnson",,,sold,,1320,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,113,,"Heberlein, Heinrich Theodore",,,sold,,1760,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,117,,"Karner, Bartholomew",,,sold,,2970,GBP,Secondary,Secondary,Violin
+,,1992-11-18,126,,Silvestre & Maucotel,,,sold,,6820,GBP,Secondary,Secondary,Violin
+,,1992-11-18,127,,"Szepessy, Béla",,,sold,,4400,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,128,,"Derazey, Honoré (Jean-Joseph)",,,sold,,6600,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,130,,"Blanchard, Paul Francois",,,sold,,7150,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,131,,"Vuillaume, Jean-Baptiste",,,sold,,7150,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,132A,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2750,GBP,Secondary,Secondary,Violin
+,,1992-11-18,139,,"Gagliano, Gennaro",,,sold,,24200,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,140,,"Hel, Pierre Joseph",,,sold,,11000,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,141,,"Deconet, Michele",,,sold,,24200,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,142,,"Tecchler, David",,,sold,,41800,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,143,,"Guarneri, Andrea",,,sold,,137500,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,144,,"Serafin, Santo",,,sold,,48400,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,145,,"Vuillaume, Jean-Baptiste",,,sold,,35200,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,146,,"Guadagnini, Giovanni Battista",,,sold,,132000,GBP,Secondary,Cross-checked,Violin
+,,1992-11-18,147,,"Pressenda, Giovanni Francesco",,,sold,,82500,GBP,Secondary,Cross-checked,Violin

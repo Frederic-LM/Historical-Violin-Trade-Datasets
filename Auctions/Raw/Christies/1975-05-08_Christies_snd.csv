@@ -1,0 +1,4 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1975-05-08,,,"Lupot, Nicolas",,,sold,,4200,GBP,Secondary,Secondary,Violin
+,,1975-05-08,,,"Pierray, Claude",,,sold,,1350,GBP,Secondary,Secondary,Violin
+,,1975-05-08,,,"Vuillaume, Jean-Baptiste",,,sold,,7000,GBP,Secondary,Secondary,Cello

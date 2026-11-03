@@ -1,0 +1,63 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2012-10-30,1,,"Banks, Benjamin",,,sold,,6875,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,2,,"Perry, Thomas II",,,sold,,6875,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,3,,"Derazey, Honoré (Jean-Joseph)",,,sold,,8125,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,6,,"Bailly, Paul",,,sold,,11250,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,7,,"Gilkes, Samuel",,,sold,,6875,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,8,,"Mougenot, Léon Victor",,,sold,,3500,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,12,,"Gragnani, Antonio",,,sold,,58850,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,22,,"Vatelot, Étienne",,,sold,,3500,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,23,,"Winterling, Georg",,,sold,,5250,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,25,,"Platner, Michele",,,sold,,34850,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,30,,"Ficker, Johann Gottlob",,,sold,,1000,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,32,,"Piattellini, Luigi I",,,sold,,34850,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,34,,"Sartory, Eugène Nicolas",,,sold,,2000,GBP,Secondary,Cross-checked,Cello Bow
+,,2012-10-30,36,,"Nürnberger, Albert",,,sold,,2000,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,37,,"Nürnberger, Albert",,,sold,,1625,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,38,,"Hill & Sons, W. E. Firm",,,sold,,2750,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,43,,"Fétique, Victor François",,,sold,,6250,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,44,,"Maline, Nicolas I",,,sold,,6250,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,48,,"Lapierre, Marcel Charles",,,sold,,2250,GBP,Secondary,Cross-checked,Viola Bow
+,,2012-10-30,49,,"Thomassin, Claude Auguste",,,sold,,8125,GBP,Secondary,Cross-checked,Cello Bow
+,,2012-10-30,52,,"Pfretzschner, Hermann Richard",,,sold,,2000,GBP,Secondary,Cross-checked,Viola Bow
+,,2012-10-30,53,,"Morizot, Louis Joseph père",,,sold,,3000,GBP,Secondary,Cross-checked,Cello Bow
+,,2012-10-30,55,,"Lenoble, Auguste",,,sold,,4000,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,56,,"Peccatte, Charles",,,sold,,16250,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,57,,"Lamy, Alfred dit neveu",,,sold,,5625,GBP,Secondary,Secondary,Violin Bow
+,,2012-10-30,58,,"Thomassin, Claude Auguste",,,sold,,9375,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,61,,"Peccatte, François",,,sold,,15000,GBP,Secondary,Cross-checked,Viola Bow
+,,2012-10-30,66,,"Lindörfer, Willi",,,sold,,6875,GBP,Secondary,Cross-checked,Cello
+,,2012-10-30,77,,"Vuillaume, Nicolas François",,,sold,,30000,GBP,Secondary,Secondary,Cello
+,,2012-10-30,80A,,"Cuypers, Johannes Francis",,,sold,,12500,GBP,Secondary,Secondary,Cello
+,,2012-10-30,91,,"Lemböck, Gabriel (Gábor)",,,sold,,6875,GBP,Secondary,Cross-checked,Viola
+,,2012-10-30,92,,"Morassi, Gio Battista",,,sold,,30000,GBP,Secondary,Cross-checked,Viola
+,,2012-10-30,93,,"Eberle, Johann Ulrich",,,sold,,9375,GBP,Secondary,Cross-checked,Viola
+,,2012-10-30,96,,"Gabrielli, Giovanni Battista",,,sold,,91250,GBP,Secondary,Cross-checked,Viola
+,,2012-10-30,99,,"Pistucci, Giovanni",,,sold,,37250,GBP,Secondary,Cross-checked,Viola
+,,2012-10-30,100,,"Carletti, Carlo",,,sold,,13750,GBP,Secondary,Cross-checked,Viola
+,,2012-10-30,104,,"Lucci, Giuseppe",,,sold,,13750,GBP,Secondary,Cross-checked,Viola
+,,2012-10-30,106,,"Tubbs, James",,,sold,,2125,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,110,,"Nürnberger, Albert",,,sold,,2750,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,115,,"Sartory, Eugène Nicolas",,,sold,,11250,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,116,,"Sartory, Eugène Nicolas",,,sold,,16250,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,117,,"Sartory, Eugène Nicolas",,,sold,,10000,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,118,,"Lamy, Alfred dit neveu",,,sold,,8125,GBP,Secondary,Secondary,Violin Bow
+,,2012-10-30,121,,"Richaume, André",,,sold,,6000,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,123,,"Tubbs, James",,,sold,,3500,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,124,,"Tubbs, James",,,sold,,4375,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,125,,"Lamy, Alfred dit neveu",,,sold,,2750,GBP,Secondary,Secondary,Violin Bow
+,,2012-10-30,127,,"Gaudé, Joseph",,,sold,,5000,GBP,Secondary,Cross-checked,Cello Bow
+,,2012-10-30,130,,"Nürnberger, Albert",,,sold,,2750,GBP,Secondary,Cross-checked,Cello Bow
+,,2012-10-30,131,,"Lamy, Joseph Alfred père",,,sold,,3750,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,134,,"Voirin, François Nicolas",,,sold,,6875,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,135,,"Thomassin, Claude Auguste",,,sold,,2500,GBP,Secondary,Cross-checked,Violin Bow
+,,2012-10-30,136,,"Lamy, Alfred dit neveu",,,sold,,6000,GBP,Secondary,Secondary,Violin Bow
+,,2012-10-30,138,,"Bofill, Salvatore",,,sold,,3000,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,139,,"Klotz, Georg Karl II",,,sold,,9375,GBP,Secondary,Secondary,Violin
+,,2012-10-30,147,,"Mermillot, Maurice",,,sold,,8125,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,150,,"Cuypers, Johannes Bernardus",,,sold,,3750,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,151,,"Lemböck, Gabriel (Gábor)",,,sold,,5625,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,155,,"Zanoli, Giacomo",,,sold,,21250,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,156,,"Gagliano, Giuseppe",,,sold,,49250,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,166,,"Bagatella, Antonio II",,,sold,,11875,GBP,Secondary,Cross-checked,Violin
+,,2012-10-30,167,,"Vuillaume, Jean-Baptiste",,,sold,,145250,GBP,Secondary,Cross-checked,Violin

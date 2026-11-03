@@ -1,0 +1,10 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2007-03-16,6,,"Blanchard, Paul Francois",,,sold,,8500,EUR,Secondary,Secondary,Violin
+,,2007-03-16,42,,"Nürnberger, Albert",,,sold,,1000,EUR,Secondary,Secondary,Violin Bow
+,,2007-03-16,43,,"Nürnberger, Albert",,,sold,,800,EUR,Secondary,Secondary,Violin Bow
+,,2007-03-16,44,,"Prager, Gustav Adolf",,,sold,,1200,EUR,Secondary,Secondary,Violin Bow
+,,2007-03-16,47,,"Penzel, Gerhard Kurt",,,sold,,500,EUR,Secondary,Secondary,Violin Bow
+,,2007-03-16,48,,"Pfretzschner, Hermann Richard",,,sold,,500,EUR,Secondary,Secondary,Violin Bow
+,,2007-03-16,66,,"Moennig, Fritz",,,sold,,5000,EUR,Secondary,Secondary,Cello
+,,2007-03-16,104,,"Heinicke, Mathias",,,sold,,1200,EUR,Secondary,Secondary,Violin
+,,2007-03-16,122,,"Klotz, Joseph Thomas",,,sold,,5000,EUR,Secondary,Secondary,Violin

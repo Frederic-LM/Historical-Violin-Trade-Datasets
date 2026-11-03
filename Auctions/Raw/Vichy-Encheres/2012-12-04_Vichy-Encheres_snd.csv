@@ -1,0 +1,19 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2012-12-04,2005,,Georg Werner,,,sold,90,112,EUR,Secondary,Secondary,Cello Bow
+,,2012-12-04,2010,,"Claudot, Charles",,,sold,,312,GBP,Secondary,Secondary,Violin
+,,2012-12-04,2023,,Prosper Colas,,,sold,230,285,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2057,,Morizot Frères,,,sold,400,496,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2077,,Prosper Colas,,,sold,220,273,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2085,,Francois Bazin,,,sold,120,149,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2097,,Prosper Colas,,,sold,60,74,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2133,,Louis Bazin,,,sold,300,372,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2153,,Morizot Frères,,,sold,200,248,EUR,Secondary,Secondary,Cello Bow
+,,2012-12-04,2157,,Ary France,,,sold,80,99,EUR,Secondary,Secondary,Cello Bow
+,,2012-12-04,2161,,Eugene Cuniot-Hury,,,sold,130,161,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2175,,Marc Laberte,,,sold,320,397,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2177,,Marc Laberte,,,sold,220,273,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2185,,Morizot Frères,,,sold,150,186,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2200,,Francois Alexis Maline,,,sold,600,744,EUR,Secondary,Secondary,Violin
+,,2012-12-04,2219,,Ary France,,,sold,50,62,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2221,,Prosper Colas,,,sold,100,124,EUR,Secondary,Secondary,Violin Bow
+,,2012-12-04,2230,,Suzuki,,,sold,150,186,EUR,Secondary,Secondary,Viola

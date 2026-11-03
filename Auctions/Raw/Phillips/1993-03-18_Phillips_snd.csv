@@ -1,0 +1,81 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1993-03-18,38,,"Barzoni, François",,,sold,,1093,GBP,Secondary,Secondary,Violin
+,,1993-03-18,41,,"Haxton, George",,,sold,,633,GBP,Secondary,Secondary,Violin
+,,1993-03-18,42,,"Roth, Ernst Heinrich",,,sold,,1495,GBP,Secondary,Secondary,Violin
+,,1993-03-18,45,,"Hawkes, Hawkes & Sons",,,sold,,528,GBP,Secondary,Cross-checked,Violin
+,,1993-03-18,49,,"Lechi, Antonio",,,sold,,1035,GBP,Secondary,Secondary,Violin
+,,1993-03-18,53,,"Walton, William",,,sold,,1150,GBP,Secondary,Secondary,Violin
+,,1993-03-18,54,,"Thibouville-Lamy, Jérôme Firm",,,sold,,633,GBP,Secondary,Secondary,Violin
+,,1993-03-18,65,,"Thibouville-Lamy, Jérôme Firm",,,sold,,276,GBP,Secondary,Secondary,Small Violin
+,,1993-03-18,69,,"Lenk, Wenzel",,,sold,,2415,GBP,Secondary,Secondary,Violin
+,,1993-03-18,71,,"Mangenot, Amati",,,sold,,1495,GBP,Secondary,Secondary,Violin
+,,1993-03-18,75,,"Gotz, Conrad",,,sold,,935,GBP,Secondary,Secondary,Violin
+,,1993-03-18,77,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,1265,GBP,Secondary,Secondary,Violin
+,,1993-03-18,93,,"Rost, Franz Georg",,,sold,,1150,GBP,Secondary,Secondary,Violin
+,,1993-03-18,94,,"Smith, Bert",,,sold,,1495,GBP,Secondary,Secondary,Violin
+,,1993-03-18,104,,"Magniere, Gabriel",,,sold,,1840,GBP,Secondary,Secondary,Violin
+,,1993-03-18,109,,"Nicolas, Didier l'aîné",,,sold,,690,GBP,Secondary,Secondary,Violin
+,,1993-03-18,119,,"Lowendall, Louis",,,sold,,437,GBP,Secondary,Secondary,Violin
+,,1993-03-18,120,,"Murray, David",,,sold,,935,GBP,Secondary,Cross-checked,Violin
+,,1993-03-18,123,,"Sanderson, D.M.",,,sold,,633,GBP,Secondary,Secondary,Viola
+,,1993-03-18,136,,"Withers, George Thomas Henry",,,sold,,990,GBP,Secondary,Cross-checked,Violin
+,,1993-03-18,141,,"Riviere, Riviere & Hawkes",,,sold,,1210,GBP,Secondary,Secondary,Violin
+,,1993-03-18,147,,"Moritz, Alfred",,,sold,,805,GBP,Secondary,Secondary,Violin
+,,1993-03-18,156,,"Brückner, Otto Friedrich",,,sold,,1093,GBP,Secondary,Secondary,Violin
+,,1993-03-18,157,,"Colin, Jean Baptiste",,,sold,,667,GBP,Secondary,Secondary,Small Violin
+,,1993-03-18,160,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,2300,GBP,Secondary,Secondary,Violin
+,,1993-03-18,163,,"Browne, John",,,sold,,1093,GBP,Secondary,Secondary,Violin
+,,1993-03-18,166,,"Gagliano, Nicolò",,,sold,,74750,GBP,Secondary,Secondary,Violin
+,,1993-03-18,167,,"Nürnberger, Albert",,,sold,,1610,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,168,,"Nürnberger, Albert",,,sold,,747,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,173,,"Striebig, Jean",,,sold,,1265,GBP,Secondary,Secondary,Violin
+,,1993-03-18,174,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,575,GBP,Secondary,Secondary,Violin
+,,1993-03-18,180,,"Friedrich, John",,,sold,,1320,GBP,Secondary,Cross-checked,Violin
+,,1993-03-18,181,,"Gand, Charles Adolphe",,,sold,,10925,GBP,Secondary,Secondary,Violin
+,,1993-03-18,182,,"Perry, Thomas II",,,sold,,3680,GBP,Secondary,Secondary,Violin
+,,1993-03-18,187,,"Hesketh, Thomas Earle",,,sold,,4830,GBP,Secondary,Secondary,Violin
+,,1993-03-18,188,,"Owen, John William",,,sold,,2415,GBP,Secondary,Secondary,Violin
+,,1993-03-18,189,,"Vickers, J.E.",,,sold,,550,GBP,Secondary,Cross-checked,Viola
+,,1993-03-18,193,,"Craske, George",,,sold,,2875,GBP,Secondary,Secondary,Violin
+,,1993-03-18,201,,"Trapani, Raffaele",,,sold,,19550,GBP,Secondary,Secondary,Violin
+,,1993-03-18,202,,"Bellarosa, Vittorio",,,sold,,7820,GBP,Secondary,Secondary,Violin
+,,1993-03-18,204,,"Romer, Adolf",,,sold,,4830,GBP,Secondary,Secondary,Violin
+,,1993-03-18,205,,"Vincent, Alfred",,,sold,,1093,GBP,Secondary,Secondary,Violin
+,,1993-03-18,207,,"Herrmann, Emil",,,sold,,198,GBP,Secondary,Cross-checked,Violin Bow
+,,1993-03-18,208,,"Thibouville-Lamy, Jérôme Firm",,,sold,,253,GBP,Secondary,Secondary,Small Violin
+,,1993-03-18,209,,"Pyne, George",,,sold,,2645,GBP,Secondary,Secondary,Violin
+,,1993-03-18,210,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2530,GBP,Secondary,Secondary,Violin
+,,1993-03-18,215,,"Degani, Giulio Ettore",,,sold,,13800,GBP,Secondary,Secondary,Violin
+,,1993-03-18,224,,"Forster, William II or Sr",,,sold,,5520,GBP,Secondary,Secondary,Violin
+,,1993-03-18,225,,"Lamy, Alfred dit neveu",,,sold,,5520,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,234,,"Lavello, Jean",,,sold,,5290,GBP,Secondary,Secondary,Violin
+,,1993-03-18,235,,"Lavello, Jean",,,sold,,1265,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,242,,"Hofner, Karl",,,sold,,825,GBP,Secondary,Cross-checked,Violin
+,,1993-03-18,248,,"Barzoni, François",,,sold,,828,GBP,Secondary,Secondary,Violin
+,,1993-03-18,255,,"Sartory, Eugène Nicolas",,,sold,,5290,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,256,,"Lamy, Alfred dit neveu",,,sold,,3680,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,258,,"Hill & Sons, W. E. Firm",,,sold,,1380,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,261,,"Hill & Sons, W. E. Firm",,,sold,,1840,GBP,Secondary,Secondary,Cello Bow
+,,1993-03-18,264,,"Lavello, Jean",,,sold,,660,GBP,Secondary,Cross-checked,Viola Bow
+,,1993-03-18,266,,"Prager, Gustav Adolf",,,sold,,286,GBP,Secondary,Cross-checked,Violin Bow
+,,1993-03-18,270,,"Hill & Sons, W. E. Firm",,,sold,,1725,GBP,Secondary,Cross-checked,Violin Bow
+,,1993-03-18,271,,"Hill & Sons, W. E. Firm",,,sold,,920,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,272,,"Hoyer, Otto A.",,,sold,,747,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,273,,"Thibouville-Lamy, Jérôme Firm",,,sold,,977,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,276,,"Hill & Sons, W. E. Firm",,,sold,,805,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,286,,"Hill & Sons, W. E. Firm",,,sold,,322,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,289,,"Hoyer, Carl Adolf",,,sold,,345,GBP,Secondary,Secondary,Violin Bow
+,,1993-03-18,291,,"Woodfield, J.D.",,,sold,,143,GBP,Secondary,Secondary,Viola Bow
+,,1993-03-18,302,,"Hill, Joseph I",,,sold,,8970,GBP,Secondary,Secondary,Cello
+,,1993-03-18,311,,"Omond, James",,,sold,,1610,GBP,Secondary,Secondary,Cello
+,,1993-03-18,318,,"Thibouville-Lamy, Jérôme Firm",,,sold,,667,GBP,Secondary,Secondary,Cello
+,,1993-03-18,323,,"Fryer, John Charles",,,sold,,5060,GBP,Secondary,Secondary,Cello
+,,1993-03-18,326,,"Guersan, Louis",,,sold,,2875,GBP,Secondary,Secondary,Cello
+,,1993-03-18,332,,"Lewis, Edward II",,,sold,,1265,GBP,Secondary,Secondary,Cello
+,,1993-03-18,349,,"Thibouville-Lamy, Jérôme Firm",,,sold,,230,GBP,Secondary,Secondary,Small Violin
+,,1993-03-18,358,,"Thibouville-Lamy, Jérôme Firm",,,sold,,322,GBP,Secondary,Secondary,Violin
+,,1993-03-18,363,,"Thibouville-Lamy, Jérôme Firm",,,sold,,196,GBP,Secondary,Secondary,Violin
+,,1993-03-18,364,,"Thibouville-Lamy, Jérôme Firm",,,sold,,207,GBP,Secondary,Secondary,Small Violin
+,,1993-03-18,374,,"Thibouville-Lamy, Jérôme Firm",,,sold,,150,GBP,Secondary,Secondary,Small Violin
+,,1993-03-18,377,,"Thibouville-Lamy, Jérôme Firm",,,sold,,230,GBP,Secondary,Secondary,Violin
+,,1993-03-18,381,,"Thibouville-Lamy, Jérôme Firm",,,sold,,276,GBP,Secondary,Secondary,Violin

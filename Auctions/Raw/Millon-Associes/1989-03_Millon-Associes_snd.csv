@@ -1,0 +1,9 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,1A,,"Nicolas, Didier l'aîné",,,sold,,901,USD,Secondary,Secondary,Violin
+,,,2,,"Dieudonné, Amédée",,,sold,,2770,USD,Secondary,Secondary,Violin
+,,,4,,"Chanot, Joseph Anthony",,,sold,,2943,USD,Secondary,Secondary,Violin
+,,,5,,"Vuillaume, Jean-Baptiste",,,sold,,10188,USD,Secondary,Secondary,Violin
+,,,5A,,"Landolfi, Carlo Ferdinando",,,sold,,29715,USD,Secondary,Secondary,Violin
+,,,6,,"Carcassi, Lorenzo & Tomaso",,,sold,,27168,USD,Secondary,Secondary,Violin
+,,,9,,"Lamy, Alfred dit neveu",,,sold,,3462,USD,Secondary,Secondary,Cello Bow
+,,,10,,"Stradivari, Antonio",,,sold,,184695,USD,Secondary,Secondary,Violin

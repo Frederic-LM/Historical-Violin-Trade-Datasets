@@ -1,0 +1,6 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,2,,Melody,,,sold,,1800,EUR,Secondary,Secondary,Cello
+,,,9,,Jean Lavest,,,sold,,2520,EUR,Secondary,Secondary,Viola
+,,,30,,Suzuki,,,sold,,96,EUR,Secondary,Secondary,Violin
+,,,91,,Lucien Schmitt,,,sold,,2760,EUR,Secondary,Secondary,Violin
+,,,92,,Louis Bazin,,,sold,,1368,EUR,Secondary,Secondary,Violin Bow

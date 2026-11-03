@@ -1,0 +1,5 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1983-03-31,118,,"Sderci, Igino",,,sold,1700,1700,GBP,Secondary,Secondary,Violin
+,,1983-03-31,,,"Panormo, Joseph",,,sold,,8500,GBP,Secondary,Secondary,Bass
+,,1983-03-31,,,"Pierray, Claude",,,sold,,1990,GBP,Secondary,Secondary,Violin
+,,1983-03-31,,,"Albani, Matthias II",,,sold,,4400,GBP,Secondary,Cross-checked,Violin

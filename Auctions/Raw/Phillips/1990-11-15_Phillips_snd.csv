@@ -1,0 +1,60 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1990-11-15,56,,"Colin, Jean Baptiste",,,sold,,858,GBP,Secondary,Secondary,Violin
+,,1990-11-15,64,,"Dearlove, Mark",,,sold,,374,GBP,Secondary,Cross-checked,Small Violin
+,,1990-11-15,69,,"Vickers, J.E.",,,sold,,286,GBP,Secondary,Cross-checked,Viola
+,,1990-11-15,72,,"Chanot, Georges I",,,sold,,3300,GBP,Secondary,Secondary,Viola
+,,1990-11-15,74,,"Briggs, James William",,,sold,,1870,GBP,Secondary,Secondary,Violin
+,,1990-11-15,78,,"Storioni, Carlo",,,sold,,935,GBP,Secondary,Secondary,Violin
+,,1990-11-15,80,,"Cabasse, Prosper II",,,sold,,329,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,82,,"Ficker, Johann Christian II",,,sold,,1430,GBP,Secondary,Secondary,Violin
+,,1990-11-15,83,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,1392,GBP,Secondary,Secondary,Violin
+,,1990-11-15,84,,"Wamsley, Peter",,,sold,,880,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,87,,"Mayson, Walter H.",,,sold,,770,GBP,Secondary,Secondary,Violin
+,,1990-11-15,93,,"Felici, Enrico",,,sold,,330,GBP,Secondary,Secondary,Violin
+,,1990-11-15,99,,"Ardern, Job",,,sold,,572,GBP,Secondary,Secondary,Violin
+,,1990-11-15,103,,"Pfretzschner, G.A.",,,sold,,550,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,117,,"Perry, Thomas II",,,sold,,5060,GBP,Secondary,Secondary,Violin
+,,1990-11-15,119,,"Bernardel, Léon",,,sold,,484,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,122,,"Nürnberger, Albert",,,sold,,880,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,128,,"Glass, Johann",,,sold,,759,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,135,,"Bovis, Francois",,,sold,,6820,GBP,Secondary,Secondary,Violin
+,,1990-11-15,136,,"Hill & Sons, W. E. Firm",,,sold,,638,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,137,,"Hill & Sons, W. E. Firm",,,sold,,550,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,139,,"Darche, Hilaire",,,sold,,462,GBP,Secondary,Cross-checked,Violin Bow
+,,1990-11-15,141,,"Hill & Sons, W. E. Firm",,,sold,,770,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,143,,"Voirin, François Nicolas",,,sold,,1238,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,144,,"Bultitude, Arthur Richard",,,sold,,1238,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,145,,"Hill & Sons, W. E. Firm",,,sold,,1210,GBP,Secondary,Secondary,Cello Bow
+,,1990-11-15,148,,"Chanot, Frederick William",,,sold,,1518,GBP,Secondary,Secondary,Violin
+,,1990-11-15,149,,"Craske, George",,,sold,,3080,GBP,Secondary,Secondary,Violin
+,,1990-11-15,156,,"Rameau, J.S.",,,sold,,531,GBP,Secondary,Secondary,Viola Bow
+,,1990-11-15,158,,"Nürnberger, Albert",,,sold,,126,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,162,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,,165,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,167,,"Schwartz, Bernhard",,,sold,,253,GBP,Secondary,Cross-checked,Violin Bow
+,,1990-11-15,173,,"Hammett, Thomas",,,sold,,638,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,175,,"Chanot, Joseph Anthony",,,sold,,784,GBP,Secondary,Secondary,Violin
+,,1990-11-15,176,,"Amati, Antonio & Girolamo",,,sold,,25300,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,186,,"van der Meer, Karel",,,sold,,354,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,191,,"Vickers, J.E.",,,sold,,784,GBP,Secondary,Secondary,Violin
+,,1990-11-15,192,,"Walker, William",,,sold,,1455,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,197,,"Schwarz, Heinrich",,,sold,,385,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,198,,"Stanley, Robert A.",,,sold,,825,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,200,,"Vuillaume, Jean-Baptiste",,,sold,,33000,GBP,Secondary,Secondary,Violin
+,,1990-11-15,204,,"Chanot, Georges I",,,sold,,8250,GBP,Secondary,Secondary,Violin
+,,1990-11-15,205,,"Hill & Sons, W. E. Firm",,,sold,,440,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,207,,"Amati, Antonio & Girolamo",,,sold,,25300,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,210,,"Tubbs, James",,,sold,,2420,GBP,Secondary,Secondary,Viola Bow
+,,1990-11-15,211,,"Dodd, John I",,,sold,,1430,GBP,Secondary,Cross-checked,Viola Bow
+,,1990-11-15,217,,"Lamy, Alfred dit neveu",,,sold,,456,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,232,,"Riedl, Alfons",,,sold,,405,GBP,Secondary,Secondary,Viola Bow
+,,1990-11-15,235,,"Morizot, Louis Joseph père",,,sold,,329,GBP,Secondary,Secondary,Cello Bow
+,,1990-11-15,236,,"Bultitude, Arthur Richard",,,sold,,1139,GBP,Secondary,Secondary,Cello Bow
+,,1990-11-15,240,,"Durrschmidt, Otto Carl",,,sold,,165,GBP,Secondary,Secondary,Violin Bow
+,,1990-11-15,247,,"Dölling, Heinz",,,sold,,329,GBP,Secondary,Cross-checked,Cello Bow
+,,1990-11-15,274,,"Roth, Ernst Heinrich",,,sold,,3850,GBP,Secondary,Cross-checked,Cello
+,,1990-11-15,282,,"Contino, Alfredo",,,sold,,3080,GBP,Secondary,Secondary,Cello
+,,1990-11-15,286,,Laberte-Humbert Frères Firm,,,sold,,2310,GBP,Secondary,Cross-checked,Cello
+,,1990-11-15,296,,"Tiller, C. W.",,,sold,,374,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,342,,"Schmidt, Ernst Reinhold",,,sold,,242,GBP,Secondary,Secondary,Small Violin
+,,1990-11-15,386,,"Chartreux, Eugene",,,sold,,330,GBP,Secondary,Cross-checked,Violin
+,,1990-11-15,390,,"Lowendall, Louis",,,sold,,176,GBP,Secondary,Secondary,Violin

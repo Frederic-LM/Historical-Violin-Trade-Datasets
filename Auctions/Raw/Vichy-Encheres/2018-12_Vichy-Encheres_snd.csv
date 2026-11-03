@@ -1,0 +1,213 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,259,,Jérôme Thibouville Lamy,,,sold,1100,1364,EUR,Secondary,Secondary,Violin
+,,,500,,Jean Striebig,,,sold,900,1116,EUR,Secondary,Secondary,Violin
+,,,506,,Frères Laberte-Humbert,,,sold,900,1116,EUR,Secondary,Secondary,Violin
+,,,508,,Dominique (II) Didelot,,,sold,850,1054,EUR,Secondary,Secondary,Violin
+,,,512,,Jérôme Thibouville Lamy,,,sold,3600,4464,EUR,Secondary,Secondary,Violin
+,,,518,,Frères Laberte-Humbert,,,sold,750,930,EUR,Secondary,Secondary,Violin
+,,,520,,Marius Didier,,,sold,2100,2604,EUR,Secondary,Secondary,Violin
+,,,526,,Marc Laberte,,,sold,900,1116,EUR,Secondary,Secondary,Viola Bow
+,,,528,,Charles Nicolas Bazin,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,530,,Morizot Frères,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,533,,Louis Joseph Morizot,,,sold,1200,1488,EUR,Secondary,Secondary,Violin Bow
+,,,535,,Mars Auguste Husson,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,537,,Charles Nicolas Bazin,,,sold,900,1116,EUR,Secondary,Secondary,Violin Bow
+,,,538,,Jérôme Thibouville Lamy,,,sold,1200,1488,EUR,Secondary,Secondary,Violin Bow
+,,,540,,Jérôme Thibouville Lamy,,,sold,1100,1364,EUR,Secondary,Secondary,Cello Bow
+,,,541,,Jérôme Thibouville Lamy,,,sold,1200,1488,EUR,Secondary,Secondary,Violin Bow
+,,,542,,Roger Lotte,,,sold,850,1054,EUR,Secondary,Secondary,Violin Bow
+,,,543,,Paul Emile Miquel,,,sold,900,1116,EUR,Secondary,Secondary,Violin Bow
+,,,546,,Cuniot-Hury and Ouchard,,,sold,280,347,EUR,Secondary,Secondary,Violin Bow
+,,,548,,Emile Francois Ouchard,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,550,,Louis Joseph Morizot,,,sold,2500,3100,EUR,Secondary,Secondary,Cello Bow
+,,,553,,Jérôme Thibouville Lamy,,,sold,1200,1488,EUR,Secondary,Secondary,Violin
+,,,565,,Jérôme Thibouville Lamy,,,sold,1200,1488,EUR,Secondary,Secondary,Violin
+,,,568,,Paul Bisch,,,sold,1500,1860,EUR,Secondary,Secondary,Violin
+,,,572,,Frères Laberte-Humbert,,,sold,1400,1736,EUR,Secondary,Secondary,Violin
+,,,575,,Leon Mougenot Gauche,,,sold,1800,2232,EUR,Secondary,Secondary,Violin
+,,,577,,Morizot Frères,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,578,,Marc Laberte,,,sold,3400,4216,EUR,Secondary,Secondary,Violin Bow
+,,,580,,Louis Bazin,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,583,,Jérôme Thibouville Lamy,,,sold,900,1116,EUR,Secondary,Secondary,Violin Bow
+,,,586,,Pierre Maline,,,sold,400,496,EUR,Secondary,Secondary,Violin Bow
+,,,587,,Roger Lotte,,,sold,450,558,EUR,Secondary,Secondary,Violin Bow
+,,,588,,Charles Nicolas Bazin,,,sold,1300,1612,EUR,Secondary,Secondary,Violin Bow
+,,,590,,Louis Bazin,,,sold,2400,2976,EUR,Secondary,Secondary,Violin Bow
+,,,591,,Marc Laberte,,,sold,300,372,EUR,Secondary,Secondary,Violin Bow
+,,,593,,Louis Bazin,,,sold,2200,2728,EUR,Secondary,Secondary,Cello Bow
+,,,598,,Marc Laberte,,,sold,1400,1736,EUR,Secondary,Secondary,Violin Bow
+,,,600,,Emile Francois Ouchard,,,sold,900,1116,EUR,Secondary,Secondary,Cello Bow
+,,,604,,Frères Laberte-Humbert,,,sold,550,682,EUR,Secondary,Secondary,Violin
+,,,605,,Jérôme Thibouville Lamy,,,sold,1000,1240,EUR,Secondary,Secondary,Violin
+,,,606,,Jérôme Thibouville Lamy,,,sold,1000,1240,EUR,Secondary,Secondary,Violin
+,,,607,,Frères Laberte-Humbert,,,sold,650,806,EUR,Secondary,Secondary,Violin
+,,,612,,Jérôme Thibouville Lamy,,,sold,650,806,EUR,Secondary,Secondary,Violin
+,,,613,,Claude-Francois (II) Vuillaume,,,sold,1300,1612,EUR,Secondary,Secondary,Violin
+,,,615,,Georges Apparut,,,sold,2100,2604,EUR,Secondary,Secondary,Violin
+,,,620,,Frères Laberte-Humbert,,,sold,1000,1240,EUR,Secondary,Secondary,Violin
+,,,621,,Frères Laberte-Humbert,,,sold,1100,1364,EUR,Secondary,Secondary,Violin
+,,,622,,Jérôme Thibouville Lamy,,,sold,500,620,EUR,Secondary,Secondary,Violin
+,,,625,,Frères Laberte-Humbert,,,sold,2500,3100,EUR,Secondary,Secondary,Violin
+,,,628,,Charles Nicolas Bazin,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,630,,Marcel Lapierre,,,sold,850,1054,EUR,Secondary,Secondary,Viola Bow
+,,,633,,Louis Joseph Morizot,,,sold,1000,1240,EUR,Secondary,Secondary,Violin Bow
+,,,634,,Charles Nicolas Bazin,,,sold,450,558,EUR,Secondary,Secondary,Violin Bow
+,,,635,,Francois Lotte,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,637,,Louis Bazin,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,638,,Charles Alfred Bazin,,,sold,1000,1240,EUR,Secondary,Secondary,Violin Bow
+,,,640,,Emile Francois Ouchard,,,sold,1400,1736,EUR,Secondary,Secondary,Violin Bow
+,,,642,,Morizot Frères,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,643,,Louis Joseph Morizot,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,646,,Louis Joseph Morizot,,,sold,350,434,EUR,Secondary,Secondary,Violin Bow
+,,,647,,Louis Bazin,,,sold,600,744,EUR,Secondary,Secondary,Violin Bow
+,,,648,,Emile Francois Ouchard,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,649,,Louis Joseph Morizot,,,sold,750,930,EUR,Secondary,Secondary,Bass Bow
+,,,650,,Emile Auguste Ouchard,,,sold,6300,7812,EUR,Secondary,Secondary,Violin Bow
+,,,655,,Frères Laberte-Humbert,,,sold,900,1116,EUR,Secondary,Secondary,Violin
+,,,658,,Frères Laberte-Humbert,,,sold,700,868,EUR,Secondary,Secondary,Violin
+,,,662,,Joseph François Xavier Couturieux-Deroux,,,sold,400,496,EUR,Secondary,Secondary,Violin
+,,,665,,Frères Laberte-Humbert,,,sold,850,1054,EUR,Secondary,Secondary,Violin
+,,,675,,Charles Bailly,,,sold,1600,1984,EUR,Secondary,Secondary,Violin
+,,,676,,Marc Laberte,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,677,,Charles Alfred Bazin,,,sold,1000,1240,EUR,Secondary,Secondary,Viola Bow
+,,,678,,Morizot Frères,,,sold,1700,2108,EUR,Secondary,Secondary,Violin Bow
+,,,679,,Roger Lotte,,,sold,850,1054,EUR,Secondary,Secondary,Violin Bow
+,,,680,,Emile Francois Ouchard,,,sold,1700,2108,EUR,Secondary,Secondary,Violin Bow
+,,,685,,Morizot Frères,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,688,,Morizot Frères,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,690,,Louis Joseph Morizot,,,sold,1600,1984,EUR,Secondary,Secondary,Violin Bow
+,,,691,,Marc Laberte,,,sold,500,620,EUR,Secondary,Secondary,Violin Bow
+,,,694,,Jacques Audinot,,,sold,450,558,EUR,Secondary,Secondary,Violin Bow
+,,,697,,Marie-Louis Piernot,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,698,,Emile Francois Ouchard,,,sold,1000,1240,EUR,Secondary,Secondary,Violin Bow
+,,,700,,Marie-Louis Piernot,,,sold,1700,2108,EUR,Secondary,Secondary,Violin Bow
+,,,704,,Jérôme Thibouville Lamy,,,sold,600,744,EUR,Secondary,Secondary,Violin
+,,,705,,Georges Cherpitel,,,sold,2100,2604,EUR,Secondary,Secondary,Violin
+,,,710,,Francois Alexis Maline,,,sold,2000,2480,EUR,Secondary,Secondary,Violin
+,,,711,,Jérôme Thibouville Lamy,,,sold,1100,1364,EUR,Secondary,Secondary,Violin
+,,,713,,Frères Laberte-Humbert,,,sold,1400,1736,EUR,Secondary,Secondary,Violin
+,,,715,,Nicolas (II) Guinot,,,sold,1200,1488,EUR,Secondary,Secondary,Cello
+,,,720,,Adolphe Dupary,,,sold,1600,1984,EUR,Secondary,Secondary,Violin
+,,,723,,Frères Laberte-Humbert,,,sold,600,744,EUR,Secondary,Secondary,Violin
+,,,727,,Charles Nicolas Bazin,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,729,,Roger Lotte,,,sold,700,868,EUR,Secondary,Secondary,Cello Bow
+,,,730,,Louis Bazin,,,sold,950,1178,EUR,Secondary,Secondary,Violin Bow
+,,,732,,Louis Bazin,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,733,,Marc Laberte,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,735,,Morizot Frères,,,sold,1900,2356,EUR,Secondary,Secondary,Violin Bow
+,,,740,,Francois Lotte,,,sold,1600,1984,EUR,Secondary,Secondary,Violin Bow
+,,,742,,Morizot Frères,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,744,,Eugene Cuniot-Hury,,,sold,450,558,EUR,Secondary,Secondary,Violin Bow
+,,,745,,Charles Nicolas Bazin,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,746,,Francois Lotte,,,sold,350,434,EUR,Secondary,Secondary,Violin Bow
+,,,747,,Louis Bazin,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,748,,Eugene Cuniot-Hury,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,749,,Emile Francois Ouchard,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,751,,Frères Laberte-Humbert,,,sold,900,1116,EUR,Secondary,Secondary,Violin
+,,,752,,Frères Laberte-Humbert,,,sold,800,992,EUR,Secondary,Secondary,Violin
+,,,757,,Frères Laberte-Humbert,,,sold,2000,2480,EUR,Secondary,Secondary,Violin
+,,,759,,Frères Laberte-Humbert,,,sold,1000,1240,EUR,Secondary,Secondary,Violin
+,,,765,,Jérôme Thibouville Lamy,,,sold,1600,1984,EUR,Secondary,Secondary,Violin
+,,,771,,Jérôme Thibouville Lamy,,,sold,950,1178,EUR,Secondary,Secondary,Violin
+,,,777,,Emile Francois Ouchard,,,sold,2100,2604,EUR,Secondary,Secondary,Violin Bow
+,,,778,,Celestin Emile Clasquin,,,sold,2000,2480,EUR,Secondary,Secondary,Violin Bow
+,,,779,,Jérôme Thibouville Lamy,,,sold,400,496,EUR,Secondary,Secondary,Cello Bow
+,,,780,,Morizot Frères,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,781,,Louis Bazin,,,sold,550,682,EUR,Secondary,Secondary,Violin Bow
+,,,785,,Morizot Frères,,,sold,1500,1860,EUR,Secondary,Secondary,Violin Bow
+,,,786,,Roger Lotte,,,sold,600,744,EUR,Secondary,Secondary,Violin Bow
+,,,787,,Eugene Cuniot-Hury,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,788,,Emile Francois Ouchard,,,sold,1000,1240,EUR,Secondary,Secondary,Violin Bow
+,,,790,,Charles Nicolas Bazin,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,793,,Louis Bazin,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,795,,Louis Bazin,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,796,,Pierre Maline,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,797,,Roger Lotte,,,sold,1600,1984,EUR,Secondary,Secondary,Violin Bow
+,,,798,,Morizot Frères,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,799,,Francois Bazin,,,sold,250,310,EUR,Secondary,Secondary,Violin Bow
+,,,806,,Leon Mougenot Gauche,,,sold,1600,1984,EUR,Secondary,Secondary,Violin
+,,,808,,Frères Laberte-Humbert,,,sold,1300,1612,EUR,Secondary,Secondary,Violin
+,,,819,,Prosper (I) Cabasse,,,sold,700,868,EUR,Secondary,Secondary,Small Violin
+,,,825,,Leon Mougenot Gauche,,,sold,3100,3844,EUR,Secondary,Secondary,Violin
+,,,826,,Roger Lotte,,,sold,450,558,EUR,Secondary,Secondary,Violin Bow
+,,,827,,Morizot Frères,,,sold,600,744,EUR,Secondary,Secondary,Violin Bow
+,,,828,,Emile Francois Ouchard,,,sold,1400,1736,EUR,Secondary,Secondary,Violin Bow
+,,,829,,Morizot Frères,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,830,,Marc Laberte,,,sold,850,1054,EUR,Secondary,Secondary,Violin Bow
+,,,832,,Charles Nicolas Bazin,,,sold,1500,1860,EUR,Secondary,Secondary,Cello Bow
+,,,833,,Charles Nicolas Bazin,,,sold,2400,2976,EUR,Secondary,Secondary,Violin Bow
+,,,836,,Jérôme Thibouville Lamy,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,839,,Eugene Cuniot-Hury,,,sold,400,496,EUR,Secondary,Secondary,Violin Bow
+,,,841,,Marcel Lapierre,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,843,,Louis Bazin,,,sold,1200,1488,EUR,Secondary,Secondary,Viola Bow
+,,,845,,Charles Nicolas Bazin,,,sold,800,992,EUR,Secondary,Secondary,Viola Bow
+,,,846,,Roger Lotte,,,sold,2000,2480,EUR,Secondary,Secondary,Violin Bow
+,,,848,,Louis Bazin,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,850,,Louis Joseph Morizot,,,sold,1800,2232,EUR,Secondary,Secondary,Violin Bow
+,,,858,,Leon Mortin,,,sold,1500,1860,EUR,Secondary,Secondary,Violin
+,,,863,,Leon Mougenot Gauche,,,sold,2800,3472,EUR,Secondary,Secondary,Violin
+,,,876,,Charles Nicolas Bazin,,,sold,600,744,EUR,Secondary,Secondary,Cello Bow
+,,,877,,Louis Joseph Morizot,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,878,,Morizot Frères,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,879,,Morizot Frères,,,sold,550,682,EUR,Secondary,Secondary,Violin Bow
+,,,880,,Jérôme Thibouville Lamy,,,sold,900,1116,EUR,Secondary,Secondary,Cello Bow
+,,,881,,Louis Joseph Morizot,,,sold,2900,3596,EUR,Secondary,Secondary,Violin Bow
+,,,882,,Morizot Frères,,,sold,1300,1612,EUR,Secondary,Secondary,Violin Bow
+,,,883,,Louis Bazin,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,884,,Morizot Frères,,,sold,2000,2480,EUR,Secondary,Secondary,Violin Bow
+,,,887,,Morizot Frères,,,sold,600,744,EUR,Secondary,Secondary,Violin Bow
+,,,888,,Eugene Cuniot-Hury,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,892,,Mars Auguste Husson,,,sold,1000,1240,EUR,Secondary,Secondary,Violin Bow
+,,,894,,Morizot Frères,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,895,,Louis Bazin,,,sold,2100,2604,EUR,Secondary,Secondary,Cello Bow
+,,,897,,Louis Bazin,,,sold,1300,1612,EUR,Secondary,Secondary,Violin Bow
+,,,898,,Charles Nicolas Bazin,,,sold,1050,1302,EUR,Secondary,Secondary,Violin Bow
+,,,900,,Jérôme Thibouville Lamy,,,sold,1250,1550,EUR,Secondary,Secondary,Violin Bow
+,,,901,,Frères Laberte-Humbert,,,sold,3100,3844,EUR,Secondary,Secondary,Viola
+,,,902,,Jérôme Thibouville Lamy,,,sold,1000,1240,EUR,Secondary,Secondary,Violin
+,,,907,,Jules Lavest,,,sold,1400,1736,EUR,Secondary,Secondary,Violin
+,,,910,,Leon Mougenot Gauche,,,sold,1900,2356,EUR,Secondary,Secondary,Violin
+,,,913,,Georges Apparut,,,sold,1400,1736,EUR,Secondary,Secondary,Violin
+,,,914,,Frères Laberte-Humbert,,,sold,900,1116,EUR,Secondary,Secondary,Violin
+,,,916,,Frères Laberte-Humbert,,,sold,750,930,EUR,Secondary,Secondary,Violin
+,,,918,,Jérôme Thibouville Lamy,,,sold,1400,1736,EUR,Secondary,Secondary,Violin
+,,,924,,Jérôme Thibouville Lamy,,,sold,800,992,EUR,Secondary,Secondary,Violin
+,,,927,,Eugene Cuniot-Hury,,,sold,600,744,EUR,Secondary,Secondary,Cello Bow
+,,,928,,Emile Francois Ouchard,,,sold,1600,1984,EUR,Secondary,Secondary,Violin Bow
+,,,929,,Eugene Cuniot-Hury,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,930,,Charles Nicolas Bazin,,,sold,2200,2728,EUR,Secondary,Secondary,Cello Bow
+,,,931,,Morizot Frères,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,932,,Jérôme Thibouville Lamy,,,sold,850,1054,EUR,Secondary,Secondary,Violin Bow
+,,,933,,Emile Francois Ouchard,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
+,,,934,,Morizot Frères,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,935,,Jérôme Thibouville Lamy,,,sold,1700,2108,EUR,Secondary,Secondary,Violin Bow
+,,,938,,Joseph Gaude,,,sold,800,992,EUR,Secondary,Secondary,Violin Bow
+,,,940,,Francois Lotte,,,sold,1300,1612,EUR,Secondary,Secondary,Violin Bow
+,,,941,,Morizot Frères,,,sold,700,868,EUR,Secondary,Secondary,Violin Bow
+,,,942,,Morizot Frères,,,sold,850,1054,EUR,Secondary,Secondary,Violin Bow
+,,,943,,Charles Alfred Bazin,,,sold,2200,2728,EUR,Secondary,Secondary,Violin Bow
+,,,944,,Charles Nicolas Bazin,,,sold,600,744,EUR,Secondary,Secondary,Violin Bow
+,,,945,,Prosper Colas,,,sold,1700,2108,EUR,Secondary,Secondary,Violin Bow
+,,,946,,Celestin Emile Clasquin,,,sold,1300,1612,EUR,Secondary,Secondary,Violin Bow
+,,,948,,Paul Emile Miquel,,,sold,900,1116,EUR,Secondary,Secondary,Violin Bow
+,,,950,,Marie-Louis Piernot,,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
+,,,951,,Jérôme Thibouville Lamy,,,sold,450,558,EUR,Secondary,Secondary,Violin
+,,,953,,Jacques Aubry,,,sold,750,930,EUR,Secondary,Secondary,Violin
+,,,956,,Frères Laberte-Humbert,,,sold,900,1116,EUR,Secondary,Secondary,Violin
+,,,958,,Mark Dearlove,,,sold,2200,2728,EUR,Secondary,Secondary,Violin
+,,,960,,Francois Victor L. Lecavelle,,,sold,2800,3472,EUR,Secondary,Secondary,Violin
+,,,964,,Jérôme Thibouville Lamy,,,sold,1500,1860,EUR,Secondary,Secondary,Violin
+,,,966,,Jérôme Thibouville Lamy,,,sold,300,372,EUR,Secondary,Secondary,Violin
+,,,970,,Leon Mougenot Gauche,,,sold,1500,1860,EUR,Secondary,Secondary,Violin
+,,,976,,Roger Lotte,,,sold,1300,1612,EUR,Secondary,Secondary,Violin Bow
+,,,977,,Jérôme Thibouville Lamy,,,sold,2000,2480,EUR,Secondary,Secondary,Violin Bow
+,,,981,,Roger Lotte,,,sold,1900,2356,EUR,Secondary,Secondary,Violin Bow
+,,,982,,Prosper Colas,,,sold,850,1054,EUR,Secondary,Secondary,Violin Bow
+,,,986,,Marc Laberte,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,989,,Louis Bazin,,,sold,850,1054,EUR,Secondary,Secondary,Viola Bow
+,,,991,,Marcel Fetique,,,sold,550,682,EUR,Secondary,Secondary,Bass Bow
+,,,993,,Charles Nicolas Bazin,,,sold,1200,1488,EUR,Secondary,Secondary,Violin Bow
+,,,995,,Celestin Emile Clasquin,,,sold,750,930,EUR,Secondary,Secondary,Violin Bow
+,,,996,,Jean Dominique & Jean Adam,,,sold,1500,1860,EUR,Secondary,Secondary,Violin Bow
+,,,997,,Victor Fetique,,,sold,2700,3348,EUR,Secondary,Secondary,Violin Bow
+,,,998,,Louis Joseph Morizot,,,sold,2100,2604,EUR,Secondary,Secondary,Viola Bow

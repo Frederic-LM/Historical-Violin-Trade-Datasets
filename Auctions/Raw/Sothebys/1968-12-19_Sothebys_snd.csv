@@ -1,0 +1,6 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1968-12-19,21,,"Stradivari, Antonio",,,sold,,22800,USD,Secondary,Secondary,Violin
+,,1968-12-19,57,,"Kittel, Nikolai",,,sold,,1200,USD,Secondary,Secondary,Cello Bow
+,,1968-12-19,,,"Vuillaume, Jean-Baptiste",,,sold,,4320,USD,Secondary,Secondary,Viola
+,,1968-12-19,,,"Amati, Nicolò",,,sold,,3600,USD,Secondary,Secondary,Violin
+,,1968-12-19,,,"Jacobs, Hendrik",,,sold,,156,USD,Secondary,Secondary,Violin

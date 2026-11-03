@@ -1,0 +1,9 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,3,,Johann Christoph Leidolff,,,sold,,3250,EUR,Secondary,Secondary,Viola
+,,,5,,Ignatz Christian Bartl,,,sold,,3000,EUR,Secondary,Secondary,Violin
+,,,9,,Johann Christoph Leidolff,,,sold,,1250,EUR,Secondary,Secondary,Violin
+,,,65,,Alban Hammig,,,sold,,938,EUR,Secondary,Secondary,Violin
+,,,68,,"Roth, Ernst Heinrich [Firm of]",,,sold,,3000,EUR,Secondary,Secondary,Violin
+,,,73,,"Roth, Ernst Heinrich [Firm of]",,,sold,,2125,EUR,Secondary,Secondary,Violin
+,,,133,,Albert Nurnberger,,,sold,,2125,EUR,Secondary,Secondary,Bass Bow
+,,,134,,Edwin August Prager,,,sold,,625,EUR,Secondary,Secondary,Cello Bow

@@ -1,0 +1,83 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1999-11-17,3,,Francois Nicolas Voirin,,,sold,,6500,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,4,,"Adam, Jean Dominique",,,sold,5500,6325,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,6,,VIGNERON ANDRÉ,,,sold,,4370,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,8,,TUBBS JAMES,,,sold,,1840,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,10,,TUBBS JAMES,,,sold,,1955,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,12,,Joseph Arthur Vigneron,,,sold,,2000,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,16,,James Tubbs,,,sold,,1800,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,18,,"Hill & Sons, W. E. Firm",,,sold,1700,1955,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,19,,W. E. Hill & Sons,,,sold,,1900,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,22,,NÜRNBERGER ALBERT,,,sold,,1610,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,24,,"Weichold, Richard",,,sold,550,632,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,28,,"Hill & Sons, W. E. Firm",,,sold,1600,1840,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,31,,W. E. Hill & Sons,,,sold,,1900,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,32,,Hermann Richard Pfretzschner,,,sold,,1800,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,34,,W. Knopf,,,sold,,750,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,35,,James Tubbs,,,sold,,3800,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,37,,W. E. Hill & Sons,,,sold,,2400,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,38,,BAZIN LOUIS,,,sold,,1955,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,39,,James Tubbs,,,sold,,3600,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,40,,"Rau, August",,,sold,500,575,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,42,,W. E. Hill & Sons,,,sold,,1400,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,45,,W. E. Hill & Sons,,,sold,,1900,GBP,Secondary,Secondary,Violin Bow
+,,1999-11-17,46,,"Rau, August",,,sold,600,690,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-11-17,48,,"Voigt, Arnold",,,sold,850,977,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,50,,"Weichold, Richard",,,sold,1000,1150,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,51,,"Hill & Sons, W. E. Firm",,,sold,1900,2185,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,52,,"Morizot, Louis Joseph père",,,sold,1400,1610,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,54,,Franz Albert (II) Nurnberger,,,sold,,1800,GBP,Secondary,Secondary,Cello Bow
+,,1999-11-17,58,,HILL W. E. & SONS,,,sold,,2875,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-11-17,59,,James Tubbs,,,sold,,3800,GBP,Secondary,Secondary,Viola Bow
+,,1999-11-17,61,,James Tubbs,,,sold,,3800,GBP,Secondary,Secondary,Viola Bow
+,,1999-11-17,62,,"Peccatte, Dominique",,,sold,12000,13800,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-11-17,63,,MAGNIERE GABRIEL,,,sold,,1840,GBP,Secondary,Secondary,Cello
+,,1999-11-17,65A,,"Hill, Lockey",,,sold,6500,7475,GBP,Secondary,Cross-checked,Cello
+,,1999-11-17,69,,"Barbé, François",,,sold,25000,28750,GBP,Secondary,Cross-checked,Cello
+,,1999-11-17,74,,"Gagliano, Gennaro",,,sold,220000,253000,GBP,Secondary,Cross-checked,Cello
+,,1999-11-17,82,,"Banks, Benjamin",,,sold,3800,4370,GBP,Secondary,Cross-checked,Viola
+,,1999-11-17,83,,Richard Harris,,,sold,,2800,GBP,Secondary,Secondary,Viola
+,,1999-11-17,85,,"Banks, James & Henry",,,sold,7000,8050,GBP,Secondary,Cross-checked,Viola
+,,1999-11-17,87,,"Klotz, Aegidius Sebastian",,,sold,3000,3450,GBP,Secondary,Cross-checked,Viola
+,,1999-11-17,89,,Feret-Marcotte,,,sold,,1300,GBP,Secondary,Secondary,Viola
+,,1999-11-17,95,,"Caussin, François",,,sold,1300,1495,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,101,,"Ardern, Job",,,sold,850,977,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,108,,"Mermillot, Maurice",,,sold,4800,5520,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,110,,BADARELLO CARLO,,,sold,,3680,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,111,,"Johnson, John",,,sold,3200,3680,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,114,,Anton Stefan Posch,,,sold,,2800,GBP,Secondary,Secondary,Violin
+,,1999-11-17,117,,"Pedrazzini, Giuseppe",,,sold,16000,18400,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,119,,DERAZEy HONORÉ,,,sold,,3450,GBP,Secondary,Secondary,Violin
+,,1999-11-17,123,,"Heinicke, Mathias",,,sold,1800,2070,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,123A,,"Craske, George",,,sold,3500,4025,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,130,,"Vautrin, Joseph",,,sold,1500,1725,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,133,,"Hudson, George",,,sold,4800,5520,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,137,,"Antoniazzi, Romeo",,,sold,10000,11500,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,138,,"Ornati, Giuseppe",,,sold,22000,25300,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,141,,THIR JOANNES GEORGIUS,,,sold,,2070,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,142,,"Panormo, Joseph",,,sold,22000,25300,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,151,,"Hel, Pierre Joseph",,,sold,7000,8050,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,153,,CAPELA ANTONIO,,,sold,,3450,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,155,,"Praga, Eugenio",,,sold,26000,29900,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,158,,M. Kuntze-Fechner,,,sold,,4000,GBP,Secondary,Secondary,Violin
+,,1999-11-17,160,,"Richardson, Arthur",,,sold,2800,3220,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,161,,SILVESTRE & MAUCOTEL,,,sold,,3450,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,164,,"Guadagnini, Antonio",,,sold,22000,25300,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,165,,"Lucca, Antonio",,,sold,2800,3220,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,168,,"Klotz, Sebastian I",,,sold,15000,17250,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,173,,"Richardson, Arthur",,,sold,3500,4025,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,176,,"Rovescalli, Azzo",,,sold,3000,3450,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,179,,"Carcassi, Lorenzo",,,sold,14000,16100,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,182,,WAMSLEY PETER,,,sold,,632,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,183,,Paolo Leonori,,,sold,,3200,GBP,Secondary,Secondary,Violin
+,,1999-11-17,1132,,"Grancino, Giovanni Battista I",,,sold,45000,51750,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,,,"Ornati, Giuseppe",,,sold,25300,29095,GBP,Secondary,Secondary,Violin
+,,1999-11-17,,,"Panormo, Joseph",,,sold,25300,29095,GBP,Secondary,Secondary,Violin
+,,1999-11-17,,,"Peccatte, Dominique",,,sold,13800,15870,GBP,Secondary,Secondary,Cello Bow
+,,1999-11-17,,,"Pedrazzini, Giuseppe",,,sold,18400,21160,GBP,Secondary,Secondary,Violin
+,,1999-11-17,,,"Praga, Eugenio",,,sold,29900,34385,GBP,Secondary,Secondary,Violin
+,,1999-11-17,,,"Antoniazzi, Romeo",,,sold,11500,13225,GBP,Secondary,Secondary,Violin
+,,1999-11-17,,,"Sannino, Vincenzo",,,sold,38900,44735,GBP,Secondary,Cross-checked,Violin
+,,1999-11-17,,,"Gagliano, Gennaro",,,sold,243500,280025,GBP,Secondary,Cross-checked,Cello
+,,1999-11-17,,,"Grancino, Giovanni Battista I",,,sold,45000,51750,GBP,Secondary,Secondary,Violin
+,,1999-11-17,,,"Hel, Pierre Joseph",,,sold,8050,9258,GBP,Secondary,Secondary,Violin

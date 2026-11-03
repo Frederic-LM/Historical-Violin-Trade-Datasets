@@ -1,0 +1,30 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1999-06-16,3,,"Withers, George Thomas Henry",,,sold,1000,1150,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,4,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,1100,1265,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,6,,"Vigneron, André 'Vigneron fils'",,,sold,700,805,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,7,,"Millant, Roger & Max Firm",,,sold,480,552,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,7A,,Victor Fetique,,,sold,,1500,GBP,Secondary,Secondary,Violin Bow
+,,1999-06-16,8,,"Bazin, Charles Nicolas",,,sold,800,920,GBP,Secondary,Secondary,Violin Bow
+,,1999-06-16,10A,,Louis Bazin,,,sold,,480,GBP,Secondary,Secondary,Violin Bow
+,,1999-06-16,12A,,"Millant, Roger & Max Firm",,,sold,450,518,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,14,,"Peccatte, Charles",,,sold,2500,2875,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,16,,Dodd Family,,,sold,1800,2070,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,17,,"Dodd, John I",,,sold,1800,2070,GBP,Secondary,Cross-checked,Viola Bow
+,,1999-06-16,21A,,Eugene Cuniot-Hury,,,sold,,1500,GBP,Secondary,Secondary,Viola Bow
+,,1999-06-16,23,,"Hill & Sons, W. E. Firm",,,sold,700,805,GBP,Secondary,Cross-checked,Cello Bow
+,,1999-06-16,24,,VIGNERON ANDRÉ,,,sold,,2530,GBP,Secondary,Secondary,Violin Bow
+,,1999-06-16,26,,"Pajeot, Étienne",,,sold,3400,3910,GBP,Secondary,Cross-checked,Violin Bow
+,,1999-06-16,34,,"Betts, John I",,,sold,13000,14950,GBP,Secondary,Cross-checked,Cello
+,,1999-06-16,35,,"Kennedy, Thomas",,,sold,18000,20700,GBP,Secondary,Cross-checked,Cello
+,,1999-06-16,53,,"Ornati, Giuseppe",,,sold,22000,25300,GBP,Secondary,Cross-checked,Viola
+,,1999-06-16,55,,"Sderci, Igino",,,sold,5520,6348,GBP,Secondary,Cross-checked,Viola
+,,1999-06-16,56,,"Vincent, Alfred",,,sold,2500,2875,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,67,,"Gaibisso, Giovanni Battista",,,sold,6000,6900,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,73,,"Banks, Benjamin",,,sold,1600,1840,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,82,,"Lambert, Jean Nicolas",,,sold,2600,2990,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,84,,"Scarampella, Stefano",,,sold,22000,25300,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,112,,"Carcassi, Lorenzo & Tomaso",,,sold,20000,23000,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,117,,Amedeo Simonazzi,,,sold,,4000,GBP,Secondary,Secondary,Violin
+,,1999-06-16,,,"Ornati, Giuseppe",,,sold,25300,29095,GBP,Secondary,Secondary,Viola
+,,1999-06-16,,,"Carcassi, Lorenzo & Tomaso",,,sold,20000,23000,GBP,Secondary,Cross-checked,Violin
+,,1999-06-16,,,"Scarampella, Stefano",,,sold,22000,25300,GBP,Secondary,Secondary,Violin

@@ -1,0 +1,91 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1991-06-06,3,,"Pedrazzini, Giuseppe",,,sold,15500,17050,GBP,Secondary,Primary,Violin
+,,1991-06-06,7,,"Magniere, Gabriel",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,1991-06-06,8,,"Hudson, George",,,sold,1100,1210,GBP,Secondary,Primary,Violin
+,,1991-06-06,9,,"Hel, Pierre Joseph",,,sold,9500,10450,GBP,Secondary,Primary,Violin
+,,1991-06-06,12,,"Strobl, Michael",,,sold,3500,3850,GBP,Secondary,Primary,Violin
+,,1991-06-06,15,,"Hill, Joseph I",,,sold,5600,6160,GBP,Secondary,Primary,Violin
+,,1991-06-06,16,,"Claudot, Albert",,,sold,1000,1100,GBP,Secondary,Primary,Violin
+,,1991-06-06,18,,"Kunze, Wilhelm Paul",,,sold,1400,1540,GBP,Secondary,Primary,Violin
+,,1991-06-06,20,,Hart & Son,,,sold,600,660,GBP,Secondary,Primary,Violin
+,,1991-06-06,21,,"Colin, Jean Baptiste",,,sold,750,825,GBP,Secondary,Primary,Violin
+,,1991-06-06,22,,"Wilfer, Albin",,,sold,1600,1760,GBP,Secondary,Primary,Violin
+,,1991-06-06,23,,"Migge, Otto",,,sold,900,990,GBP,Secondary,Primary,Violin
+,,1991-06-06,24,,"Kochendörfer, Friedrich",,,sold,820,902,GBP,Secondary,Primary,Violin
+,,1991-06-06,27,,"Atkinson, William",,,sold,2600,2860,GBP,Secondary,Primary,Violin
+,,1991-06-06,28,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,2600,2860,GBP,Secondary,Primary,Violin
+,,1991-06-06,30,,"Windisch, Otto",,,sold,600,660,GBP,Secondary,Primary,Violin
+,,1991-06-06,35,,"Blondelet, Hugues Emile",,,sold,1400,1540,GBP,Secondary,Primary,Violin
+,,1991-06-06,36,,"Duncan, George",,,sold,1900,2090,GBP,Secondary,Primary,Violin
+,,1991-06-06,37,,"Vuillaume, Sebastien",,,sold,6500,7150,GBP,Secondary,Primary,Violin
+,,1991-06-06,38,,"Horil, Jacob",,,sold,17000,18700,GBP,Secondary,Primary,Violin
+,,1991-06-06,42,,"Gobetti, Francesco",,,sold,50000,55000,GBP,Secondary,Primary,Violin
+,,1991-06-06,44,,"Howell, T.",,,sold,1100,1210,GBP,Secondary,Primary,Small Violin
+,,1991-06-06,46,,"Guarneri, Andrea",,,sold,36000,39600,GBP,Secondary,Primary,Violin
+,,1991-06-06,51,,"Sartory, Eugène Nicolas",,,sold,4200,4620,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,53,,"Sartory, Eugène Nicolas",,,sold,2900,3190,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,54,,"Lupot, François I",,,sold,4400,4840,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,56,,"Sartory, Eugène Nicolas",,,sold,4800,5280,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,57,,"Sartory, Eugène Nicolas",,,sold,5200,5720,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,58,,"Sartory, Eugène Nicolas",,,sold,14500,15950,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,59,,"Sartory, Eugène Nicolas",,,sold,6200,6820,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,60,,"Sartory, Eugène Nicolas",,,sold,5600,6160,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,61,,"Vigneron, André 'Vigneron fils'",,,sold,800,880,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,66,,"Thomä, Arthur Adolf",,,sold,500,550,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,67,,"Weidhaas, Paul",,,sold,440,484,GBP,Secondary,Primary,Cello Bow
+,,1991-06-06,69,,"Sartory, Eugène Nicolas",,,sold,4000,4400,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,75,,"Voirin, François Nicolas",,,sold,3000,3300,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,77,,"Voirin, François Nicolas",,,sold,4400,4840,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,78,,Silvestre & Maucotel,,,sold,1200,1320,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,82,,"Laurent, Émile père",,,sold,,8250,GBP,Secondary,Cross-checked,Viola
+,,1991-06-06,86,,"Pareschi, Gaetano",,,sold,,2200,GBP,Secondary,Cross-checked,Viola
+,,1991-06-06,90,,"Smith, Arthur Edward",,,sold,4700,5170,GBP,Secondary,Primary,Viola
+,,1991-06-06,94,,Hart & Son,,,sold,,1870,GBP,Secondary,Cross-checked,Viola
+,,1991-06-06,98,,Moinel & Cherpitel Firm,,,sold,,3300,GBP,Secondary,Secondary,Viola
+,,1991-06-06,103,,"Wulme-Hudson, George",,,sold,,4400,GBP,Secondary,Cross-checked,Viola
+,,1991-06-06,106,,"Vuillaume, Nicolas François",,,sold,,8800,GBP,Secondary,Cross-checked,Viola
+,,1991-06-06,111,,"Hoyer, Johann Friedrich",,,sold,2000,2200,GBP,Secondary,Primary,Cello
+,,1991-06-06,112,,"Pillement, François",,,sold,,2200,GBP,Secondary,Cross-checked,Cello
+,,1991-06-06,115,,"Barrett, John",,,sold,,6050,GBP,Secondary,Cross-checked,Cello
+,,1991-06-06,120,,"Widhalm, Leopold I",,,sold,4500,4950,GBP,Secondary,Primary,Cello
+,,1991-06-06,122,,"Thorley, Nathaniel",,,sold,,1540,GBP,Secondary,Cross-checked,Cello
+,,1991-06-06,128,,"Preston, James",,,sold,5200,5720,GBP,Secondary,Primary,Cello
+,,1991-06-06,140,,"Sartory, Eugène Nicolas",,,sold,7200,7920,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,141,,"Sartory, Eugène Nicolas",,,sold,6200,6820,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,142,,"Sartory, Eugène Nicolas",,,sold,19500,21450,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,143,,"Sartory, Eugène Nicolas",,,sold,7000,7700,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,144,,"Sartory, Eugène Nicolas",,,sold,7500,8250,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,145,,"Hel, Pierre Joseph",,,sold,1800,1980,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,147,,"Dodd, James II",,,sold,1200,1320,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,149,,Gand & Bernardel Firm,,,sold,2000,2200,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,158,,"Thomassin, Louis Joseph",,,sold,1400,1540,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,159,,"Français, Emile Marcel",,,sold,4500,4950,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,162,,"Sartory, Eugène Nicolas",,,sold,10000,11000,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,163,,"Hill & Sons, W. E. Firm",,,sold,1200,1320,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,164,,"Hill & Sons, W. E. Firm",,,sold,1700,1870,GBP,Secondary,Primary,Cello Bow
+,,1991-06-06,165,,"Sartory, Eugène Nicolas",,,sold,4300,4730,GBP,Secondary,Primary,Cello Bow
+,,1991-06-06,169,,"Voirin, François Nicolas",,,sold,2700,2970,GBP,Secondary,Primary,Violin Bow
+,,1991-06-06,170,,"Hill & Sons, W. E. Firm",,,sold,740,814,GBP,Secondary,Primary,Cello Bow
+,,1991-06-06,174,,"Thibouville-Lamy, Jérôme Firm",,,sold,1400,1540,GBP,Secondary,Primary,Cello Bow
+,,1991-06-06,175,,Hart & Son,,,sold,800,880,GBP,Secondary,Primary,Cello Bow
+,,1991-06-06,183,,"Rocca, Enrico",,,sold,30000,33000,GBP,Secondary,Primary,Violin
+,,1991-06-06,185,,"Lechi, Antonio",,,sold,750,825,GBP,Secondary,Primary,Violin
+,,1991-06-06,190,,"Colin, Jean Baptiste",,,sold,1700,1870,GBP,Secondary,Primary,Violin
+,,1991-06-06,192,,"Wulme-Hudson, George",,,sold,3400,3740,GBP,Secondary,Primary,Violin
+,,1991-06-06,196,,"Hel, Pierre Joseph",,,sold,8200,9020,GBP,Secondary,Primary,Violin
+,,1991-06-06,198,,"Germain, Émile",,,sold,5000,5500,GBP,Secondary,Primary,Violin
+,,1991-06-06,201,,"Blondelet, Hugues Emile",,,sold,800,880,GBP,Secondary,Primary,Violin
+,,1991-06-06,204,,"Hardie, Matthew",,,sold,1800,1980,GBP,Secondary,Primary,Violin
+,,1991-06-06,205,,"Bisiach, Leandro I",,,sold,18000,19800,GBP,Secondary,Primary,Violin
+,,1991-06-06,208,,"Mennesson, Emile",,,sold,1700,1870,GBP,Secondary,Primary,Violin
+,,1991-06-06,213,,"Amati, Nicolò",,,sold,40000,44000,GBP,Secondary,Primary,Violin
+,,1991-06-06,215,,"Walton, William",,,sold,3200,3520,GBP,Secondary,Primary,Violin
+,,1991-06-06,217,,"Panormo, Vincenzo Trusiano",,,sold,22000,24200,GBP,Secondary,Primary,Violin
+,,1991-06-06,218,,"Nicolas, Didier l'aîné",,,sold,2200,2420,GBP,Secondary,Primary,Violin
+,,1991-06-06,221,,"Dall'Aglio, Giuseppe",,,sold,8800,9680,GBP,Secondary,Primary,Violin
+,,1991-06-06,223,,"Hel, Pierre Joseph",,,sold,6500,7150,GBP,Secondary,Primary,Violin
+,,1991-06-06,224,,"Ventapane, Lorenzo",,,sold,29000,31900,GBP,Secondary,Primary,Violin
+,,1991-06-06,226,,"Nicolas, Didier l'aîné",,,sold,1300,1430,GBP,Secondary,Primary,Violin
+,,1991-06-06,229,,"Wilkinson, Charles John",,,sold,2600,2860,GBP,Secondary,Primary,Violin
+,,1991-06-06,231,,"Morassi, Gio Battista",,,sold,3600,3960,GBP,Secondary,Primary,Violin
+,,1991-06-06,232,,"Melegari, Pietro & Enrico Clodoveo fratelli",,,sold,7200,7920,GBP,Secondary,Primary,Violin

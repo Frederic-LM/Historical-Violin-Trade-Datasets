@@ -1,0 +1,68 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2015-11-20,39,,"Withers, Edward I",,,sold,,2625,USD,Secondary,Secondary,Violin
+,,2015-11-20,42,,"Heinrich, Theodore",,,sold,,1875,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,44,,"Colin, Jean Baptiste",,,sold,,2625,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,45,,"Friedrich, John",,,sold,,6875,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,47,,"Roth, Ernst Heinrich [Firm of]",,,sold,,2080,USD,Secondary,Secondary,Violin
+,,2015-11-20,48,,Karoly Ferenczy-Tomasowsky,,,sold,,4063,USD,Secondary,Secondary,Violin
+,,2015-11-20,49,,"Todt, Heinrich Hermann",,,sold,,16250,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,50,,"Bassot, Joseph",,,sold,,12500,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,57,,"Petesh, Zenon Wladimir",,,sold,,10000,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,62,,"Gagliano, Giuseppe & Antonio",,,sold,,22500,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,66,,"Bazin, Charles Alfred",,,sold,,2875,USD,Secondary,Cross-checked,Viola Bow
+,,2015-11-20,76,,"Rosadoni, Giovanni",,,sold,,2600,USD,Secondary,Cross-checked,Viola
+,,2015-11-20,78,,"Stanley, Carlton F.",,,sold,,4063,USD,Secondary,Cross-checked,Viola
+,,2015-11-20,82,,"Franke, Rodolph",,,sold,,2375,USD,Secondary,Secondary,Viola
+,,2015-11-20,84,,"Hill, Albert Edgar Phillips",,,sold,,8125,USD,Secondary,Cross-checked,Viola
+,,2015-11-20,85,,"Nupieri, Giuseppe",,,sold,,3640,USD,Secondary,Cross-checked,Viola
+,,2015-11-20,89,,"Vuillaume, Jean-Baptiste",,,sold,,149000,USD,Secondary,Cross-checked,Viola
+,,2015-11-20,92,,"Pfretzschner, Hermann Richard",,,sold,,1875,USD,Secondary,Cross-checked,Cello Bow
+,,2015-11-20,97,,"Hill & Sons, W. E. Firm",,,sold,,406,USD,Secondary,Secondary,Cello Bow
+,,2015-11-20,98,,Charles Nicolas Bazin,,,sold,,1250,USD,Secondary,Secondary,Cello Bow
+,,2015-11-20,99,,Charles Alfred Bazin,,,sold,,2625,USD,Secondary,Secondary,Cello Bow
+,,2015-11-20,100,,James (II) Dodd,,,sold,,5000,USD,Secondary,Secondary,Cello Bow
+,,2015-11-20,102,,"Voirin, François Nicolas",,,sold,,12500,USD,Secondary,Cross-checked,Cello Bow
+,,2015-11-20,103,,"Dupuy, Georges Louis",,,sold,,4375,USD,Secondary,Secondary,Cello Bow
+,,2015-11-20,104,,"Lapierre, Marcel Charles",,,sold,,2500,USD,Secondary,Cross-checked,Cello Bow
+,,2015-11-20,111,,"Dolling, Robert A.",,,sold,,2000,USD,Secondary,Cross-checked,Cello
+,,2015-11-20,113,,"Oskay, William Frederick",,,sold,,3750,USD,Secondary,Cross-checked,Cello
+,,2015-11-20,115,,"Bernardel, Gustave Adolphe",,,sold,,6500,USD,Secondary,Cross-checked,Cello
+,,2015-11-20,120,,"Tononi, Carlo Annibale",,,sold,,209000,USD,Secondary,Cross-checked,Cello
+,,2015-11-20,130,,"Roth, Ernst Heinrich",,,sold,,260,USD,Secondary,Secondary,Violin Bow
+,,2015-11-20,141,,"Hoyer, Otto A.",,,sold,,2625,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,142,,"Hoyer, Otto A.",,,sold,,375,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,144,,"Pfretzschner, Hermann Richard",,,sold,,1250,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,149,,"Tubbs, Edward",,,sold,,3750,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,151,,"Neuner, Ludwig",,,sold,,2600,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,154,,"Nürnberger, Albert",,,sold,,1250,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,156,,"Hill & Sons, W. E. Firm",,,sold,,3125,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,157,,James (II) Dodd,,,sold,,5625,USD,Secondary,Secondary,Violin Bow
+,,2015-11-20,159,,"Thomassin, Claude Auguste",,,sold,,3125,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,163,,"Hill & Sons, W. E. Firm",,,sold,,2600,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,165,,"Voirin, François Nicolas",,,sold,,18750,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,166,,"Hill & Sons, W. E. Firm",,,sold,,2600,USD,Secondary,Secondary,Violin Bow
+,,2015-11-20,172,,"Pajeot, Louis Simon",,,sold,,25000,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,173,,"Peccatte, Charles",,,sold,,12500,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,176,,"Simon, Pierre",,,sold,,27500,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,178,,"Peccatte, Charles",,,sold,,22500,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,179,,"Millant, Jean-Jacques",,,sold,,16250,USD,Secondary,Cross-checked,Violin Bow
+,,2015-11-20,180,,"Juzek, Jan (John)",,,sold,,625,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,182,,"Fuchs, Wenzl",,,sold,,2500,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,189,,"Friedrich, John",,,sold,,1375,USD,Secondary,Secondary,Violin
+,,2015-11-20,193,,"Peters, William L.",,,sold,,845,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,194,,"Alexander, Joseph",,,sold,,520,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,198,,"Durrschmidt, Wilhelm August",,,sold,,1188,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,199,,"Ficker, Gustav August",,,sold,,2250,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,201,,"Ball, Frank Cannon",,,sold,,3250,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,202,,"Cox, William",,,sold,,1560,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,203,,"Schmidt, Ernst Reinhold",,,sold,,438,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,214,,"Schuster, Max",,,sold,,2500,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,220,,"Lavest, Jules",,,sold,,1875,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,222,,"Robinson, William",,,sold,,3750,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,226,,"Vasich, Nicholas",,,sold,,2000,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,227,,"Antonelli, Gino",,,sold,,5000,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,228,,"Pulpaneck, Fritz",,,sold,,5000,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,230,,Alfred Ernest Chanot,,,sold,,1375,USD,Secondary,Secondary,Violin
+,,2015-11-20,241,,"Candi, Oreste",,,sold,,10000,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,250,,"Lutz, Ignaz Anton",,,sold,,6250,USD,Secondary,Cross-checked,Violin
+,,2015-11-20,258,,"Deconet, Michele",,,sold,,43750,USD,Secondary,Cross-checked,Violin

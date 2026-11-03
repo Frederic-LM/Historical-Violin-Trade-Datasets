@@ -1,0 +1,72 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,4,,Benjamin (I) Banks,,,sold,,7200,GBP,Secondary,Secondary,Violin
+,,,7,,Thomas (I) Perry,,,sold,,4200,GBP,Secondary,Secondary,Violin
+,,,9,,Georges Adolphe Chanot,,,sold,,12000,GBP,Secondary,Secondary,Violin
+,,,12,,Giovanni Schwarz,,,sold,,16800,GBP,Secondary,Secondary,Violin
+,,,16,,Enrico Marchetti,,,sold,,28800,GBP,Secondary,Secondary,Violin
+,,,17,,Enrico Rocca,,,sold,,132000,GBP,Secondary,Secondary,Violin
+,,,18,,George Craske,,,sold,,3600,GBP,Secondary,Secondary,Violin
+,,,20,,Giovanni Pistucci,,,sold,,33600,GBP,Secondary,Secondary,Violin
+,,,24,,Antonio Gragnani,,,sold,,36000,GBP,Secondary,Secondary,Violin
+,,,26,,Franz Geissenhof,,,sold,,33600,GBP,Secondary,Secondary,Violin
+,,,27,,Giuseppe Stefanini,,,sold,,11400,GBP,Secondary,Secondary,Violin
+,,,30,,Richard (II) Duke,,,sold,,10800,GBP,Secondary,Secondary,Violin
+,,,31,,Oreste Candi,,,sold,,13200,GBP,Secondary,Secondary,Violin
+,,,36,,Jean-Baptiste Vuillaume,,,sold,,156000,GBP,Secondary,Secondary,Violin
+,,,37,,Emile Francois Ouchard,,,sold,,2400,GBP,Secondary,Secondary,Violin Bow
+,,,51,,James Tubbs,,,sold,,2880,GBP,Secondary,Secondary,Violin Bow
+,,,52,,Benoit Rolland,,,sold,,8400,GBP,Secondary,Secondary,Violin Bow
+,,,54,,Hermann Richard Pfretzschner,,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,,60,,Albert Nurnberger,,,sold,,2280,GBP,Secondary,Secondary,Violin Bow
+,,,62,,C. Hans-Karl Schmidt,,,sold,,2280,GBP,Secondary,Secondary,Violin Bow
+,,,64,,John Clutterbuck,,,sold,,960,GBP,Secondary,Secondary,Violin Bow
+,,,65,,Louis Joseph Morizot,,,sold,,4200,GBP,Secondary,Secondary,Violin Bow
+,,,68,,James (II) Dodd,,,sold,,1800,GBP,Secondary,Secondary,Violin Bow
+,,,69,,Francois Xavier Tourte,,,sold,,108000,GBP,Secondary,Secondary,Violin Bow
+,,,70,,Anton Bachmann,,,sold,,7800,GBP,Secondary,Secondary,Cello
+,,,73,,Charles Claude Francois Darche,,,sold,,26400,GBP,Secondary,Secondary,Cello
+,,,74,,Francois Chanot,,,sold,,3600,GBP,Secondary,Secondary,Cello
+,,,76,,Henry Lockey Hill,,,sold,,26400,GBP,Secondary,Secondary,Cello
+,,,78,,Thomas Kennedy,,,sold,,21600,GBP,Secondary,Secondary,Cello
+,,,82,,Thomas Kennedy,,,sold,,21600,GBP,Secondary,Secondary,Cello
+,,,84,,Enrico Politi,,,sold,,36000,GBP,Secondary,Secondary,Cello
+,,,86,,Hermann Richard Pfretzschner,,,sold,,3840,GBP,Secondary,Secondary,Cello Bow
+,,,88,,Louis Panormo,,,sold,,1920,GBP,Secondary,Secondary,Cello Bow
+,,,90,,Dominique Peccatte,,,sold,,45600,GBP,Secondary,Secondary,Cello Bow
+,,,91,,Jean Dominique Adam,,,sold,,7200,GBP,Secondary,Secondary,Cello Bow
+,,,92,,Jérôme Thibouville Lamy,,,sold,,3600,GBP,Secondary,Secondary,Cello Bow
+,,,93,,Louis Joseph Morizot,,,sold,,4800,GBP,Secondary,Secondary,Cello Bow
+,,,98,,Albert Nurnberger,,,sold,,3600,GBP,Secondary,Secondary,Cello Bow
+,,,99,,James Tubbs,,,sold,,5760,GBP,Secondary,Secondary,Cello Bow
+,,,101,,Charles Nicolas Bazin,,,sold,,5400,GBP,Secondary,Secondary,Cello Bow
+,,,102,,Marcel Lapierre,,,sold,,1560,GBP,Secondary,Secondary,Viola Bow
+,,,104,,Jean Jacques Millant,,,sold,,5400,GBP,Secondary,Secondary,Viola Bow
+,,,106,,William Tubbs,,,sold,,5040,GBP,Secondary,Secondary,Viola Bow
+,,,111,,Bernhard Simon Fendt,,,sold,,8400,GBP,Secondary,Secondary,Violin
+,,,120,,Jean-Baptiste Vuillaume,,,sold,,84000,GBP,Secondary,Secondary,Violin
+,,,123,,Mario Gadda,,,sold,,10200,GBP,Secondary,Secondary,Violin
+,,,125,,Benjamin (I) Banks,,,sold,,3000,GBP,Secondary,Secondary,Violin
+,,,128,,Georg Winterling,,,sold,,4200,GBP,Secondary,Secondary,Violin
+,,,137,,Richard Tobin,,,sold,,6000,GBP,Secondary,Secondary,Violin
+,,,141,,Hugh William Cooper,,,sold,,2280,GBP,Secondary,Secondary,Violin
+,,,145,,Antonio Gragnani,,,sold,,120000,GBP,Secondary,Secondary,Violin
+,,,163,,Claude-Augustin Miremont,,,sold,,11400,GBP,Secondary,Secondary,Viola
+,,,168,,Bruno Barbieri,,,sold,,2880,GBP,Secondary,Secondary,Viola
+,,,169,,Joseph Curtin,,,sold,,11400,GBP,Secondary,Secondary,Viola
+,,,172,,Gustave Adolphe Bernardel,,,sold,,9600,GBP,Secondary,Secondary,Viola
+,,,179,,Riccardo Genovese,,,sold,,48000,GBP,Secondary,Secondary,Viola
+,,,184,,Charles Peccatte,,,sold,,10800,GBP,Secondary,Secondary,Violin Bow
+,,,187,,Bernard Ouchard,,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,,188,,Charles Nicolas Bazin,,,sold,,3600,GBP,Secondary,Secondary,Violin Bow
+,,,191,,Johann Wilhelm Knopf,,,sold,,1920,GBP,Secondary,Secondary,Violin Bow
+,,,195,,Victor Fetique,,,sold,,10800,GBP,Secondary,Secondary,Violin Bow
+,,,196,,Pierre Simon,,,sold,,19200,GBP,Secondary,Secondary,Violin Bow
+,,,197,,James Tubbs,,,sold,,1920,GBP,Secondary,Secondary,Violin Bow
+,,,205,,Nicolas Maline,,,sold,,9600,GBP,Secondary,Secondary,Violin Bow
+,,,206,,Pierre Simon,,,sold,,50400,GBP,Secondary,Secondary,Violin Bow
+,,,223,,Emil Hjorth,,,sold,,4560,GBP,Secondary,Secondary,Violin
+,,,234,,(Domenico) Michele Platner,,,sold,,36000,GBP,Secondary,Secondary,Violin
+,,,237,,Hendrik Jacobs,,,sold,,25100,GBP,Secondary,Secondary,Violin
+,,,238,,Jean-Baptiste Vuillaume,,,sold,,156000,GBP,Secondary,Secondary,Violin
+,,,239,,Gennaro Gagliano,,,sold,,180000,GBP,Secondary,Secondary,Violin
+,,,240,,Andrea Guarneri,,,sold,,144000,GBP,Secondary,Secondary,Violin

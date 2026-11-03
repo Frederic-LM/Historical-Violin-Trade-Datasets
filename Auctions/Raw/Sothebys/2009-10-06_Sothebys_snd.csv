@@ -1,0 +1,65 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2009-10-06,3,,"Radrizzani, Angelo",,,sold,,5625,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,5,,"Sderci, Igino",,,sold,,20000,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,9,,"Widhalm, Gallus Ignatius",,,sold,,10625,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,11,,"Derazey, Justin Amedée",,,sold,,875,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,12,,"Postiglione, Vincenzo II",,,sold,,36050,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,13,,"Antoniazzi, Romeo",,,sold,,9375,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,15,,"Bagatella, Antonio II",,,sold,,34850,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,16,,"Klotz, Sebastian I",,,sold,,7500,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,19,,"Grancino, Giovanni Battista I",,,sold,,51650,GBP,Secondary,Secondary,Violin
+,,2009-10-06,22,,"Gagliano, Gennaro",,,sold,,39650,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,23,,"Amati, Nicolò",,,sold,,49250,GBP,Secondary,Secondary,Violin
+,,2009-10-06,25,,"Fendt, Bernard Simon II",,,sold,,2750,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,26,,"Hofmans, Matthias III",,,sold,,22500,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,27,,"Gagliano, Giuseppe & Antonio",,,sold,,49250,GBP,Secondary,Secondary,Violin
+,,2009-10-06,28,,"Vigneron, Joseph Arthur père",,,sold,,3750,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,30,,"Sartory, Eugène Nicolas",,,sold,,8750,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,31,,"Gillet, Louis Henri",,,sold,,5625,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,32,,"Lamy, Joseph Alfred père",,,sold,,3750,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,33,,"Simon, Nicolas FR",,,sold,,5250,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,34,,"Simon, Nicolas FR",,,sold,,2375,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,37,,"Hill & Sons, W. E. Firm",,,sold,,2500,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,38,,"Hill & Sons, W. E. Firm",,,sold,,4000,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,39,,"Hill & Sons, W. E. Firm",,,sold,,4375,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,40,,"Tubbs, James",,,sold,,4000,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,41,,"Tubbs, James",,,sold,,5250,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,46,,Hart & Son,,,sold,,4000,GBP,Secondary,Secondary,Violin Bow
+,,2009-10-06,51,,"Dodd, John I",,,sold,,2000,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,53,,"Adam, Jean 'Grand'",,,sold,,25000,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,55,,"Peccatte, Charles",,,sold,,7500,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,56,,"Vuillaume, Jean-Baptiste",,,sold,,7500,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,57,,"Conia, Stefano",,,sold,,5000,GBP,Secondary,Cross-checked,Viola
+,,2009-10-06,62,,"Carcassi, Lorenzo",,,sold,,30000,GBP,Secondary,Secondary,Viola
+,,2009-10-06,64,,"Capela, Antonio",,,sold,,4750,GBP,Secondary,Secondary,Viola
+,,2009-10-06,65,,"Gilkes, Samuel",,,sold,,34850,GBP,Secondary,Cross-checked,Viola
+,,2009-10-06,67,,"Rosadoni, Giovanni",,,sold,,3500,GBP,Secondary,Cross-checked,Viola
+,,2009-10-06,68,,"Cuypers, Johannes Theodorus",,,sold,,30000,GBP,Secondary,Cross-checked,Viola
+,,2009-10-06,80,,"Audinot, Nestor Dominique",,,sold,,21250,GBP,Secondary,Cross-checked,Cello
+,,2009-10-06,84,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,79250,GBP,Secondary,Cross-checked,Cello
+,,2009-10-06,85,,"Kennedy, Thomas",,,sold,,8125,GBP,Secondary,Cross-checked,Cello
+,,2009-10-06,90,,"Michetti, Plinio",,,sold,,34850,GBP,Secondary,Cross-checked,Cello
+,,2009-10-06,94,,"Panormo, Vincenzo & Joseph",,,sold,,79250,GBP,Secondary,Secondary,Cello
+,,2009-10-06,96,,"Lamy, Hippolyte Camille dit 1er fils",,,sold,,8750,GBP,Secondary,Secondary,Violin Bow
+,,2009-10-06,97,,"Lamy, Hippolyte Camille dit 1er fils",,,sold,,8125,GBP,Secondary,Secondary,Violin Bow
+,,2009-10-06,99,,"Voirin, François Nicolas",,,sold,,4875,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,103,,"Watson, William D.",,,sold,,1875,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,104,,"Watson, William D.",,,sold,,2750,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,105,,"Bultitude, Arthur Richard",,,sold,,3000,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,106,,"Hill & Sons, W. E. Firm",,,sold,,6250,GBP,Secondary,Cross-checked,Viola Bow
+,,2009-10-06,107,,"Fétique, Jules",,,sold,,10625,GBP,Secondary,Cross-checked,Viola Bow
+,,2009-10-06,110,,"Lamy, Joseph Alfred père",,,sold,,3500,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,111,,"Hill & Sons, W. E. Firm",,,sold,,1250,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,112,,"Hill & Sons, W. E. Firm",,,sold,,1875,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-10-06,113,,"Sartory, Eugène Nicolas",,,sold,,10000,GBP,Secondary,Cross-checked,Cello Bow
+,,2009-10-06,114,,"Hill & Sons, W. E. Firm",,,sold,,1625,GBP,Secondary,Cross-checked,Cello Bow
+,,2009-10-06,115,,"Hill & Sons, W. E. Firm",,,sold,,2500,GBP,Secondary,Cross-checked,Cello Bow
+,,2009-10-06,115A,,"Hill & Sons, W. E. Firm",,,sold,,5000,GBP,Secondary,Cross-checked,Cello Bow
+,,2009-10-06,115AA,,"Hill & Sons, W. E. Firm",,,sold,,5000,GBP,Secondary,Secondary,Cello Bow
+,,2009-10-06,120,,"Rogeri, Giovanni Battista",,,sold,,34850,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,124,,"Cappa, Gioffredo",,,sold,,37250,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,128,,"Lavazza, Carlo Antonio Santino",,,sold,,61250,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,135,,"Altavilla, Armando",,,sold,,10000,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,137,,"Eberle, Tomaso",,,sold,,30000,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,138,,"Oddone, Carlo Giuseppe",,,sold,,43250,GBP,Secondary,Cross-checked,Violin
+,,2009-10-06,139,,"Gagliano, Nicolò",,,sold,,121250,GBP,Secondary,Cross-checked,Violin

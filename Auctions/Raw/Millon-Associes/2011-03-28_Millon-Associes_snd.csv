@@ -1,0 +1,12 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2011-03-28,62,,"Bernardel, Léon",,,sold,,336,EUR,Secondary,Cross-checked,Violin
+,,2011-03-28,72,,"Mermillot, Maurice",,,sold,,264,EUR,Secondary,Cross-checked,Violin
+,,2011-03-28,85,,"Thomassin, Claude Auguste",,,sold,,3600,EUR,Secondary,Cross-checked,Violin Bow
+,,2011-03-28,105,,"Blondelet, Hugues Emile",,,sold,,1080,EUR,Secondary,Cross-checked,Violin
+,,2011-03-28,127,,"Audinot, Nestor Dominique",,,sold,,300,EUR,Secondary,Cross-checked,Violin
+,,2011-03-28,152,,"Cherpitel, Louis",,,sold,,360,EUR,Secondary,Cross-checked,Violin
+,,2011-03-28,192,,"Tourte, Nicolas Léonard 'l'Ainé'",,,sold,,5400,EUR,Secondary,Cross-checked,Cello Bow
+,,2011-03-28,196,,"Lamy, Joseph Alfred père",,,sold,,9000,EUR,Secondary,Secondary,Cello Bow
+,,2011-03-28,201,,"Vuillaume, Nicolas III",,,sold,,9000,EUR,Secondary,Cross-checked,Cello
+,,2011-03-28,206,,"Thibouville-Lamy, Jérôme Firm",,,sold,,8160,EUR,Secondary,Cross-checked,Cello
+,,2011-03-28,232,,"Bazin, Charles Alfred",,,sold,,960,EUR,Secondary,Secondary,Viola Bow

@@ -1,0 +1,13 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-06-19,5,,"Barbé, Mathias Theophile Auguste",,,sold,,1150,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-06-19,8,,"Neudorfer, Rudolf",,,sold,,575,GBP,Secondary,Secondary,Violin Bow
+,,2001-06-19,12,,"Hill & Sons, W. E. Firm",,,sold,,805,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-06-19,24A,,"Wilson, Garner",,,sold,,575,GBP,Secondary,Secondary,Violin Bow
+,,2001-06-19,29,,"Hoyer, Otto A.",,,sold,,2300,GBP,Secondary,Cross-checked,Viola Bow
+,,2001-06-19,30,,"Dodd, John I",,,sold,,1570,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-06-19,31,,"Hill & Sons, W. E. Firm",,,sold,,1610,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-06-19,37,,"Dollenz, Giovanni",,,sold,,37950,GBP,Secondary,Cross-checked,Cello
+,,2001-06-19,65,,"Deblaye, Albert",,,sold,,1150,GBP,Secondary,Cross-checked,Violin
+,,2001-06-19,80,,"Neuner, Mathias II",,,sold,,1840,GBP,Secondary,Cross-checked,Violin
+,,2001-06-19,92,,"Dobretsovich, Marco",,,sold,,5405,GBP,Secondary,Cross-checked,Violin
+,,2001-06-19,,,"Dollenz, Giovanni",,,sold,,37950,GBP,Secondary,Secondary,Cello

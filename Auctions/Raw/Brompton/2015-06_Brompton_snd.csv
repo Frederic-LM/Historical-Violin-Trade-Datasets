@@ -1,0 +1,71 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,1,,Albert Nurnberger,,,sold,,960,GBP,Secondary,Secondary,Violin Bow
+,,,8,,Leopold Pfretzschner,,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,,19,,Edwin August Prager,,,sold,,600,GBP,Secondary,Secondary,Violin Bow
+,,,21,,Morizot Frères,,,sold,,840,GBP,Secondary,Secondary,Violin Bow
+,,,23,,Herbert Wanka,,,sold,,480,GBP,Secondary,Secondary,Violin Bow
+,,,24,,Garner Wilson,,,sold,,600,GBP,Secondary,Secondary,Violin Bow
+,,,26,,Gustav Adolf Prager,,,sold,,336,GBP,Secondary,Secondary,Violin Bow
+,,,28,,Hermann Richard Pfretzschner,,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,,32,,Leopold Pfretzschner,,,sold,,960,GBP,Secondary,Secondary,Violin Bow
+,,,36,,Ludwig Christian August Bausch,,,sold,,2280,GBP,Secondary,Secondary,Violin Bow
+,,,44,,Hermann Richard Pfretzschner,,,sold,,1320,GBP,Secondary,Secondary,Violin Bow
+,,,45,,Richard Grunke,,,sold,,1560,GBP,Secondary,Secondary,Violin Bow
+,,,47,,Albert Nurnberger,,,sold,,216,GBP,Secondary,Secondary,Violin Bow
+,,,63,,Wilhelm Hermann Hammig,,,sold,,1560,GBP,Secondary,Secondary,Violin Bow
+,,,69,,Albert Nurnberger,,,sold,,504,GBP,Secondary,Secondary,Violin Bow
+,,,74,,Louis Bazin,,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,,76,,Albert Nurnberger,,,sold,,1400,GBP,Secondary,Secondary,Violin Bow
+,,,80,,Louis Bazin,,,sold,,1400,GBP,Secondary,Secondary,Violin Bow
+,,,83,,John Rae,,,sold,,720,GBP,Secondary,Secondary,Violin
+,,,92,,Wolff Brothers,,,sold,,120,GBP,Secondary,Secondary,Violin
+,,,101,,Ernst Otto Martin,,,sold,,660,GBP,Secondary,Secondary,Violin
+,,,102,,A. G. Stevens,,,sold,,120,GBP,Secondary,Secondary,Violin
+,,,144,,Karel Van der Meer,,,sold,,1020,GBP,Secondary,Secondary,Violin
+,,,146,,Jérôme Thibouville Lamy,,,sold,,192,GBP,Secondary,Secondary,Violin
+,,,155,,Perry & Wilkinson,,,sold,,1080,GBP,Secondary,Secondary,Violin
+,,,157,,William Tarr,,,sold,,960,GBP,Secondary,Secondary,Violin
+,,,171,,August Hermann Braun,,,sold,,1020,GBP,Secondary,Secondary,Violin
+,,,174,,Jérôme Thibouville Lamy,,,sold,,300,GBP,Secondary,Secondary,Violin
+,,,188,,Joseph Francois Breton,,,sold,,720,GBP,Secondary,Secondary,Viola
+,,,219,,Hermann Richard Pfretzschner,,,sold,,1020,GBP,Secondary,Secondary,Viola Bow
+,,,222,,Gustav Adolf Prager,,,sold,,960,GBP,Secondary,Secondary,Viola Bow
+,,,223,,Hermann Richard Pfretzschner,,,sold,,2160,GBP,Secondary,Secondary,Cello Bow
+,,,257,,Wilhelm Hermann Hammig,,,sold,,600,GBP,Secondary,Secondary,Cello Bow
+,,,261,,Richard Weichold,,,sold,,1080,GBP,Secondary,Secondary,Cello Bow
+,,,265,,Roger Lotte,,,sold,,720,GBP,Secondary,Secondary,Cello Bow
+,,,274,,Couesnon,,,sold,,336,GBP,Secondary,Secondary,Violin
+,,,279,,Johann (II) Knilling,,,sold,,420,GBP,Secondary,Secondary,Violin
+,,,284,,J. Somny-Ouchard,,,sold,,720,GBP,Secondary,Secondary,Violin
+,,,287,,James Brown,,,sold,,132,GBP,Secondary,Secondary,Violin
+,,,298,,Charles Fetique,,,sold,,600,GBP,Secondary,Secondary,Violin
+,,,323,,Charles Bartley Johnson,,,sold,,360,GBP,Secondary,Secondary,Violin
+,,,325,,Louis Lowendall,,,sold,,192,GBP,Secondary,Secondary,Violin
+,,,327,,Charles (II) Simonin,,,sold,,420,GBP,Secondary,Secondary,Violin
+,,,348,,Carl Meyer,,,sold,,120,GBP,Secondary,Secondary,Violin
+,,,351,,Gabriel Magniere,,,sold,,600,GBP,Secondary,Secondary,Violin
+,,,368,,Pierre Simon,,,sold,,14400,GBP,Secondary,Secondary,Violin Bow
+,,,373,,James Tubbs,,,sold,,4800,GBP,Secondary,Secondary,Violin Bow
+,,,374,,Morizot Frères,,,sold,,600,GBP,Secondary,Secondary,Violin Bow
+,,,393,,Charles Peccatte,,,sold,,6000,GBP,Secondary,Secondary,Violin Bow
+,,,394,,James Tubbs,,,sold,,1740,GBP,Secondary,Secondary,Violin Bow
+,,,400,,Albert Nurnberger,,,sold,,1080,GBP,Secondary,Secondary,Violin Bow
+,,,445,,Honore Derazey,,,sold,,4200,GBP,Secondary,Secondary,Violin
+,,,456,,Martin Leopold (Leopold II) Widhalm,,,sold,,9000,GBP,Secondary,Secondary,Violin
+,,,483,,Rene Morizot,,,sold,,2160,GBP,Secondary,Secondary,Viola
+,,,495,,Louis Guersan,,,sold,,3600,GBP,Secondary,Secondary,Cello
+,,,503,,Joseph Panormo,,,sold,,34800,GBP,Secondary,Secondary,Cello
+,,,533,,James Tubbs,,,sold,,3600,GBP,Secondary,Secondary,Violin Bow
+,,,535,,Victor Thomassin,,,sold,,4800,GBP,Secondary,Secondary,Viola Bow
+,,,539,,Louis Joseph Morizot,,,sold,,1200,GBP,Secondary,Secondary,Viola Bow
+,,,542,,Albert Nurnberger,,,sold,,2640,GBP,Secondary,Secondary,Viola Bow
+,,,543,,Frank Passa,,,sold,,2160,GBP,Secondary,Secondary,Viola Bow
+,,,547,,Jean Joseph Martin,,,sold,,2400,GBP,Secondary,Secondary,Cello Bow
+,,,548,,Marcel Lapierre,,,sold,,1200,GBP,Secondary,Secondary,Cello Bow
+,,,552,,Louis Joseph Morizot,,,sold,,2040,GBP,Secondary,Secondary,Cello Bow
+,,,554,,Albert Nurnberger,,,sold,,2160,GBP,Secondary,Secondary,Cello Bow
+,,,555,,Samuel Allen,,,sold,,3000,GBP,Secondary,Secondary,Cello Bow
+,,,557,,Charles Nicolas Bazin,,,sold,,1680,GBP,Secondary,Secondary,Cello Bow
+,,,562,,Michael Strobl,,,sold,,5760,GBP,Secondary,Secondary,Violin
+,,,577,,John K. Empsall,,,sold,,480,GBP,Secondary,Secondary,Violin
+,,,621,,Luigi Cardi,,,sold,,6600,GBP,Secondary,Secondary,Violin

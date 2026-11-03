@@ -1,0 +1,29 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-11-12,16,,"Alvey, Brian",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,2001-11-12,20,,"Penzel, Gerhard Kurt",,,sold,,252,GBP,Secondary,Secondary,Violin Bow
+,,2001-11-12,26,,"Hill & Sons, W. E. Firm",,,sold,,1265,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-11-12,35,,"Bultitude, Arthur Richard",,,sold,,1725,GBP,Secondary,Cross-checked,Violin Bow
+,,2001-11-12,39,,"Tubbs, James",,,sold,,9000,GBP,Secondary,Cross-checked,Viola Bow
+,,2001-11-12,42,,"Lamy, Alfred dit neveu",,,sold,,5500,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-11-12,44,,"Hill & Sons, W. E. Firm",,,sold,,1150,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-11-12,46,,"Cuniot, Eugène ""Cuniot-Hury""",,,sold,,575,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-11-12,47,,"Lotte, François",,,sold,,690,GBP,Secondary,Cross-checked,Cello Bow
+,,2001-11-12,49,,"Pedrazzini, Giuseppe",,,sold,,34500,GBP,Secondary,Cross-checked,Cello
+,,2001-11-12,50,,"Hill, Lockey",,,sold,,16100,GBP,Secondary,Cross-checked,Cello
+,,2001-11-12,51,,"Boquay, Jacques",,,sold,,19550,GBP,Secondary,Cross-checked,Cello
+,,2001-11-12,52,,"Pagliacci, Aldo",,,sold,,11500,GBP,Secondary,Cross-checked,Cello
+,,2001-11-12,58,,"Hill, Lockey",,,sold,,23000,GBP,Secondary,Cross-checked,Cello
+,,2001-11-12,78,,"Fleury, Benoit",,,sold,,2875,GBP,Secondary,Cross-checked,Viola
+,,2001-11-12,79,,"Mandelli, Camillo 'da Calco'",,,sold,,11730,GBP,Secondary,Cross-checked,Viola
+,,2001-11-12,81,,"Ventapane, Lorenzo",,,sold,,25300,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,84,,"Pistucci, Giovanni",,,sold,,5170,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,90,,"Pedrazzini, Giuseppe",,,sold,,18975,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,101,,"Klotz, Aegidius Sebastian",,,sold,,3680,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,123,,"Cavani, Giovanni",,,sold,,8050,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,129,,"Rossi, Guglielmo",,,sold,,12075,GBP,Secondary,Secondary,Violin
+,,2001-11-12,141,,"Eberle, Tomaso",,,sold,,11500,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,152,,"Harris, John Edward",,,sold,,862,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,,,"Pedrazzini, Giuseppe",,,sold,,18975,GBP,Secondary,Secondary,Violin
+,,2001-11-12,,,"Pedrazzini, Giuseppe",,,sold,,34500,GBP,Secondary,Secondary,Cello
+,,2001-11-12,,,"Rugeri, Francesco",,,sold,,111500,GBP,Secondary,Cross-checked,Violin
+,,2001-11-12,,,"Ventapane, Lorenzo",,,sold,,25300,GBP,Secondary,Secondary,Violin

@@ -1,0 +1,63 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1993-11-15,61,,"Chevry, Andre Augustin",,,sold,,1562,USD,Secondary,Secondary,Small Violin
+,,1993-11-15,73,,Laberte-Humbert Frères Firm,,,sold,,1757,USD,Secondary,Secondary,Violin
+,,1993-11-15,77,,"Claudot, Charles I",,,sold,,1627,USD,Secondary,Secondary,Violin
+,,1993-11-15,81,,"Mathieu, Nicolas",,,sold,,1627,USD,Secondary,Secondary,Violin
+,,1993-11-15,82,,"Mougenot, Léon Victor",,,sold,,3709,USD,Secondary,Secondary,Violin
+,,1993-11-15,83,,"Klotz, Matthias I",,,sold,,3253,USD,Secondary,Secondary,Viola
+,,1993-11-15,85,,"Klotz, Joseph Thomas",,,sold,,3904,USD,Secondary,Secondary,Violin
+,,1993-11-15,101,,"Weidhaas, Paul",,,sold,,716,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,102,,"Pfretzschner, Hermann Richard",,,sold,,390,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,103,,"Pfretzschner, Hermann Richard",,,sold,,586,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,105,,"Schuster, Adolf Curt",,,sold,,293,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,109,,"Jombar, Paul",,,sold,,846,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,112,,"Grünke, Richard",,,sold,,911,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,113,,"Chalupetzky, Franz",,,sold,,586,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,115,,"Chalupetzky, Franz",,,sold,,846,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,116,,"Blanchard, Paul Francois",,,sold,,521,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,117,,"Lotte, Roger François",,,sold,,911,USD,Secondary,Secondary,Viola Bow
+,,1993-11-15,122,,"Pfretzschner, Hermann Richard",,,sold,,2277,USD,Secondary,Secondary,Cello Bow
+,,1993-11-15,124,,"Thomassin, Claude Auguste",,,sold,,3384,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,125,,"Lamy, Alfred dit neveu",,,sold,,4230,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,126,,"Maline, Guillaume",,,sold,,2603,USD,Secondary,Secondary,Viola Bow
+,,1993-11-15,127,,"Sartory, Eugène Nicolas",,,sold,,7158,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,129,,"Lippold, Carl Friedrich",,,sold,,1301,USD,Secondary,Secondary,Violin
+,,1993-11-15,133,,"Schünemann, Otto",,,sold,,2603,USD,Secondary,Secondary,Violin
+,,1993-11-15,136,,"Gemünder, August Martin",,,sold,,2993,USD,Secondary,Secondary,Violin
+,,1993-11-15,139,,"Socquet, Louis",,,sold,,3253,USD,Secondary,Secondary,Violin
+,,1993-11-15,141,,"Mermillot, Maurice",,,sold,,3253,USD,Secondary,Secondary,Violin
+,,1993-11-15,145,,"Neuner, Ludwig",,,sold,,4034,USD,Secondary,Secondary,Violin
+,,1993-11-15,146,,"Klotz, Sebastian I",,,sold,,5206,USD,Secondary,Secondary,Violin
+,,1993-11-15,147,,"Vissenaire, Louis Nicolas",,,sold,,5856,USD,Secondary,Secondary,Violin
+,,1993-11-15,148,,"Capela, Antonio",,,sold,,5206,USD,Secondary,Secondary,Viola
+,,1993-11-15,151,,"Derazey, Honoré (Jean-Joseph)",,,sold,,5206,USD,Secondary,Secondary,Violin
+,,1993-11-15,152,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,4099,USD,Secondary,Secondary,Violin
+,,1993-11-15,153,,"Mozzani, Luigi",,,sold,,5856,USD,Secondary,Secondary,Viola
+,,1993-11-15,154,,Silvestre & Maucotel,,,sold,,7808,USD,Secondary,Secondary,Violin
+,,1993-11-15,155,,"Pirot, Claude",,,sold,,6507,USD,Secondary,Secondary,Violin
+,,1993-11-15,156,,"Postiglione, Vincenzo II",,,sold,,12363,USD,Secondary,Secondary,Violin
+,,1993-11-15,157,,"Pistucci, Giovanni",,,sold,,20172,USD,Secondary,Secondary,Violin
+,,1993-11-15,158,,"Vuillaume, Jean-Baptiste",,,sold,,13665,USD,Secondary,Secondary,Violin
+,,1993-11-15,159,,"Bernardel, Gustave Adolphe",,,sold,,13665,USD,Secondary,Secondary,Violin
+,,1993-11-15,160,,"Scarampella, Stefano",,,sold,,15617,USD,Secondary,Secondary,Violin
+,,1993-11-15,161,,"Gagliano, Giuseppe",,,sold,,15617,USD,Secondary,Secondary,Violin
+,,1993-11-15,162,,"Bernardel, Gustave Adolphe",,,sold,,22774,USD,Secondary,Secondary,Viola
+,,1993-11-15,163,,"Gagliano, Raffaele & Antonio",,,sold,,24726,USD,Secondary,Secondary,Violin
+,,1993-11-15,164,,"Busan, Domenico",,,sold,,87844,USD,Secondary,Secondary,Viola
+,,1993-11-15,165,,"Rogeri, Giovanni Battista",,,sold,,136646,USD,Secondary,Secondary,Violin
+,,1993-11-15,205,,"Clotelle, H.",,,sold,,586,USD,Secondary,Secondary,Violin
+,,1993-11-15,222,,"Besseling, Matthieu",,,sold,,3384,USD,Secondary,Secondary,Viola
+,,1993-11-15,223,,"Ficker, Johann Christian II",,,sold,,2798,USD,Secondary,Secondary,Violin
+,,1993-11-15,224,,"Neuner, Mathias II",,,sold,,2928,USD,Secondary,Secondary,Violin
+,,1993-11-15,228,,"Bolink, Jaap",,,sold,,3904,USD,Secondary,Secondary,Violin
+,,1993-11-15,229,,"Reber, Pancratius II",,,sold,,4555,USD,Secondary,Secondary,Violin
+,,1993-11-15,230,,"Dallinger, Sebastian",,,sold,,4555,USD,Secondary,Secondary,Violin
+,,1993-11-15,231,,"Gaibisso, Giovanni Battista",,,sold,,14315,USD,Secondary,Secondary,Violin
+,,1993-11-15,232,,Silvestre & Maucotel,,,sold,,5075,USD,Secondary,Secondary,Violin
+,,1993-11-15,235,,"Seifert, Lothar",,,sold,,455,USD,Secondary,Secondary,Viola Bow
+,,1993-11-15,236,,"Seifert, Lothar",,,sold,,325,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,237,,"Seifert, Lothar",,,sold,,390,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,245,,"Pfretzschner, F.C.",,,sold,,521,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,252,,Silvestre & Maucotel,,,sold,,911,USD,Secondary,Secondary,Violin Bow
+,,1993-11-15,256,,"Pfretzschner, Wilhelm August",,,sold,,553,USD,Secondary,Secondary,Cello Bow
+,,1993-11-15,302,,"Guarneri, Pietro of Mantua",,,sold,,117125,USD,Secondary,Secondary,Violin

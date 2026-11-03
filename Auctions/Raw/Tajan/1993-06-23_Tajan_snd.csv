@@ -1,0 +1,31 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1993-06-23,14,,AUDINOT NESTOR,,,sold,,8759,FRF,Secondary,Secondary,Violin
+,,1993-06-23,17,,MAUCHAND,,,sold,,5474,FRF,Secondary,Secondary,Violin
+,,1993-06-23,27,,THOMASSIN CLAUDE,,,sold,,1861,FRF,Secondary,Secondary,Violin Bow
+,,1993-06-23,30,,THOMASSIN CLAUDE,,,sold,,10401,FRF,Secondary,Secondary,Cello Bow
+,,1993-06-23,31,,VUILLAUME GUSTAVE,,,sold,,8869,FRF,Secondary,Secondary,Violin
+,,1993-06-23,39,,BOULANGEOT J.,,,sold,,15876,FRF,Secondary,Secondary,Violin
+,,1993-06-23,40,,CHANOT GEORGE II (JEUNE),,,sold,,142337,FRF,Secondary,Secondary,Violin
+,,1993-06-23,44,,STRIEBIG JEAN,,,sold,,7117,FRF,Secondary,Secondary,Violin
+,,1993-06-23,46,,AUBRY JOSEPH,,,sold,,16971,FRF,Secondary,Secondary,Violin
+,,1993-06-23,48,,COLLIN-MEZIN CHARLES JEAN BAPTISTE,,,sold,,8212,FRF,Secondary,Secondary,Violin
+,,1993-06-23,49,,BILLOTET L. F.,,,sold,,27372,FRF,Secondary,Secondary,Violin
+,,1993-06-23,51,,COLAS PROSPER,,,sold,,9307,FRF,Secondary,Secondary,Violin Bow
+,,1993-06-23,53,,POIRSON E.,,,sold,,8540,FRF,Secondary,Secondary,Violin Bow
+,,1993-06-23,56,,CUNIOT-HURY EUGENE,,,sold,,6022,FRF,Secondary,Secondary,Violin Bow
+,,1993-06-23,68,,THOMASSIN CLAUDE,,,sold,,9307,FRF,Secondary,Secondary,Violin Bow
+,,1993-06-23,73,,MASSON,,,sold,,24088,FRF,Secondary,Secondary,Cello
+,,1993-06-23,82,,MOINEL & CHERPITEL,,,sold,,7664,FRF,Secondary,Secondary,Violin
+,,1993-06-23,82BIS,,MARCHAND EUGENE,,,sold,,13686,FRF,Secondary,Secondary,Violin
+,,1993-06-23,83,,BRETON,,,sold,,1533,FRF,Secondary,Secondary,Violin
+,,1993-06-23,84,,WARNECKE GEORGES,,,sold,,2409,FRF,Secondary,Secondary,Violin
+,,1993-06-23,87,,CHERPITEL LOUIS,,,sold,,18066,FRF,Secondary,Secondary,Viola
+,,1993-06-23,87BIS,,LECAVELLEE,,,sold,,76643,FRF,Secondary,Secondary,Cello
+,,1993-06-23,88,,MANGENOT AMATI,,,sold,,17518,FRF,Secondary,Secondary,Violin
+,,1993-06-23,91,,GRANDJON,,,sold,,8212,FRF,Secondary,Secondary,Violin
+,,1993-06-23,95,,RENAUDIN LEOPOLD,,,sold,,72263,FRF,Secondary,Secondary,Violin
+,,1993-06-23,96,,GUERSAN LUDOVIC,,,sold,,41606,FRF,Secondary,Secondary,Violin
+,,1993-06-23,101,,PRESSENDA GIOVANNI FRANCESCO,,,sold,,383215,FRF,Secondary,Secondary,Violin
+,,1993-06-23,109,,GEROME ROGER,,,sold,,7445,FRF,Secondary,Secondary,Violin Bow
+,,1993-06-23,110,,FETIQUE JULES,,,sold,,36132,FRF,Secondary,Secondary,Violin Bow
+,,1993-06-23,112,,SARTORY EUGENE,,,sold,,43796,FRF,Secondary,Secondary,Violin Bow

@@ -1,0 +1,12 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2000-07-13,,,"Coletti, A.",,,sold,1100,,USD,Secondary,Secondary,Viola
+,,2000-07-13,,,"Nurnberger,",,,sold,1000,,USD,Secondary,Secondary,Cello Bow
+,,2000-07-13,,,"Melegari, Enrico Clodoveo",,,sold,,20700,GBP,Secondary,Cross-checked,Cello
+,,2000-07-13,,,"Pamphilon, Edward",,,sold,,9200,GBP,Secondary,Secondary,Small Violin
+,,2000-07-13,,,"Pedrazzini, Giuseppe",,,sold,,19550,GBP,Secondary,Cross-checked,Violin
+,,2000-07-13,,,"Vuillaume, Jean-Baptiste",,,sold,,62750,GBP,Secondary,Cross-checked,Violin
+,,2000-07-13,,,"Capicchioni, Marino",,,sold,,16100,GBP,Secondary,Cross-checked,Viola
+,,2000-07-13,,,"Degani, Giulio Ettore",,,sold,,12650,GBP,Secondary,Cross-checked,Violin
+,,2000-07-13,,,"Fendt, Bernard Simon II",,,sold,,19550,GBP,Secondary,Cross-checked,Violin
+,,2000-07-13,,,"Guarneri, Andrea",,,sold,,28750,GBP,Secondary,Secondary,Violin
+,,2000-07-13,,,"Hel, Pierre Joseph",,,sold,,12650,GBP,Secondary,Cross-checked,Violin

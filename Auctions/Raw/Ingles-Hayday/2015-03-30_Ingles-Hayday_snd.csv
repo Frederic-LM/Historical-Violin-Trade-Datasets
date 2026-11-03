@@ -1,0 +1,71 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2015-03-30,2,,"Caussin, François",,,sold,,6000,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,4,,"Luff, William H.",,,sold,,5040,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,6,,"Vuillaume, Nicolas III",,,sold,,6600,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,7,,"Bailly, Paul",,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,8,,"Antoniazzi, Romeo",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,10,,"Rocchi, Sesto",,,sold,,14400,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,15,,"Vávra, Karel",,,sold,,3360,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,17,,"Fent, François",,,sold,,7800,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,18,,"Lemböck, Gabriel (Gábor)",,,sold,,19800,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,22,,"Guarneri, Andrea",,,sold,,60000,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,24,,"Gabrielli, Giovanni Battista",,,sold,,10800,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,26,,"Salomon, Jean Baptiste Deshayes",,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,28,,"Eberle, Tomaso",,,sold,,43200,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,32,,"Tecchler, David",,,sold,,84000,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,35,,"Guadagnini, Giuseppe I",,,sold,,96000,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,36,,"Vuillaume, Jean-Baptiste",,,sold,,156000,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,37,,"Sartory, Eugène Nicolas",,,sold,,1920,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,41,,"Hill & Sons, W. E. Firm",,,sold,,3360,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,44,,"Nürnberger, Albert",,,sold,,1680,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,45,,"Tubbs, James",,,sold,,1200,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,46,,"Maire, Nicolas Rémy",,,sold,,3960,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,47,,"Vigneron, Joseph Arthur père",,,sold,,6600,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,48,,"Vigneron, Joseph Arthur père",,,sold,,4200,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,50,,"Nürnberger, Albert",,,sold,,1080,GBP,Secondary,Cross-checked,Cello Bow
+,,2015-03-30,51,,"Ouchard, Émile François",,,sold,,2040,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,53,,"Ouchard, Émile François",,,sold,,1560,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,54,,"Lamy, Joseph Alfred père",,,sold,,16800,GBP,Secondary,Secondary,Cello Bow
+,,2015-03-30,55,,"Lamy, Joseph Alfred père",,,sold,,9360,GBP,Secondary,Cross-checked,Cello Bow
+,,2015-03-30,56,,"Lamy, Joseph Alfred père",,,sold,,5040,GBP,Secondary,Cross-checked,Cello Bow
+,,2015-03-30,57,,"Sartory, Eugène Nicolas",,,sold,,9360,GBP,Secondary,Cross-checked,Cello Bow
+,,2015-03-30,58,,"Holder, Thomas James",,,sold,,1560,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,61,,"Hill & Sons, W. E. Firm",,,sold,,5040,GBP,Secondary,Cross-checked,Cello Bow
+,,2015-03-30,62,,"Maire, Nicolas Rémy",,,sold,,24000,GBP,Secondary,Cross-checked,Cello Bow
+,,2015-03-30,65,,"Fent, François",,,sold,,5400,GBP,Secondary,Cross-checked,Viola
+,,2015-03-30,69,,"Piattellini, Gasparo",,,sold,,60000,GBP,Secondary,Cross-checked,Viola
+,,2015-03-30,78,,"Sgarabotto, Gaetano",,,sold,,21600,GBP,Secondary,Cross-checked,Viola
+,,2015-03-30,79,,"Rocca, Giuseppe Antonio",,,sold,,168000,GBP,Secondary,Cross-checked,Viola
+,,2015-03-30,81,,"Stoss, Martin (Johann Martin)",,,sold,,64800,GBP,Secondary,Cross-checked,Cello
+,,2015-03-30,82,,"Guersan, Louis",,,sold,,9000,GBP,Secondary,Cross-checked,Cello
+,,2015-03-30,83,,"Carletti, Natale",,,sold,,13200,GBP,Secondary,Cross-checked,Cello
+,,2015-03-30,86,,"Betts, John I",,,sold,,15600,GBP,Secondary,Cross-checked,Cello
+,,2015-03-30,95,,"Chanot, Joseph Anthony",,,sold,,18000,GBP,Secondary,Cross-checked,Cello
+,,2015-03-30,97,,"Dodd, Thomas I",,,sold,,31200,GBP,Secondary,Cross-checked,Cello
+,,2015-03-30,98,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,70664,GBP,Secondary,Cross-checked,Cello
+,,2015-03-30,107,,"Sartory, Eugène Nicolas",,,sold,,10200,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,108,,"Sartory, Eugène Nicolas",,,sold,,11400,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,109,,"Sartory, Eugène Nicolas",,,sold,,13200,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,110,,"Sartory, Eugène Nicolas",,,sold,,4560,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,113,,"Lamy, Hippolyte Camille dit 1er fils",,,sold,,9360,GBP,Secondary,Secondary,Violin Bow
+,,2015-03-30,114,,"Fétique, Victor François",,,sold,,6600,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,115,,"Fétique, Victor François",,,sold,,3600,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,123,,"Hill & Sons, W. E. Firm",,,sold,,1140,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,129,,"Wilson, Garner",,,sold,,1080,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,130,,"Hill & Sons, W. E. Firm",,,sold,,900,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,132,,"Nürnberger, Albert",,,sold,,4800,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,133,,"Hill & Sons, W. E. Firm",,,sold,,1800,GBP,Secondary,Cross-checked,Violin Bow
+,,2015-03-30,134,,"Hill & Sons, W. E. Firm",,,sold,,3120,GBP,Secondary,Cross-checked,Cello Bow
+,,2015-03-30,136,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2880,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,138,,"Pedrazzini, Giuseppe",,,sold,,20400,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,148,,"Deroux, Georges",,,sold,,4800,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,150,,"Gaggini, Pierre",,,sold,,6600,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,154,,"Dvorák, Carolus Boromäus",,,sold,,8400,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,156,,"Millar, Alexander",,,sold,,1200,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,158,,"Farotto, Celestino",,,sold,,15600,GBP,Secondary,Secondary,Violin
+,,2015-03-30,159,,"Leonporri, Giovanni Francesco",,,sold,,45600,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,161,,"Saccani, Benigno",,,sold,,4800,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,165,,"Wulme-Hudson, George",,,sold,,14400,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,166,,"Scarampella, Stefano",,,sold,,54000,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,172,,Gand & Bernardel Firm,,,sold,,21600,GBP,Secondary,Cross-checked,Violin
+,,2015-03-30,174,,"Balestrieri, Tommaso",,,sold,,420000,GBP,Secondary,Cross-checked,Violin

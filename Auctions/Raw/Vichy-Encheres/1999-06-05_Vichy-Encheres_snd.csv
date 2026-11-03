@@ -1,0 +1,5 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1999-06-05,40,,LUPOT FRANÇOIS,,,sold,,125350,FRF,Secondary,Secondary,Violin
+,,1999-06-05,50,,GENOVESE RICCARDO,,,sold,,87200,FRF,Secondary,Secondary,Violin
+,,1999-06-05,280,,MAIRE NICOLAS,,,sold,,174400,FRF,Secondary,Secondary,Cello Bow
+,,1999-06-05,,,"Marconcini, Luigi",,,sold,,92209,USD,Secondary,Secondary,Cello

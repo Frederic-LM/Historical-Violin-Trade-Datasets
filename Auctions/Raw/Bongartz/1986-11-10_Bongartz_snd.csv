@@ -1,0 +1,72 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1986-11-10,25,,"Bailly, Charles",,,sold,,806,USD,Secondary,Secondary,Violin
+,,1986-11-10,26,,"Grandjon, Jules Joseph",,,sold,,753,USD,Secondary,Secondary,Violin
+,,1986-11-10,27,,"Tweedale, Charles L.",,,sold,,591,USD,Secondary,Secondary,Violin
+,,1986-11-10,28,,"Klotz, Georg Karl II",,,sold,,2366,USD,Secondary,Secondary,Violin
+,,1986-11-10,29,,"Mangenot, Paul Alexandre",,,sold,,1022,USD,Secondary,Secondary,Violin
+,,1986-11-10,31,,"Haynes, Jacob",,,sold,,1720,USD,Secondary,Secondary,Violin
+,,1986-11-10,32,,Neuner & Hornsteiner,,,sold,,753,USD,Secondary,Secondary,Violin
+,,1986-11-10,33,,"Döpfer, Nicolaus",,,sold,,1720,USD,Secondary,Secondary,Violin
+,,1986-11-10,36,,"Denis, H.",,,sold,,484,USD,Secondary,Secondary,Violin
+,,1986-11-10,39,,"Claudot, Charles I",,,sold,,1237,USD,Secondary,Secondary,Violin
+,,1986-11-10,40,,"Vuillaume, Claude-François IV",,,sold,,484,USD,Secondary,Secondary,Violin
+,,1986-11-10,42,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1075,USD,Secondary,Secondary,Violin
+,,1986-11-10,44,,"Esposito, Raffaele",,,sold,,484,USD,Secondary,Secondary,Violin
+,,1986-11-10,47,,"Bargelli, Giuseppe (di Saladino)",,,sold,,860,USD,Secondary,Secondary,Violin
+,,1986-11-10,50,,"Rocchi, Sesto",,,sold,,2151,USD,Secondary,Secondary,Violin
+,,1986-11-10,53,,"L'Humbert, Emile",,,sold,,3441,USD,Secondary,Secondary,Violin
+,,1986-11-10,56,,"Dieudonné, Amédée",,,sold,,2366,USD,Secondary,Secondary,Violin
+,,1986-11-10,58,,"Farotti, Celeste",,,sold,,4839,USD,Secondary,Secondary,Violin
+,,1986-11-10,60,,"Guersan, Louis",,,sold,,6882,USD,Secondary,Secondary,Violin
+,,1986-11-10,61,,"Winterling, Georg",,,sold,,16667,USD,Secondary,Secondary,Viola
+,,1986-11-10,63,,"Bernardel, Gustave Adolphe",,,sold,,5376,USD,Secondary,Secondary,Violin
+,,1986-11-10,65,,"Antoniazzi, Romeo",,,sold,,7527,USD,Secondary,Secondary,Violin
+,,1986-11-10,66,,"Geissenhof, Franz",,,sold,,7527,USD,Secondary,Secondary,Violin
+,,1986-11-10,71,,"Dolling, Kurt",,,sold,,430,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,73,,"Winterling, Georg",,,sold,,215,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,74,,"Geipel, Richard",,,sold,,108,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,76,,"Nürnberger, Albert",,,sold,,215,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,80,,"Pfretzschner, Hermann Richard",,,sold,,1022,USD,Secondary,Secondary,Viola Bow
+,,1986-11-10,81,,"Germain, Émile",,,sold,,1720,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,86,,"Morizot, Louis Joseph père",,,sold,,699,USD,Secondary,Secondary,Viola Bow
+,,1986-11-10,87,,"Bazin, Charles Louis",,,sold,,753,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,88,,"Gillet, Louis Henri",,,sold,,538,USD,Secondary,Secondary,Viola Bow
+,,1986-11-10,89,,"Lamy, Alfred dit neveu",,,sold,,1505,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,90,,"Voigt, Heinrich August",,,sold,,108,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,98,,"Hill & Sons, W. E. Firm",,,sold,,968,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,99,,"Clutterbuck, John",,,sold,,538,USD,Secondary,Secondary,Viola Bow
+,,1986-11-10,100,,"Vuillaume, Jean-Baptiste",,,sold,,6183,USD,Secondary,Secondary,Viola Bow
+,,1986-11-10,101,,"Audinot, Jacques",,,sold,,1720,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,102,,"Fétique, Victor François",,,sold,,2151,USD,Secondary,Secondary,Cello Bow
+,,1986-11-10,103,,"Simon, Pierre",,,sold,,3763,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,104,,"Voirin, François Nicolas",,,sold,,1613,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,105,,"Vigneron, André 'Vigneron fils'",,,sold,,1935,USD,Secondary,Secondary,Cello Bow
+,,1986-11-10,107,,"Adam, Jean 'Grand'",,,sold,,4301,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,108,,"Maire, Nicolas Rémy",,,sold,,5645,USD,Secondary,Secondary,Viola Bow
+,,1986-11-10,109,,"Maline, Guillaume",,,sold,,3226,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,110,,"Hill & Sons, W. E. Firm",,,sold,,4570,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,111,,"Sartory, Eugène Nicolas",,,sold,,10215,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,112,,"Lamy, Alfred dit neveu",,,sold,,3226,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,113,,"Peccatte, Dominique",,,sold,,8602,USD,Secondary,Secondary,Violin Bow
+,,1986-11-10,114,,"Peccatte, Dominique",,,sold,,11828,USD,Secondary,Secondary,Cello Bow
+,,1986-11-10,115,,"Jacquot, Fernand",,,sold,,1022,USD,Secondary,Secondary,Violin
+,,1986-11-10,118,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1505,USD,Secondary,Secondary,Violin
+,,1986-11-10,122,,"Mougenot, Léon Victor",,,sold,,1290,USD,Secondary,Secondary,Violin
+,,1986-11-10,125,,"Mast, Jean Laurent",,,sold,,4032,USD,Secondary,Secondary,Violin
+,,1986-11-10,126,,"Klotz, Sebastian I",,,sold,,2688,USD,Secondary,Secondary,Violin
+,,1986-11-10,127,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2688,USD,Secondary,Secondary,Viola
+,,1986-11-10,130,,"Boulangeot, Emile",,,sold,,4516,USD,Secondary,Secondary,Violin
+,,1986-11-10,137,,Kloz Family,,,sold,,2688,USD,Secondary,Secondary,Violin
+,,1986-11-10,138,,"Gadda, Gaetano",,,sold,,7258,USD,Secondary,Secondary,Violin
+,,1986-11-10,140,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,6989,USD,Secondary,Secondary,Violin
+,,1986-11-10,143,,"Testore, Carlo Antonio",,,sold,,8333,USD,Secondary,Secondary,Small Violin
+,,1986-11-10,144,,"Jacobs, Hendrik",,,sold,,19355,USD,Secondary,Secondary,Cello
+,,1986-11-10,145,,"Gadda, Gaetano",,,sold,,9677,USD,Secondary,Secondary,Cello
+,,1986-11-10,147,,"Bailly, Paul",,,sold,,19355,USD,Secondary,Secondary,Cello
+,,1986-11-10,150,,"Blanchard, Paul Francois",,,sold,,7527,USD,Secondary,Secondary,Violin
+,,1986-11-10,151,,"Scarampella, Stefano",,,sold,,13441,USD,Secondary,Secondary,Violin
+,,1986-11-10,152,,"Gragnani, Antonio",,,sold,,15591,USD,Secondary,Secondary,Violin
+,,1986-11-10,153,,"Grancino, Giovanni Battista I",,,sold,,22043,USD,Secondary,Secondary,Violin
+,,1986-11-10,154,,"Grancino, Giovanni Battista I",,,sold,,25806,USD,Secondary,Secondary,Violin
+,,1986-11-10,155,,"Rocca, Giuseppe Antonio",,,sold,,67204,USD,Secondary,Secondary,Violin
+,,1986-11-10,156,,"Guarneri, Pietro of Venice",,,sold,,145161,USD,Secondary,Secondary,Violin

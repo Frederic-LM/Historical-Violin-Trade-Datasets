@@ -1,0 +1,175 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1995-10-31,1,,"Robinson, William",,,sold,1500,1725,GBP,Secondary,Primary,Violin
+,,1995-10-31,2,,"Derazey, Justin Amedée",,,sold,1400,1610,GBP,Secondary,Primary,Violin
+,,1995-10-31,5,,Andreas Nicolaus (II) Partl,,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1995-10-31,9,,"Vuillaume, Nicolas François",,,sold,4000,4600,GBP,Secondary,Primary,Violin
+,,1995-10-31,11,,"Antoniazzi, Riccardo",,,sold,9500,10925,GBP,Secondary,Primary,Violin
+,,1995-10-31,12,,"Betts, John I",,,sold,7000,8050,GBP,Secondary,Primary,Violin
+,,1995-10-31,14,,Neuner & Hornsteiner,,,sold,1300,1495,GBP,Secondary,Primary,Violin
+,,1995-10-31,17,,"Briggs, James William",,,sold,2300,2645,GBP,Secondary,Primary,Violin
+,,1995-10-31,18,,"Thibouville-Lamy, Jérôme Firm",,,sold,620,713,GBP,Secondary,Primary,Violin
+,,1995-10-31,19,,"Duke, Richard",,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1995-10-31,20,,BARZONI FRANÇOIS,,,sold,1000,1150,GBP,Secondary,Primary,Violin
+,,1995-10-31,23,,"Oddone, Carlo Giuseppe",,,sold,20000,23000,GBP,Secondary,Primary,Violin
+,,1995-10-31,25,,"Gand, Charles Adolphe",,,sold,7500,8625,GBP,Secondary,Primary,Violin
+,,1995-10-31,26,,"Booth, William II",,,sold,1900,2185,GBP,Secondary,Primary,Violin
+,,1995-10-31,28,,"Kennedy, Thomas",,,sold,3000,3450,GBP,Secondary,Primary,Violin
+,,1995-10-31,29,,"Stradivari, Antonio",,,sold,125000,139000,GBP,Secondary,Primary,Violin
+,,1995-10-31,30,,"Fendt, Bernard Simon II",,,sold,9000,10350,GBP,Secondary,Primary,Violin
+,,1995-10-31,32,,"Widhalm, Leopold I",,,sold,4800,5520,GBP,Secondary,Primary,Violin
+,,1995-10-31,33,,"Sannino, Vincenzo",,,sold,4200,4830,GBP,Secondary,Primary,Violin
+,,1995-10-31,34,,"Landolfi, Pietro Antonio",,,sold,34000,38900,GBP,Secondary,Primary,Violin
+,,1995-10-31,36,,"Peresson, Sergio",,,sold,12000,13800,GBP,Secondary,Primary,Violin
+,,1995-10-31,37,,"Guersan, Louis",,,sold,3000,3450,GBP,Secondary,Primary,Violin
+,,1995-10-31,41,,"Gilbert, Jeffrey James",,,sold,1100,1265,GBP,Secondary,Primary,Violin
+,,1995-10-31,42,,"Deblaye, Albert",,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1995-10-31,43,,"Klotz, Georg Karl II",,,sold,3000,3450,GBP,Secondary,Primary,Violin
+,,1995-10-31,48,,"Gagliano, Giuseppe",,,sold,40000,45500,GBP,Secondary,Primary,Violin
+,,1995-10-31,49,,"Dvorak, Jan Baptista",,,sold,2800,3220,GBP,Secondary,Primary,Violin
+,,1995-10-31,51,,"Paoletti, Silvio Vezio",,,sold,2600,2990,GBP,Secondary,Primary,Violin
+,,1995-10-31,52,,"Galimberti, Luigi",,,sold,5200,5980,GBP,Secondary,Primary,Violin
+,,1995-10-31,54,,"Ouchard, Émile François",,,sold,13000,14950,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,55,,"Peccatte, François",,,sold,4000,4600,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,57,,"Voirin, François Nicolas",,,sold,8500,9775,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,58,,"Vigneron, Joseph Arthur père",,,sold,1800,2070,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,60,,"Hill & Sons, W. E. Firm",,,sold,1000,1150,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,64,,"Lamy, Joseph Alfred père",,,sold,2300,2645,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,65,,"Hill & Sons, W. E. Firm",,,sold,1200,1380,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,67,,"Weichold, Richard",,,sold,950,1092,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,68,,"Morizot, Louis Joseph père",,,sold,900,1035,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,71,,"Pfretzschner, Carl Friedrich II",,,sold,550,632,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,73,,"Hill & Sons, W. E. Firm",,,sold,1100,1265,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,74,,"Morizot, Louis Joseph père",,,sold,1600,1840,GBP,Secondary,Primary,Viola Bow
+,,1995-10-31,75,,"Bazin, Charles Nicolas",,,sold,600,690,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,78,,"Bryant, Percival Wilfred",,,sold,1200,1380,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,79,,"Hill & Sons, W. E. Firm",,,sold,1400,1610,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,83,,"Gillet, Louis Henri",,,sold,800,920,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,86,,"Taylor, Malcolm",,,sold,1100,1265,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,88,,"Paulus, Johannes O.",,,sold,400,460,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,89,,"Pfretzschner, Hermann Richard",,,sold,2000,2300,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,91,,"Dodd, John I",,,sold,700,805,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,92,,"Nürnberger, Karl Albert II",,,sold,700,805,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,93,,"Hill & Sons, W. E. Firm",,,sold,1200,1380,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,98,,"Bazin, Charles Louis",,,sold,1300,1495,GBP,Secondary,Primary,Viola Bow
+,,1995-10-31,100,,GAUDE PHILIPPE,,,sold,1500,1725,GBP,Secondary,Primary,Viola Bow
+,,1995-10-31,101,,"Morizot, Louis Joseph père",,,sold,1100,1265,GBP,Secondary,Primary,Viola Bow
+,,1995-10-31,102,,FÉTIQUE VICTOR,,,sold,1100,1265,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,103,,"Dodd, James II",,,sold,800,920,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,106,,"Hill & Sons, W. E. Firm",,,sold,750,862,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,113,,"Bazin, Charles Nicolas",,,sold,1200,1380,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,115,,MUSCHKE ANTON,,,sold,380,437,GBP,Secondary,Primary,Violin
+,,1995-10-31,124,,HUSSON & BUTHOD,,,sold,700,805,GBP,Secondary,Primary,Cello
+,,1995-10-31,125,,"Craske, George",,,sold,3800,4370,GBP,Secondary,Primary,Cello
+,,1995-10-31,127,,GABOR ANRISAK TIBOR,,,sold,1900,2185,GBP,Secondary,Primary,Cello
+,,1995-10-31,130,,"Gatti, Ernesto",,,sold,7500,8625,GBP,Secondary,Primary,Cello
+,,1995-10-31,139,,"Vuillaume, Jean-Baptiste",,,sold,65000,73000,GBP,Secondary,Primary,Cello
+,,1995-10-31,145,,"Gabrielli, Giovanni Battista",,,sold,65000,73000,GBP,Secondary,Primary,Cello
+,,1995-10-31,148,,"Renaudin, Leopold",,,sold,8000,9200,GBP,Secondary,Primary,Cello
+,,1995-10-31,152,,"Gagliano, Ferdinando",,,sold,42000,47700,GBP,Secondary,Primary,Violin
+,,1995-10-31,153,,"Candi, Cesare",,,sold,7000,8050,GBP,Secondary,Primary,Violin
+,,1995-10-31,154,,"Omond, James",,,sold,700,805,GBP,Secondary,Primary,Violin
+,,1995-10-31,158,,"Pique, François-Louis",,,sold,26000,29900,GBP,Secondary,Primary,Violin
+,,1995-10-31,159,,"Lecchi, Giuseppe Bernardo",,,sold,12000,13800,GBP,Secondary,Primary,Violin
+,,1995-10-31,161,,"Curletto, Anselmo",,,sold,3500,4025,GBP,Secondary,Primary,Violin
+,,1995-10-31,163,,"Tononi, Giovanni",,,sold,24000,27600,GBP,Secondary,Primary,Violin
+,,1995-10-31,165,,"Schweitzer, Johann Baptist",,,sold,8800,10120,GBP,Secondary,Primary,Violin
+,,1995-10-31,168,,Raymond Collenot,,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1995-10-31,169,,"Bailly, Paul",,,sold,2600,2990,GBP,Secondary,Primary,Violin
+,,1995-10-31,170,,"Martini, Oreste",,,sold,4400,5060,GBP,Secondary,Primary,Violin
+,,1995-10-31,172,,"Kessler, Johann Georg",,,sold,800,920,GBP,Secondary,Primary,Violin
+,,1995-10-31,174,,"Gaibisso, Giovanni Battista",,,sold,3200,3680,GBP,Secondary,Primary,Violin
+,,1995-10-31,182,,"Garimberti, Ferdinando",,,sold,5200,5980,GBP,Secondary,Primary,Violin
+,,1995-10-31,183,,"Thibouville-Lamy, Jérôme Firm",,,sold,1800,2070,GBP,Secondary,Primary,Violin
+,,1995-10-31,185,,"Nemessányi, Samuel (Samu)",,,sold,3400,3910,GBP,Secondary,Primary,Violin
+,,1995-10-31,186,,"Baldoni, Dante",,,sold,4500,5175,GBP,Secondary,Primary,Violin
+,,1995-10-31,190,,"Gilbert, Jeffrey James",,,sold,1700,1955,GBP,Secondary,Primary,Violin
+,,1995-10-31,193,,"Bowler, Arthur",,,sold,1900,2185,GBP,Secondary,Primary,Violin
+,,1995-10-31,195,,"Borghi, Pietro",,,sold,3200,3680,GBP,Secondary,Primary,Violin
+,,1995-10-31,196,,GABOR ANRISAK TIBOR,,,sold,700,805,GBP,Secondary,Primary,Violin
+,,1995-10-31,198,,"Dugad, André Paul",,,sold,1100,1265,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,203,,"Hill & Sons, W. E. Firm",,,sold,2500,2875,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,207,,"Pfretzschner, Hermann Richard",,,sold,500,575,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,208,,"Withers, Edward I",,,sold,400,460,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,209,,Emile Auguste Ouchard,,,sold,850,977,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,210,,"Voigt, Arnold",,,sold,600,690,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,212,,"Buthod, Charles",,,sold,900,1035,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,215,,"Lamy, Joseph Alfred père",,,sold,2100,2415,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,216,,"Nürnberger, Karl Albert II",,,sold,500,575,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,220,,"Pillot, J",,,sold,1200,1380,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,221,,"Vigneron, Joseph Arthur père",,,sold,2200,2530,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,222,,"Hill & Sons, W. E. Firm",,,sold,1500,1725,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,229,,"Nürnberger, Karl Albert II",,,sold,750,862,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,230,,"Ouchard, Émile François",,,sold,1300,1495,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,231,,"Hill & Sons, W. E. Firm",,,sold,1100,1265,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,233,,"Peccatte, Charles",,,sold,9000,10350,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,234,,"Sartory, Eugène Nicolas",,,sold,4400,5060,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,236,,"Voirin, François Nicolas",,,sold,4200,4830,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,242,,"Vigneron, André 'Vigneron fils'",,,sold,1100,1265,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,246,,Charles Jean Baptiste Collin,,,sold,1200,1380,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,247,,"Moinel, Daniel",,,sold,900,1035,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,250,,"Lotte, Roger François",,,sold,1200,1380,GBP,Secondary,Primary,Viola Bow
+,,1995-10-31,253,,"Weichold, Richard",,,sold,1000,1150,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,254,,"Nürnberger, Karl Albert II",,,sold,750,862,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,260,,"Henry, Joseph",,,sold,5200,5980,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,261,,"Dodd, John I",,,sold,1100,1265,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,271,,"Derazey, Honoré (Jean-Joseph)",,,sold,2000,2300,GBP,Secondary,Primary,Violin
+,,1995-10-31,273,,"Whitmarsh, Emanuel",,,sold,850,977,GBP,Secondary,Primary,Violin
+,,1995-10-31,274,,"Robinson, William",,,sold,1000,1150,GBP,Secondary,Primary,Violin
+,,1995-10-31,278,,"Blondelet, Hugues Emile",,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1995-10-31,282,,"Gabrielli, Giovanni Battista",,,sold,13000,14950,GBP,Secondary,Primary,Violin
+,,1995-10-31,284,,"Santagiuliana, Giacinto",,,sold,8000,9200,GBP,Secondary,Primary,Violin
+,,1995-10-31,286,,"De Barbieri, Paolo",,,sold,11000,12650,GBP,Secondary,Primary,Violin
+,,1995-10-31,290,,"Audinot, Nestor Dominique",,,sold,2600,2990,GBP,Secondary,Primary,Violin
+,,1995-10-31,295,,"Testore, Carlo Antonio",,,sold,26000,29900,GBP,Secondary,Primary,Violin
+,,1995-10-31,299,,"Vavra, Joannes Batista",,,sold,1200,1380,GBP,Secondary,Primary,Viola
+,,1995-10-31,301,,"Saunders, Wilfred G.",,,sold,1800,2070,GBP,Secondary,Primary,Viola
+,,1995-10-31,309,,"Forster, William III",,,sold,6000,6900,GBP,Secondary,Primary,Viola
+,,1995-10-31,311,,"Rossi, Stelio",,,sold,3000,3450,GBP,Secondary,Primary,Viola
+,,1995-10-31,316,,"Lanaro, Umberto",,,sold,2400,2760,GBP,Secondary,Primary,Viola
+,,1995-10-31,319,,MOCHALOV ALEXANDER,,,sold,1800,2070,GBP,Secondary,Primary,Viola
+,,1995-10-31,329,,"Hoing, Clifford A.",,,sold,2800,3220,GBP,Secondary,Primary,Viola
+,,1995-10-31,331,,"Ruddiman, Joseph",,,sold,1200,1380,GBP,Secondary,Primary,Viola
+,,1995-10-31,347,,"Thomassin, Claude Auguste",,,sold,2900,3335,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,348,,"Dodd, John I",,,sold,1400,1610,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,350,,"Nürnberger, Franz Albert I",,,sold,2100,2415,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,355,,"Gauthie, Pierre",,,sold,320,368,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,359,,"Tubbs, James",,,sold,1800,2070,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,360,,"Lamy, Joseph Alfred père",,,sold,2100,2415,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,361,,"Sartory, Eugène Nicolas",,,sold,5600,6440,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,362,,"Lamy, Joseph Alfred père",,,sold,3200,3680,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,363,,"Dodd, James II",,,sold,2400,2760,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,370,,"Lapierre, Marcel Charles",,,sold,750,862,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,376,,"Tubbs, James",,,sold,2400,2760,GBP,Secondary,Primary,Viola Bow
+,,1995-10-31,379,,"Lotte, Roger François",,,sold,850,977,GBP,Secondary,Primary,Viola Bow
+,,1995-10-31,383,,TEMPLE WILLIAM,,,sold,150,172,GBP,Secondary,Primary,Bass Bow
+,,1995-10-31,384,,TARR THOMAS,,,sold,600,690,GBP,Secondary,Primary,Bass Bow
+,,1995-10-31,388,,"Ouchard, Émile François",,,sold,1700,1955,GBP,Secondary,Primary,Cello Bow
+,,1995-10-31,389,,LOTTE FRANÇOIS,,,sold,600,690,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,393,,"Hill & Sons, W. E. Firm",,,sold,450,517,GBP,Secondary,Primary,Violin Bow
+,,1995-10-31,394,,EVANS GEORG & CO.,,,sold,300,345,GBP,Secondary,Primary,Violin
+,,1995-10-31,399,,"Moennig, Fritz",,,sold,1300,1495,GBP,Secondary,Primary,Violin
+,,1995-10-31,401,,"Chevrier, Claude",,,sold,950,1092,GBP,Secondary,Primary,Violin
+,,1995-10-31,402,,"Castello, Paolo",,,sold,14000,16100,GBP,Secondary,Primary,Violin
+,,1995-10-31,403,,"Gagliano, Nicolò",,,sold,44000,49900,GBP,Secondary,Primary,Violin
+,,1995-10-31,407,,"Withers, Edward I",,,sold,1500,1725,GBP,Secondary,Primary,Violin
+,,1995-10-31,408,,"Guadagnini, Lorenzo",,,sold,70000,78500,GBP,Secondary,Primary,Violin
+,,1995-10-31,409,,Orville H. Gibson,,,sold,750,862,GBP,Secondary,Primary,Violin
+,,1995-10-31,411,,"Nicolas, Joseph (fils)",,,sold,900,1035,GBP,Secondary,Primary,Violin
+,,1995-10-31,413,,HUSSON & BUTHOD,,,sold,600,690,GBP,Secondary,Primary,Violin
+,,1995-10-31,415,,"Pareschi, Gaetano",,,sold,5000,5750,GBP,Secondary,Primary,Violin
+,,1995-10-31,417,,"Simoutre, Nicolas",,,sold,1200,1380,GBP,Secondary,Primary,Small Violin
+,,1995-10-31,420,,"Rocca, Giuseppe Antonio",,,sold,38000,43300,GBP,Secondary,Primary,Violin
+,,1995-10-31,422,,Knud Hjorth,,,sold,3000,3450,GBP,Secondary,Primary,Violin
+,,1995-10-31,424,,"Hill, Lockey",,,sold,700,805,GBP,Secondary,Primary,Violin
+,,1995-10-31,425,,"Barbieri, Bruno",,,sold,1900,2185,GBP,Secondary,Primary,Violin
+,,1995-10-31,426,,"Remy, Jean Mathurin",,,sold,800,920,GBP,Secondary,Primary,Violin
+,,1995-10-31,427,,EDREV EDRIO,,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1995-10-31,428,,"Bonnel, Émile",,,sold,1400,1610,GBP,Secondary,Primary,Violin
+,,1995-10-31,433,,"Rambaux, Claude Victor",,,sold,,2070,GBP,Secondary,Primary,Violin
+,,1995-10-31,437,,LO SCHIAVO ANTONINO,,,sold,2500,2875,GBP,Secondary,Primary,Violin
+,,1995-10-31,449,,"Stirrat, David",,,sold,4800,5520,GBP,Secondary,Primary,Violin
+,,1995-10-31,459,,"Herclik, Frantisek",,,sold,1600,1840,GBP,Secondary,Primary,Violin
+,,1995-10-31,462,,"Carletti, Carlo",,,sold,3800,4370,GBP,Secondary,Primary,Violin
+,,1995-10-31,465,,"Vávra, Karel",,,sold,2500,2875,GBP,Secondary,Primary,Violin
+,,1995-10-31,467,,"Bernardel, Léon",,,sold,1200,1380,GBP,Secondary,Primary,Violin
+,,1995-10-31,,,"Vuillaume, Jean Baptiste",,,sold,,1817,USD,Secondary,Secondary,Violin Bow

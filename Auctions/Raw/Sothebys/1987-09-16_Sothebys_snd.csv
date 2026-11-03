@@ -1,0 +1,71 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1987-09-16,11,,"Kief, Dominik",,,sold,,495,GBP,Secondary,Secondary,Violin
+,,1987-09-16,13,,"Wamsley, Peter",,,sold,,660,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,19,,"Whitmarsh, Emanuel",,,sold,,682,GBP,Secondary,Secondary,Violin
+,,1987-09-16,22,,"Neuner, Mathias II",,,sold,,715,GBP,Secondary,Secondary,Violin
+,,1987-09-16,26,,"Poulton, R.",,,sold,,528,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,36,,"Guastalla, Dante",,,sold,,1650,GBP,Secondary,Secondary,Violin
+,,1987-09-16,40,,"Mayson, Walter H.",,,sold,,660,GBP,Secondary,Secondary,Violin
+,,1987-09-16,41,,"Buthod, Charles",,,sold,,605,GBP,Secondary,Secondary,Violin
+,,1987-09-16,45,,"Chamot, Jan",,,sold,,550,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,46,,"Ardern, Job",,,sold,,748,GBP,Secondary,Secondary,Violin
+,,1987-09-16,52,,"Barton, George",,,sold,,385,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,54,,"Mayson, Walter H.",,,sold,,418,GBP,Secondary,Secondary,Violin
+,,1987-09-16,55,,"Pyne, George",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,1987-09-16,56,,"Maldoner, Johann Stephan",,,sold,,462,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,59,,"Whitmarsh, Emanuel",,,sold,,528,GBP,Secondary,Secondary,Violin
+,,1987-09-16,60,,"Mayson, Walter H.",,,sold,,385,GBP,Secondary,Secondary,Violin
+,,1987-09-16,61,,"Perry, Thomas II",,,sold,,385,GBP,Secondary,Secondary,Violin
+,,1987-09-16,62,,"Richardson, Arthur",,,sold,,1045,GBP,Secondary,Secondary,Violin
+,,1987-09-16,63,,"Cahusac, Thomas",,,sold,,462,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,64,,"Charotte-Millot, Joseph",,,sold,,1320,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,65,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1430,GBP,Secondary,Secondary,Violin
+,,1987-09-16,66,,"Logan, John",,,sold,,825,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,81,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,638,GBP,Secondary,Secondary,Violin
+,,1987-09-16,84,,"Lechi, Antonio",,,sold,,770,GBP,Secondary,Secondary,Violin
+,,1987-09-16,88,,"Lentz, Johann Nicolaus",,,sold,,935,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,91,,"Bisiach, Carlo",,,sold,,7150,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,100,,"Gilbert, Jeffrey James",,,sold,,1100,GBP,Secondary,Secondary,Viola
+,,1987-09-16,101,,Longman & Broderip Firm,,,sold,,1650,GBP,Secondary,Cross-checked,Viola
+,,1987-09-16,105,,"Gianotti, Alfredo",,,sold,,1210,GBP,Secondary,Cross-checked,Viola
+,,1987-09-16,106,,"Vettori, Paolo",,,sold,,792,GBP,Secondary,Secondary,Viola
+,,1987-09-16,108,,"Lowendall, Louis",,,sold,,396,GBP,Secondary,Cross-checked,Viola
+,,1987-09-16,113,,"LeClerc, Joseph Nicolas",,,sold,,2640,GBP,Secondary,Cross-checked,Viola
+,,1987-09-16,122,,"Hill & Sons, W. E. Firm",,,sold,,462,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,124,,Bazin Family,,,sold,,275,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,133,,Hart & Son,,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,134,,"Wilson, Garner",,,sold,,748,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,136,,"Bryant, Percival Wilfred",,,sold,,1320,GBP,Secondary,Cross-checked,Viola Bow
+,,1987-09-16,141,,Hart & Son,,,sold,,385,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,142,,"Withers, George Thomas Henry",,,sold,,330,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,144,,"Hill & Sons, W. E. Firm",,,sold,,1595,GBP,Secondary,Secondary,Viola Bow
+,,1987-09-16,145,,"Withers, George Thomas Henry",,,sold,,330,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,147,,Bazin Family,,,sold,,792,GBP,Secondary,Cross-checked,Viola Bow
+,,1987-09-16,149,,"Dodd, John I",,,sold,,825,GBP,Secondary,Secondary,Cello Bow
+,,1987-09-16,154,,"Hill & Sons, W. E. Firm",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,155,,"Weichold, Richard",,,sold,,220,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,156,,"Forster, William II or Sr",,,sold,,1210,GBP,Secondary,Secondary,Cello Bow
+,,1987-09-16,157,,"Nürnberger, Albert",,,sold,,550,GBP,Secondary,Secondary,Violin Bow
+,,1987-09-16,159,,"Morizot, Louis Joseph père",,,sold,,605,GBP,Secondary,Secondary,Viola Bow
+,,1987-09-16,165,,"Hill & Sons, W. E. Firm",,,sold,,1100,GBP,Secondary,Secondary,Viola Bow
+,,1987-09-16,169,,"Dodd, John I",,,sold,,825,GBP,Secondary,Secondary,Viola Bow
+,,1987-09-16,170,,"Dodd, John I",,,sold,,1650,GBP,Secondary,Cross-checked,Viola Bow
+,,1987-09-16,174,,"Stoss, Martin (Johann Martin)",,,sold,,2750,GBP,Secondary,Secondary,Cello
+,,1987-09-16,183,,"Thompson, Charles & Samuel",,,sold,,2420,GBP,Secondary,Cross-checked,Cello
+,,1987-09-16,187,,"Widhalm, Martin Leopold (Leopold II)",,,sold,,6050,GBP,Secondary,Secondary,Cello
+,,1987-09-16,188,,"Luff, William H.",,,sold,,6600,GBP,Secondary,Secondary,Cello
+,,1987-09-16,189,,"Scholes, Arthur L.",,,sold,,770,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,190,,"Lucci, Giuseppe",,,sold,,2970,GBP,Secondary,Secondary,Violin
+,,1987-09-16,196,,"Colin, Jean Baptiste",,,sold,,528,GBP,Secondary,Secondary,Violin
+,,1987-09-16,197,,Hart & Son,,,sold,,880,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,198,,"Deblaye, Albert",,,sold,,770,GBP,Secondary,Secondary,Violin
+,,1987-09-16,199,,"Blondelet, Hugues Emile",,,sold,,605,GBP,Secondary,Secondary,Violin
+,,1987-09-16,200,,"Hill, Joseph I",,,sold,,1650,GBP,Secondary,Secondary,Violin
+,,1987-09-16,205,,"Pucci, Dante",,,sold,,1375,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,207,,"Colin, Jean Baptiste",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1987-09-16,210,,"Nicolas, Didier l'aîné",,,sold,,462,GBP,Secondary,Secondary,Violin
+,,1987-09-16,213,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1595,GBP,Secondary,Secondary,Violin
+,,1987-09-16,222,,"Darche, Hilaire",,,sold,,1210,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,224,,"Lemböck, Gabriel (Gábor)",,,sold,,3740,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,225,,"Laberte, Marc André Joseph",,,sold,,935,GBP,Secondary,Cross-checked,Violin
+,,1987-09-16,228,,"Gand, Charles Adolphe",,,sold,,7150,GBP,Secondary,Secondary,Violin

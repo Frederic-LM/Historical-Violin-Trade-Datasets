@@ -1,0 +1,176 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1995-03-21,4,,"Buchstetter, Gabriel David",,,sold,,3105,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,7,,(Pellizon) Antonio (I) Pelizon,,,sold,,8050,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,12,,"Cuypers, Johannes Theodorus",,,sold,,20700,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,14,,"Wenger, Gregor Ferdinand",,,sold,,3680,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,15,,"Postiglione, Vincenzo II",,,sold,,33350,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,16,,"Schlosser, Herrmann",,,sold,,747,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,18,,"Hel, Pierre Joseph",,,sold,,9200,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,19,,"Oddone, Carlo Giuseppe",,,sold,,20700,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,20,,"Degani, Giulio Ettore",,,sold,,3450,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,21,,"Gagliano, Nicolò",,,sold,,47700,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,26,,BEARE & SON,,,sold,,1955,GBP,Secondary,Secondary,Violin
+,,1995-03-21,28,,"Robinson, William",,,sold,,1035,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,30,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3220,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,32,,"Coinus, André",,,sold,,2300,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,35,,"Stradivari, Antonio",,,sold,,386500,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,37,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3680,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,46,,"Rogeri, Giovanni Battista",,,sold,,43300,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,48,,"Hel, Pierre Joseph",,,sold,,10925,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,50,,"Möckel, Otto",,,sold,,5290,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,51,,"Bowler, Arthur",,,sold,,2990,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,52,,"Klotz, Georg Karl II",,,sold,,4600,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,53,,"Defat, Georges",,,sold,,5750,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,54,,"Tassini, Marco",,,sold,,1380,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,55,,"Kunze, Wilhelm Paul",,,sold,,2415,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,58,,"Mayson, Walter H.",,,sold,,1035,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,60,,"Otto, Wilhelm",,,sold,,2415,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,62,,"Klotz, Georg Karl II",,,sold,,3680,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,69,,"Piccagliani, Armando",,,sold,,9775,GBP,Secondary,Cross-checked,Cello
+,,1995-03-21,72,,"Craske, George",,,sold,,8625,GBP,Secondary,Cross-checked,Cello
+,,1995-03-21,73,,"Fétique, Victor François",,,sold,,2300,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,74,,"Süss, Johann Christian",,,sold,,1495,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,76,,"Millant, Bernard",,,sold,,2415,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,77,,"Pfretzschner, F.C.",,,sold,,322,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,78,,"Voirin, François Nicolas",,,sold,,4140,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,79,,"Pfretzschner, Hermann Richard",,,sold,,943,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,80,,"Bazin, Charles Louis",,,sold,,1725,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,81,,"Tourte, François Xavier 'le Jeune'",,,sold,,24150,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,82,,"Tourte, François Xavier 'le Jeune'",,,sold,,6900,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,84,,"Tourte, François Xavier 'le Jeune'",,,sold,,2645,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,85,,"Eury, Jacob (Nicolas)",,,sold,,6670,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,86,,"Lafleur, Joseph René",,,sold,,1840,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,88,,LENOBLE AUGUSTE,,,sold,,2530,GBP,Secondary,Cross-checked,Bass Bow
+,,1995-03-21,91,,"Peccatte, Charles",,,sold,,1265,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,93,,"Pajeot, Louis Simon",,,sold,,1495,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,94,,"Nürnberger, Carl Albert",,,sold,,977,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,95,,"Lupot, François I",,,sold,,2990,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,96,,"Vidoudez, Pierre",,,sold,,2415,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,97,,"Hill & Sons, W. E. Firm",,,sold,,5060,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,98,,"Hill & Sons, W. E. Firm",,,sold,,3105,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,99,,"Vigneron, Joseph Arthur père",,,sold,,3910,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,102,,Clasquin,,,sold,,1552,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,107,,Bazin Family,,,sold,,1610,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,108,,"Vigneron, André 'Vigneron fils'",,,sold,,4600,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,109,,"Piernot, Marie Louis",,,sold,,2300,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,111,,OUCHARD ÉMILE FRANÇOIS,,,sold,,2415,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,112,,"Ouchard, Émile F. & Émile A.",,,sold,,3335,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,113,,"Maire, Nicolas Rémy",,,sold,,2990,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,114,,"Fétique, Victor François",,,sold,,2990,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,118,,PAQUOTTE ALBERT,,,sold,,3450,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,119,,Bazin Family,,,sold,,3335,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,120,,"Vuillaume, Jean-Baptiste",,,sold,,5750,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,121,,"Nürnberger, Franz Albert I",,,sold,,1380,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,122,,"Morizot, Louis Joseph père",,,sold,,1725,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,123,,"Tubbs, James",,,sold,,5520,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,124,,"Lamy, Alfred dit neveu",,,sold,,6440,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,125,,"Morizot, Louis Joseph père",,,sold,,2300,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,128,,"Lamy, Joseph Alfred père",,,sold,,6900,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,129,,(Persoit) Jean Pierre Marie Persois,,,sold,,4140,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,131,,"Lamy, Joseph Alfred père",,,sold,,3565,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,132,,"Voirin, François Nicolas",,,sold,,3450,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,133,,"Hoyer, Otto A.",,,sold,,2300,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,139,,"Hill & Sons, W. E. Firm",,,sold,,977,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,143,,"Eberle, Tomaso",,,sold,,31050,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,144,,"Bailly, Jenny",,,sold,,1207,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,146,,"Farotti, Celeste",,,sold,,8050,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,147,,"Silvestre, Hippolyte Chrétien",,,sold,,5750,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,149,,"Seifert, Otto",,,sold,,3220,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,151,,"Gagliano, Ferdinando",,,sold,,19550,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,156,,"Langonet, Eugene",,,sold,,3220,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,159,,"Dieudonné, Amédée",,,sold,,1955,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,162,,"Lanaro, Umberto",,,sold,,2990,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,166,,"Rocca, Giuseppe Antonio",,,sold,,104900,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,168,,"Blondelet, Hugues Emile",,,sold,,2185,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,172,,"Pressenda, Giovanni Francesco",,,sold,,124700,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,174,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2875,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,177,,"Fiorini, Giuseppe",,,sold,,21850,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,178,,"Landolfi, Carlo Ferdinando",,,sold,,49900,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,179,,"Gand, Charles Adolphe",,,sold,,14950,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,181,,"Novelli, Natale",,,sold,,4830,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,182,,"Sannino, Vincenzo",,,sold,,5750,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,183,,"Rocca, Giuseppe Antonio",,,sold,,87300,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,184,,"Magrini, Cesare",,,sold,,9200,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,185,,"Colin, Jean Baptiste",,,sold,,632,GBP,Secondary,Cross-checked,Small Violin
+,,1995-03-21,188,,"Pyne, George",,,sold,,1265,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,192,,"Walton, William",,,sold,,920,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,199,,"Barton, John",,,sold,,1150,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,201,,GIANPIERO DA FIESOLE,,,sold,,2645,GBP,Secondary,Secondary,Viola
+,,1995-03-21,202,,"Gadda, Gaetano",,,sold,,9200,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,204,,"Guersan, Louis",,,sold,,10925,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,205,,"Gotti, Anselmo",,,sold,,2875,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,207,,"Buthod, Charles",,,sold,,2070,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,209,,"Remy, Jean Mathurin",,,sold,,1150,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,211,,"Möller, Max Sr.",,,sold,,8050,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,212,,"Scarampella, Stefano",,,sold,,49900,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,215,,"Cavani, Vincenzo",,,sold,,5750,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,217,,"Testore, Paolo Antonio",,,sold,,78500,GBP,Secondary,Cross-checked,Viola
+,,1995-03-21,224,,"Hill & Sons, W. E. Firm",,,sold,,690,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,225,,Bazin Family,,,sold,,1495,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,227,,"Fétique, Jules",,,sold,,4025,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,228,,"Dupuy, Philippe",,,sold,,1035,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,229,,Arthur Parisot,,,sold,,805,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,231,,"Laberte, Marc André Joseph",,,sold,,1035,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,232,,"Pfretzschner, Hermann Richard",,,sold,,1840,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,233,,"Morizot, Louis Joseph père",,,sold,,1035,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,236,,"Lavest, Jules",,,sold,,517,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,239,,Bazin Family,,,sold,,920,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,240,,"Pfretzschner, Hermann Richard",,,sold,,575,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,241,,"Poirson, Dominique ""Justin""",,,sold,,1495,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,242,,MORIZOT LOUIS,,,sold,,2300,GBP,Secondary,Secondary,Violin Bow
+,,1995-03-21,244,,"Sartory, Eugène Nicolas",,,sold,,2530,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,245,,"Voirin, François Nicolas",,,sold,,2645,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,246,,"Vigneron, Joseph Arthur père",,,sold,,3450,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,247,,"Sartory, Eugène Nicolas",,,sold,,9200,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,249,,"Lamy, Joseph Alfred père",,,sold,,2760,GBP,Secondary,Cross-checked,Cello Bow
+,,1995-03-21,250,,"Fétique, Victor François",,,sold,,1495,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,251,,"Bultitude, Arthur Richard",,,sold,,3335,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,252,,"Laberte, Marc André Joseph",,,sold,,1380,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,254,,"Vigneron, Joseph Arthur père",,,sold,,1840,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,255,,"Jombar, Paul",,,sold,,977,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,257,,"Hill & Sons, W. E. Firm",,,sold,,1610,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,286,,"Giannini, Fabrizio",,,sold,,4140,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,291,,"Oddone, Carlo Giuseppe",,,sold,,20700,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,295,,"Bisiach, Leandro I",,,sold,,20700,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,297,,"Aldric, Jean-François",,,sold,,13800,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,298,,"Gibertini, Antonio",,,sold,,23000,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,301,,"Voirin, François Nicolas",,,sold,,6670,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,302,,"Vigneron, Joseph Arthur père",,,sold,,2242,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,303,,"Ouchard, Émile-Auguste",,,sold,,3910,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,304,,"Ouchard, Émile François",,,sold,,575,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,305,,"Lamy, Joseph Alfred père",,,sold,,4600,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,306,,"Martin, Jean-Joseph",,,sold,,2645,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,310,,COLLIN-MÉZIN CHARLES JEAN BAPT. III,,,sold,,1610,GBP,Secondary,Secondary,Viola Bow
+,,1995-03-21,312,,"Hill & Sons, W. E. Firm",,,sold,,460,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,315,,"Laberte, Marc André Joseph",,,sold,,1058,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,317,,CUNIOT-HURY EUGÈNE,,,sold,,805,GBP,Secondary,Secondary,Violin Bow
+,,1995-03-21,318,,"Tubbs, James",,,sold,,8625,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,320,,"Tubbs, James",,,sold,,11500,GBP,Secondary,Cross-checked,Viola Bow
+,,1995-03-21,322,,"Tubbs, James",,,sold,,27600,GBP,Secondary,Cross-checked,Violin Bow
+,,1995-03-21,324,,"Noebe, Louis",,,sold,,2070,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,326,,"Mayson, Walter H.",,,sold,,1380,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,330,,"Médard, Nicolas III",,,sold,,4485,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,331,,"Antoniazzi, Riccardo",,,sold,,6900,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,332,,"Vaccari, Raffaele",,,sold,,6900,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,342,,"Colin, Jean Baptiste",,,sold,,1380,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,343,,"Gotti, Anselmo",,,sold,,5520,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,345,,"Parker, Daniel",,,sold,,3220,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,347,,"Gobetti, Francesco",,,sold,,65300,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,351,,"Tivoli-Fiorini, Arrigo",,,sold,,3910,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,352,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,552,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,356,,"D'Espine, Alessandro",,,sold,,41100,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,357,,"Ignesti, Roberto",,,sold,,2645,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,358,,"Bailly, Paul",,,sold,,5290,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,360,,L'HUMBERT ÉMILE,,,sold,,5980,GBP,Secondary,Secondary,Violin
+,,1995-03-21,362,,"Eberle, Johann Ulrich",,,sold,,5750,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,364,,"Badarello, Carlo",,,sold,,4370,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,365,,"Albani, Giuseppe I",,,sold,,5980,GBP,Secondary,Cross-checked,Violin
+,,1995-03-21,,,"Balestrieri, Tommaso",,,sold,,36340,USD,Secondary,Secondary,Violin
+,,1995-03-21,,,"Gagliano,",,,sold,,4905.9,USD,Secondary,Secondary,Violin
+,,1995-03-21,,,"Pedrazzini, Giuseppe",,,sold,,13627.5,USD,Secondary,Secondary,Violin
+,,1995-03-21,,,"Scarampella, Stefano",,,sold,,10902,USD,Secondary,Secondary,Violin
+,,1995-03-21,,,"Vuillaume, Sebastien",,,sold,,10902,USD,Secondary,Secondary,Violin
+,,1995-03-21,,,"Fetique, Victor",,,sold,,1998.7,USD,Secondary,Secondary,Violin Bow
+,,1995-03-21,,,"Knopf, Henry Richard",,,sold,,2543.8,USD,Secondary,Secondary,Violin Bow
+,,1995-03-21,,,"Sartory, Eugene",,,sold,,2725.5,USD,Secondary,Secondary,Violin Bow
+,,1995-03-21,,,"Thibouville-Lamy, Jerome",,,sold,,4905.9,USD,Secondary,Secondary,Cello

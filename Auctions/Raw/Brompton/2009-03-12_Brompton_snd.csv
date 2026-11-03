@@ -1,0 +1,48 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2009-03-12,1,,"Collin-Mézin, Charles Jean-Baptiste père",,,sold,,4560,GBP,Secondary,Secondary,Violin
+,,2009-03-12,2,,"Ficker, Gustav August",,,sold,,1320,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,4,,"Vuillaume, Jean-Baptiste",,,sold,,12600,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,5,,"Amaglioni, Aldebrande",,,sold,,12000,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,7,,"Mougenot, Léon Victor",,,sold,,1920,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,9,,"Panormo, George",,,sold,,13500,GBP,Secondary,Secondary,Violin
+,,2009-03-12,10,,"Gragnani, Onorato",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,11,,"Collin-Mézin, Charles Jean-Baptiste père",,,sold,,2400,GBP,Secondary,Secondary,Violin
+,,2009-03-12,13,,"Audinot, Pierre",,,sold,,1800,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,14,,"Chanot, Frederick William",,,sold,,7200,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,17,,"Mougenot, Georges",,,sold,,2400,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,28,,"Ventapane, Pasquale",,,sold,,6600,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,32,,"Tobin, Richard",,,sold,,3840,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,38,,"Degani, Giulio Ettore",,,sold,,10800,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,39,,"Roth, Ernst Heinrich",,,sold,,2280,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,47,,"Storioni, Lorenzo",,,sold,,57600,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,48,,"Amati, Nicolò",,,sold,,5400,GBP,Secondary,Secondary,Violin
+,,2009-03-12,50,,"Perry, Thomas II",,,sold,,1200,GBP,Secondary,Secondary,Violin
+,,2009-03-12,51,,"Gagliano, Giuseppe",,,sold,,90000,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,55,,"Robinson, William",,,sold,,624,GBP,Secondary,Cross-checked,Viola
+,,2009-03-12,58,,Neuner & Hornsteiner,,,sold,,2760,GBP,Secondary,Cross-checked,Cello
+,,2009-03-12,66,,"Fétique, Victor François",,,sold,,1500,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,67,,"Laurent, Émile père",,,sold,,3000,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,69A,,"Simon, Pierre",,,sold,,4000,GBP,Secondary,Secondary,Violin Bow
+,,2009-03-12,70,,"Thomassin, Claude Auguste",,,sold,,3120,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,71,,"Hill & Sons, W. E. Firm",,,sold,,1680,GBP,Secondary,Secondary,Violin Bow
+,,2009-03-12,72,,"Dodd, John I",,,sold,,1200,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,74,,"Beuscher, Paul",,,sold,,960,GBP,Secondary,Secondary,Violin Bow
+,,2009-03-12,77,,"Lamy, Alfred dit neveu",,,sold,,4560,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,78,,"Nürnberger, Albert",,,sold,,1200,GBP,Secondary,Secondary,Violin Bow
+,,2009-03-12,79,,"Dodd, John I",,,sold,,576,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,80,,"Hill & Sons, W. E. Firm",,,sold,,840,GBP,Secondary,Secondary,Violin Bow
+,,2009-03-12,81,,"Chardon, André",,,sold,,3600,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,83,,"Enel, Charles",,,sold,,480,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,84,,"Bultitude, Arthur Richard",,,sold,,1200,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,85,,"Nürnberger, Albert",,,sold,,240,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,87,,"Pfretzschner, Hermann Richard",,,sold,,696,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,93,,"Bazin, Charles Nicolas",,,sold,,1104,GBP,Secondary,Cross-checked,Violin Bow
+,,2009-03-12,96,,"Hill & Sons, W. E. Firm",,,sold,,3000,GBP,Secondary,Cross-checked,Viola Bow
+,,2009-03-12,101,,"Pfretzschner, Hermann Richard",,,sold,,1200,GBP,Secondary,Secondary,Violin Bow
+,,2009-03-12,113,,Neuner & Hornsteiner,,,sold,,420,GBP,Secondary,Cross-checked,Violin
+,,2009-03-12,153,,"Penzel, Gerhard Kurt",,,sold,,420,GBP,Secondary,Secondary,Cello Bow
+,,2009-03-12,,,"Amaglioni, Aldebrande",,,sold,,12000,GBP,Secondary,Secondary,Violin
+,,2009-03-12,,,"Storioni, Lorenzo",,,sold,,57600,GBP,Secondary,Secondary,Violin
+,,2009-03-12,,,"Degani, Eugenio",,,sold,,10800,GBP,Secondary,Secondary,Violin
+,,2009-03-12,,,"Gagliano, Giuseppe",,,sold,,90000,GBP,Secondary,Secondary,Violin
+,,2009-03-12,,,"Gragnani, Onorato",,,sold,,24000,GBP,Secondary,Secondary,Violin

@@ -1,0 +1,57 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2001-11-04,27,,"Furber, John",,,sold,,4600,USD,Secondary,Secondary,Cello
+,,2001-11-04,35,,"Köberling, Johann",,,sold,,2530,USD,Secondary,Secondary,Cello
+,,2001-11-04,42,,"Tononi, Giovanni",,,sold,,52900,USD,Secondary,Secondary,Violin
+,,2001-11-04,43,,"Becker, Carl Sr.",,,sold,,24725,USD,Secondary,Secondary,Violin
+,,2001-11-04,51,,"Wulme-Hudson, George",,,sold,,6900,USD,Secondary,Secondary,Violin
+,,2001-11-04,53,,"Storioni, Lorenzo",,,sold,,107000,USD,Secondary,Secondary,Violin
+,,2001-11-04,55,,Gand & Bernardel Firm,,,sold,,16100,USD,Secondary,Secondary,Violin
+,,2001-11-04,58,,"Utili, Nicola",,,sold,,4255,USD,Secondary,Secondary,Violin
+,,2001-11-04,59,,"Gragnani, Onorato",,,sold,,12650,USD,Secondary,Secondary,Violin
+,,2001-11-04,63,,"Castagneri, Andrea",,,sold,,8050,USD,Secondary,Secondary,Violin
+,,2001-11-04,67,,"Saccani, Benigno",,,sold,,5175,USD,Secondary,Secondary,Violin
+,,2001-11-04,70,,"Erdesz, Otto A.",,,sold,,3450,USD,Secondary,Secondary,Violin
+,,2001-11-04,79,,"Blondelet, Hugues Emile",,,sold,,1725,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,80,,"Bazin, Charles Louis",,,sold,,1265,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,87,,"Tubbs, James",,,sold,,3105,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,97,,"Hoyer, Otto A.",,,sold,,1610,USD,Secondary,Secondary,Viola Bow
+,,2001-11-04,105,,Hart & Son,,,sold,,2645,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,106,,"Pfretzschner, Hermann Richard",,,sold,,1150,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,110,,"Pfretzschner, Hermann Richard",,,sold,,748,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,114,,"Sartory, Eugène Nicolas",,,sold,,8050,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,117,,"Lapierre, Marcel Charles",,,sold,,1955,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,120,,"Vuillaume, Jean-Baptiste",,,sold,,4715,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,121,,"Bisch, Paul",,,sold,,920,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,124,,"Nürnberger, Albert",,,sold,,1265,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,126,,"Lotte, François",,,sold,,1610,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,127,,"Hill & Sons, W. E. Firm",,,sold,,978,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,131,,"Hill & Sons, W. E. Firm",,,sold,,2530,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,133,,"Dolling, Kurt",,,sold,,460,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,135,,"Nürnberger, Albert",,,sold,,1150,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,139,,"Sartory, Eugène Nicolas",,,sold,,9775,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,141,,"Hill & Sons, W. E. Firm",,,sold,,2645,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,143,,"Fétique, Victor François",,,sold,,3105,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,149,,"Cavani, Vincenzo",,,sold,,6038,USD,Secondary,Secondary,Viola
+,,2001-11-04,160,,"Rocchi, Sesto",,,sold,,6900,USD,Secondary,Secondary,Viola
+,,2001-11-04,169,,"Vigneron, Joseph Arthur père",,,sold,,4715,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,170,,Bazin Family,,,sold,,402,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,172,,"Peccatte, François",,,sold,,11500,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,180,,"Pfretzschner, G.A.",,,sold,,690,USD,Secondary,Secondary,Viola Bow
+,,2001-11-04,185,,"Simon, Pierre",,,sold,,8625,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,187,,"Schuster, Albert",,,sold,,402,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,223,,"Mangenot, Paul Alexandre",,,sold,,1092,USD,Secondary,Secondary,Violin
+,,2001-11-04,225,,"Magniere, Gabriel",,,sold,,1840,USD,Secondary,Secondary,Violin
+,,2001-11-04,253,,"Pfretzschner, Hermann Richard",,,sold,,690,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,256,,"Hoyer, Otto A.",,,sold,,1265,USD,Secondary,Secondary,Violin Bow
+,,2001-11-04,265,,"Baader & Co., J. A.",,,sold,,230,USD,Secondary,Secondary,Violin
+,,2001-11-04,347,,"Duerer, Wilhelm",,,sold,,690,USD,Secondary,Secondary,Violin
+,,2001-11-04,378,,"Arey, Isaiah H.",,,sold,,1150,USD,Secondary,Secondary,Violin
+,,2001-11-04,379,,"Roth, Ernst Heinrich",,,sold,,2990,USD,Secondary,Secondary,Violin
+,,2001-11-04,380,,"Juzek, Jan (John)",,,sold,,1035,USD,Secondary,Secondary,Violin
+,,2001-11-04,383,,"Blondelet, Hugues Emile",,,sold,,2185,USD,Secondary,Secondary,Violin
+,,2001-11-04,388,,"Prihonsky, Bretislav",,,sold,,1265,USD,Secondary,Secondary,Violin
+,,2001-11-04,393,,"Peternella, Jago",,,sold,,1035,USD,Secondary,Secondary,Violin
+,,2001-11-04,408,,"Tewkesbury, Moses A.",,,sold,,345,USD,Secondary,Secondary,Bass
+,,2001-11-04,416,,"Baldoni, Dante",,,sold,,3795,USD,Secondary,Secondary,Violin
+,,2001-11-04,426,,"Injeian, Phillip",,,sold,,3738,USD,Secondary,Secondary,Violin
+,,2001-11-04,431,,"Gemünder, August Martin",,,sold,,5175,USD,Secondary,Secondary,Violin

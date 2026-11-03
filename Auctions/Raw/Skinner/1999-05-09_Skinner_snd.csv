@@ -1,0 +1,98 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1999-05-09,17,,"Contino, Alfredo",,,sold,,8050,USD,Secondary,Secondary,Viola
+,,1999-05-09,19,,"Conia, Stefano",,,sold,,3737,USD,Secondary,Cross-checked,Viola
+,,1999-05-09,21,,"Cavani, Vincenzo",,,sold,,6900,USD,Secondary,Cross-checked,Viola
+,,1999-05-09,23,,"Piñeiro, Horacio",,,sold,,4715,USD,Secondary,Cross-checked,Viola
+,,1999-05-09,24,,"Edler, Ernest",,,sold,,1380,USD,Secondary,Cross-checked,Viola
+,,1999-05-09,26,,"Melloni, Settimo",,,sold,,2990,USD,Secondary,Cross-checked,Viola
+,,1999-05-09,28,,SIRLETO BROTHERS,,,sold,,4600,USD,Secondary,Secondary,Viola
+,,1999-05-09,30,,"Erician, Martin",,,sold,,3737,USD,Secondary,Cross-checked,Viola
+,,1999-05-09,33,,"Hofner, Karl",,,sold,,143,USD,Secondary,Secondary,Viola
+,,1999-05-09,34,,"Ward, Rod",,,sold,,287,USD,Secondary,Cross-checked,Viola
+,,1999-05-09,35,,"Knorr, Albert",,,sold,,1495,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,37,,COMBS JOHN,,,sold,,230,USD,Secondary,Secondary,Violin
+,,1999-05-09,38,,VOIGT JOHANN CHRISTIAN,,,sold,,1035,USD,Secondary,Secondary,Violin
+,,1999-05-09,39,,"Chanot, Georges I",,,sold,,24150,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,40,,"Szepessy, Béla",,,sold,,8050,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,41,,"Gartner, Eugen",,,sold,,1380,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,45,,"Roth, Ernst Heinrich",,,sold,,4140,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,47,,"Hill, Joseph I",,,sold,,3565,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,48,,"Vuillaume, Jean-Baptiste",,,sold,,31050,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,49,,"Nicolas, Didier l'aîné",,,sold,,4887,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,51,,"Klotz, Aegidius Sebastian",,,sold,,2530,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,54,,"Postiglione, Vincenzo II",,,sold,,10350,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,55,,"Gadda, Gaetano & Mario",,,sold,,10925,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,56,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3335,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,60,,"Gotti, Anselmo",,,sold,,16100,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,61,,"Eberle, Johann Ulrich",,,sold,,2990,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,63,,"Robinson, William",,,sold,,4600,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,65,,"Lucci, Giuseppe",,,sold,,10925,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,67,,"Hudson, George",,,sold,,9200,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,68,,"Jacobs, Hendrik",,,sold,,11500,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,75,,"White, Asa Warren",,,sold,,2645,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,78,,"Claudot, Albert",,,sold,,4945,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,79,,"Erdesz, Otto A.",,,sold,,3737,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,82,,"Gand, Charles François père",,,sold,,23000,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,83,,"Boussu, Joseph Benoit",,,sold,,20700,USD,Secondary,Cross-checked,Cello
+,,1999-05-09,97,,"White, Asa Warren",,,sold,,1725,USD,Secondary,Cross-checked,Cello
+,,1999-05-09,99,,CHARETTE PIERRE,,,sold,,2300,USD,Secondary,Secondary,Cello
+,,1999-05-09,106,,"Marchetti, Enrico",,,sold,,5290,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,107,,"Radighieri, Otello",,,sold,,2185,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,109,,"Sartory, Eugène Nicolas",,,sold,,8337,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,113,,"Maire, Nicolas Rémy",,,sold,,5750,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,116,,"Hill & Sons, W. E. Firm",,,sold,,1265,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,118,,"Sartory, Eugène Nicolas",,,sold,,5462,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,123,,"Tubbs, Edward",,,sold,,1840,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,125,,"Sartory, Eugène Nicolas",,,sold,,9487,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,127,,"Vigneron, Joseph Arthur père",,,sold,,4600,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,129,,"Thomassin, Claude Auguste",,,sold,,3220,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,133,,"Sartory, Eugène Nicolas",,,sold,,3220,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,134,,"Gerome, Roger",,,sold,,2185,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,139,,"Hoyer, Otto A.",,,sold,,1495,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,143,,"Fétique, Victor François",,,sold,,2415,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,145,,"Pfretzschner, Hermann Richard",,,sold,,920,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,146,,"Pfretzschner, Wilhelm August",,,sold,,1610,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,147,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,,805,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,149,,"Hill & Sons, W. E. Firm",,,sold,,3220,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,152,,AMES ROBERT,,,sold,,2415,USD,Secondary,Secondary,Violin Bow
+,,1999-05-09,153,,"Voirin, François Nicolas",,,sold,,8912,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,155,,"Bazin, Charles Alfred",,,sold,,1955,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,156,,Franz Albert (II) Nurnberger,,,sold,,457,GBP,Secondary,Secondary,Violin Bow
+,,1999-05-09,163,,"Bauer, Jean",,,sold,,5405,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,167,,"White, Asa Warren",,,sold,,1840,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,174,,"Dailey, Israel A.",,,sold,,1150,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,180,,"Dieudonné, Amédée",,,sold,,2990,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,185,,"Sartory, Eugène Nicolas",,,sold,,2760,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,189,,"Hill & Sons, W. E. Firm",,,sold,,2645,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,192,,August Friedrich Herrmann,,,sold,,633,GBP,Secondary,Secondary,Violin Bow
+,,1999-05-09,201,,"Hill & Sons, W. E. Firm",,,sold,,1840,USD,Secondary,Cross-checked,Viola Bow
+,,1999-05-09,203A,,"Sartory, Eugène Nicolas",,,sold,,17825,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,203,,"Lamy, Joseph Alfred père",,,sold,,5175,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,204,,"Voirin, François Nicolas",,,sold,,747,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,205,,"Nürnberger, Albert",,,sold,,690,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,208,,"Lapierre, Marcel Charles",,,sold,,575,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,210,,"Pfretzschner, Hermann Richard",,,sold,,1495,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,211,,"Colas, Prosper",,,sold,,1380,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,212,,"Nürnberger, Albert",,,sold,,862,USD,Secondary,Cross-checked,Cello Bow
+,,1999-05-09,213,,VAN HEMERT KEES,,,sold,,575,USD,Secondary,Secondary,Cello Bow
+,,1999-05-09,218,,"Hel, Pierre Joseph",,,sold,,1150,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,220,,"Lamy, Joseph Alfred père",,,sold,,920,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,225,,"Roth, Ernst Heinrich",,,sold,,546,USD,Secondary,Secondary,Violin Bow
+,,1999-05-09,226,,"Bausch, Karl Friedrich Ludwig Jr.",,,sold,,402,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,227,,"Pfretzschner, Hermann Richard",,,sold,,690,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,229,,"Lapierre, Marcel Charles",,,sold,,632,USD,Secondary,Cross-checked,Violin Bow
+,,1999-05-09,244,,ARTHUR & JOHNSON,,,sold,,1150,USD,Secondary,Secondary,Violin
+,,1999-05-09,286,,"Cartwright, Charles D.",,,sold,,690,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,287,,MARDULA FRANCISEK & STANISLAW,,,sold,,690,USD,Secondary,Secondary,Violin
+,,1999-05-09,293,,Violins Timtone,,,sold,,704,GBP,Secondary,Secondary,Violin
+,,1999-05-09,294,,"Kriner, Hans B.",,,sold,,1380,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,298,,HARRIS HENRY,,,sold,,805,USD,Secondary,Secondary,Violin
+,,1999-05-09,300,,"Germain, Joseph Louis",,,sold,,2645,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,308,,WHEELER A. H.,,,sold,,805,USD,Secondary,Secondary,Violin
+,,1999-05-09,344,,"Baader & Co., J. A.",,,sold,,402,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,357,,"Duerer, Wilhelm",,,sold,,517,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,368,,"Hill & Sons, W. E. Firm",,,sold,,3680,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,370,,"Otto, Carl August",,,sold,,2645,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,372,,"Buchstetter, Gabriel David",,,sold,,1380,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,376,,"Holste, Johann",,,sold,,1092,USD,Secondary,Cross-checked,Violin
+,,1999-05-09,378,,"Gianotti, Alfredo",,,sold,,4830,USD,Secondary,Cross-checked,Violin

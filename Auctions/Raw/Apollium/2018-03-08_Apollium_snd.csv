@@ -1,0 +1,9 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2018-03-08,5,,Nicolas Augustin Chappuy,,,sold,,1680,EUR,Secondary,Secondary,Cello
+,,2018-03-08,48,,Dominique Salzard,,,sold,,1200,EUR,Secondary,Secondary,Violin
+,,2018-03-08,50,,Leon Mougenot Gauche,,,sold,,2160,EUR,Secondary,Secondary,Violin
+,,2018-03-08,53,,Georges Apparut,,,sold,,2280,EUR,Secondary,Secondary,Violin
+,,2018-03-08,220,,Wilhelm Hermann Hammig,,,sold,,720,EUR,Secondary,Secondary,Violin Bow
+,,2018-03-08,222,,Jean Joseph Martin,,,sold,,4560,EUR,Secondary,Secondary,Violin Bow
+,,2018-03-08,230,,Francois Lotte,,,sold,,648,EUR,Secondary,Secondary,Violin Bow
+,,2018-03-08,241,,Francois Daber Jean,,,sold,,900,EUR,Secondary,Secondary,Cello Bow

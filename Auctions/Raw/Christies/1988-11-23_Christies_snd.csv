@@ -1,0 +1,89 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1988-11-23,69,,"Hill & Sons, W. E. Firm",,,sold,,1210,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,70,,"Thibouville-Lamy, Jérôme Firm",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,72,,"Hill & Sons, W. E. Firm",,,sold,,418,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,73,,"Serdet, Paul",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,74,,"Sartory, Eugène Nicolas",,,sold,,990,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,75,,"Voirin, François Nicolas",,,sold,,935,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,76,,"Alvey, Brian",,,sold,,605,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,77,,"Nürnberger, Albert",,,sold,,440,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,79,,"Fétique, Victor François",,,sold,,825,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,80,,"Herrmann, Emil",,,sold,,308,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,81,,"Thomassin, Claude Auguste",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,84,,"Hill & Sons, W. E. Firm",,,sold,,715,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,85,,"Hill & Sons, W. E. Firm",,,sold,,1100,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,86,,"Tubbs, James",,,sold,,1980,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,87,,"Vuillaume, Jean-Baptiste",,,sold,,3520,GBP,Secondary,Cross-checked,Viola Bow
+,,1988-11-23,92,,"Peccatte, Dominique",,,sold,,14300,GBP,Secondary,Cross-checked,Violin Bow
+,,1988-11-23,93,,"Stuber, Johann",,,sold,,660,GBP,Secondary,Cross-checked,Violin Bow
+,,1988-11-23,99,,"Tubbs, Thomas",,,sold,,528,GBP,Secondary,Secondary,Cello Bow
+,,1988-11-23,100,,"Taylor, Malcolm",,,sold,,770,GBP,Secondary,Secondary,Viola Bow
+,,1988-11-23,101,,"Bernardel, Léon",,,sold,,286,GBP,Secondary,Secondary,Cello Bow
+,,1988-11-23,102,,"Gotz, Conrad",,,sold,,154,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,103,,"Gotz, Conrad",,,sold,,264,GBP,Secondary,Secondary,Viola Bow
+,,1988-11-23,104,,"Nürnberger, Albert",,,sold,,770,GBP,Secondary,Secondary,Cello Bow
+,,1988-11-23,108,,"Hill & Sons, W. E. Firm",,,sold,,1320,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,110,,"Hill & Sons, W. E. Firm",,,sold,,1320,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,111,,"Tubbs, James",,,sold,,1650,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,113,,"Vigneron, Joseph Arthur père",,,sold,,2640,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,115,,"Voirin, François Nicolas",,,sold,,2860,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,116,,"Vigneron, André 'Vigneron fils'",,,sold,,1540,GBP,Secondary,Secondary,Cello Bow
+,,1988-11-23,117,,"Sartory, Eugène Nicolas",,,sold,,2200,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,118,,"Lamy, Alfred dit neveu",,,sold,,3850,GBP,Secondary,Secondary,Violin Bow
+,,1988-11-23,124,,"Tarr, William",,,sold,,550,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,138,,"Falisse, Auguste",,,sold,,2860,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,140,,"Pyne, George",,,sold,,1870,GBP,Secondary,Secondary,Violin
+,,1988-11-23,141,,"Barrett, John",,,sold,,1760,GBP,Secondary,Secondary,Violin
+,,1988-11-23,154,,"Perrin, François",,,sold,,308,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,156,,"Bruckner, Fritz Oswald",,,sold,,1100,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,157,,"Roth, Ernst Heinrich",,,sold,,1210,GBP,Secondary,Secondary,Violin
+,,1988-11-23,163,,"Schmidt, Ernst Reinhold",,,sold,,242,GBP,Secondary,Secondary,Violin
+,,1988-11-23,166,,"Hudson, George",,,sold,,1320,GBP,Secondary,Secondary,Violin
+,,1988-11-23,175,,"Gotti, Anselmo",,,sold,,2860,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,184,,"Colin, Jean Baptiste",,,sold,,1210,GBP,Secondary,Secondary,Violin
+,,1988-11-23,185,,"Bailly, Paul",,,sold,,2200,GBP,Secondary,Secondary,Violin
+,,1988-11-23,187,,"Vuillaume, Jean-Baptiste",,,sold,,41800,GBP,Secondary,Secondary,Violin
+,,1988-11-23,188,,"Guadagnini, Lorenzo",,,sold,,68200,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,189,,"Amati, Nicolò",,,sold,,132000,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,195,,"Ruddiman, Joseph",,,sold,,550,GBP,Secondary,Cross-checked,Viola
+,,1988-11-23,200,,"Duke, Richard",,,sold,,1980,GBP,Secondary,Cross-checked,Viola
+,,1988-11-23,204,,"Craske, George",,,sold,,3850,GBP,Secondary,Cross-checked,Viola
+,,1988-11-23,206,,"Luff, William H.",,,sold,,3960,GBP,Secondary,Secondary,Viola
+,,1988-11-23,208,,"Antoniazzi, Romeo",,,sold,,6160,GBP,Secondary,Secondary,Viola
+,,1988-11-23,210,,"Sderci, Igino",,,sold,,3740,GBP,Secondary,Cross-checked,Viola
+,,1988-11-23,212,,"Panormo, Joseph",,,sold,,9350,GBP,Secondary,Cross-checked,Viola
+,,1988-11-23,214,,"Betts, John I",,,sold,,715,GBP,Secondary,Secondary,Cello
+,,1988-11-23,216,,"Silvestre, Pierre",,,sold,,7700,GBP,Secondary,Cross-checked,Viola
+,,1988-11-23,222,,"Nicolas, Didier l'aîné",,,sold,,3740,GBP,Secondary,Cross-checked,Cello
+,,1988-11-23,228,,"Klotz, Joseph Thomas",,,sold,,1320,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,234,,"Handley, Henry",,,sold,,396,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,241,,"Lechi, Antonio",,,sold,,715,GBP,Secondary,Secondary,Violin
+,,1988-11-23,247,,"Robinson, William",,,sold,,770,GBP,Secondary,Secondary,Violin
+,,1988-11-23,252,,"Ardern, Job",,,sold,,1100,GBP,Secondary,Secondary,Violin
+,,1988-11-23,261,,"Lindsay, Michael H.",,,sold,,660,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,266,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2860,GBP,Secondary,Secondary,Violin
+,,1988-11-23,267,,"Hill, William Ebsworth",,,sold,,5500,GBP,Secondary,Secondary,Violin
+,,1988-11-23,269,,"Wolff, Brothers",,,sold,,330,GBP,Secondary,Secondary,Violin
+,,1988-11-23,275,,"Lechi, Antonio",,,sold,,935,GBP,Secondary,Secondary,Violin
+,,1988-11-23,277,,"Thibouville-Lamy, Jérôme Firm",,,sold,,462,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,282,,"Gilbert, Jeffrey James",,,sold,,825,GBP,Secondary,Secondary,Violin
+,,1988-11-23,295,,"Wolff, Brothers",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1988-11-23,302,,"Forster, William II or Sr",,,sold,,1045,GBP,Secondary,Secondary,Violin
+,,1988-11-23,311,,"Thir, Johann Georg",,,sold,,1650,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,312,,"Luff, William H.",,,sold,,4400,GBP,Secondary,Secondary,Violin
+,,1988-11-23,314,,"Gilchrist, James",,,sold,,550,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,316,,"Todt, Heinrich Hermann",,,sold,,825,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,317,,"Salzard, François",,,sold,,374,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,321,,"Colin, Jean Baptiste",,,sold,,1210,GBP,Secondary,Secondary,Violin
+,,1988-11-23,328,,"Aldric, Jean-François",,,sold,,5940,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,329,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1540,GBP,Secondary,Secondary,Violin
+,,1988-11-23,330,,"Chanot, Georges I",,,sold,,4620,GBP,Secondary,Secondary,Violin
+,,1988-11-23,337,,"Nisbet, William",,,sold,,550,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,340,,"Agostinelli, Luigi",,,sold,,1430,GBP,Secondary,Secondary,Violin
+,,1988-11-23,345,,"Richardson, Arthur",,,sold,,1540,GBP,Secondary,Secondary,Violin
+,,1988-11-23,347,,"Jombar, Paul",,,sold,,1430,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,352,,"Sacconi, Simone Fernando",,,sold,,15400,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,354,,"Goffriller, Matteo",,,sold,,44000,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,355,,"Guarneri, Andrea",,,sold,,93500,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,357,,"Guadagnini, Giovanni Battista",,,sold,,66000,GBP,Secondary,Cross-checked,Violin
+,,1988-11-23,358,,"Guarneri, Bartolomeo Giuseppe 'del Gesù'",,,sold,,242000,GBP,Secondary,Cross-checked,Violin

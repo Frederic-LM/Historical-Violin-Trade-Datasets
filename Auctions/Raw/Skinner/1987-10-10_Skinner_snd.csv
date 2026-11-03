@@ -1,0 +1,53 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1987-10-10,9,,"Shaw, Elbridge G.",,,sold,,110,USD,Secondary,Secondary,Violin
+,,1987-10-10,10,,"Harris, John C.",,,sold,,110,USD,Secondary,Secondary,Violin
+,,1987-10-10,16,,"Richardson, Frank",,,sold,,825,USD,Secondary,Secondary,Violin
+,,1987-10-10,23,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1760,USD,Secondary,Secondary,Violin
+,,1987-10-10,26,,"Derazey, Honoré (Jean-Joseph)",,,sold,,1210,USD,Secondary,Secondary,Violin
+,,1987-10-10,27,,"Reale, Nicola",,,sold,,660,USD,Secondary,Secondary,Violin
+,,1987-10-10,30,,"Mathieu, Nicolas",,,sold,,990,USD,Secondary,Secondary,Viola
+,,1987-10-10,31,,"Luderer, Otto",,,sold,,1430,USD,Secondary,Secondary,Viola
+,,1987-10-10,35,,"Neuner, Mathias II",,,sold,,3740,USD,Secondary,Secondary,Cello
+,,1987-10-10,36,,"Schuster, Edouard",,,sold,,3960,USD,Secondary,Secondary,Cello
+,,1987-10-10,39,,"Thomassin, Claude Auguste",,,sold,,1100,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,40,,"Nürnberger, Albert",,,sold,,605,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,41,,"Hums, Albin",,,sold,,522,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,45,,"Pfretzschner, G.A.",,,sold,,550,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,47,,"Pfretzschner, Wilhelm August",,,sold,,302,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,48,,"Schuster, Albert",,,sold,,330,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,54,,"Bernardel, Léon",,,sold,,935,USD,Secondary,Secondary,Cello Bow
+,,1987-10-10,55,,"Fétique, Victor François",,,sold,,1430,USD,Secondary,Secondary,Cello Bow
+,,1987-10-10,57,,"Hill & Sons, W. E. Firm",,,sold,,1870,USD,Secondary,Secondary,Cello Bow
+,,1987-10-10,58,,"Fétique, Victor François",,,sold,,1760,USD,Secondary,Secondary,Cello Bow
+,,1987-10-10,60,,"Nürnberger, Albert",,,sold,,550,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,63,,"Bazin, Charles Louis",,,sold,,467,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,64,,"Nürnberger, Albert",,,sold,,605,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,65,,Hart & Son,,,sold,,880,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,71,,"Hill & Sons, W. E. Firm",,,sold,,1320,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,72,,"Nürnberger, Albert",,,sold,,550,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,73,,"Hill & Sons, W. E. Firm",,,sold,,715,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,74,,"Granier, Andre",,,sold,,1100,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,75,,"Fétique, Victor François",,,sold,,1540,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,77,,"Fétique, Marcel Gaston",,,sold,,1100,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,78,,"Thomassin, Claude Auguste",,,sold,,1210,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,80,,"Hill & Sons, W. E. Firm",,,sold,,1320,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,81,,"Bazin, Charles Louis",,,sold,,1210,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,82,,"Silvestre, Hippolyte",,,sold,,1210,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,83,,"Taylor, Malcolm",,,sold,,1045,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,84,,"Vigneron, André 'Vigneron fils'",,,sold,,1320,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,85,,"Pique, Leon",,,sold,,715,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,86,,"Vigneron, André 'Vigneron fils'",,,sold,,935,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,88,,"Beare, John & Arthur",,,sold,,935,USD,Secondary,Secondary,Violin Bow
+,,1987-10-10,98,,"Heberlein, Heinrich Theodore",,,sold,,1210,USD,Secondary,Secondary,Violin
+,,1987-10-10,101,,"Whitmarsh, Emanuel",,,sold,,1430,USD,Secondary,Secondary,Violin
+,,1987-10-10,102,,"Flambeau, Charles",,,sold,,1650,USD,Secondary,Secondary,Violin
+,,1987-10-10,103,,"Berger, Karl August",,,sold,,2200,USD,Secondary,Secondary,Violin
+,,1987-10-10,104,,Laberte-Humbert Frères Firm,,,sold,,1320,USD,Secondary,Secondary,Violin
+,,1987-10-10,105,,"Derazey, Honoré (Jean-Joseph)",,,sold,,2090,USD,Secondary,Secondary,Violin
+,,1987-10-10,107A,,"Gemünder, August Martin",,,sold,,2200,USD,Secondary,Secondary,Violin
+,,1987-10-10,115,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,1980,USD,Secondary,Secondary,Violin
+,,1987-10-10,116,,"Bisiach, Carlo",,,sold,,9350,USD,Secondary,Secondary,Violin
+,,1987-10-10,117,,"Billottet, Louis Fernand",,,sold,,3190,USD,Secondary,Secondary,Violin
+,,1987-10-10,119,,"Degani, Giulio Ettore",,,sold,,3300,USD,Secondary,Secondary,Violin
+,,1987-10-10,123,,"Degani, Eugenio",,,sold,,4400,USD,Secondary,Secondary,Violin
+,,1987-10-10,125,,"Platner, Michele",,,sold,,9900,USD,Secondary,Secondary,Violin

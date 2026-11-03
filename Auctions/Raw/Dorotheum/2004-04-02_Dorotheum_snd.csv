@@ -1,0 +1,8 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2004-04-02,8,,"Leeb, Andreas Carl",,,sold,,5000,EUR,Secondary,Secondary,Violin
+,,2004-04-02,28,,"Ceruti, Enrico",,,sold,,27000,EUR,Secondary,Secondary,Violin
+,,2004-04-02,40,,"Novelli, Natale",,,sold,,25000,EUR,Secondary,Secondary,Cello
+,,2004-04-02,97,,"Schau, Karl",,,sold,,1200,EUR,Secondary,Secondary,Violin
+,,2004-04-02,102,,"Moennig, Fritz",,,sold,,1500,EUR,Secondary,Secondary,Violin
+,,2004-04-02,145,,"Durrschmidt, Wilhelm August",,,sold,,1500,EUR,Secondary,Secondary,Violin
+,,2004-04-02,191,,"Durrschmidt, Otto Carl",,,sold,,450,EUR,Secondary,Secondary,Violin Bow

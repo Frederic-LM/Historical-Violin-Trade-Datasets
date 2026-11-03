@@ -1,0 +1,59 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2000-10-06,14,,Wurlitzer Firm,,,sold,,4500,USD,Secondary,Cross-checked,Violin
+,,2000-10-06,15,,"Daniels, Samuel Wesley",,,sold,,240,USD,Secondary,Secondary,Violin
+,,2000-10-06,16,,"Becker, Carl Sr.",,,sold,,27000,USD,Secondary,Cross-checked,Violin
+,,2000-10-06,17,,"Schmidt, Max Willibald",,,sold,,1560,USD,Secondary,Secondary,Violin
+,,2000-10-06,20,,Gand & Bernardel Firm,,,sold,,14400,USD,Secondary,Cross-checked,Violin
+,,2000-10-06,21,,"Nemessányi, Samuel (Samu)",,,sold,,36000,USD,Secondary,Cross-checked,Violin
+,,2000-10-06,24,,"Tononi, Carlo Antonio",,,sold,,173625,USD,Secondary,Cross-checked,Violin
+,,2000-10-06,25,,"Widhalm, Leopold I",,,sold,,5400,USD,Secondary,Secondary,Violin
+,,2000-10-06,26,,"Salomon, Jean Baptiste Deshayes",,,sold,,3600,USD,Secondary,Cross-checked,Violin
+,,2000-10-06,28,,"Bernardel, Gustave Adolphe",,,sold,,14400,USD,Secondary,Secondary,Violin
+,,2000-10-06,29,,"Konya, Istvan",,,sold,,2400,USD,Secondary,Secondary,Violin
+,,2000-10-06,30,,"Squier, Victor Carroll",,,sold,,1560,USD,Secondary,Secondary,Violin
+,,2000-10-06,33,,"Gagliano, Giuseppe",,,sold,,48000,USD,Secondary,Secondary,Violin
+,,2000-10-06,36,,"Orlandini, Archimede",,,sold,,9000,USD,Secondary,Secondary,Violin
+,,2000-10-06,41,,"Jais, Johann I",,,sold,,13200,USD,Secondary,Secondary,Violin
+,,2000-10-06,42,,"Rocchi, Sesto",,,sold,,12000,USD,Secondary,Secondary,Violin
+,,2000-10-06,45,,"Guarneri, Andrea",,,sold,,72000,USD,Secondary,Secondary,Violin
+,,2000-10-06,46,,"Watson, William D.",,,sold,,1800,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,47,,"Vigneron, André 'Vigneron fils'",,,sold,,6000,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,48,,Dodd Family,,,sold,,1560,USD,Secondary,Secondary,Cello Bow
+,,2000-10-06,49,,"Hoyer, Otto A.",,,sold,,1200,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,51,,"Voirin, François Nicolas",,,sold,,1440,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,53,,"Hill & Sons, W. E. Firm",,,sold,,7800,USD,Secondary,Secondary,Cello Bow
+,,2000-10-06,54,,"Hill & Sons, W. E. Firm",,,sold,,8400,USD,Secondary,Secondary,Cello Bow
+,,2000-10-06,55,,"Tubbs, James",,,sold,,7500,USD,Secondary,Secondary,Cello Bow
+,,2000-10-06,60,,"Sartory, Eugène Nicolas",,,sold,,8400,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,62,,"Nürnberger, Franz Albert II",,,sold,,1440,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,63,,"Hill & Sons, W. E. Firm",,,sold,,3600,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,64,,"Simon, Pierre",,,sold,,39000,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,65,,"Peccatte, Dominique",,,sold,,42000,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,66,,"Tubbs, James",,,sold,,18000,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,67,,"Millant, Bernard",,,sold,,2700,USD,Secondary,Secondary,Viola Bow
+,,2000-10-06,72,,"Hill & Sons, W. E. Firm",,,sold,,2700,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,74,,"Hill & Sons, W. E. Firm",,,sold,,6000,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,76,,"Voirin, François Nicolas",,,sold,,12000,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,77,,"Simon, Pierre",,,sold,,13200,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,79,,"Wagner, Sebastian",,,sold,,12000,USD,Secondary,Secondary,Viola
+,,2000-10-06,80,,"Cavani, Vincenzo",,,sold,,10200,USD,Secondary,Secondary,Viola
+,,2000-10-06,81,,"Forster, William III",,,sold,,10200,USD,Secondary,Secondary,Viola
+,,2000-10-06,87,,"Hill & Sons, W. E. Firm",,,sold,,3600,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,88,,"Morizot, Louis Joseph père",,,sold,,5700,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,91,,"Watson, William D.",,,sold,,3000,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,92,,"Pajeot, Étienne",,,sold,,19200,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,93,,"Dodd, John I",,,sold,,3300,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,94,,"Sartory, Eugène Nicolas",,,sold,,8400,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,95,,"Ouchard, Émile-Auguste",,,sold,,8400,USD,Secondary,Secondary,Viola Bow
+,,2000-10-06,96,,"Vigneron, André 'Vigneron fils'",,,sold,,5700,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,102,,"Dodd, Thomas I",,,sold,,2400,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,104,,"Hill & Sons, W. E. Firm",,,sold,,5700,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,105,,"Simon, Pierre",,,sold,,15600,USD,Secondary,Secondary,Violin Bow
+,,2000-10-06,109,,"Widhalm, Martin Leopold (Leopold II)",,,sold,,9000,USD,Secondary,Secondary,Violin
+,,2000-10-06,114,,"Guadagnini, Giovanni Battista",,,sold,,162050,USD,Secondary,Secondary,Violin
+,,2000-10-06,121,,"Maggini, Giovanni Paolo",,,sold,,57600,USD,Secondary,Secondary,Violin
+,,2000-10-06,122,,"Stanley, Carlton F.",,,sold,,2160,USD,Secondary,Secondary,Violin
+,,2000-10-06,124,,"Puglisi, Michelangelo",,,sold,,5700,USD,Secondary,Secondary,Violin
+,,2000-10-06,128,,"Didtschenko, Dmytro",,,sold,,9600,USD,Secondary,Secondary,Violin
+,,2000-10-06,129,,"Gandolfi, Giuseppe",,,sold,,2400,USD,Secondary,Secondary,Violin
+,,2000-10-06,,,"Widhalm, Leopold",,,sold,,1775,USD,Secondary,Secondary,Violin

@@ -1,0 +1,71 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1985-06-19,1,,"Hull, John Justus",,,sold,,1100,USD,Secondary,Secondary,Violin
+,,1985-06-19,4,,"Boquay, Jacques",,,sold,,4400,USD,Secondary,Secondary,Violin
+,,1985-06-19,5,,"Contino, Alfredo",,,sold,,3300,USD,Secondary,Secondary,Violin
+,,1985-06-19,6,,"Derazey, Honoré (Jean-Joseph)",,,sold,,4125,USD,Secondary,Secondary,Violin
+,,1985-06-19,12,,"Casini, Lapo",,,sold,,3300,USD,Secondary,Secondary,Violin
+,,1985-06-19,13,,"Sderci, Igino",,,sold,,3300,USD,Secondary,Secondary,Violin
+,,1985-06-19,14,,"Gagliano, Nicolò",,,sold,,2200,USD,Secondary,Secondary,Violin
+,,1985-06-19,15,,"Parravicini, Piero",,,sold,,3300,USD,Secondary,Secondary,Violin
+,,1985-06-19,18,,"Zanti, Alessandro",,,sold,,8800,USD,Secondary,Secondary,Violin
+,,1985-06-19,22,,"Bellarosa, Vittorio",,,sold,,4400,USD,Secondary,Secondary,Violin
+,,1985-06-19,25A,,"Guadagnini, Giovanni Battista",,,sold,,115500,USD,Secondary,Secondary,Violin
+,,1985-06-19,26,,"Calcagno, Bernardo",,,sold,,13200,USD,Secondary,Secondary,Violin
+,,1985-06-19,30,,"Castaldini, Ageo",,,sold,,1650,USD,Secondary,Secondary,Violin
+,,1985-06-19,31,,"Balestrieri, Tommaso",,,sold,,47300,USD,Secondary,Secondary,Violin
+,,1985-06-19,32,,"Lechi, Antonio",,,sold,,1320,USD,Secondary,Secondary,Violin
+,,1985-06-19,33,,"Capela, Antonio",,,sold,,2310,USD,Secondary,Secondary,Violin
+,,1985-06-19,34,,"Capela, Antonio",,,sold,,2310,USD,Secondary,Secondary,Violin
+,,1985-06-19,35,,"Farotto, Celestino",,,sold,,1760,USD,Secondary,Secondary,Violin
+,,1985-06-19,36,,"Lupot, Nicolas",,,sold,,38500,USD,Secondary,Secondary,Violin
+,,1985-06-19,37,,"Gatti, Giorgio",,,sold,,3025,USD,Secondary,Secondary,Violin
+,,1985-06-19,39,,"Stainer, Jacob",,,sold,,23100,USD,Secondary,Secondary,Violin
+,,1985-06-19,46,,"Oppelt, Richard",,,sold,,2420,USD,Secondary,Secondary,Violin
+,,1985-06-19,49,,"Bickle, Paul",,,sold,,880,USD,Secondary,Secondary,Violin
+,,1985-06-19,50,,Caressa & Français Firm,,,sold,,2640,USD,Secondary,Secondary,Violin
+,,1985-06-19,60,,"Vuillaume, Jean-Baptiste",,,sold,,40700,USD,Secondary,Secondary,Cello
+,,1985-06-19,61,,"Gigli, Giulio Cesare",,,sold,,5775,USD,Secondary,Secondary,Viola
+,,1985-06-19,63,,"Bickle, Paul",,,sold,,990,USD,Secondary,Secondary,Viola
+,,1985-06-19,64,,"Cavaceppi, Mario",,,sold,,2200,USD,Secondary,Secondary,Viola
+,,1985-06-19,67,,"Lucci, Giuseppe",,,sold,,2640,USD,Secondary,Secondary,Viola
+,,1985-06-19,68,,"Michetti, Plinio",,,sold,,3080,USD,Secondary,Secondary,Viola
+,,1985-06-19,74,,"Hill & Sons, W. E. Firm",,,sold,,715,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,77,,"Peccatte, Charles",,,sold,,1650,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,86,,"Vigneron, André 'Vigneron fils'",,,sold,,2090,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,87,,"Hill & Sons, W. E. Firm",,,sold,,1320,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,88,,"Sartory, Eugène Nicolas",,,sold,,1870,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,90,,"Voirin, François Nicolas",,,sold,,2090,USD,Secondary,Secondary,Cello Bow
+,,1985-06-19,91,,"Lamy, Alfred dit neveu",,,sold,,2090,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,94,,"Hill & Sons, W. E. Firm",,,sold,,1870,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,96,,"Hill & Sons, W. E. Firm",,,sold,,1430,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,97,,"Lamy, Alfred dit neveu",,,sold,,1430,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,99,,"Hill & Sons, W. E. Firm",,,sold,,1100,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,105,,"Lagarde, Antoine",,,sold,,1320,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,106,,"Sartory, Eugène Nicolas",,,sold,,1320,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,108,,"Sartory, Eugène Nicolas",,,sold,,2860,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,109,,"Lamy, Alfred dit neveu",,,sold,,2200,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,111,,"Voirin, François Nicolas",,,sold,,1980,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,112,,"Richaume, André",,,sold,,2200,USD,Secondary,Secondary,Cello Bow
+,,1985-06-19,115,,"Sartory, Eugène Nicolas",,,sold,,2310,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,116,,"Hill & Sons, W. E. Firm",,,sold,,2090,USD,Secondary,Secondary,Viola Bow
+,,1985-06-19,118,,"Simon, Pierre",,,sold,,2970,USD,Secondary,Secondary,Cello Bow
+,,1985-06-19,126,,"Sartory, Eugène Nicolas",,,sold,,1430,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,127,,"Fétique, Victor François",,,sold,,1540,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,132,,"Salchow, William",,,sold,,1045,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,133,,"Hill & Sons, W. E. Firm",,,sold,,1650,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,134,,"Prell, Hermann Wilhelm",,,sold,,1100,USD,Secondary,Secondary,Cello Bow
+,,1985-06-19,135,,"Hill & Sons, W. E. Firm",,,sold,,1210,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,139,,"Dodd, John I",,,sold,,990,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,166,,"Dix, David",,,sold,,550,USD,Secondary,Secondary,Violin
+,,1985-06-19,179,,"Heberlein, Heinrich Theodore",,,sold,,660,USD,Secondary,Secondary,Violin
+,,1985-06-19,182,,"Barzoni, François",,,sold,,1540,USD,Secondary,Secondary,Violin
+,,1985-06-19,184,,"Heberlein, Heinrich Theodore",,,sold,,1320,USD,Secondary,Secondary,Violin
+,,1985-06-19,185,,"Buchstetter, Gabriel David",,,sold,,1210,USD,Secondary,Secondary,Violin
+,,1985-06-19,186,,"Henderson, Frank Vernon",,,sold,,495,USD,Secondary,Secondary,Viola Bow
+,,1985-06-19,187,,"Nürnberger, Albert",,,sold,,1045,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,188,,"Lee, John Norwood",,,sold,,770,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,189,,"Lee, John Norwood",,,sold,,1650,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,190,,"Taylor, Malcolm",,,sold,,770,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,192,,"Liu, Lloyd",,,sold,,660,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,194,,"Hill & Sons, W. E. Firm",,,sold,,1045,USD,Secondary,Secondary,Violin Bow
+,,1985-06-19,200,,"Lorange, Paul II",,,sold,,550,USD,Secondary,Secondary,Violin Bow

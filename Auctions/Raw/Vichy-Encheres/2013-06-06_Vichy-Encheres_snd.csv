@@ -1,0 +1,218 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2013-06-06,1,,Jérôme Thibouville Lamy,,,sold,1300,1611,EUR,Secondary,Secondary,Violin
+,,2013-06-06,4,,Jérôme Thibouville Lamy,,,sold,1200,1487,EUR,Secondary,Secondary,Violin
+,,2013-06-06,12,,Stefano Scarampella,,,sold,16000,19827,EUR,Secondary,Secondary,Small Violin
+,,2013-06-06,13,,Leon Mougenot Gauche,,,sold,1800,2231,EUR,Secondary,Secondary,Violin
+,,2013-06-06,14,,Charles Bailly,,,sold,1700,2107,EUR,Secondary,Secondary,Violin
+,,2013-06-06,15,,Alessandro Radrizzani,,,sold,6500,8055,EUR,Secondary,Secondary,Violin
+,,2013-06-06,16,,Jérôme Thibouville Lamy,,,sold,1300,1611,EUR,Secondary,Secondary,Viola
+,,2013-06-06,18,,Amedee Dominique Dieudonne,,,sold,,2244,GBP,Secondary,Secondary,Violin
+,,2013-06-06,19,,Jérôme Thibouville Lamy,,,sold,1000,1239,EUR,Secondary,Secondary,Violin
+,,2013-06-06,20,,Charles (II) Collin-Mezin,,,sold,,3060,GBP,Secondary,Secondary,Violin
+,,2013-06-06,21,,Georges Apparut,,,sold,2200,2726,EUR,Secondary,Secondary,Violin
+,,2013-06-06,23,,Louis Charles Courtier,,,sold,2000,2478,EUR,Secondary,Secondary,Violin
+,,2013-06-06,26,,Cuniot-Hury and Ouchard,,,sold,1800,2231,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,27,,Louis Bazin,,,sold,1900,2354,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,30,,Georges Leon Lamy,,,sold,7000,8674,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,31,,Francois Gaulard,,,sold,,1326,GBP,Secondary,Secondary,Viola Bow
+,,2013-06-06,33,,Stephane Thomachot,,,sold,4500,5576,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,34,,Charles Nicolas Bazin,,,sold,750,929,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,35,,Francois Peccatte,,,sold,4000,4957,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,36,,Antoine Lagarde,,,sold,650,805,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,37,,Emile Francois Ouchard,,,sold,1900,2354,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,38,,Benoit Rolland,,,sold,6000,7435,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,41,,Phillippe Gaud,,,sold,,612,GBP,Secondary,Secondary,Cello Bow
+,,2013-06-06,50,,Pierre Simon,,,sold,15000,18588,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,51,,Michel Couturieux,,,sold,1000,1239,EUR,Secondary,Secondary,Violin
+,,2013-06-06,52,,Leon Mougenot Gauche,,,sold,2400,2974,EUR,Secondary,Secondary,Violin
+,,2013-06-06,55,,Emile Germain,,,sold,5000,6196,EUR,Secondary,Secondary,Violin
+,,2013-06-06,56,,Justin Amadee Derazey,,,sold,,1836,GBP,Secondary,Secondary,Violin
+,,2013-06-06,60,,Louis Bernardel,,,sold,6700,8303,EUR,Secondary,Secondary,Violin
+,,2013-06-06,62,,Joseph Laurent Mast,,,sold,4000,4957,EUR,Secondary,Secondary,Violin
+,,2013-06-06,66,,Hippolyte Silvestre,,,sold,,5100,GBP,Secondary,Secondary,Violin
+,,2013-06-06,67,,Nicolas Augustin Chappuy,,,sold,2000,2478,EUR,Secondary,Secondary,Violin
+,,2013-06-06,70,,Nicolas (III) Vuillaume,,,sold,4500,5576,EUR,Secondary,Secondary,Violin
+,,2013-06-06,75,,Gand & Bernardel,,,sold,,14280,GBP,Secondary,Secondary,Violin
+,,2013-06-06,78,,Stephane Thomachot,,,sold,7000,8674,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,79,,Louis Joseph Morizot,,,sold,3500,4337,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,82,,Jean Jacques Millant,,,sold,5500,6816,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,83,,Jean Joseph Martin,,,sold,3000,3718,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,85,,Jean Pierre Marie Persoit,,,sold,,6324,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,88,,Jean Joseph Martin,,,sold,5200,6444,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,92,,Stephane Thomachot,,,sold,3800,4709,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,95,,Claude Auguste Thomassin,,,sold,,4998,GBP,Secondary,Secondary,Cello Bow
+,,2013-06-06,97,,Francois Nicolas Voirin,,,sold,,2550,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,98,,Charles Claude (II) Husson,,,sold,2000,2478,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,100,,Pierre Simon,,,sold,34000,42133,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,110,,Amedee Dominique Dieudonne,,,sold,,12240,GBP,Secondary,Secondary,Cello
+,,2013-06-06,112,,Francois Malakoff Brugere,,,sold,,11730,GBP,Secondary,Secondary,Cello
+,,2013-06-06,115,,Paul Francois Blanchard,,,sold,12000,14870,EUR,Secondary,Secondary,Cello
+,,2013-06-06,119,,Antoine Marius Richelme,,,sold,,1326,GBP,Secondary,Secondary,Violin
+,,2013-06-06,120,,Louis Nicolas Vissenaire,,,sold,,8160,GBP,Secondary,Secondary,Violin
+,,2013-06-06,125,,Nicolas (III) Vuillaume,,,sold,8000,9914,EUR,Secondary,Secondary,Violin
+,,2013-06-06,126,,Pierre Cuniot,,,sold,600,744,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,127,,Bernard Ouchard,,,sold,2500,3098,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,129,,Prosper Colas,,,sold,3100,3842,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,130,,Victor Fetique,,,sold,8000,9914,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,131,,Marc Laberte,,,sold,1800,2231,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,135,,Dominique Peccatte,,,sold,9000,11153,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,136,,Louis Joseph Morizot,,,sold,1900,2354,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,145,,Jean Jacques Millant,,,sold,4000,4957,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,146,,Francois Lotte,,,sold,800,991,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,147,,Louis Gillet,,,sold,2500,3098,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,148,,Jeanmarc Panhaleux,,,sold,,1734,GBP,Secondary,Secondary,Bass Bow
+,,2013-06-06,150,,Joseph Henry,,,sold,50000,61960,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,160,,Claude Pirot,,,sold,18000,22306,EUR,Secondary,Secondary,Violin
+,,2013-06-06,163,,Emile Germain,,,sold,4000,4957,EUR,Secondary,Secondary,Violin
+,,2013-06-06,165,,Giuseppe Sgarbi,,,sold,10000,12392,EUR,Secondary,Secondary,Violin
+,,2013-06-06,172,,Nicolas Augustin Chappuy,,,sold,2500,3098,EUR,Secondary,Secondary,Violin
+,,2013-06-06,175,,Vincenzo Sannino,,,sold,37000,45850,EUR,Secondary,Secondary,Violin
+,,2013-06-06,176,,Eugene Cuniot-Hury,,,sold,650,805,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,177,,Charles Nicolas Bazin,,,sold,800,991,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,180,,Jean Pierre Marie Persoit,,,sold,,16320,GBP,Secondary,Secondary,Cello Bow
+,,2013-06-06,182,,Jean Pierre Marie Persoit,,,sold,,18360,GBP,Secondary,Secondary,Cello Bow
+,,2013-06-06,183,,Francois Peccatte,,,sold,6000,7435,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,185,,Jean Jacques Millant,,,sold,4800,5948,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,186,,Louis Bazin,,,sold,1100,1363,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,187,,Jean Joseph Martin,,,sold,3000,3718,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,188,,Joseph Arthur Vigneron,,,sold,,3876,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,190,,Bernard Ouchard,,,sold,12000,14870,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,196,,Prosper Colas,,,sold,800,991,EUR,Secondary,Secondary,Bass Bow
+,,2013-06-06,197,,Francois Gaulard,,,sold,,5100,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,200,,Jean Pierre Marie Persoit,,,sold,,47940,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,204,,Jérôme Thibouville Lamy,,,sold,1400,1735,EUR,Secondary,Secondary,Violin
+,,2013-06-06,206,,Jérôme Thibouville Lamy,,,sold,2100,2602,EUR,Secondary,Secondary,Viola
+,,2013-06-06,209,,Jérôme Thibouville Lamy,,,sold,1200,1487,EUR,Secondary,Secondary,Violin
+,,2013-06-06,210,,Louis Guersan,,,sold,10000,12392,EUR,Secondary,Secondary,Violin
+,,2013-06-06,214,,Hugues Emile Blondelet,,,sold,1500,1859,EUR,Secondary,Secondary,Violin
+,,2013-06-06,219,,Domenico Corbucci,,,sold,6000,7435,EUR,Secondary,Secondary,Violin
+,,2013-06-06,220,,Giuseppe Gagliano,,,sold,44000,54525,EUR,Secondary,Secondary,Violin
+,,2013-06-06,223,,Joseph Laurent Mast,,,sold,2800,3470,EUR,Secondary,Secondary,Violin
+,,2013-06-06,226,,Morizot Frères,,,sold,700,867,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,230,,Nicolas Maline,,,sold,6000,7435,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,231,,Jean Joseph Martin,,,sold,600,744,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,233,,Pierre Simon,,,sold,6000,7435,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,234,,Louis Bazin,,,sold,2300,2850,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,235,,Marcel Fetique,,,sold,6500,8055,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,236,,Francois Lotte,,,sold,950,1177,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,237,,Louis Joseph Morizot,,,sold,3500,4337,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,238,,Victor Fetique,,,sold,4500,5576,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,240,,Eugene Nicolas Sartory,,,sold,,19380,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,242,,Dominique Peccatte,,,sold,12000,14870,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,243,,Louis Gillet,,,sold,2800,3470,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,244,,Louis Joseph Morizot,,,sold,2200,2726,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,245,,Nicolas Leonard Tourte,,,sold,4000,4957,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,246,,Emile Francois Ouchard,,,sold,800,991,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,250,,Etienne Pajeot,,,sold,21000,26023,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,252,,Nicolo Bianchi,,,sold,12000,14870,EUR,Secondary,Secondary,Violin
+,,2013-06-06,253,,Joseph Charotte-Millot,,,sold,6500,8055,EUR,Secondary,Secondary,Cello
+,,2013-06-06,254,,Salvatore Valentinetti,,,sold,1000,1239,EUR,Secondary,Secondary,Viola
+,,2013-06-06,256,,Charles (II) Collin-Mezin,,,sold,,15300,GBP,Secondary,Secondary,Cello
+,,2013-06-06,260,,Bartolomeo Bimbi,,,sold,12000,14870,EUR,Secondary,Secondary,Viola
+,,2013-06-06,262,,Emile Mennesson,,,sold,,5304,GBP,Secondary,Secondary,Violin
+,,2013-06-06,264,,Salvatore Valentinetti,,,sold,1800,2231,EUR,Secondary,Secondary,Violin
+,,2013-06-06,265,,Louis Guersan,,,sold,6500,8055,EUR,Secondary,Secondary,Cello
+,,2013-06-06,266,,Berganton Amedeo,,,sold,,2244,GBP,Secondary,Secondary,Violin
+,,2013-06-06,270,,Gand & Bernardel,,,sold,,18360,GBP,Secondary,Secondary,Viola
+,,2013-06-06,273,,Charles Deforges,,,sold,,1326,GBP,Secondary,Secondary,Violin
+,,2013-06-06,274,,J. Challard,,,sold,,969,GBP,Secondary,Secondary,Violin
+,,2013-06-06,275,,Annibale Fagnola,,,sold,76000,94179,EUR,Secondary,Secondary,Violin
+,,2013-06-06,279,,Francois Lotte,,,sold,800,991,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,280,,Joseph Henry,,,sold,19000,23545,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,281,,Louis Bazin,,,sold,3200,3965,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,282,,Francois Peccatte,,,sold,4000,4957,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,283,,Jean Eulry,,,sold,2200,2726,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,284,,Charles Nicolas Bazin,,,sold,1200,1487,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,285,,Louis Joseph Thomassin,,,sold,,9180,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,286,,Benoit Rolland,,,sold,1500,1859,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,287,,Joseph Arthur Vigneron,,,sold,,3060,GBP,Secondary,Secondary,Cello Bow
+,,2013-06-06,288,,Victor Fetique,,,sold,4800,5948,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,290,,Joseph Fonclause,,,sold,,5100,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,293,,Louis Joseph Thomassin,,,sold,,3570,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,294,,Charles Nicolas Bazin,,,sold,1300,1611,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,295,,Etienne Pajeot,,,sold,6500,8055,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,296,,Emile Francois Ouchard,,,sold,900,1115,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,298,,Justin Poirson,,,sold,,8670,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,300,,Dominique Peccatte,,,sold,61000,75591,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,305,,Martin Leopold (Leopold II) Widhalm,,,sold,3400,4213,EUR,Secondary,Secondary,Violin
+,,2013-06-06,308,,Joseph Xavier Jacquet,,,sold,5000,6196,EUR,Secondary,Secondary,Bass
+,,2013-06-06,309,,Gand & Bernardel,,,sold,,12240,GBP,Secondary,Secondary,Violin
+,,2013-06-06,314,,Salvatore Valentinetti,,,sold,3500,4337,EUR,Secondary,Secondary,Violin
+,,2013-06-06,317,,Claude Chevrier,,,sold,2000,2478,EUR,Secondary,Secondary,Violin
+,,2013-06-06,320,,Hendrik Jacobs,,,sold,30000,37176,EUR,Secondary,Secondary,Violin
+,,2013-06-06,321,,Jérôme Thibouville Lamy,,,sold,3000,3718,EUR,Secondary,Secondary,Cello
+,,2013-06-06,323,,Jean Baptiste Frebrunet,,,sold,2000,2478,EUR,Secondary,Secondary,Violin
+,,2013-06-06,326,,Eugene Cuniot-Hury,,,sold,700,867,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,328,,Louis Gillet,,,sold,5000,6196,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,330,,Louis Simon Pajeot,,,sold,12000,14870,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,331,,Morizot Frères,,,sold,1200,1487,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,333,,Alfred Joseph Lamy,,,sold,,9180,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,336,,Louis Bazin,,,sold,700,867,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,339,,Roger Lotte,,,sold,900,1115,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,340,,Emile Auguste Ouchard,,,sold,14700,18216,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,341,,Eugene Nicolas Sartory,,,sold,,2244,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,344,,Charles Alfred Bazin,,,sold,2500,3098,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,345,,Nicolas (Simon FR) Simon,,,sold,,6120,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,346,,Morizot Frères,,,sold,1200,1487,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,347,,Jacob Eury,,,sold,7000,8674,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,348,,Henry Henry Jv Dominique,,,sold,,2652,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,349,,Emile Francois Ouchard,,,sold,1000,1239,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,350,,Dominique Peccatte,,,sold,20000,24784,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,351,,Eugene Nicolas Sartory,,,sold,,9600,GBP,Secondary,Secondary,Viola Bow
+,,2013-06-06,356,,Jacques Boquay,,,sold,,16320,GBP,Secondary,Secondary,Violin
+,,2013-06-06,358,,Jérôme Thibouville Lamy,,,sold,1200,1487,EUR,Secondary,Secondary,Cello
+,,2013-06-06,359,,Francois Hippolyte Caussin,,,sold,1500,1859,EUR,Secondary,Secondary,Violin
+,,2013-06-06,360,,Gand & Bernardel,,,sold,,30600,GBP,Secondary,Secondary,Cello
+,,2013-06-06,362,,Charles Jean Baptiste Collin-Mezin (I),,,sold,,4590,GBP,Secondary,Secondary,Violin
+,,2013-06-06,369,,Gustave Bazin,,,sold,1600,1983,EUR,Secondary,Secondary,Violin
+,,2013-06-06,372,,Auguste Darte,,,sold,3500,4337,EUR,Secondary,Secondary,Violin
+,,2013-06-06,375,,"Chardon, Joseph & Georges",,,sold,9000,11153,EUR,Secondary,Secondary,Violin
+,,2013-06-06,376,,Charles Nicolas Bazin,,,sold,900,1115,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,377,,Louis Joseph Morizot,,,sold,3300,4089,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,378,,Louis Joseph Thomassin,,,sold,,5100,GBP,Secondary,Secondary,Cello Bow
+,,2013-06-06,379,,Morizot Frères,,,sold,2100,2602,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,380,,Jean Pierre Marie Persoit,,,sold,,15300,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,381,,Charles Nicolas Bazin,,,sold,3000,3718,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,383,,Nicolas Leonard Tourte,,,sold,19000,23545,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,384,,Charles Nicolas Bazin,,,sold,4200,5205,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,385,,Etienne Pajeot,,,sold,19000,23545,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,386,,Jean Joseph Martin,,,sold,1700,2107,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,387,,Louis Gillet,,,sold,4500,5576,EUR,Secondary,Secondary,Bass Bow
+,,2013-06-06,388,,Morizot Andre,,,sold,,2856,GBP,Secondary,Secondary,Viola Bow
+,,2013-06-06,389,,Charles Nicolas Bazin,,,sold,2300,2850,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,391,,Emile Francois Ouchard,,,sold,4200,5205,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,392,,Nicolas Auguste Eugène Maline,,,sold,11000,13631,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,395,,Jean (I) Adam,,,sold,4000,4957,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,400,,Etienne Pajeot,,,sold,34000,42133,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,401,,Jérôme Thibouville Lamy,,,sold,900,1115,EUR,Secondary,Secondary,Violin
+,,2013-06-06,402,,Paoletti Silvio Vezio,,,sold,,7140,GBP,Secondary,Secondary,Violin
+,,2013-06-06,406,,Jérôme Thibouville Lamy,,,sold,2500,3098,EUR,Secondary,Secondary,Cello
+,,2013-06-06,408,,Joseph Bassot,,,sold,18000,22306,EUR,Secondary,Secondary,Violin
+,,2013-06-06,409,,Gustave Eugene Villaume,,,sold,,1632,GBP,Secondary,Secondary,Violin
+,,2013-06-06,417,,Amedee Dominique Dieudonne,,,sold,,2448,GBP,Secondary,Secondary,Violin
+,,2013-06-06,426,,Paul Emile Miquel,,,sold,1500,1859,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,427,,Celestin Emile Clasquin,,,sold,400,496,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,430,,Hippolyte Camille Lamy,,,sold,7000,8674,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,431,,Charles Nicolas Bazin,,,sold,500,620,EUR,Secondary,Secondary,Viola Bow
+,,2013-06-06,433,,Jean Joseph Martin,,,sold,3800,4709,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,436,,Charles Nicolas Bazin,,,sold,1600,1983,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,439,,Louis Bazin,,,sold,1400,1735,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,440,,Dominique Peccatte,,,sold,15000,18588,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,445,,Emile Auguste Ouchard,,,sold,4000,4957,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,446,,Louis Bazin,,,sold,1300,1611,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,448,,Victor Fetique,,,sold,2800,3470,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,452,,Bruschi Angelo,,,sold,,1530,GBP,Secondary,Secondary,Viola
+,,2013-06-06,456,,Didier Nicolas L’Aîné,,,sold,,2754,GBP,Secondary,Secondary,Violin
+,,2013-06-06,460,,Joseph Nicolas Leclerc,,,sold,8500,10533,EUR,Secondary,Secondary,Cello
+,,2013-06-06,464,,Claude Chevrier,,,sold,600,744,EUR,Secondary,Secondary,Violin
+,,2013-06-06,470,,Jérôme Thibouville Lamy,,,sold,4000,4957,EUR,Secondary,Secondary,Bass
+,,2013-06-06,472,,Jérôme Thibouville Lamy,,,sold,2900,3594,EUR,Secondary,Secondary,Cello
+,,2013-06-06,473,,Jérôme Thibouville Lamy,,,sold,3800,4709,EUR,Secondary,Secondary,Cello
+,,2013-06-06,476,,Charles Nicolas Bazin,,,sold,1000,1239,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,480,,Emile Auguste Ouchard,,,sold,17000,21066,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,482,,Louis Gillet,,,sold,7000,8674,EUR,Secondary,Secondary,Bass Bow
+,,2013-06-06,485,,Emile Francoise and Emile-Auguste Ouchard,,,sold,7500,9294,EUR,Secondary,Secondary,Cello Bow
+,,2013-06-06,486,,Gasq Jean Pierre,,,sold,,1326,GBP,Secondary,Secondary,Violin Bow
+,,2013-06-06,487,,Nicolas Maline,,,sold,1600,1983,EUR,Secondary,Secondary,Violin Bow
+,,2013-06-06,488,,Alfred Joseph Lamy,,,sold,,1632,GBP,Secondary,Secondary,Cello Bow
+,,2013-06-06,491,,Louis Joseph Morizot,,,sold,4000,4957,EUR,Secondary,Secondary,Cello Bow

@@ -1,0 +1,54 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1996-11-19,7,,HILL W. E. & SONS,,,sold,,1092,GBP,Secondary,Secondary,Violin Bow
+,,1996-11-19,41,,"Klotz, Joseph Thomas",,,sold,,4830,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,53,,"Widhalm, Leopold I",,,sold,,4600,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,55,,"Ardern, Job",,,sold,,690,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,58A,,"Holder, Thomas Jacques",,,sold,,3450,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,65,,"Blondelet, Hugues Emile",,,sold,,1150,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,68,,"Maggini, Giovanni Paolo",,,sold,,100500,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,85,,"Szepessy, Béla",,,sold,,2875,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,89,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2530,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,90,,"Chipot-Vuillaume, Jean-Baptiste",,,sold,,1495,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,94,,"Mayson, Walter H.",,,sold,,1725,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,96,,"Hel, Pierre Joseph",,,sold,,6900,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,98,,"Hel, Pierre Joseph",,,sold,,40000,GBP,Secondary,Cross-checked,Cello
+,,1996-11-19,109,,"Oddone, Carlo Giuseppe",,,sold,,23000,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,131,,"Vuillaume, Nicolas François",,,sold,,10350,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,135,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,4140,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,141,,Jean-Baptiste Vuillaume,,,sold,,9200,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,143,,"Smith, Arthur Edward",,,sold,,5750,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,146,,"Pyne, George",,,sold,,2530,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,151,,"Chanot, Georges Adolphe",,,sold,,2070,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,153,,"Degani, Eugenio",,,sold,,14375,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,154,,"Scolari, Giorgio",,,sold,,4255,GBP,Secondary,Cross-checked,Viola
+,,1996-11-19,164,,"Darby, George",,,sold,,3565,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,168,,"Mayson, Walter H.",,,sold,,805,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,172,,"Hudson, George",,,sold,,4140,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,174,,VINCENT ARTHUR,,,sold,,4140,GBP,Secondary,Secondary,Violin
+,,1996-11-19,175,,"Pyne, George",,,sold,,3680,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,176,,"Morassi, Gio Battista",,,sold,,7130,GBP,Secondary,Cross-checked,Violin
+,,1996-11-19,177,,"Hill & Sons, W. E. Firm",,,sold,,2070,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,178,,"Sartory, Eugène Nicolas",,,sold,,9200,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,179,,"Hill & Sons, W. E. Firm",,,sold,,1840,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,180,,"Tubbs, James",,,sold,,6900,GBP,Secondary,Cross-checked,Viola Bow
+,,1996-11-19,181,,"Sartory, Eugène Nicolas",,,sold,,1265,GBP,Secondary,Cross-checked,Violin Bow
+,,1996-11-19,182,,"Hill & Sons, W. E. Firm",,,sold,,1150,GBP,Secondary,Cross-checked,Violin Bow
+,,1996-11-19,186,,"Sartory, Eugène Nicolas",,,sold,,6670,GBP,Secondary,Cross-checked,Violin Bow
+,,1996-11-19,191,,"Tubbs, James",,,sold,,3220,GBP,Secondary,Cross-checked,Violin Bow
+,,1996-11-19,191A,,"Tubbs, James",,,sold,,3450,GBP,Secondary,Cross-checked,Violin Bow
+,,1996-11-19,196,,"Tubbs, Thomas",,,sold,,5980,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,198,,"Hill & Sons, W. E. Firm",,,sold,,1725,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,201,,"Hill & Sons, W. E. Firm",,,sold,,1725,GBP,Secondary,Cross-checked,Violin Bow
+,,1996-11-19,203,,"Hill & Sons, W. E. Firm",,,sold,,1495,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,204,,"Bultitude, Arthur Richard",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,1996-11-19,205,,"Tubbs, James",,,sold,,4140,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,212,,"Bultitude, Arthur Richard",,,sold,,2070,GBP,Secondary,Cross-checked,Viola Bow
+,,1996-11-19,213,,"Sartory, Eugène Nicolas",,,sold,,5520,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,217,,Thibouville-Lamy,,,sold,,1012,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,221,,"Wilson, Garner",,,sold,,713,GBP,Secondary,Cross-checked,Viola Bow
+,,1996-11-19,243,,"Vuillaume, Jean-Baptiste",,,sold,,67500,GBP,Secondary,Cross-checked,Cello
+,,1996-11-19,244,,"Hill & Sons, W. E. Firm",,,sold,,920,GBP,Secondary,Cross-checked,Cello Bow
+,,1996-11-19,246,,"Hill, Joseph I",,,sold,,10580,GBP,Secondary,Cross-checked,Cello
+,,1996-11-19,248,,Maurice Whittaker,,,sold,,6900,GBP,Secondary,Cross-checked,Cello
+,,1996-11-19,250,,"Forster, William III",,,sold,,20700,GBP,Secondary,Cross-checked,Cello
+,,1996-11-19,,,Carolus Henry,,,sold,,4370,GBP,Secondary,Secondary,Violin

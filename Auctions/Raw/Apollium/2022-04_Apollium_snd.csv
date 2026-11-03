@@ -1,0 +1,26 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,3,,Alexandre Delanoy,,,sold,,2040,EUR,Secondary,Secondary,Violin
+,,,12,,Nicolas Mathieu,,,sold,,720,EUR,Secondary,Secondary,Violin
+,,,13,,Thiery,,,sold,,600,EUR,Secondary,Secondary,Violin
+,,,22,,Vincenzo Sannino,,,sold,,14400,EUR,Secondary,Secondary,Violin
+,,,24,,Nicolas-Francois Vuillaume,,,sold,,6000,EUR,Secondary,Secondary,Violin
+,,,27,,Charles Louis Buthod,,,sold,,2040,EUR,Secondary,Secondary,Violin
+,,,29,,Nicolas Augustin Chappuy,,,sold,,2820,EUR,Secondary,Secondary,Violin
+,,,30,,Marc Laberte,,,sold,,2400,EUR,Secondary,Secondary,Violin
+,,,36,,Francois Caussin,,,sold,,4200,EUR,Secondary,Secondary,Violin
+,,,38,,Rene Jacquemin,,,sold,,1200,EUR,Secondary,Secondary,Violin
+,,,39,,Honore Derazey,,,sold,,13680,EUR,Secondary,Secondary,Violin
+,,,40,,Frères Laberte-Humbert,,,sold,,2280,EUR,Secondary,Secondary,Violin
+,,,49,,Frères Laberte-Humbert,,,sold,,2460,EUR,Secondary,Secondary,Violin
+,,,57,,Antoine Gerardin,,,sold,,360,EUR,Secondary,Secondary,Viola
+,,,66,,Charles Nicolas Bazin,,,sold,,2160,EUR,Secondary,Secondary,Violin Bow
+,,,71,,Nicolas (II) Maire,,,sold,,21600,EUR,Secondary,Secondary,Violin Bow
+,,,80,,Victor Fetique,,,sold,,6720,EUR,Secondary,Secondary,Violin Bow
+,,,82,,Charles Nicolas Bazin,,,sold,,1500,EUR,Secondary,Secondary,Violin Bow
+,,,83,,Francois Lotte,,,sold,,1176,EUR,Secondary,Secondary,Violin Bow
+,,,85,,Eugene Cuniot-Hury,,,sold,,1260,EUR,Secondary,Secondary,Violin Bow
+,,,91,,Morizot Frères,,,sold,,1440,EUR,Secondary,Secondary,Violin Bow
+,,,94,,Marc Laberte,,,sold,,600,EUR,Secondary,Secondary,Violin Bow
+,,,110,,Jean Jacques Millant,,,sold,,4920,EUR,Secondary,Secondary,Violin Bow
+,,,145,,Andre Vigneron,,,sold,,6000,EUR,Secondary,Secondary,Cello Bow
+,,,146,,Morizot Frères,,,sold,,3840,EUR,Secondary,Secondary,Cello Bow

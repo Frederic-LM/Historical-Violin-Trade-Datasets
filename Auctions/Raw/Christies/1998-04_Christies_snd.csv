@@ -1,0 +1,77 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,,2,,"Hill & Sons, W. E. Firm",,,sold,,1380,GBP,Secondary,Secondary,Violin Bow
+,,,3,,"Möller, Max Sr.",,,sold,,1150,GBP,Secondary,Cross-checked,Viola Bow
+,,,5,,"Nürnberger, Albert",,,sold,,920,GBP,Secondary,Cross-checked,Violin Bow
+,,,9,,"Hill & Sons, W. E. Firm",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,,16,,"Morizot, Louis Joseph père",,,sold,,977,GBP,Secondary,Secondary,Violin Bow
+,,,22,,"Tubbs, James",,,sold,,552,GBP,Secondary,Secondary,Viola Bow
+,,,23,,"Fétique, Victor François",,,sold,,805,GBP,Secondary,Secondary,Viola Bow
+,,,30,,"Lamy, Alfred dit neveu",,,sold,,2875,GBP,Secondary,Cross-checked,Violin Bow
+,,,34,,"Watson, William D.",,,sold,,805,GBP,Secondary,Cross-checked,Violin Bow
+,,,35,,"Morizot, Louis Joseph père",,,sold,,805,GBP,Secondary,Cross-checked,Cello Bow
+,,,36,,"Pillot, J",,,sold,,1035,GBP,Secondary,Cross-checked,Violin Bow
+,,,38,,"Darche, Hilaire",,,sold,,805,GBP,Secondary,Cross-checked,Violin Bow
+,,,40,,"Voirin, François Nicolas",,,sold,,1955,GBP,Secondary,Secondary,Violin Bow
+,,,41,,"Hill & Sons, W. E. Firm",,,sold,,1380,GBP,Secondary,Cross-checked,Viola Bow
+,,,42,,"Thomassin, Claude Auguste",,,sold,,1035,GBP,Secondary,Cross-checked,Violin Bow
+,,,44,,"Gerome, Roger",,,sold,,690,GBP,Secondary,Secondary,Violin Bow
+,,,51,,"Lotte, Roger François",,,sold,,1610,GBP,Secondary,Cross-checked,Cello Bow
+,,,54,,"Lotte, Roger François",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,,55,,"Hill & Sons, W. E. Firm",,,sold,,1610,GBP,Secondary,Cross-checked,Violin Bow
+,,,56,,"Hill & Sons, W. E. Firm",,,sold,,1955,GBP,Secondary,Cross-checked,Violin Bow
+,,,57,,"Vuillaume, Jean-Baptiste",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,,58,,"Pfretzschner, Hermann Richard",,,sold,,1610,GBP,Secondary,Cross-checked,Cello Bow
+,,,64,,"Bazin, Charles Louis",,,sold,,1380,GBP,Secondary,Cross-checked,Violin Bow
+,,,67,,"Paulus, Günter A.",,,sold,,805,GBP,Secondary,Secondary,Violin Bow
+,,,68,,"Laberte, Marc André Joseph",,,sold,,977,GBP,Secondary,Cross-checked,Viola Bow
+,,,72,,"Hill & Sons, W. E. Firm",,,sold,,977,GBP,Secondary,Cross-checked,Violin Bow
+,,,75,,"Sartory, Eugène Nicolas",,,sold,,2300,GBP,Secondary,Cross-checked,Cello Bow
+,,,76,,"Vigneron, Joseph Arthur père",,,sold,,2875,GBP,Secondary,Secondary,Violin Bow
+,,,77,,"Vigneron, Joseph Arthur père",,,sold,,4025,GBP,Secondary,Cross-checked,Viola Bow
+,,,82,,"Lapierre, Marcel Charles",,,sold,,805,GBP,Secondary,Cross-checked,Violin Bow
+,,,83,,"Paulus, Johannes O.",,,sold,,575,GBP,Secondary,Cross-checked,Cello Bow
+,,,84,,"Darche, Hilaire",,,sold,,575,GBP,Secondary,Secondary,Violin Bow
+,,,87,,"Enel, Charles",,,sold,,805,GBP,Secondary,Cross-checked,Violin Bow
+,,,97,,"Farotto, Celestino",,,sold,,2530,GBP,Secondary,Cross-checked,Viola
+,,,112,,"Kaul, Paul",,,sold,,4140,GBP,Secondary,Cross-checked,Viola
+,,,115,,"Mantegazza, Pietro Giovanni",,,sold,,51000,GBP,Secondary,Cross-checked,Viola
+,,,116,,"Testore, Carlo Giuseppe",,,sold,,95000,GBP,Secondary,Cross-checked,Cello
+,,,119,,"Serdet, Paul",,,sold,,11500,GBP,Secondary,Cross-checked,Viola
+,,,124,,"Moinel, Daniel",,,sold,,805,GBP,Secondary,Cross-checked,Violin
+,,,130,,"Boullangier, Charles",,,sold,,1955,GBP,Secondary,Cross-checked,Violin
+,,,136,,"Kessler, Wilhelm August",,,sold,,2070,GBP,Secondary,Cross-checked,Violin
+,,,142,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2070,GBP,Secondary,Cross-checked,Violin
+,,,154,,"Larcher, Jean",,,sold,,1150,GBP,Secondary,Cross-checked,Violin
+,,,155,,"Mermillot, Maurice",,,sold,,2070,GBP,Secondary,Cross-checked,Violin
+,,,158,,"Darche, Hilaire",,,sold,,6900,GBP,Secondary,Cross-checked,Violin
+,,,160,,"Banks, James & Henry",,,sold,,7475,GBP,Secondary,Cross-checked,Violin
+,,,166,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2760,GBP,Secondary,Cross-checked,Violin
+,,,169,,"Degani, Giulio Ettore",,,sold,,10350,GBP,Secondary,Cross-checked,Violin
+,,,171,,"Vuillaume, Jean-Baptiste",,,sold,,32200,GBP,Secondary,Cross-checked,Violin
+,,,173,,"Stradivari, Antonio",,,sold,,947500,GBP,Secondary,Cross-checked,Violin
+,,,181,,"Derazey, Justin Amedée",,,sold,,2875,GBP,Secondary,Cross-checked,Violin
+,,,191,,"Boquay, Jacques",,,sold,,10350,GBP,Secondary,Cross-checked,Violin
+,,,192,,"Guersan, Louis",,,sold,,2070,GBP,Secondary,Secondary,Violin
+,,,195,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,2185,GBP,Secondary,Cross-checked,Violin
+,,,199,,"Sgarabotto, Gaetano",,,sold,,21850,GBP,Secondary,Cross-checked,Violin
+,,,201,,"Jacobs, Hendrik",,,sold,,18400,GBP,Secondary,Cross-checked,Violin
+,,,215,,"Buckman, George Hatton",,,sold,,977,GBP,Secondary,Cross-checked,Violin
+,,,220,,"Mayson, Walter H.",,,sold,,460,GBP,Secondary,Cross-checked,Violin
+,,,222,,"Weller, Frederick",,,sold,,977,GBP,Secondary,Cross-checked,Violin
+,,,228,,"Voigt, Johann Georg",,,sold,,460,GBP,Secondary,Cross-checked,Violin
+,,,255,,"Barton, George",,,sold,,115,GBP,Secondary,Cross-checked,Violin
+,,,259,,"Neuner, Ludwig",,,sold,,218,GBP,Secondary,Cross-checked,Violin
+,,,278,,"Thibouville-Lamy, Jérôme Firm",,,sold,,552,GBP,Secondary,Cross-checked,Violin
+,,,302,,"Thibouville-Lamy, Jérôme Firm",,,sold,,322,GBP,Secondary,Cross-checked,Small Violin
+,,,307,,"Thibouville-Lamy, Jérôme Firm",,,sold,,184,GBP,Secondary,Secondary,Violin
+,,,335,,"Priestnall, John",,,sold,,322,GBP,Secondary,Cross-checked,Violin
+,,,364,,"Morizot, Louis Joseph père",,,sold,,345,GBP,Secondary,Secondary,Cello Bow
+,,,369,,"Gerome, Roger",,,sold,,575,GBP,Secondary,Secondary,Violin Bow
+,,,370,,"Lotte, François",,,sold,,805,GBP,Secondary,Cross-checked,Violin Bow
+,,,371,,"Morizot, Louis Joseph père",,,sold,,368,GBP,Secondary,Cross-checked,Violin Bow
+,,,372,,"Dolling, Kurt",,,sold,,437,GBP,Secondary,Secondary,Viola Bow
+,,,383,,"Seifert, Lothar",,,sold,,632,GBP,Secondary,Secondary,Violin Bow
+,,,385,,"Schicker, Horst",,,sold,,276,GBP,Secondary,Secondary,Viola Bow
+,,,386,,"Seifert, Lothar",,,sold,,345,GBP,Secondary,Secondary,Viola Bow
+,,,405,,"Prager, August Edwin",,,sold,,345,GBP,Secondary,Secondary,Violin Bow
+,,,407,,"Hoyer, Otto A.",,,sold,,322,GBP,Secondary,Cross-checked,Violin Bow

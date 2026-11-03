@@ -1,0 +1,77 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1991-03-13,56,,"Lowendall, Louis",,,sold,,506,GBP,Secondary,Secondary,Violin
+,,1991-03-13,74,,"Thibouville-Lamy, Jérôme Firm",,,sold,,374,GBP,Secondary,Secondary,Small Violin
+,,1991-03-13,80,,"Voigt, Johann Georg",,,sold,,329,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,85,,"Wolff, Brothers",,,sold,,495,GBP,Secondary,Secondary,Violin
+,,1991-03-13,88,,Laberte-Humbert Frères Firm,,,sold,,1210,GBP,Secondary,Secondary,Violin
+,,1991-03-13,89,,"Heberlein, Heinrich Theodore",,,sold,,880,GBP,Secondary,Secondary,Violin
+,,1991-03-13,90,,"Nicolas, Didier l'aîné",,,sold,,330,GBP,Secondary,Secondary,Violin
+,,1991-03-13,91,,"Roth, Ernst Heinrich",,,sold,,1980,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,92,,"Richardson, Arthur",,,sold,,715,GBP,Secondary,Cross-checked,Viola
+,,1991-03-13,94,,"Thompson, Charles & Samuel",,,sold,,759,GBP,Secondary,Secondary,Violin
+,,1991-03-13,101,,"Heckel, Rudolf",,,sold,,1265,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,103,,"Chanot, Georges Adolphe",,,sold,,396,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,111,,"Dieudonné, Amédée",,,sold,,1320,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,113,,Hart & Son,,,sold,,1980,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,116,,"Taylor, Robert",,,sold,,286,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,125,,"Brown, James",,,sold,,440,GBP,Secondary,Secondary,Violin
+,,1991-03-13,133,,"Voigt, Paul",,,sold,,605,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,135,,"Bailly, Paul",,,sold,,1176,GBP,Secondary,Secondary,Violin
+,,1991-03-13,136,,"Breton, François",,,sold,,1238,GBP,Secondary,Secondary,Violin
+,,1991-03-13,137,,"Acoulon, Alexandre Alfred",,,sold,,374,GBP,Secondary,Cross-checked,Violin Bow
+,,1991-03-13,140,,"Norris, Norris & Barnes",,,sold,,605,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,145,,"Langonet, Alfred Charles",,,sold,,696,GBP,Secondary,Secondary,Violin
+,,1991-03-13,150,,"Saccani, Benigno",,,sold,,2420,GBP,Secondary,Cross-checked,Viola
+,,1991-03-13,158,,"Jais, Anton",,,sold,,3520,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,160,,"Salomon, Jean Baptiste Deshayes",,,sold,,418,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,168,,Laberte-Humbert Frères Firm,,,sold,,385,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,178,,"Baader & Co., J. A.",,,sold,,264,GBP,Secondary,Cross-checked,Small Violin
+,,1991-03-13,180,,"Kessel, Anton",,,sold,,531,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,183,,"Pfretzschner, Carl Friedrich I",,,sold,,528,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,185,,"Hawkes, Hawkes & Sons",,,sold,,1430,GBP,Secondary,Cross-checked,Viola
+,,1991-03-13,186,,"Bernardel, Auguste Sébastien Philippe père",,,sold,,6050,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,192,,"Bailly, Paul",,,sold,,3300,GBP,Secondary,Secondary,Violin
+,,1991-03-13,193,,"Hill & Sons, W. E. Firm",,,sold,,1176,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,197,,"Robinson, William",,,sold,,1176,GBP,Secondary,Secondary,Violin
+,,1991-03-13,202,,"Smith, Thomas",,,sold,,2640,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,205,,"Tubbs, William",,,sold,,570,GBP,Secondary,Cross-checked,Violin Bow
+,,1991-03-13,206,,"Thibouville-Lamy, Jérôme Firm",,,sold,,379,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,208,,"Rushworth, Rushworth & Dreaper",,,sold,,462,GBP,Secondary,Secondary,Violin
+,,1991-03-13,212,,Neuner & Hornsteiner,,,sold,,264,GBP,Secondary,Secondary,Violin
+,,1991-03-13,220,,"Moitessier, Louis",,,sold,,1238,GBP,Secondary,Secondary,Violin
+,,1991-03-13,222,,"Antoniazzi, Gaetano",,,sold,,4620,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,223,,"Cuypers, Johannes Theodorus",,,sold,,8360,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,229,,"Tobin, Richard",,,sold,,2860,GBP,Secondary,Cross-checked,Viola
+,,1991-03-13,230,,"Hill & Sons, W. E. Firm",,,sold,,1320,GBP,Secondary,Secondary,Viola Bow
+,,1991-03-13,231,,"Ouvrard, Jean",,,sold,,3520,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,232,,"Capela, Antonio",,,sold,,3300,GBP,Secondary,Secondary,Violin
+,,1991-03-13,235,,"Degani, Eugenio",,,sold,,8800,GBP,Secondary,Secondary,Violin
+,,1991-03-13,236,,"Roth, Ernst Heinrich",,,sold,,2090,GBP,Secondary,Secondary,Violin
+,,1991-03-13,237,,"Maucotel, Charles",,,sold,,4840,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,238,,"Lotte, Georges",,,sold,,1210,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,241,,"Pfretzschner, Wilhelm August",,,sold,,484,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,242,,"Earl, David",,,sold,,660,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,249,,"Derazey, Honoré (Jean-Joseph)",,,sold,,6600,GBP,Secondary,Secondary,Violin
+,,1991-03-13,250,,"Degani, Eugenio",,,sold,,9900,GBP,Secondary,Secondary,Violin
+,,1991-03-13,259,,"Weichold, Richard",,,sold,,374,GBP,Secondary,Secondary,Cello Bow
+,,1991-03-13,261,,"Schuster, Adolf Curt",,,sold,,264,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,268,,"Hill & Sons, W. E. Firm",,,sold,,660,GBP,Secondary,Secondary,Cello Bow
+,,1991-03-13,269,,"Nürnberger, Albert",,,sold,,792,GBP,Secondary,Secondary,Cello Bow
+,,1991-03-13,270,,Gand & Bernardel Firm,,,sold,,286,GBP,Secondary,Secondary,Cello Bow
+,,1991-03-13,273,,"Bryant, Percival Wilfred",,,sold,,1176,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,274,,"Hill & Sons, W. E. Firm",,,sold,,1089,GBP,Secondary,Secondary,Violin Bow
+,,1991-03-13,281,,Bazin Family,,,sold,,279,GBP,Secondary,Secondary,Cello Bow
+,,1991-03-13,290,,"Dupuy, Georges Louis",,,sold,,1210,GBP,Secondary,Cross-checked,Cello Bow
+,,1991-03-13,293,,"Corsby, George I",,,sold,,633,GBP,Secondary,Cross-checked,Cello
+,,1991-03-13,294,,Neuner & Hornsteiner,,,sold,,1870,GBP,Secondary,Secondary,Cello
+,,1991-03-13,301,,"Lantner, Bohuslav",,,sold,,3300,GBP,Secondary,Cross-checked,Cello
+,,1991-03-13,302,,"Scolari, Giorgio",,,sold,,5280,GBP,Secondary,Secondary,Cello
+,,1991-03-13,304,,"Roth, Ernst Heinrich",,,sold,,1238,GBP,Secondary,Secondary,Cello
+,,1991-03-13,316,,"Hjorth & Sons, Emil",,,sold,,4301,GBP,Secondary,Cross-checked,Cello
+,,1991-03-13,318,,"Merling, Pauli",,,sold,,2910,GBP,Secondary,Cross-checked,Cello
+,,1991-03-13,326,,Longman & Broderip Firm,,,sold,,528,GBP,Secondary,Secondary,Cello
+,,1991-03-13,335,,"Broughton, Leonard",,,sold,,241,GBP,Secondary,Secondary,Violin
+,,1991-03-13,339,,"Lindsay, Michael H.",,,sold,,242,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,345,,"Thibouville-Lamy, Jérôme Firm",,,sold,,304,GBP,Secondary,Secondary,Small Violin
+,,1991-03-13,347,,"Thibouville-Lamy, Jérôme Firm",,,sold,,329,GBP,Secondary,Cross-checked,Violin
+,,1991-03-13,349,,"Thibouville-Lamy, Jérôme Firm",,,sold,,329,GBP,Secondary,Secondary,Violin

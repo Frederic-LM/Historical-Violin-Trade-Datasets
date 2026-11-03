@@ -1,0 +1,75 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2010-03-08,18,,"Gagliano, Nicolò",,,sold,,55200,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,21,,"Tweedale, Charles L.",,,sold,,720,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,25,,"Bertholini, Nicolas",,,sold,,504,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,27,,"Hesketh, Thomas Earle",,,sold,,5040,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,29,,"Roth, Ernst Heinrich",,,sold,,3840,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,35,,"Gagliano, Raffaele & Antonio",,,sold,,38400,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,39,,"Roth, Ernst Heinrich",,,sold,,780,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,40,,Neuner & Hornsteiner,,,sold,,1560,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,42,,"Bisiach, Leandro I",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,43,,"Desiato, Giuseppe",,,sold,,18000,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,45,,"Nicolas, Didier l'aîné",,,sold,,2040,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,46,,"Mougenot, Georges",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,50,,"Buchstetter, Gabriel David",,,sold,,3600,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,58,,"Gagliano, Ferdinando",,,sold,,90000,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,59,,"Knorr, Paul",,,sold,,5760,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,66,,"Deblaye, Albert",,,sold,,2280,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,68,,"Capela, Antonio",,,sold,,6600,GBP,Secondary,Secondary,Violin
+,,2010-03-08,72,,"Postiglione, Vincenzo II",,,sold,,24000,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,73,,"Bisiach, Leandro I",,,sold,,43200,GBP,Secondary,Secondary,Violin
+,,2010-03-08,74,,"Nemessányi, Samuel (Samu)",,,sold,,16800,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,75,,"Mougenot, Léon Victor",,,sold,,1080,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,76,,"Lee, Percy",,,sold,,1800,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,77,,"Blondelet, Hugues Emile",,,sold,,1200,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,82,,"Weiss, Eugenio",,,sold,,5760,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,86,,"Messori, Pietro",,,sold,,7800,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,87,,"Gagliano, Gennaro",,,sold,,5400,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,88,,"Bossi, Giuseppe",,,sold,,1320,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,90,,"Mantegazza, Pietro Giovanni",,,sold,,222000,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,91,,"Trapani, Raffaele",,,sold,,14400,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,92,,"Panormo, Joseph",,,sold,,10200,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,95,,"Morlot, Nicolas",,,sold,,1080,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,96,,"Fagnola, Annibale",,,sold,,43200,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,97,,"Mennesson, Emile",,,sold,,3360,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,99,,"Laberte, Marc André Joseph",,,sold,,3360,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,101,,"Forster, William II or Sr",,,sold,,4800,GBP,Secondary,Cross-checked,Viola
+,,2010-03-08,104,,"Pistucci, Giovanni",,,sold,,43200,GBP,Secondary,Cross-checked,Viola
+,,2010-03-08,106,,"Claudot, Albert",,,sold,,2640,GBP,Secondary,Secondary,Viola
+,,2010-03-08,107,,"Cocker, Lawrence",,,sold,,600,GBP,Secondary,Cross-checked,Viola
+,,2010-03-08,117,,"Hill, Lockey",,,sold,,10200,GBP,Secondary,Cross-checked,Cello
+,,2010-03-08,119,,"Derazey, Honoré (Jean-Joseph)",,,sold,,18000,GBP,Secondary,Cross-checked,Cello
+,,2010-03-08,122,,"Kaul, Paul",,,sold,,9600,GBP,Secondary,Cross-checked,Cello
+,,2010-03-08,131,,"Sartory, Eugène Nicolas",,,sold,,13200,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,132,,"Lamy, Joseph Alfred père",,,sold,,3840,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,133,,"Nürnberger, Albert",,,sold,,5760,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,134,,"Lamy, Joseph Alfred père",,,sold,,4800,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,135,,"Lamy, Joseph Alfred père",,,sold,,14400,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,136,,"Bazin, Charles Nicolas",,,sold,,1680,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,138,,"Husson, Charles Claude II",,,sold,,5040,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,139,,"Tourte, François Xavier 'le Jeune'",,,sold,,15600,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,141,,"Weichold, Richard",,,sold,,960,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,142,,"Lapierre, Marcel Charles",,,sold,,1440,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,143,,"Enel, Charles",,,sold,,1140,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,145,,"Hill & Sons, W. E. Firm",,,sold,,1680,GBP,Secondary,Secondary,Violin Bow
+,,2010-03-08,146,,"Tubbs, James",,,sold,,2280,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,147,,"Fétique, Marcel Gaston",,,sold,,3840,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,148,,"Hill & Sons, W. E. Firm",,,sold,,1020,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,150,,"Hill & Sons, W. E. Firm",,,sold,,2400,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,152,,"Lamy, Alfred dit neveu",,,sold,,5400,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,155,,"Hums, Albin",,,sold,,576,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,166,,"Bazin, Charles Nicolas",,,sold,,1320,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,172,,"Buthod, Charles",,,sold,,240,GBP,Secondary,Cross-checked,Violin Bow
+,,2010-03-08,181,,"Cocker, Lawrence",,,sold,,240,GBP,Secondary,Cross-checked,Viola Bow
+,,2010-03-08,199,,"Heberlein, Heinrich Theodore Jr.",,,sold,,900,GBP,Secondary,Secondary,Violin
+,,2010-03-08,246,,"Viertel, Holm",,,sold,,1140,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,,,"Mantegazza, Pietro Giovanni",,,sold,,222000,GBP,Secondary,Secondary,Violin
+,,2010-03-08,,,"Pistucci, Giovanni",,,sold,,43200,GBP,Secondary,Secondary,Viola
+,,2010-03-08,,,"Platner, Michele",,,sold,,7200,GBP,Secondary,Secondary,Violin
+,,2010-03-08,,,"Postiglione, Vincenzo II",,,sold,,24000,GBP,Secondary,Secondary,Violin
+,,2010-03-08,,,"Trapani, Raffaele",,,sold,,14400,GBP,Secondary,Secondary,Violin
+,,2010-03-08,,,"Bisiach, Leandro I",,,sold,,43200,GBP,Secondary,Cross-checked,Violin
+,,2010-03-08,,,"Fagnola, Annibale",,,sold,,43200,GBP,Secondary,Secondary,Violin
+,,2010-03-08,,,"Gagliano, Ferdinando",,,sold,,90000,GBP,Secondary,Secondary,Violin
+,,2010-03-08,,,"Gagliano, Nicolò",,,sold,,55200,GBP,Secondary,Secondary,Violin
+,,2010-03-08,,,"Gagliano, Raffaele & Antonio",,,sold,,38400,GBP,Secondary,Secondary,Violin

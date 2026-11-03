@@ -1,0 +1,135 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1990-11-19,34,,"Claudot, Charles I",,,sold,,671,USD,Secondary,Secondary,Violin
+,,1990-11-19,35,,"Hamm, Johann Gottfried",,,sold,,746,USD,Secondary,Secondary,Violin
+,,1990-11-19,43,,"Blondelet, Hugues Emile",,,sold,,1641,USD,Secondary,Secondary,Violin
+,,1990-11-19,44,,"Rosadoni, Giovanni",,,sold,,1641,USD,Secondary,Secondary,Viola
+,,1990-11-19,49,,"Kulik, Johann",,,sold,,7831,USD,Secondary,Secondary,Violin
+,,1990-11-19,52,,"Pillement, François",,,sold,,4475,USD,Secondary,Secondary,Cello
+,,1990-11-19,54,,Neuner & Hornsteiner,,,sold,,4475,USD,Secondary,Secondary,Cello
+,,1990-11-19,55,,"Hammig, Wilhelm Hermann",,,sold,,11560,USD,Secondary,Secondary,Cello
+,,1990-11-19,58,,"Mougenot, Léon Victor",,,sold,,4848,USD,Secondary,Secondary,Violin
+,,1990-11-19,59,,"Bailly, Paul",,,sold,,5221,USD,Secondary,Secondary,Violin
+,,1990-11-19,60,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,10441,USD,Secondary,Secondary,Cello
+,,1990-11-19,61,,"Bisiach, Carlo",,,sold,,21256,USD,Secondary,Secondary,Cello
+,,1990-11-19,62,,"Blanchard, Paul Francois",,,sold,,11933,USD,Secondary,Secondary,Violin
+,,1990-11-19,63,,"Laurent, Émile père",,,sold,,8950,USD,Secondary,Secondary,Violin
+,,1990-11-19,64,,"Vuillaume, Nicolas III",,,sold,,10068,USD,Secondary,Secondary,Violin
+,,1990-11-19,68,,"Widhalm, Leopold I",,,sold,,4475,USD,Secondary,Secondary,Violin
+,,1990-11-19,71,,"Ornati, Giuseppe",,,sold,,13425,USD,Secondary,Secondary,Violin
+,,1990-11-19,72,,"Hel, Pierre Joseph",,,sold,,18645,USD,Secondary,Secondary,Violin
+,,1990-11-19,73,,"Sgarbi, Giuseppe",,,sold,,16408,USD,Secondary,Secondary,Violin
+,,1990-11-19,75,,"Fagnola, Annibale",,,sold,,39528,USD,Secondary,Secondary,Viola
+,,1990-11-19,82,,"Lotte, François",,,sold,,149,USD,Secondary,Secondary,Bass Bow
+,,1990-11-19,83,,Silvestre & Maucotel,,,sold,,970,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,84,,"Rau, August",,,sold,,746,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,85,,"Stuber, Johann",,,sold,,1268,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,86,,"Prager, Gustav Adolf",,,sold,,224,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,90,,"Durrschmidt, Otto Carl",,,sold,,597,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,92,,"Reiter, Johann",,,sold,,820,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,93,,"Hammig, Wilhelm Hermann",,,sold,,1566,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,95,,"Alvey, Brian",,,sold,,2014,USD,Secondary,Secondary,Viola Bow
+,,1990-11-19,96,,Bazin Family,,,sold,,2312,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,99,,"Voirin, François Nicolas",,,sold,,1342,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,100,,"Hill & Sons, W. E. Firm",,,sold,,1715,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,102,,"Hill & Sons, W. E. Firm",,,sold,,1865,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,105,,"Bernardel, Léon",,,sold,,2983,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,108,,"Simon, Pierre",,,sold,,3729,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,109,,"Thomassin, Louis Joseph",,,sold,,5221,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,110,,"Vigneron, Joseph Arthur père",,,sold,,3729,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,111,,"Voirin, François Nicolas",,,sold,,5221,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,112,,"Lupot, François I",,,sold,,5967,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,113,,"Fétique, Jules",,,sold,,5967,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,114,,"Lamy, Alfred dit neveu",,,sold,,8577,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,115,,"Vuillaume, Jean-Baptiste",,,sold,,8577,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,117,,"Kessler, Heinrich",,,sold,,671,USD,Secondary,Secondary,Violin
+,,1990-11-19,120,,"Opel, Walter",,,sold,,447,USD,Secondary,Secondary,Violin
+,,1990-11-19,128,,"Aschauer, Henning",,,sold,,2088,USD,Secondary,Secondary,Viola
+,,1990-11-19,129,,"Audinot, Pierre",,,sold,,1641,USD,Secondary,Secondary,Violin
+,,1990-11-19,131,,"Neuner, Mathias II",,,sold,,2685,USD,Secondary,Secondary,Violin
+,,1990-11-19,132,,"Reiter, Johann",,,sold,,1119,USD,Secondary,Secondary,Violin
+,,1990-11-19,134,,"Neuner, Ludwig",,,sold,,2909,USD,Secondary,Secondary,Violin
+,,1990-11-19,137,,"Apparut, Georges",,,sold,,3282,USD,Secondary,Secondary,Violin
+,,1990-11-19,138,,"Himmer, Maximilian Vitalis",,,sold,,3356,USD,Secondary,Secondary,Violin
+,,1990-11-19,143,,"Nicolas, Didier l'aîné",,,sold,,1865,USD,Secondary,Secondary,Violin
+,,1990-11-19,145,,"Jombar, Paul",,,sold,,5221,USD,Secondary,Secondary,Small Violin
+,,1990-11-19,146,,"Schuster, Edouard",,,sold,,3282,USD,Secondary,Secondary,Violin
+,,1990-11-19,147,,"Defat, Georges",,,sold,,2237,USD,Secondary,Secondary,Violin
+,,1990-11-19,151,,"Schade, Joachim",,,sold,,11933,USD,Secondary,Secondary,Violin
+,,1990-11-19,155,,"Bisch, Paul",,,sold,,4102,USD,Secondary,Secondary,Violin
+,,1990-11-19,156,,"Simoutre, Nicolas",,,sold,,5221,USD,Secondary,Secondary,Violin
+,,1990-11-19,157,,"Mennesson, Emile",,,sold,,7458,USD,Secondary,Secondary,Violin
+,,1990-11-19,158,,"Frebrunet, Jean-Baptiste",,,sold,,4177,USD,Secondary,Secondary,Violin
+,,1990-11-19,159,,"Schönfelder, Johann Georg",,,sold,,4475,USD,Secondary,Secondary,Violin
+,,1990-11-19,160,,"Novelli, Natale",,,sold,,6712,USD,Secondary,Secondary,Violin
+,,1990-11-19,163,,"Diehl, August",,,sold,,10441,USD,Secondary,Secondary,Cello
+,,1990-11-19,164,,"Erdesz, Otto A.",,,sold,,5967,USD,Secondary,Secondary,Viola
+,,1990-11-19,167,,"Messori, Pietro",,,sold,,9696,USD,Secondary,Secondary,Violin
+,,1990-11-19,168,,"Möckel, Otto",,,sold,,5594,USD,Secondary,Secondary,Violin
+,,1990-11-19,170,,"Schmidt, Arnold Otto",,,sold,,5967,USD,Secondary,Secondary,Viola
+,,1990-11-19,172,,"Morassi, Gio Battista",,,sold,,8950,USD,Secondary,Secondary,Viola
+,,1990-11-19,173,,"Mennesson, Emile",,,sold,,8204,USD,Secondary,Secondary,Violin
+,,1990-11-19,175,,"Capela, Antonio",,,sold,,7831,USD,Secondary,Secondary,Violin
+,,1990-11-19,176,,"Pollastri, Augusto",,,sold,,9323,USD,Secondary,Secondary,Violin
+,,1990-11-19,177,,"Vidoudez, Alfred",,,sold,,11933,USD,Secondary,Secondary,Viola
+,,1990-11-19,178,,"Degani, Giulio Ettore",,,sold,,13052,USD,Secondary,Secondary,Violin
+,,1990-11-19,179,,"Hel, Pierre Joseph",,,sold,,11933,USD,Secondary,Secondary,Violin
+,,1990-11-19,180,,"Vuillaume, Sebastien",,,sold,,36545,USD,Secondary,Secondary,Violin
+,,1990-11-19,181,,"Gibertini, Antonio",,,sold,,36545,USD,Secondary,Secondary,Violin
+,,1990-11-19,182,,"Maggini, Giovanni Paolo",,,sold,,48478,USD,Secondary,Secondary,Violin
+,,1990-11-19,183,,"Cappa, Gioffredo",,,sold,,44749,USD,Secondary,Secondary,Violin
+,,1990-11-19,184,,"Platner, Michele",,,sold,,37291,USD,Secondary,Secondary,Violin
+,,1990-11-19,185,,"Pique, François-Louis",,,sold,,69361,USD,Secondary,Secondary,Violin
+,,1990-11-19,186,,"Nicolas, Didier l'aîné",,,sold,,2983,USD,Secondary,Secondary,Violin
+,,1990-11-19,187,,"Collin-Mézin, Charles Jean-Baptiste III",,,sold,,3356,USD,Secondary,Secondary,Violin
+,,1990-11-19,189,,"Tenucci, Eugen",,,sold,,4475,USD,Secondary,Secondary,Violin
+,,1990-11-19,190,,"Mougenot, Léon Victor",,,sold,,2983,USD,Secondary,Secondary,Violin
+,,1990-11-19,191,,"Jacquot, Charles",,,sold,,8950,USD,Secondary,Secondary,Violin
+,,1990-11-19,192,,"Gadda, Gaetano",,,sold,,12679,USD,Secondary,Secondary,Violin
+,,1990-11-19,193,,"Hel, Pierre Joseph",,,sold,,17900,USD,Secondary,Secondary,Violin
+,,1990-11-19,195,,"Goffriller, Matteo",,,sold,,108143,USD,Secondary,Secondary,Violin
+,,1990-11-19,234,,"Clotelle, H.",,,sold,,1119,USD,Secondary,Secondary,Violin
+,,1990-11-19,248,,"Bailly, René",,,sold,,2088,USD,Secondary,Secondary,Violin
+,,1990-11-19,255,,"Hoyer, Johann Christoph",,,sold,,1492,USD,Secondary,Secondary,Violin
+,,1990-11-19,256,,"Claudot, Charles I",,,sold,,1119,USD,Secondary,Secondary,Violin
+,,1990-11-19,259,,"Dieudonné, Amédée",,,sold,,2237,USD,Secondary,Secondary,Violin
+,,1990-11-19,267,,"Heinicke, Mathias",,,sold,,4475,USD,Secondary,Secondary,Violin
+,,1990-11-19,273,,"Winterling, Georg",,,sold,,7831,USD,Secondary,Secondary,Violin
+,,1990-11-19,275,,"Messori, Pietro",,,sold,,7458,USD,Secondary,Secondary,Violin
+,,1990-11-19,278,,"Rocca, Enrico",,,sold,,70852,USD,Secondary,Secondary,Cello
+,,1990-11-19,280,,"Smith, Thomas",,,sold,,10441,USD,Secondary,Secondary,Cello
+,,1990-11-19,281,,"Fendt, Bernard Simon II",,,sold,,18645,USD,Secondary,Secondary,Cello
+,,1990-11-19,284,,Caressa & Français Firm,,,sold,,11187,USD,Secondary,Secondary,Violin
+,,1990-11-19,288,,"Dolphyn, Lucien",,,sold,,224,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,292,,"Pfretzschner, F.C.",,,sold,,522,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,294,,"Hoyer, Otto A.",,,sold,,597,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,295,,"Penzel, Emil Max",,,sold,,746,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,297,,"Hoyer, Otto A.",,,sold,,559,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,303,,"Durrschmidt, Otto Carl",,,sold,,373,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,306,,"Grünke, Richard",,,sold,,746,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,312,,"Thibouville-Lamy, Jérôme Firm",,,sold,,746,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,313,,"Weidhaas, Paul",,,sold,,895,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,315,,"Rau, August",,,sold,,671,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,316,,"Leicht, Max",,,sold,,895,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,317,,"Nürnberger, Albert",,,sold,,1193,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,321,,"Weichold, Richard",,,sold,,895,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,322,,"Dotschkail, Reinhold",,,sold,,1119,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,324,,"Laberte, Marc André Joseph",,,sold,,1044,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,327,,"Pfretzschner, Hermann Richard",,,sold,,597,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,328,,"Apparut, Georges",,,sold,,895,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,329,,"Pfretzschner, Wilhelm August",,,sold,,1566,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,330,,"Pfretzschner, Hermann Richard",,,sold,,2088,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,335,,"Pfretzschner, Hermann Richard",,,sold,,746,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,339,,"Nürnberger, Albert",,,sold,,3356,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,340,,"Pfretzschner, Hermann Richard",,,sold,,1492,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,341,,"Simon, Pierre",,,sold,,2834,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,342,,"Tubbs, James",,,sold,,3356,USD,Secondary,Secondary,Violin Bow
+,,1990-11-19,344,,"Lamy, Alfred dit neveu",,,sold,,7160,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,345,,"Tubbs, James",,,sold,,3729,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,346,,"Lamy, Alfred dit neveu",,,sold,,5221,USD,Secondary,Secondary,Cello Bow
+,,1990-11-19,348,,"Kriner, Joseph",,,sold,,447,USD,Secondary,Secondary,Violin
+,,1990-11-19,370,,"Lang, Benedikt",,,sold,,298,USD,Secondary,Secondary,Violin
+,,1990-11-19,396,,"Claudot, Charles I",,,sold,,298,USD,Secondary,Secondary,Violin
+,,1990-11-19,409,,"Kessler, Heinrich",,,sold,,2312,USD,Secondary,Secondary,Viola
+,,1990-11-19,410,,"Schmidt, Arnold Otto",,,sold,,4102,USD,Secondary,Secondary,Violin
+,,1990-11-19,412,,"Bunnagel, Josef",,,sold,,1492,USD,Secondary,Secondary,Viola
+,,1990-11-19,414,,"Lindörfer, Willi",,,sold,,7458,USD,Secondary,Secondary,Violin
