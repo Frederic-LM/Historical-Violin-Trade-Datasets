@@ -1,0 +1,12 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2021-03-31,3,Frederick William Chanot,"A violin by Frederick William Chanot, London, 1897",5000,7000,sold,,7584,GBP,Primary,Primary,Violin
+,,2021-03-31,30,George Pyne,"A violin by George Pyne, London, circa 1900",1000,2000,sold,,2907,GBP,Primary,Primary,Violin
+,,2021-03-31,34,Hugh Wyatt Cooper,"A violin by Hugh W. Cooper, Glasgow, 1908",2000,4000,sold,,3476,GBP,Primary,Primary,Violin
+,,2021-03-31,48,Edward Brookfield,"A violin by Edward Brookfield, Southport, 1898",300,500,sold,,600,GBP,Primary,Primary,Violin
+,,2021-03-31,5,Frederic G. Vallance,"A violin by Frederick G. Vallance, Detroit, circa 1920",700,800,sold,,885,GBP,Primary,Primary,Violin
+,,2021-03-31,67,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1000,2000,sold,,2654,GBP,Primary,Primary,Violin Bow
+,,2021-03-31,68,Penzel Emil Max,"A silver-mounted violin bow by E. M. Penzel, Erlbach ,1910",800,1200,sold,,1074,GBP,Primary,Primary,Violin Bow
+,,2021-03-31,69,August Moritz Knopf,"A nickel-mounted violin bow by August Moritz Knopf, circa 1890",800,1200,sold,,885,GBP,Primary,Primary,Violin Bow
+,,2021-03-31,70,Nicolas (Simon FR) Simon,"A gold-mounted violin bow by Nicholas Simon, 1850",4000,5000,sold,,4045,GBP,Primary,Primary,Violin Bow
+,,2021-03-31,71,Roger Lotte,"A nickel-mounted cello bow, by Roger François Lotte, France, circa 1960",1000,2000,sold,,2781,GBP,Primary,Primary,Cello Bow
+,,2021-03-31,8,Samuel Blakely Wilkinson,"A violin by S. B. Wilkinson, Leeds, 1889",800,1200,sold,,948,GBP,Primary,Primary,Violin

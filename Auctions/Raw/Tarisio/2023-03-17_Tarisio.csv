@@ -1,0 +1,94 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2023-03-17,1,"Morassi, Gio Battista",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2023-03-17,10,"Rabut, Guy",,,,sold,,28800,USD,Primary,Primary,Cello
+,,2023-03-17,100,"Bailly, Paul",,,,sold,,10800,USD,Primary,Primary,Violin
+,,2023-03-17,101,"Millant, Roger & Max Firm",,,,sold,,10200,USD,Primary,Primary,Violin
+,,2023-03-17,102,"Capellini, Virgilio",,,,sold,,9000,USD,Primary,Primary,Violin
+,,2023-03-17,103,"Widhalm, Leopold I",,,,sold,,15600,USD,Primary,Primary,Violin
+,,2023-03-17,104,"Dallinger, Sebastian",,,,sold,,12000,USD,Primary,Primary,Violin
+,,2023-03-17,105,"Szepessy, Béla",,,,sold,,33000,USD,Primary,Primary,Violin
+,,2023-03-17,106,"Miremont, Claude Augustin",,,,sold,,12000,USD,Primary,Primary,Violin
+,,2023-03-17,107,"Melegari, Enrico Clodoveo",,,,sold,,19200,USD,Primary,Primary,Violin
+,,2023-03-17,108,"Bellarosa, Vittorio",,,,sold,,19200,USD,Primary,Primary,Violin
+,,2023-03-17,109,"Capela, Antonio",,,,sold,,12980,USD,Primary,Primary,Violin
+,,2023-03-17,11,"Antoniazzi, Romeo",,,,sold,,82600,USD,Primary,Primary,Cello
+,,2023-03-17,110,"Maucotel, Charles Adolphe",,,,sold,,20400,USD,Primary,Primary,Violin
+,,2023-03-17,111,"McCaige, Dennis",,,,sold,,15340,USD,Primary,Primary,Violin
+,,2023-03-17,112,"Audinot, Nestor Dominique",,,,sold,,18000,USD,Primary,Primary,Violin
+,,2023-03-17,113,"Gemünder, George I",,,,sold,,21600,USD,Primary,Primary,Violin
+,,2023-03-17,115,"Alf, Gregg",,,,sold,,36000,USD,Primary,Primary,Violin
+,,2023-03-17,117,"Bisiach, Leandro I",,,,sold,,60000,USD,Primary,Primary,Violin
+,,2023-03-17,118,"Guarneri, Bartolomeo Giuseppe 'del Gesù'",,,,sold,,9440000,USD,Primary,Primary,Violin
+,,2023-03-17,12,"Vuillaume, Jean-Baptiste",,,,sold,,420000,USD,Primary,Primary,Cello
+,,2023-03-17,13,"Kolstein, Samuel",,,,sold,,960,USD,Primary,Primary,Viola Bow
+,,2023-03-17,14,"Mohr, Rodney D.",,,,sold,,3600,USD,Primary,Primary,Viola Bow
+,,2023-03-17,15,"Radosavljevic, Vladimir",,,,sold,,3600,USD,Primary,Primary,Viola Bow
+,,2023-03-17,16,"Lapierre, Marcel Charles",,,,sold,,5400,USD,Primary,Primary,Viola Bow
+,,2023-03-17,17,"Piernot, Marie Louis",,,,sold,,3835,USD,Primary,Primary,Viola Bow
+,,2023-03-17,19,"Morizot, Louis frères",,,,sold,,7800,USD,Primary,Primary,Viola Bow
+,,2023-03-17,2,"Hill & Sons, W. E. Firm",,,,sold,,6600,USD,Primary,Primary,Cello Bow
+,,2023-03-17,20,"Ouchard, Émile-Auguste",,,,sold,,10200,USD,Primary,Primary,Viola Bow
+,,2023-03-17,22,"Maire, Nicolas Rémy",,,,sold,,45000,USD,Primary,Primary,Viola Bow
+,,2023-03-17,23,"Lamy, Joseph Alfred père",,,,sold,,20400,USD,Primary,Primary,Viola Bow
+,,2023-03-17,24,"Ulbricht, Christopher",,,,sold,,5100,USD,Primary,Primary,Viola
+,,2023-03-17,25,"Migiel, Pawel",,,,sold,,5400,USD,Primary,Primary,Viola
+,,2023-03-17,26,"Burgess, David",,,,sold,,15600,USD,Primary,Primary,Viola
+,,2023-03-17,27,"Maggiali, Cesare",,,,sold,,21600,USD,Primary,Primary,Viola
+,,2023-03-17,3,"Martin, Jean-Joseph",,,,sold,,6600,USD,Primary,Primary,Cello Bow
+,,2023-03-17,30,"Farotto, Celestino",,,,sold,,22800,USD,Primary,Primary,Viola
+,,2023-03-17,31,"Vuillaume, Sebastien",,,,sold,,19200,USD,Primary,Primary,Viola
+,,2023-03-17,34,"Bazin, Charles Louis",,,,sold,,2280,USD,Primary,Primary,Violin Bow
+,,2023-03-17,35,"Lapierre, Marcel Charles",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,2023-03-17,36,"Lotte, François",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2023-03-17,37,"Finkel, Johannes S.",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2023-03-17,38,"Kun, Joseph",,,,sold,,780,USD,Primary,Primary,Violin Bow
+,,2023-03-17,39,"Laberte, Marc André Joseph",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2023-03-17,42,"Nürnberger, Albert",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2023-03-17,43,"Bazin, Charles Nicolas",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2023-03-17,44,"Thibouville-Lamy, Jérôme Firm",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,2023-03-17,45,"Poirson, Dominique ""Justin""",,,,sold,,1920,USD,Primary,Primary,Violin Bow
+,,2023-03-17,46,"Liu, Lloyd",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2023-03-17,47,"Taylor, Michael",,,,sold,,1770,USD,Primary,Primary,Violin Bow
+,,2023-03-17,48,"Clutterbuck, John",,,,sold,,2040,USD,Primary,Primary,Violin Bow
+,,2023-03-17,49,"Clutterbuck, John",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,2023-03-17,5,"Voirin, François Nicolas",,,,sold,,20400,USD,Primary,Primary,Cello Bow
+,,2023-03-17,50,"Morizot, Louis Joseph père",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2023-03-17,51,"Bazin, Charles Nicolas",,,,sold,,4130,USD,Primary,Primary,Violin Bow
+,,2023-03-17,52,"Voirin, Joseph",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2023-03-17,53,"Piernot, Marie Louis",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2023-03-17,54,"Weidhaas, Paul",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2023-03-17,56,"Bazin, Charles Louis",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2023-03-17,58,"Poirson, Dominique ""Justin""",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2023-03-17,59,"Barnes, Arthur John",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2023-03-17,6,"Lamy, Joseph Alfred père",,,,sold,,20400,USD,Primary,Primary,Cello Bow
+,,2023-03-17,60,"Bultitude, Arthur Richard",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2023-03-17,61,"Taylor, Michael",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2023-03-17,62,"Morrow, Robert",,,,sold,,5400,USD,Primary,Primary,Violin Bow
+,,2023-03-17,63,"Tauziede, Jean-Luc",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2023-03-17,64,"Andersen, Morgan",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2023-03-17,65,"Kowalski, Cody",,,,sold,,20400,USD,Primary,Primary,Violin Bow
+,,2023-03-17,66,"Thomachot, Stephane",,,,sold,,12000,USD,Primary,Primary,Violin Bow
+,,2023-03-17,69,"Hill & Sons, W. E. Firm",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2023-03-17,7,"Peccatte, Dominique",,,,sold,,72000,USD,Primary,Primary,Cello Bow
+,,2023-03-17,71,"Bazin, Charles Nicolas",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2023-03-17,72,"Thomassin, Claude Auguste",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2023-03-17,74,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,9600,USD,Primary,Primary,Violin Bow
+,,2023-03-17,75,"Fétique, Jules",,,,sold,,14160,USD,Primary,Primary,Violin Bow
+,,2023-03-17,76,"Thomassin, Claude Auguste",,,,sold,,26400,USD,Primary,Primary,Violin Bow
+,,2023-03-17,79,"Sartory, Eugène Nicolas",,,,sold,,54000,USD,Primary,Primary,Violin Bow
+,,2023-03-17,80,"Maire, Nicolas Rémy",,,,sold,,33000,USD,Primary,Primary,Violin Bow
+,,2023-03-17,81,"Peccatte, Dominique",,,,sold,,36000,USD,Primary,Primary,Violin Bow
+,,2023-03-17,83,"Pizzamiglio, Carlo",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2023-03-17,84,"Collin-Mézin, Charles fils",,,,sold,,4500,USD,Primary,Primary,Violin
+,,2023-03-17,85,"Roth, Ernst Heinrich",,,,sold,,5700,USD,Primary,Primary,Violin
+,,2023-03-17,86,"Apparut, Georges",,,,sold,,7800,USD,Primary,Primary,Violin
+,,2023-03-17,87,"Rapoport, Haim",,,,sold,,4130,USD,Primary,Primary,Violin
+,,2023-03-17,88,"Cornelissen, Marten",,,,sold,,9000,USD,Primary,Primary,Violin
+,,2023-03-17,89,"Eggen, Rock",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2023-03-17,90,"Schmitt, Lucien",,,,sold,,10200,USD,Primary,Primary,Violin
+,,2023-03-17,93,"Warrick, Albert E.",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2023-03-17,94,"Sverdlik, Boris",,,,sold,,7800,USD,Primary,Primary,Violin
+,,2023-03-17,95,"Pyne, George",,,,sold,,5900,USD,Primary,Primary,Violin
+,,2023-03-17,96,"Formaggia, Nicolo",,,,sold,,6000,USD,Primary,Primary,Violin
+,,2023-03-17,97,"Sindelar, Frank",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2023-03-17,98,"Spidlen, Otakar Frantisek",,,,sold,,10800,USD,Primary,Primary,Violin

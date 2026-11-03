@@ -1,0 +1,84 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2016-02-26,100,"Verne, Dario",,,,sold,,7080,USD,Primary,Primary,Violin
+,,2016-02-26,102,"Enger, Gulbrand",,,,sold,,7800,USD,Primary,Primary,Violin
+,,2016-02-26,103,"Marchini, Rodolfo",,,,sold,,8400,USD,Primary,Primary,Violin
+,,2016-02-26,104,"Pellacani, Giuseppe",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2016-02-26,106,"Merling, Pauli",,,,sold,,6490,USD,Primary,Primary,Violin
+,,2016-02-26,107,"Barbieri, Bruno",,,,sold,,9600,USD,Primary,Primary,Violin
+,,2016-02-26,111,"Hel, Pierre Jean Henri",,,,sold,,10620,USD,Primary,Primary,Violin
+,,2016-02-26,112,"Dallinger, Sebastian",,,,sold,,9440,USD,Primary,Primary,Violin
+,,2016-02-26,113,"Banks, Benjamin",,,,sold,,9440,USD,Primary,Primary,Violin
+,,2016-02-26,114,"Gaggini, Pierre",,,,sold,,14400,USD,Primary,Primary,Violin
+,,2016-02-26,115,"Gadda, Mario",,,,sold,,10620,USD,Primary,Primary,Violin
+,,2016-02-26,116,"Antoniazzi, Romeo",,,,sold,,32450,USD,Primary,Primary,Violin
+,,2016-02-26,117,"Gand, Charles François père",,,,sold,,14400,USD,Primary,Primary,Violin
+,,2016-02-26,119,"Möller, Max Sr.",,,,sold,,18000,USD,Primary,Primary,Violin
+,,2016-02-26,120,"Hill & Sons, W. E. Firm",,,,sold,,14160,USD,Primary,Primary,Violin
+,,2016-02-26,122,"Carletti, Carlo",,,,sold,,18000,USD,Primary,Primary,Violin
+,,2016-02-26,123,"Carletti, Carlo",,,,sold,,11210,USD,Primary,Primary,Violin
+,,2016-02-26,124,"Marchetti, Enrico",,,,sold,,18000,USD,Primary,Primary,Violin
+,,2016-02-26,125,"Sderci, Igino",,,,sold,,25200,USD,Primary,Primary,Violin
+,,2016-02-26,13,"Thomassin, Claude Auguste",,,,sold,,9600,USD,Primary,Primary,Cello Bow
+,,2016-02-26,130,"Hill & Sons, W. E. Firm",,,,sold,,35400,USD,Primary,Primary,Violin
+,,2016-02-26,131,"Guerra, Evasio Emilio",,,,sold,,35400,USD,Primary,Primary,Violin
+,,2016-02-26,132,"Cappa, Gioffredo",,,,sold,,35400,USD,Primary,Primary,Violin
+,,2016-02-26,133,"Tarasconi, Giuseppe",,,,sold,,41300,USD,Primary,Primary,Violin
+,,2016-02-26,134,"Degani, Eugenio",,,,sold,,47200,USD,Primary,Primary,Violin
+,,2016-02-26,135,"Bisiach, Giacomo & Leandro",,,,sold,,42000,USD,Primary,Primary,Violin
+,,2016-02-26,136,"Ornati, Giuseppe",,,,sold,,59000,USD,Primary,Primary,Violin
+,,2016-02-26,137,"Zygmuntowicz, Samuel",,,,sold,,102000,USD,Primary,Primary,Violin
+,,2016-02-26,138,"Pique, François-Louis",,,,sold,,59000,USD,Primary,Primary,Violin
+,,2016-02-26,14,"Voirin, François Nicolas",,,,sold,,18000,USD,Primary,Primary,Cello Bow
+,,2016-02-26,140,"Oddone, Carlo Giuseppe",,,,sold,,84000,USD,Primary,Primary,Violin
+,,2016-02-26,141,"Gagliano, Nicolò",,,,sold,,132000,USD,Primary,Primary,Violin
+,,2016-02-26,142,"Celoniato, Giovanni Francesco",,,,sold,,144000,USD,Primary,Primary,Violin
+,,2016-02-26,143,"Guarneri, Andrea",,,,sold,,200600,USD,Primary,Primary,Violin
+,,2016-02-26,15,"Ouchard, Émile-Auguste",,,,sold,,11400,USD,Primary,Primary,Cello Bow
+,,2016-02-26,16,"Sartory, Eugène Nicolas",,,,sold,,36000,USD,Primary,Primary,Cello Bow
+,,2016-02-26,19,"Carletti, Natale",,,,sold,,27600,USD,Primary,Primary,Cello
+,,2016-02-26,20,"De March, Carlo",,,,sold,,30000,USD,Primary,Primary,Cello
+,,2016-02-26,25,"Lapierre, Marcel Charles",,,,sold,,4200,USD,Primary,Primary,Viola Bow
+,,2016-02-26,26,"Guillaume, Pierre",,,,sold,,5100,USD,Primary,Primary,Viola Bow
+,,2016-02-26,27,"Clement, Edwin",,,,sold,,6600,USD,Primary,Primary,Viola Bow
+,,2016-02-26,28,"Suard, Arnaud",,,,sold,,3900,USD,Primary,Primary,Viola Bow
+,,2016-02-26,29,"Barbé, Mathias Theophile Auguste",,,,sold,,2360,USD,Primary,Primary,Viola Bow
+,,2016-02-26,30,"Ouchard, Émile François",,,,sold,,6000,USD,Primary,Primary,Viola Bow
+,,2016-02-26,33,"Bailey, Leslie Alfred",,,,sold,,6600,USD,Primary,Primary,Viola Bow
+,,2016-02-26,34,"Aerts, Marcel",,,,sold,,3540,USD,Primary,Primary,Viola
+,,2016-02-26,35,"Montagne, Bruno",,,,sold,,5100,USD,Primary,Primary,Viola
+,,2016-02-26,36,"Landon, Christophe",,,,sold,,14400,USD,Primary,Primary,Viola
+,,2016-02-26,38,"Duke, Richard",,,,sold,,9440,USD,Primary,Primary,Viola
+,,2016-02-26,39,"Rosadoni, Giovanni",,,,sold,,9440,USD,Primary,Primary,Viola
+,,2016-02-26,41,"Curtin, Joseph",,,,sold,,15340,USD,Primary,Primary,Viola
+,,2016-02-26,43,"Lupot, Nicolas",,,,sold,,106200,USD,Primary,Primary,Viola
+,,2016-02-26,44,"Ouchard, Émile François",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2016-02-26,45,"Weidhaas, Paul",,,,sold,,1416,USD,Primary,Primary,Violin Bow
+,,2016-02-26,46,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1680,USD,Primary,Primary,Violin Bow
+,,2016-02-26,47,"Lotte, Roger François",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2016-02-26,49,"Gerome, Roger",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2016-02-26,54,"Suard, Arnaud",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2016-02-26,55,"Bazin, François Xavier",,,,sold,,1416,USD,Primary,Primary,Violin Bow
+,,2016-02-26,56,"Morizot, Louis Joseph père",,,,sold,,1680,USD,Primary,Primary,Violin Bow
+,,2016-02-26,58,"Nürnberger, Carl Albert",,,,sold,,2520,USD,Primary,Primary,Violin Bow
+,,2016-02-26,68,"Sartory, Eugène Nicolas",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2016-02-26,71,"Dodd, James II",,,,sold,,2360,USD,Primary,Primary,Violin Bow
+,,2016-02-26,72,"Bazin, Charles Nicolas",,,,sold,,8400,USD,Primary,Primary,Violin Bow
+,,2016-02-26,74,"Allen, Samuel",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2016-02-26,75,"Thomassin, Claude Auguste",,,,sold,,6490,USD,Primary,Primary,Violin Bow
+,,2016-02-26,76,"Lamy, Georges-Léon dit 2d fils",,,,sold,,13200,USD,Primary,Primary,Violin Bow
+,,2016-02-26,77,"Martin, Jean-Joseph",,,,sold,,4720,USD,Primary,Primary,Violin Bow
+,,2016-02-26,78,"Vigneron, Joseph Arthur père",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2016-02-26,79,"Fétique, Victor François",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2016-02-26,8,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,2160,USD,Primary,Primary,Bass Bow
+,,2016-02-26,82,"Tubbs, James",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2016-02-26,83,"Tubbs, James",,,,sold,,5500,USD,Primary,Primary,Violin Bow
+,,2016-02-26,84,"Fétique, Victor François",,,,sold,,10800,USD,Primary,Primary,Violin Bow
+,,2016-02-26,85,"Maire, Nicolas Rémy",,,,sold,,6490,USD,Primary,Primary,Violin Bow
+,,2016-02-26,87,"Peccatte, Charles",,,,sold,,17700,USD,Primary,Primary,Violin Bow
+,,2016-02-26,88,"Sartory, Eugène Nicolas",,,,sold,,21600,USD,Primary,Primary,Violin Bow
+,,2016-02-26,89,"Kittel, Nikolai",,,,sold,,32000,USD,Primary,Primary,Violin Bow
+,,2016-02-26,93,"Cavalli, Aristide",,,,sold,,5400,USD,Primary,Primary,Violin
+,,2016-02-26,94,"Castagneri, Andrea",,,,sold,,9000,USD,Primary,Primary,Violin
+,,2016-02-26,95,"Collin-Mézin, Charles Jean-Baptiste père",,,,sold,,5900,USD,Primary,Primary,Violin
+,,2016-02-26,97,"Warrick, A.",,,,sold,,5015,USD,Primary,Primary,Violin
+,,2016-02-26,98,"Fontanini, Aristide",,,,sold,,4425,USD,Primary,Primary,Violin

@@ -1,0 +1,65 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2012-06-25,100,"Collenot, Louis",,,,sold,,2880,GBP,Primary,Primary,Violin
+,,2012-06-25,101,"van Hoof, Alphonse",,,,sold,,5400,GBP,Primary,Primary,Violin
+,,2012-06-25,102,"Pyne, George",,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2012-06-25,103,"Castagneri, Andrea",,,,sold,,9600,GBP,Primary,Primary,Violin
+,,2012-06-25,107,"Eberle, Eugène I",,,,sold,,3600,GBP,Primary,Primary,Violin
+,,2012-06-25,11,"Villa, Luigi",,,,sold,,5400,GBP,Primary,Primary,Cello
+,,2012-06-25,111,"Barbieri, Bruno",,,,sold,,7200,GBP,Primary,Primary,Violin
+,,2012-06-25,112,"Mozzani, Luigi",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2012-06-25,114,"Albanelli, Franco",,,,sold,,4200,GBP,Primary,Primary,Violin
+,,2012-06-25,117,"Storioni, Lorenzo",,,,sold,,25200,GBP,Primary,Primary,Violin
+,,2012-06-25,118,"Cavallini, Ettore",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2012-06-25,124,"Stefanini, Giuseppe",,,,sold,,21600,GBP,Primary,Primary,Violin
+,,2012-06-25,125,"Vuillaume, Jean-Baptiste",,,,sold,,24000,GBP,Primary,Primary,Violin
+,,2012-06-25,128,"Lucci, Giuseppe",,,,sold,,12000,GBP,Primary,Primary,Violin
+,,2012-06-25,13,"Derazey, Honoré (Jean-Joseph)",,,,sold,,30000,GBP,Primary,Primary,Cello
+,,2012-06-25,130,"Lecchi, Giuseppe Bernardo",,,,sold,,14400,GBP,Primary,Primary,Violin
+,,2012-06-25,131,"Lecchi, Giuseppe Bernardo",,,,sold,,21600,GBP,Primary,Primary,Violin
+,,2012-06-25,133,"Jacobs, Hendrik",,,,sold,,24000,GBP,Primary,Primary,Violin
+,,2012-06-25,134,"Marchetti, Enrico",,,,sold,,24000,GBP,Primary,Primary,Violin
+,,2012-06-25,135,"Guerra, Evasio Emilio",,,,sold,,39000,GBP,Primary,Primary,Violin
+,,2012-06-25,136,"Candi, Cesare",,,,sold,,31800,GBP,Primary,Primary,Violin
+,,2012-06-25,137,"Rogeri, Giovanni Battista",,,,sold,,45600,GBP,Primary,Primary,Violin
+,,2012-06-25,138,"Guarneri, Bartolomeo Giuseppe 'del Gesù'",,,,sold,,1500000,GBP,Primary,Primary,Violin
+,,2012-06-25,15,"Hill & Sons, W. E. Firm",,,,sold,,720,GBP,Primary,Primary,Viola Bow
+,,2012-06-25,17,"Ouchard, Émile-Auguste",,,,sold,,5100,GBP,Primary,Primary,Viola Bow
+,,2012-06-25,18,"Fétique, Victor François",,,,sold,,4800,GBP,Primary,Primary,Viola Bow
+,,2012-06-25,19,"Bultitude, Arthur Richard",,,,sold,,4800,GBP,Primary,Primary,Viola Bow
+,,2012-06-25,23,"Anastasio, Vincenzo",,,,sold,,2400,GBP,Primary,Primary,Viola
+,,2012-06-25,25,"Carloni, Assunto",,,,sold,,2880,GBP,Primary,Primary,Viola
+,,2012-06-25,27,"Eberle, Johann Ulrich",,,,sold,,3000,GBP,Primary,Primary,Viola
+,,2012-06-25,3,"Weidhaas, Paul",,,,sold,,900,GBP,Primary,Primary,Cello Bow
+,,2012-06-25,33,"Carletti, Natale",,,,sold,,10800,GBP,Primary,Primary,Viola
+,,2012-06-25,4,"Knopf, Christian Wilhelm I",,,,sold,,2160,GBP,Primary,Primary,Cello Bow
+,,2012-06-25,41,"Hill & Sons, W. E. Firm",,,,sold,,1440,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,45,"Finkel, Siegfried",,,,sold,,780,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,47,"Bazin, Charles Louis",,,,sold,,840,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,5,"Voirin, François Nicolas",,,,sold,,2640,GBP,Primary,Primary,Cello Bow
+,,2012-06-25,50,"Pfretzschner, Hermann Richard",,,,sold,,1440,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,51,"Hoyer, Otto A.",,,,sold,,780,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,54,"Ouchard, Émile François",,,,sold,,5700,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,55,"Nürnberger, Carl Albert",,,,sold,,1560,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,57,"Grünke, Klaus",,,,sold,,2160,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,58,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1320,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,6,"Thomassin, Claude Auguste",,,,sold,,3000,GBP,Primary,Primary,Cello Bow
+,,2012-06-25,60,"Simon, Nicolas FR",,,,sold,,3300,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,61,"Johnston, William Grieve",,,,sold,,2160,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,62,"Ouchard, Émile François",,,,sold,,4200,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,64,"Fétique, Victor François",,,,sold,,5400,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,65,"Voirin, François Nicolas",,,,sold,,4500,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,66,"Tubbs, James",,,,sold,,4500,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,67,"Fétique, Victor François",,,,sold,,5400,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,68,"Maline, Nicolas I",,,,sold,,3600,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,7,"Thomassin, Claude Auguste",,,,sold,,4500,GBP,Primary,Primary,Cello Bow
+,,2012-06-25,70,"Peccatte, Charles",,,,sold,,14400,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,71,"Lupot, François II",,,,sold,,9600,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,72,"Martin, Jean-Joseph",,,,sold,,12000,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,73,"Sartory, Eugène Nicolas",,,,sold,,19200,GBP,Primary,Primary,Violin Bow
+,,2012-06-25,79,"Roth, Ernst Heinrich",,,,sold,,5700,GBP,Primary,Primary,Violin
+,,2012-06-25,81,"Morrison, Archibald",,,,sold,,1800,GBP,Primary,Primary,Violin
+,,2012-06-25,86,"Duwaer, Herman Gerard",,,,sold,,2520,GBP,Primary,Primary,Violin
+,,2012-06-25,9,"Galla, Anton",,,,sold,,5700,GBP,Primary,Primary,Cello
+,,2012-06-25,90,"Boga, Tonino",,,,sold,,1800,GBP,Primary,Primary,Violin
+,,2012-06-25,92,"Anastasio, Vincenzo",,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2012-06-25,98,"Pagliacci, Aldo",,,,sold,,1800,GBP,Primary,Primary,Violin

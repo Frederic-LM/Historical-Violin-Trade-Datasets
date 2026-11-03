@@ -70,7 +70,7 @@ Source: [Wikipedia (CC BY-SA)](https://en.wikipedia.org/wiki/Christie%27s), chec
 
 ## Secondary files (`_snd`)
 `<date>_Christies[_<sale number>]_snd.csv` (and `<date>_Christies_press.csv` for the press): lots of this house that the house's own
-documents do not give (145 files, 4307 lots).
+documents do not give (138 files, 4072 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

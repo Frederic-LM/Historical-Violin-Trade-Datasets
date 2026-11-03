@@ -1,0 +1,123 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2018-10-29,100,"Hill & Sons, W. E. Firm",,,,sold,,2160,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,101,"Rolland, Benoit",,,,sold,,7800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,102,"Thomachot, Stephane",,,,sold,,7080,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,104,"Gillet, Louis Henri",,,,sold,,4500,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,105,"Peccatte, François",,,,sold,,3245,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,106,"Maline, Nicolas I",,,,sold,,4800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,107,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,4800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,108,"Ouchard, Émile-Auguste",,,,sold,,8400,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,109,"Voirin, François Nicolas",,,,sold,,11400,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,11,"Guillaume, Pierre",,,,sold,,4500,GBP,Primary,Primary,Cello Bow
+,,2018-10-29,110,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,6490,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,111,"Martin, Jean-Joseph",,,,sold,,6600,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,114,"Martin, Jean-Joseph",,,,sold,,7200,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,115,"Vigneron, Joseph Arthur père",,,,sold,,8400,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,116,"Thomachot, Stephane",,,,sold,,10200,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,117,"Pajeot, Étienne",,,,sold,,21600,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,118,"Adam, Jean 'Grand'",,,,sold,,7416,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,119,"Simon, Nicolas FR",,,,sold,,10800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,120,"Fonclause, Claude Joseph",,,,sold,,10030,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,121,"Millant, Jean-Jacques",,,,sold,,11800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,122,"Maline, Nicolas I",,,,sold,,15600,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,123,"Sartory, Eugène Nicolas",,,,sold,,19200,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,124,"Simon, Pierre",,,,sold,,25200,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,125,"Sartory, Eugène Nicolas",,,,sold,,41300,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,13,"Lamy, Joseph Alfred père",,,,sold,,8400,GBP,Primary,Primary,Cello Bow
+,,2018-10-29,132,"Claudot, Augustin",,,,sold,,2520,GBP,Primary,Primary,Violin
+,,2018-10-29,134,"Petz, Marianus",,,,sold,,2714,GBP,Primary,Primary,Violin
+,,2018-10-29,135,"Gardini, Athos",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2018-10-29,138,"Nicolas, Didier l'aîné",,,,sold,,1560,GBP,Primary,Primary,Violin
+,,2018-10-29,14,"Maline, Nicolas I",,,,sold,,21600,GBP,Primary,Primary,Cello Bow
+,,2018-10-29,143,"Romer, Adolf",,,,sold,,6600,GBP,Primary,Primary,Violin
+,,2018-10-29,144,"Collin-Mézin, Charles fils",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2018-10-29,145,"Gaillard-Lajoue, Jules",,,,sold,,3600,GBP,Primary,Primary,Violin
+,,2018-10-29,146,"Meisel, Johann Georg",,,,sold,,4425,GBP,Primary,Primary,Violin
+,,2018-10-29,157,"Unsworth, Victor",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2018-10-29,158,"Caccia, Andrea",,,,sold,,5100,GBP,Primary,Primary,Violin
+,,2018-10-29,159,"Curtoni, Emanuele",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2018-10-29,16,"Superti, Renato",,,,sold,,6000,GBP,Primary,Primary,Cello
+,,2018-10-29,160,"Forcellini, Franco",,,,sold,,4200,GBP,Primary,Primary,Violin
+,,2018-10-29,161,"Superti, Renato",,,,sold,,2280,GBP,Primary,Primary,Violin
+,,2018-10-29,167,"Hill, Joseph I",,,,sold,,3540,GBP,Primary,Primary,Violin
+,,2018-10-29,168,"Maechler, Urs",,,,sold,,4200,GBP,Primary,Primary,Violin
+,,2018-10-29,17,"Pillement, François",,,,sold,,8260,GBP,Primary,Primary,Cello
+,,2018-10-29,171,"Orippi, Patrizio",,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2018-10-29,172,"Gasser, Robert",,,,sold,,3900,GBP,Primary,Primary,Violin
+,,2018-10-29,173,"Hjorth & Sons, Emil",,,,sold,,4720,GBP,Primary,Primary,Violin
+,,2018-10-29,174,"Caussin, François",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2018-10-29,176,"Chanot, Georges Adolphe",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2018-10-29,177,"Auciello, Luigi",,,,sold,,4130,GBP,Primary,Primary,Violin
+,,2018-10-29,178,"Vistoli, Luigi",,,,sold,,4500,GBP,Primary,Primary,Violin
+,,2018-10-29,179,"Natali, Gabriele",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2018-10-29,180,"Negroni, Massimo",,,,sold,,5900,GBP,Primary,Primary,Violin
+,,2018-10-29,181,"Esposti, Piergiuseppe",,,,sold,,4500,GBP,Primary,Primary,Violin
+,,2018-10-29,182,"Bergonzi, Riccardo",,,,sold,,6600,GBP,Primary,Primary,Violin
+,,2018-10-29,183,"Conia, Stefano",,,,sold,,6000,GBP,Primary,Primary,Violin
+,,2018-10-29,184,"Gand, Charles Adolphe",,,,sold,,14400,GBP,Primary,Primary,Violin
+,,2018-10-29,186,"Hel, Pierre Joseph",,,,sold,,10800,GBP,Primary,Primary,Violin
+,,2018-10-29,187,"Blanchard, Paul Francois",,,,sold,,10800,GBP,Primary,Primary,Violin
+,,2018-10-29,188,"Pupunat, François Marie",,,,sold,,6250,GBP,Primary,Primary,Violin
+,,2018-10-29,190,"Bissolotti, Vincenzo",,,,sold,,9000,GBP,Primary,Primary,Violin
+,,2018-10-29,192,"Maggiali, Cesare",,,,sold,,7080,GBP,Primary,Primary,Violin
+,,2018-10-29,196,"Möller, Max Sr.",,,,sold,,10030,GBP,Primary,Primary,Violin
+,,2018-10-29,198,"Vial, François",,,,sold,,9440,GBP,Primary,Primary,Violin
+,,2018-10-29,205,"Parker, Daniel",,,,sold,,12667,GBP,Primary,Primary,Violin
+,,2018-10-29,21,"Darche, Hilaire",,,,sold,,20000,GBP,Primary,Primary,Cello
+,,2018-10-29,210,"Pistucci, Giovanni",,,,sold,,23600,GBP,Primary,Primary,Violin
+,,2018-10-29,215,"Capicchioni, Marino",,,,sold,,72000,GBP,Primary,Primary,Violin
+,,2018-10-29,217,"Antoniazzi, Riccardo",,,,sold,,45000,GBP,Primary,Primary,Violin
+,,2018-10-29,219,"Poggi, Ansaldo",,,,sold,,177500,GBP,Primary,Primary,Violin
+,,2018-10-29,22,"Sgarabotto, Gaetano",,,,sold,,108000,GBP,Primary,Primary,Cello
+,,2018-10-29,224,"Stainer, Jacob",,,,sold,,70800,GBP,Primary,Primary,Violin
+,,2018-10-29,225,"Tononi, Giovanni",,,,sold,,59000,GBP,Primary,Primary,Violin
+,,2018-10-29,227,"Vuillaume, Jean-Baptiste",,,,sold,,94400,GBP,Primary,Primary,Violin
+,,2018-10-29,228,"Gagliano, Ferdinando",,,,sold,,120000,GBP,Primary,Primary,Violin
+,,2018-10-29,23,"Dölling, Heinz",,,,sold,,2124,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,24,"Morizot, Louis frères",,,,sold,,3000,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,25,"Piernot, Marie Louis",,,,sold,,3300,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,26,"Taylor, Malcolm",,,,sold,,1652,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,27,"Thomassin, Claude Auguste",,,,sold,,5700,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,28,"Maire, Nicolas Rémy",,,,sold,,16800,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,29,"Henry, Joseph",,,,sold,,23600,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,30,"Sartory, Eugène Nicolas",,,,sold,,33000,GBP,Primary,Primary,Viola Bow
+,,2018-10-29,31,"Feiler, Walter Richard",,,,sold,,1800,GBP,Primary,Primary,Viola
+,,2018-10-29,33,"Heberlein, Ludwig Fritz",,,,sold,,2478,GBP,Primary,Primary,Viola
+,,2018-10-29,34,"Sturies, Winrich",,,,sold,,2040,GBP,Primary,Primary,Viola
+,,2018-10-29,35,"Strnad, Casper",,,,sold,,5700,GBP,Primary,Primary,Viola
+,,2018-10-29,36,"Gaillard, Charles",,,,sold,,2360,GBP,Primary,Primary,Viola
+,,2018-10-29,38,"Pallaver, Giovanni Battista",,,,sold,,4800,GBP,Primary,Primary,Viola
+,,2018-10-29,39,"Tivoli-Fiorini, Arrigo",,,,sold,,7670,GBP,Primary,Primary,Viola
+,,2018-10-29,41,"Lanaro, Umberto",,,,sold,,7200,GBP,Primary,Primary,Viola
+,,2018-10-29,42,Caressa & Français Firm,,,,sold,,9600,GBP,Primary,Primary,Viola
+,,2018-10-29,43,"Gaggini, Pierre",,,,sold,,9600,GBP,Primary,Primary,Viola
+,,2018-10-29,44,"Carletti, Natale",,,,sold,,9600,GBP,Primary,Primary,Viola
+,,2018-10-29,47,"Schuster, Adolf Curt",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,48,"Geipel, Richard",,,,sold,,1020,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,53,"Prager, August Edwin",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,56,"Herrmann, August Friedrich",,,,sold,,570,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,57,"Gütter, Fritz",,,,sold,,531,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,59,"Colas, Prosper",,,,sold,,960,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,62,"Nürnberger, Albert",,,,sold,,1560,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,63,"Pfretzschner, Hermann Richard",,,,sold,,2400,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,66,"Knopf, Christian Friedrich Wilhelm",,,,sold,,1652,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,67,"Knopf, Christian Wilhelm I",,,,sold,,1920,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,70,"Bazin, Charles Louis",,,,sold,,2880,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,71,"Thomassin, Claude Auguste",,,,sold,,3600,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,72,"Morizot, Louis frères",,,,sold,,1920,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,73,"Lotte, Roger François",,,,sold,,944,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,76,"Hill & Sons, W. E. Firm",,,,sold,,826,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,78,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,8,"Lotte, François",,,,sold,,4500,GBP,Primary,Primary,Cello Bow
+,,2018-10-29,81,"Knopf, Johann Wilhelm",,,,sold,,6000,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,82,"Hill & Sons, W. E. Firm",,,,sold,,2520,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,85,"Ouchard, Bernard",,,,sold,,6600,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,86,"Bazin, Charles Nicolas",,,,sold,,4800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,87,"Persoit, Jean Pierre Marie",,,,sold,,7800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,90,"Morizot, Louis Joseph père",,,,sold,,5100,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,91,"Husson, Mars Auguste",,,,sold,,3300,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,92,"Nürnberger, Carl Albert",,,,sold,,4500,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,94,"Hill & Sons, W. E. Firm",,,,sold,,6000,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,95,"Hill & Sons, W. E. Firm",,,,sold,,2880,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,97,"Ouchard, Émile François",,,,sold,,4800,GBP,Primary,Primary,Violin Bow
+,,2018-10-29,99,"Knopf, Johann Wilhelm",,,,sold,,6600,GBP,Primary,Primary,Violin Bow

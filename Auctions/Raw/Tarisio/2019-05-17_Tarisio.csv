@@ -1,0 +1,122 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2019-05-17,10,"Sartory, Eugène Nicolas",,,,sold,,27140,USD,Primary,Primary,Cello Bow
+,,2019-05-17,100,"Thomassin, Claude Auguste",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2019-05-17,101,"Poirson, Dominique ""Justin""",,,,sold,,4425,USD,Primary,Primary,Violin Bow
+,,2019-05-17,104,"Vigneron, Joseph Arthur père",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2019-05-17,106,"Sartory, Eugène Nicolas",,,,sold,,14400,USD,Primary,Primary,Violin Bow
+,,2019-05-17,107,"Voirin, François Nicolas",,,,sold,,8260,USD,Primary,Primary,Violin Bow
+,,2019-05-17,108,"Lamy, Joseph Alfred père",,,,sold,,9600,USD,Primary,Primary,Violin Bow
+,,2019-05-17,109,"Simon, Nicolas FR",,,,sold,,8400,USD,Primary,Primary,Violin Bow
+,,2019-05-17,110,"Tubbs, James",,,,sold,,7080,USD,Primary,Primary,Violin Bow
+,,2019-05-17,111,"Tubbs, James",,,,sold,,5900,USD,Primary,Primary,Violin Bow
+,,2019-05-17,113,"Peccatte, Dominique",,,,sold,,10800,USD,Primary,Primary,Violin Bow
+,,2019-05-17,115,"Ouchard, Émile-Auguste",,,,sold,,18000,USD,Primary,Primary,Violin Bow
+,,2019-05-17,117,"Peccatte, François",,,,sold,,11800,USD,Primary,Primary,Violin Bow
+,,2019-05-17,118,"Adam, Jean Dominique",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2019-05-17,119,"Simon, Pierre",,,,sold,,13200,USD,Primary,Primary,Violin Bow
+,,2019-05-17,120,"Voirin, François Nicolas",,,,sold,,18000,USD,Primary,Primary,Violin Bow
+,,2019-05-17,123,"Maire, Nicolas Rémy",,,,sold,,20400,USD,Primary,Primary,Violin Bow
+,,2019-05-17,124,"Fétique, Victor François",,,,sold,,27140,USD,Primary,Primary,Violin Bow
+,,2019-05-17,126,"Tourte, François Xavier 'le Jeune'",,,,sold,,165200,USD,Primary,Primary,Violin Bow
+,,2019-05-17,127,"Nichols, Colin G.",,,,sold,,2760,USD,Primary,Primary,Violin
+,,2019-05-17,131,"Roth, Ernst Heinrich",,,,sold,,3900,USD,Primary,Primary,Violin
+,,2019-05-17,132,"Heberlein, Heinrich Theodore Jr.",,,,sold,,3540,USD,Primary,Primary,Violin
+,,2019-05-17,133,"Heberlein, Heinrich Theodore Jr.",,,,sold,,3540,USD,Primary,Primary,Violin
+,,2019-05-17,134,"Heinrich, Theodore",,,,sold,,2596,USD,Primary,Primary,Violin
+,,2019-05-17,135,"Ficker, Gustav August",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2019-05-17,136,"Gütter, Kurt Arno",,,,sold,,3540,USD,Primary,Primary,Violin
+,,2019-05-17,137,"Roth, Ernst Heinrich",,,,sold,,19200,USD,Primary,Primary,Violin
+,,2019-05-17,143,"Mahoney, Frederick Daniel",,,,sold,,2950,USD,Primary,Primary,Violin
+,,2019-05-17,145,"Sgarbi, Giuseppe",,,,sold,,5100,USD,Primary,Primary,Violin
+,,2019-05-17,146,"Dvorak, Carolus Joseph",,,,sold,,5100,USD,Primary,Primary,Violin
+,,2019-05-17,151,"Lidholm, Eric Johan",,,,sold,,5700,USD,Primary,Primary,Violin
+,,2019-05-17,153,"Edrev, Edrio",,,,sold,,4425,USD,Primary,Primary,Violin
+,,2019-05-17,154,"Forcellini, Franco",,,,sold,,7800,USD,Primary,Primary,Violin
+,,2019-05-17,155,"Verne, Dario",,,,sold,,6000,USD,Primary,Primary,Violin
+,,2019-05-17,156,"Esposti, Piergiuseppe",,,,sold,,6000,USD,Primary,Primary,Violin
+,,2019-05-17,158,"Bulfari, Alceste",,,,sold,,6000,USD,Primary,Primary,Violin
+,,2019-05-17,160,"Jais, Anton",,,,sold,,7080,USD,Primary,Primary,Violin
+,,2019-05-17,162,"Danieli, Silvio",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2019-05-17,163,"Landolfi, Carlo Ferdinando",,,,sold,,8400,USD,Primary,Primary,Violin
+,,2019-05-17,164,"Pilát, Paul (Pál) I",,,,sold,,7800,USD,Primary,Primary,Violin
+,,2019-05-17,165,"Pilat, Paul Ernst (Pál Ernö)",,,,sold,,22800,USD,Primary,Primary,Violin
+,,2019-05-17,166,"Erdesz, Otto A.",,,,sold,,8260,USD,Primary,Primary,Violin
+,,2019-05-17,167,"Sderci, Luciano",,,,sold,,8260,USD,Primary,Primary,Violin
+,,2019-05-17,168,"De Barbieri, Paolo",,,,sold,,9440,USD,Primary,Primary,Violin
+,,2019-05-17,17,"Postacchini, Andrea",,,,sold,,60000,USD,Primary,Primary,Cello
+,,2019-05-17,171,"Albanelli, Franco",,,,sold,,12000,USD,Primary,Primary,Violin
+,,2019-05-17,178,"Vuillaume, Nicolas III",,,,sold,,15600,USD,Primary,Primary,Violin
+,,2019-05-17,179,"Gemünder, George I",,,,sold,,19200,USD,Primary,Primary,Violin
+,,2019-05-17,182,"Geissenhof, Franz",,,,sold,,17700,USD,Primary,Primary,Violin
+,,2019-05-17,183,"Della Corte, Alfonso",,,,sold,,25200,USD,Primary,Primary,Violin
+,,2019-05-17,186,"Bedocchi, Mario",,,,sold,,33000,USD,Primary,Primary,Violin
+,,2019-05-17,187,"Blanchi, Alberto Luigi",,,,sold,,24780,USD,Primary,Primary,Violin
+,,2019-05-17,19,"Lee, John Norwood",,,,sold,,900,USD,Primary,Primary,Viola Bow
+,,2019-05-17,190,"Gagliano, Gennaro",,,,sold,,45000,USD,Primary,Primary,Violin
+,,2019-05-17,191,"Gagliano, Giuseppe",,,,sold,,90000,USD,Primary,Primary,Violin
+,,2019-05-17,194,"Pique, François-Louis",,,,sold,,78000,USD,Primary,Primary,Violin
+,,2019-05-17,195,"Goffriller, Matteo",,,,sold,,59000,USD,Primary,Primary,Violin
+,,2019-05-17,196,"Testore, Paolo Antonio",,,,sold,,84000,USD,Primary,Primary,Violin
+,,2019-05-17,198,"Fagnola, Annibale",,,,sold,,120000,USD,Primary,Primary,Violin
+,,2019-05-17,199,"Gagliano, Gennaro",,,,sold,,251500,USD,Primary,Primary,Violin
+,,2019-05-17,20,"Lee, John Norwood",,,,sold,,1800,USD,Primary,Primary,Viola Bow
+,,2019-05-17,201,"Vuillaume, Jean-Baptiste",,,,sold,,258600,USD,Primary,Primary,Violin
+,,2019-05-17,202,"Serafin, Santo",,,,sold,,236000,USD,Primary,Primary,Violin
+,,2019-05-17,203,"Guadagnini, Giovanni Battista",,,,sold,,1160000,USD,Primary,Primary,Violin
+,,2019-05-17,21,"Liu, Lloyd",,,,sold,,1180,USD,Primary,Primary,Viola Bow
+,,2019-05-17,22,"Fletcher, Ron",,,,sold,,1534,USD,Primary,Primary,Viola Bow
+,,2019-05-17,23,"Wilson, Garner",,,,sold,,4500,USD,Primary,Primary,Viola Bow
+,,2019-05-17,25,"Wilson, Garner",,,,sold,,2950,USD,Primary,Primary,Viola Bow
+,,2019-05-17,26,"Bazin, Charles Alfred",,,,sold,,3600,USD,Primary,Primary,Viola Bow
+,,2019-05-17,27,"Yeoman, Sydney Braithwaite",,,,sold,,2950,USD,Primary,Primary,Viola Bow
+,,2019-05-17,29,"Maline, Nicolas I",,,,sold,,14400,USD,Primary,Primary,Viola Bow
+,,2019-05-17,3,"Liu, Lloyd",,,,sold,,1770,USD,Primary,Primary,Cello Bow
+,,2019-05-17,30,"Maire, Nicolas Rémy",,,,sold,,26400,USD,Primary,Primary,Viola Bow
+,,2019-05-17,33,"Morris, James S.",,,,sold,,4720,USD,Primary,Primary,Viola
+,,2019-05-17,34,"Coggin, James Radford",,,,sold,,5100,USD,Primary,Primary,Viola
+,,2019-05-17,36,"Cavani, Vincenzo",,,,sold,,5900,USD,Primary,Primary,Viola
+,,2019-05-17,37,"Capelli, Aldo",,,,sold,,9600,USD,Primary,Primary,Viola
+,,2019-05-17,4,"Raguse, Douglas",,,,sold,,2160,USD,Primary,Primary,Cello Bow
+,,2019-05-17,42,"Guersan, Louis",,,,sold,,42000,USD,Primary,Primary,Viola
+,,2019-05-17,45,"Guarneri, Andrea",,,,sold,,1275000,USD,Primary,Primary,Viola
+,,2019-05-17,52,"Lotte, François",,,,sold,,1200,USD,Primary,Primary,Violin Bow
+,,2019-05-17,53,"Kuhlna, Steffan",,,,sold,,720,USD,Primary,Primary,Violin Bow
+,,2019-05-17,55,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,2520,USD,Primary,Primary,Violin Bow
+,,2019-05-17,56,"Lotte, François",,,,sold,,2280,USD,Primary,Primary,Violin Bow
+,,2019-05-17,58,"Thibouville-Lamy, Jérôme Firm",,,,sold,,1560,USD,Primary,Primary,Violin Bow
+,,2019-05-17,61,"Lee, John Norwood",,,,sold,,944,USD,Primary,Primary,Violin Bow
+,,2019-05-17,62,"Kagen, Gerald",,,,sold,,1180,USD,Primary,Primary,Viola Bow
+,,2019-05-17,63,"Liu, Lloyd",,,,sold,,1416,USD,Primary,Primary,Violin Bow
+,,2019-05-17,64,"Liu, Lloyd",,,,sold,,2040,USD,Primary,Primary,Violin Bow
+,,2019-05-17,68,"Lotte, François",,,,sold,,2124,USD,Primary,Primary,Violin Bow
+,,2019-05-17,69,"Lotte, François",,,,sold,,1357,USD,Primary,Primary,Violin Bow
+,,2019-05-17,70,"Lotte, François",,,,sold,,1770,USD,Primary,Primary,Violin Bow
+,,2019-05-17,71,"Lotte, Roger François",,,,sold,,2520,USD,Primary,Primary,Violin Bow
+,,2019-05-17,72,"Morizot, Louis frères",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2019-05-17,73,"Morizot, Louis frères",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,2019-05-17,74,"Morizot, Louis frères",,,,sold,,2280,USD,Primary,Primary,Violin Bow
+,,2019-05-17,75,"Colas, Prosper",,,,sold,,1800,USD,Primary,Primary,Violin Bow
+,,2019-05-17,77,"Bazin, Charles Nicolas",,,,sold,,2160,USD,Primary,Primary,Violin Bow
+,,2019-05-17,78,"Lee, John Norwood",,,,sold,,2160,USD,Primary,Primary,Violin Bow
+,,2019-05-17,79,"Beilke, Martin",,,,sold,,2520,USD,Primary,Primary,Violin Bow
+,,2019-05-17,8,"Sartory, Eugène Nicolas",,,,sold,,4800,USD,Primary,Primary,Cello Bow
+,,2019-05-17,80,"Taylor, Michael",,,,sold,,1770,USD,Primary,Primary,Violin Bow
+,,2019-05-17,81,"Ouchard, Bernard",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2019-05-17,82,"Bazin, Charles Louis",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,2019-05-17,83,"Thomassin, Claude Auguste",,,,sold,,2714,USD,Primary,Primary,Violin Bow
+,,2019-05-17,84,"Ouchard, Émile François",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2019-05-17,85,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2019-05-17,86,"Bazin, François Xavier",,,,sold,,2124,USD,Primary,Primary,Violin Bow
+,,2019-05-17,87,"Cuniot, Pierre",,,,sold,,2478,USD,Primary,Primary,Violin Bow
+,,2019-05-17,88,"Lee, Jian Feng",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2019-05-17,89,"Malo, François",,,,sold,,5900,USD,Primary,Primary,Violin Bow
+,,2019-05-17,9,"Sartory, Eugène Nicolas",,,,sold,,22800,USD,Primary,Primary,Cello Bow
+,,2019-05-17,90,"Thomachot, Stephane",,,,sold,,7800,USD,Primary,Primary,Violin Bow
+,,2019-05-17,91,"Lucke, Tino",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2019-05-17,93,"Bultitude, Arthur Richard",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2019-05-17,94,"Bultitude, Arthur Richard",,,,sold,,5310,USD,Primary,Primary,Violin Bow
+,,2019-05-17,95,"Tubbs, James",,,,sold,,8400,USD,Primary,Primary,Violin Bow
+,,2019-05-17,96,"Hill & Sons, W. E. Firm",,,,sold,,6000,USD,Primary,Primary,Violin Bow
+,,2019-05-17,97,"Yeoman, Sydney Braithwaite",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2019-05-17,98,"Hill & Sons, W. E. Firm",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2019-05-17,99,"Nürnberger, Carl Albert",,,,sold,,9000,USD,Primary,Primary,Violin Bow

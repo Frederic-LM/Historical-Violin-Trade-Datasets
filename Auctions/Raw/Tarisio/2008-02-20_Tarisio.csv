@@ -1,0 +1,75 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2008-02-20,133,"Gerome, Roger",,,,sold,,761,USD,Primary,Primary,Viola Bow
+,,2008-02-20,134,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,1521,USD,Primary,Primary,Viola Bow
+,,2008-02-20,146,"Drouin, Louis",,,,sold,,4095,USD,Primary,Primary,Viola
+,,2008-02-20,148,"Fassler, Hermann",,,,sold,,1755,USD,Primary,Primary,Viola
+,,2008-02-20,151,"Lanaro, Umberto",,,,sold,,5265,USD,Primary,Primary,Viola
+,,2008-02-20,152,"Bernardel, Léon",,,,sold,,1112,USD,Primary,Primary,Cello Bow
+,,2008-02-20,17,"Sartory, Eugène Nicolas",,,,sold,,234,USD,Primary,Primary,Violin Bow
+,,2008-02-20,171,"Phipps, William",,,,sold,,1287,USD,Primary,Primary,Cello
+,,2008-02-20,193,"Klotz, Matthias I",,,,sold,,2457,USD,Primary,Primary,Violin
+,,2008-02-20,209,"Wilkanowski, William",,,,sold,,2106,USD,Primary,Primary,Violin
+,,2008-02-20,216,"Hammig, Wilhelm Hermann",,,,sold,,1755,USD,Primary,Primary,Violin
+,,2008-02-20,225,"Henning, Gustav",,,,sold,,1287,USD,Primary,Primary,Violin
+,,2008-02-20,247,"Nicolas, Didier l'aîné",,,,sold,,322,USD,Primary,Primary,Violin
+,,2008-02-20,269,Neuner & Hornsteiner,,,,sold,,819,USD,Primary,Primary,Violin
+,,2008-02-20,273,"Fischer, Frederick",,,,sold,,994,USD,Primary,Primary,Violin
+,,2008-02-20,277,"Carr, Albert H.",,,,sold,,526,USD,Primary,Primary,Violin
+,,2008-02-20,278,"Farr, E. J.",,,,sold,,439,USD,Primary,Primary,Violin
+,,2008-02-20,282,"Grill, Franz",,,,sold,,994,USD,Primary,Primary,Violin
+,,2008-02-20,286,"Wilkanowski, William",,,,sold,,702,USD,Primary,Primary,Violin
+,,2008-02-20,310,"Wood, Daniel L.",,,,sold,,644,USD,Primary,Primary,Violin
+,,2008-02-20,337,"Gütter, Kurt Arno",,,,sold,,1521,USD,Primary,Primary,Violin
+,,2008-02-20,338,"Albert, Eugene John",,,,sold,,878,USD,Primary,Primary,Violin
+,,2008-02-20,339,"Stanley, F. E.",,,,sold,,644,USD,Primary,Primary,Violin
+,,2008-02-20,340,"Glass, Johann",,,,sold,,1053,USD,Primary,Primary,Violin
+,,2008-02-20,359,"Stenger, Willibald Conrad",,,,sold,,1053,USD,Primary,Primary,Violin
+,,2008-02-20,360,"Hyde, Andrew",,,,sold,,1404,USD,Primary,Primary,Violin
+,,2008-02-20,363,"Squier, Victor Carroll",,,,sold,,936,USD,Primary,Primary,Violin
+,,2008-02-20,364,"Breton, François",,,,sold,,936,USD,Primary,Primary,Violin
+,,2008-02-20,380,"Vavra, Joannes Batista",,,,sold,,1112,USD,Primary,Primary,Violin
+,,2008-02-20,393,Perry & Wilkinson Firm,,,,sold,,2106,USD,Primary,Primary,Violin
+,,2008-02-20,401,"Mentiply, Andrew",,,,sold,,761,USD,Primary,Primary,Violin
+,,2008-02-20,403,"Thibouville-Lamy, Jérôme Firm",,,,sold,,1989,USD,Primary,Primary,Violin
+,,2008-02-20,416,"Claudot, Charles I",,,,sold,,1521,USD,Primary,Primary,Violin
+,,2008-02-20,427,"Dörffel, Johann (Hans) Andreas I",,,,sold,,1989,USD,Primary,Primary,Violin
+,,2008-02-20,433,"Dolling, Louis Jr.",,,,sold,,1287,USD,Primary,Primary,Violin
+,,2008-02-20,44,"Lamy, Alfred dit neveu",,,,sold,,1872,USD,Primary,Primary,Violin Bow
+,,2008-02-20,448,"De Luccia, Michele II",,,,sold,,5850,USD,Primary,Primary,Violin
+,,2008-02-20,457,"Dunski, Stephan",,,,sold,,761,USD,Primary,Primary,Viola
+,,2008-02-20,458,"Wilkanowski, William",,,,sold,,1755,USD,Primary,Primary,Violin
+,,2008-02-20,460,"Nupieri, Giuseppe",,,,sold,,555,USD,Primary,Primary,Violin
+,,2008-02-20,461,"Barth, Robert",,,,sold,,1755,USD,Primary,Primary,Violin
+,,2008-02-20,464,"Vitale, Giuseppe",,,,sold,,1404,USD,Primary,Primary,Violin
+,,2008-02-20,465,"Gemünder, Oscar Henry",,,,sold,,1404,USD,Primary,Primary,Violin
+,,2008-02-20,466,"Glier, Robert L. II",,,,sold,,1638,USD,Primary,Primary,Violin
+,,2008-02-20,469,"Moennig, Fritz",,,,sold,,2106,USD,Primary,Primary,Violin
+,,2008-02-20,470,"Schönfelder, Johann Georg",,,,sold,,1989,USD,Primary,Primary,Violin
+,,2008-02-20,471,"Vitale, Giuseppe",,,,sold,,1404,USD,Primary,Primary,Violin
+,,2008-02-20,472,"Bredo, Fabio",,,,sold,,4095,USD,Primary,Primary,Violin
+,,2008-02-20,474,"Schönfelder, Johann Georg",,,,sold,,1521,USD,Primary,Primary,Violin
+,,2008-02-20,477,"Glier, Robert C. I",,,,sold,,1755,USD,Primary,Primary,Violin
+,,2008-02-20,480,"Burke, W. F.",,,,sold,,2340,USD,Primary,Primary,Violin
+,,2008-02-20,485,"Profilo, Claudio",,,,sold,,6435,USD,Primary,Primary,Violin
+,,2008-02-20,489,"Carlisle, James Reynold",,,,sold,,5265,USD,Primary,Primary,Violin
+,,2008-02-20,493,"Friedrich, John",,,,sold,,4680,USD,Primary,Primary,Violin
+,,2008-02-20,500,"Erician, Martin",,,,sold,,3802,USD,Primary,Primary,Violin
+,,2008-02-20,504,"Leidolff, Johann Christoph",,,,sold,,4388,USD,Primary,Primary,Violin
+,,2008-02-20,505,"Mast, Joseph Laurent",,,,sold,,4680,USD,Primary,Primary,Violin
+,,2008-02-20,51,"Clutterbuck, John",,,,sold,,1638,USD,Primary,Primary,Violin Bow
+,,2008-02-20,53,"Prager, Gustav Adolf",,,,sold,,1112,USD,Primary,Primary,Violin Bow
+,,2008-02-20,58,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,2808,USD,Primary,Primary,Violin Bow
+,,2008-02-20,59,"Vigneron, Joseph Arthur père",,,,sold,,1755,USD,Primary,Primary,Violin Bow
+,,2008-02-20,65,"Bazin, Charles Louis",,,,sold,,994,USD,Primary,Primary,Violin Bow
+,,2008-02-20,66,"Taylor, Malcolm",,,,sold,,1638,USD,Primary,Primary,Violin Bow
+,,2008-02-20,68,"Fétique, Victor François",,,,sold,,936,USD,Primary,Primary,Violin Bow
+,,2008-02-20,74,"Bazin, Charles Louis",,,,sold,,1521,USD,Primary,Primary,Violin Bow
+,,2008-02-20,75,"Nürnberger, Albert",,,,sold,,3218,USD,Primary,Primary,Violin Bow
+,,2008-02-20,76,"Tubbs, James",,,,sold,,3802,USD,Primary,Primary,Violin Bow
+,,2008-02-20,80,"Nürnberger, Albert",,,,sold,,4095,USD,Primary,Primary,Violin Bow
+,,2008-02-20,81,"Poirson, Dominique ""Justin""",,,,sold,,1872,USD,Primary,Primary,Violin Bow
+,,2008-02-20,83,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1989,USD,Primary,Primary,Violin Bow
+,,2008-02-20,84,"Lamy, Joseph Alfred père",,,,sold,,2340,USD,Primary,Primary,Violin Bow
+,,2008-02-20,85,"Ouchard, Bernard",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2008-02-20,86,"Adam, Jean Dominique",,,,sold,,3500,USD,Primary,Primary,Violin Bow
+,,2008-02-20,87,"Colas, Prosper",,,,sold,,3218,USD,Primary,Primary,Violin Bow

@@ -1,0 +1,45 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2024-06-26,11,Percy Lee,"A cello by Percy Lee, London, 1923",2000,4000,sold,,4108,GBP,Primary,Primary,Cello
+,,2024-06-26,124,Anton Galla,"A violin by Anton Galla, Brno, 1944",1500,3000,sold,,1264,GBP,Primary,Primary,Violin
+,,2024-06-26,126,Erich Bruckner,"A violin by Erich Brückner, Lübben-Steinkirchen, 1924",2000,4000,sold,,2528,GBP,Primary,Primary,Violin
+,,2024-06-26,128,Eugen Gartner,"A violin by Eugen Gartner, Stuttgart, 1923",3000,5000,sold,,5372,GBP,Primary,Primary,Violin
+,,2024-06-26,144,Klotz [Family],"A violin by a member of the Klotz family, Germany, circa 1790",3000,5000,sold,,9480,GBP,Primary,Primary,Violin
+,,2024-06-26,15,Thomas Kennedy,"A cello by Thomas Kennedy, circa 1835",6000,10000,sold,,17696,GBP,Primary,Primary,Cello
+,,2024-06-26,150,George Wulme-Hudson,"A violin by George Wulme-Hudson, London, 1915",4000,6000,sold,,6952,GBP,Primary,Primary,Violin
+,,2024-06-26,151,Francois Hippolyte Caussin,"A violin by François Hippolyte Caussin, Neufchâteau, 1863",1000,2000,sold,,2275,GBP,Primary,Primary,Violin
+,,2024-06-26,158,Joseph (I) Hill,"A violin by Joseph Hill, London, circa 1775",8000,10000,sold,,10112,GBP,Primary,Primary,Violin
+,,2024-06-26,164,Powell G,"A violin by G. Powell, Bridlington, 1924",400,600,sold,,506,GBP,Primary,Primary,Violin
+,,2024-06-26,172,Paul Bailly,"A violin by Paul Bailly, Paris, 1887",10000,15000,sold,,12640,GBP,Primary,Primary,Violin
+,,2024-06-26,179,Alexander Smillie,"A violin by Alexander Smillie and Son, Glasgow, 1904",500,1000,sold,,632,GBP,Primary,Primary,Violin
+,,2024-06-26,180,James Perry,"A violin by James Perry, Kilkenny, circa 1790",800,1200,sold,,727,GBP,Primary,Primary,Violin
+,,2024-06-26,192,Sillem Benecke,"A violin by Sillem Benecke, Stockholm, 1880",400,600,sold,,885,GBP,Primary,Primary,Violin
+,,2024-06-26,201,Parkins Harold C,"A violin by Harold E. Perkins, Liverpool, 1951",400,600,sold,,506,GBP,Primary,Primary,Violin
+,,2024-06-26,25,Joseph Arthur Vigneron,"A silver-mounted cello bow by Vigneron Pére, circa 1900",8000,12000,sold,,10112,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,34,August Weichold,"A silver-mounted cello bow by August Weichold, Dresden",500,1000,sold,,632,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,37,John Stagg,"A silver-mounted cello bow by John Stagg, Bristol",1000,2000,sold,,2654,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,39,Albin Hums,"A silver-mounted cello bow by Albin Hums, Germany",500,700,sold,,1074,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,40,John Clutterbuck,"A silver-mounted cello bow by John Clutterbuck, Bicester",1000,2000,sold,,1517,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,41,John Dodd,"A silver-mounted cello bow by John Dodd, London, circa 1820",2000,4000,sold,,2528,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,42,J.E. Vickers,"A silver-mounted cello bow by J. E. Vickers, Wisbech",200,400,sold,,253,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,43,Hermann Wilhelm Prell,"A silver-mounted cello bow by Hermann W. Prell, Germany",300,500,sold,,1643,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,44,Alfred Knoll,"A silver-mounted cello bow by A. Knoll, Germany",300,500,sold,,126,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,45,Arthur Bultitude,"A silver-mounted viola bow, by A. R. Bultitude, London",1500,2500,sold,,1896,GBP,Primary,Primary,Viola Bow
+,,2024-06-26,46,Bristow Stephen E,A gold-mounted viola bow by S. E. Bristow,2000,4000,sold,,2528,GBP,Primary,Primary,Viola Bow
+,,2024-06-26,48,Arthur Bultitude,"A silver-mounted viola bow by A. R. Bultitude, London",1500,2500,sold,,2022,GBP,Primary,Primary,Viola Bow
+,,2024-06-26,50,Eugene Nicolas Sartory,"A silver-mounted violin bow by Eugène Sartory, Paris, circa 1900",10000,20000,sold,,16432,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,51,Patigny Pierre,"The Ex Menuhin gold and tortoiseshell-mounted violin bow by Pierre Patigny, Brussels",2000,4000,sold,,12640,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,53,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London, circa 1930",1000,2000,sold,,1264,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,54,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1000,2000,sold,,3160,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,55,Malcolm M Taylor,"A gold and tortoiseshell-mounted violin bow by Malcolm Taylor, London",1500,2500,sold,,3160,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,59,Eugene Cuniot-Hury,"A silver-mounted violin bow by Eugène Cuniot, circa 1900, Paris",1000,1500,sold,,1517,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,60,John Clutterbuck,"A silver-mounted cello bow by John Clutterbuck, Bicester",800,1200,sold,,1643,GBP,Primary,Primary,Cello Bow
+,,2024-06-26,61,James Tubbs,"A silver-mounted violin bow by James Tubbs, London, circa 1880",3000,5000,sold,,5688,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,63,Albert Nurnberger,"A silver-mounted violin bow by Albert Nürnburger, Germany",100,200,sold,,411,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,65,Albert Nurnberger,"A silver-mounted violin bow by Albert Nürnberger, Germany",1000,2000,sold,,2022,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,67,Jérôme Thibouville Lamy,"A nickel-mounted violin bow by Jérôme Thibouville-Lamy, Mirecourt, circa 1910",300,500,sold,,506,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,68,James Tubbs,"A silver-mounted violin bow by James Tubbs, London, circa 1880",3000,5000,sold,,3792,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,77,Hippolyte Camille Lamy,"A silver-mounted violin bow by H. C. Lamy (fils), Paris, circa 1920",5000,10000,sold,,6320,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,80,W. E. Hill & Sons,A silver-mounted violin bow by W. E. Hill & Sons,3000,5000,sold,,3160,GBP,Primary,Primary,Violin Bow
+,,2024-06-26,83,Clifford A. Hoing,"A viola by Clifford A. Hoing, High Wycombe, 1966",6000,10000,sold,,10744,GBP,Primary,Primary,Viola
+,,2024-06-26,85,D. G. Britten,"A viola by D. G. Britten, Northampton, 1977",600,1200,sold,,531,GBP,Primary,Primary,Viola
+,,2024-06-26,97,Nicola Gagliano,"A violin by Nicolo Gagliano, Naples, 1777",40000,60000,sold,,46136,GBP,Primary,Primary,Violin

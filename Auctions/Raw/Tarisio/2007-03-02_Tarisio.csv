@@ -1,0 +1,91 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2007-03-02,1,"Bazin, Charles Alfred",,,,sold,,1840,GBP,Primary,Primary,Viola Bow
+,,2007-03-02,100,"Breton, Jean-François",,,,sold,,1150,GBP,Primary,Primary,Violin
+,,2007-03-02,101,"Deblaye, Albert",,,,sold,,1265,GBP,Primary,Primary,Violin
+,,2007-03-02,102,"Castagneri, Andrea",,,,sold,,1380,GBP,Primary,Primary,Violin
+,,2007-03-02,107,"Schmitt, Lucien",,,,sold,,1725,GBP,Primary,Primary,Violin
+,,2007-03-02,108,"Pfretzschner, Carl Friedrich I",,,,sold,,1955,GBP,Primary,Primary,Violin
+,,2007-03-02,111,"Caussin, François",,,,sold,,2415,GBP,Primary,Primary,Violin
+,,2007-03-02,112,"Apparut, Georges",,,,sold,,1725,GBP,Primary,Primary,Violin
+,,2007-03-02,114,"Ubaldino, Cavestro",,,,sold,,1495,GBP,Primary,Primary,Violin
+,,2007-03-02,117,"Michelangeli, Enrico",,,,sold,,2070,GBP,Primary,Primary,Violin
+,,2007-03-02,122,"Poirson, Elophe",,,,sold,,4313,GBP,Primary,Primary,Violin
+,,2007-03-02,124,"Morara, Paolo",,,,sold,,4888,GBP,Primary,Primary,Violin
+,,2007-03-02,13,"Celani, Emidio",,,,sold,,3163,GBP,Primary,Primary,Viola
+,,2007-03-02,130,"Dieudonné, Amédée",,,,sold,,1840,GBP,Primary,Primary,Violin
+,,2007-03-02,133,"Nolli, Marco",,,,sold,,2530,GBP,Primary,Primary,Violin
+,,2007-03-02,134,"Albani, Giuseppe I",,,,sold,,3738,GBP,Primary,Primary,Violin
+,,2007-03-02,138,"Thir, Georg",,,,sold,,1725,GBP,Primary,Primary,Violin
+,,2007-03-02,14,"Sderci, Igino",,,,sold,,8625,GBP,Primary,Primary,Viola
+,,2007-03-02,147,"Albanelli, Franco",,,,sold,,3163,GBP,Primary,Primary,Violin
+,,2007-03-02,149,"Dvorak, Carolus Joseph",,,,sold,,2875,GBP,Primary,Primary,Violin
+,,2007-03-02,15,"Lucci, Giuseppe",,,,sold,,10350,GBP,Primary,Primary,Viola
+,,2007-03-02,156,"Derazey, Honoré (Jean-Joseph)",,,,sold,,4600,GBP,Primary,Primary,Violin
+,,2007-03-02,157,"Gaggini, Pierre",,,,sold,,2645,GBP,Primary,Primary,Violin
+,,2007-03-02,159,"Vuillaume, Sebastien",,,,sold,,3738,GBP,Primary,Primary,Violin
+,,2007-03-02,161,"Simonazzi, Amadeo",,,,sold,,7475,GBP,Primary,Primary,Violin
+,,2007-03-02,163,"Dobretsovich, Marco",,,,sold,,11500,GBP,Primary,Primary,Violin
+,,2007-03-02,166,"Audinot, Nestor Dominique",,,,sold,,5750,GBP,Primary,Primary,Violin
+,,2007-03-02,17,"Deconet, Michele",,,,sold,,62500,GBP,Primary,Primary,Viola
+,,2007-03-02,170,"Jais, Johann I",,,,sold,,4600,GBP,Primary,Primary,Violin
+,,2007-03-02,172,"Banks, Benjamin",,,,sold,,4888,GBP,Primary,Primary,Violin
+,,2007-03-02,177,"Bailly, Paul",,,,sold,,5175,GBP,Primary,Primary,Violin
+,,2007-03-02,18,"Grünke, Richard",,,,sold,,920,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,184,"De Zorzi, Valentino",,,,sold,,9200,GBP,Primary,Primary,Violin
+,,2007-03-02,189,"Antoniazzi, Gaetano",,,,sold,,13800,GBP,Primary,Primary,Violin
+,,2007-03-02,19,"Laberte, Marc André Joseph",,,,sold,,690,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,192,"Bernardel, Auguste Sébastien Philippe père",,,,sold,,8625,GBP,Primary,Primary,Violin
+,,2007-03-02,196,"Sgarabotto, Gaetano",,,,sold,,17250,GBP,Primary,Primary,Violin
+,,2007-03-02,199,"Degani, Giulio Ettore",,,,sold,,18400,GBP,Primary,Primary,Violin
+,,2007-03-02,2,"Oxley, Peter",,,,sold,,1495,GBP,Primary,Primary,Viola Bow
+,,2007-03-02,200,"Degani, Giulio Ettore",,,,sold,,20700,GBP,Primary,Primary,Violin
+,,2007-03-02,203,"Candi, Cesare",,,,sold,,21850,GBP,Primary,Primary,Violin
+,,2007-03-02,207,"Pressenda, Giovanni Francesco",,,,sold,,90000,GBP,Primary,Primary,Violin
+,,2007-03-02,208,"Storioni, Lorenzo",,,,sold,,105328,GBP,Primary,Primary,Violin
+,,2007-03-02,209,"Amati, Nicolò",,,,sold,,117500,GBP,Primary,Primary,Violin
+,,2007-03-02,21,"Fétique, Victor François",,,,sold,,1150,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,22,"Nürnberger, Albert",,,,sold,,863,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,23,"Morizot, Louis Joseph père",,,,sold,,1380,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,26,"Morizot, Louis frères",,,,sold,,2185,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,28,"Lauxerrois, Jean Paul",,,,sold,,1610,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,29,"Lotte, Roger François",,,,sold,,2070,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,3,"Ouchard, Émile François",,,,sold,,1725,GBP,Primary,Primary,Viola Bow
+,,2007-03-02,30,"Martin, Jean-Joseph",,,,sold,,2300,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,31,"Peccatte, Charles",,,,sold,,3738,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,33,"Hill & Sons, W. E. Firm",,,,sold,,2400,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,35,"Simon, Pierre",,,,sold,,11500,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,36,"Hill & Sons, W. E. Firm",,,,sold,,2300,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,37,"Tourte, François Xavier 'le Jeune'",,,,sold,,101000,GBP,Primary,Primary,Cello Bow
+,,2007-03-02,39,"Silvestre, Hippolyte Chrétien",,,,sold,,13800,GBP,Primary,Primary,Cello
+,,2007-03-02,41,"Winterling, Georg",,,,sold,,8625,GBP,Primary,Primary,Cello
+,,2007-03-02,42,"Staudinger, Mathias Wenceslaus",,,,sold,,9775,GBP,Primary,Primary,Cello
+,,2007-03-02,45,"Gaggini, Pierre",,,,sold,,13800,GBP,Primary,Primary,Cello
+,,2007-03-02,47,"Vuillaume, Jean-Baptiste",,,,sold,,90000,GBP,Primary,Primary,Cello
+,,2007-03-02,50,"Bausch, Karl Friedrich Ludwig Jr.",,,,sold,,805,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,53,"Morizot, Louis Joseph père",,,,sold,,978,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,54,"Pfretzschner, Hermann Richard",,,,sold,,805,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,55,"Pfretzschner, Hermann Richard",,,,sold,,805,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,58,"Lapierre, Marcel Charles",,,,sold,,1265,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,59,"Morizot, Louis Joseph père",,,,sold,,1495,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,6,"Morizot, Louis Joseph père",,,,sold,,1725,GBP,Primary,Primary,Viola Bow
+,,2007-03-02,61,"Husson, Charles Claude II",,,,sold,,1093,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,62,"Lotte, François",,,,sold,,1150,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,63,"Morizot, Louis Joseph père",,,,sold,,1265,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,69,"Ouchard, Émile François",,,,sold,,1495,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,7,"Sartory, Eugène Nicolas",,,,sold,,10350,GBP,Primary,Primary,Viola Bow
+,,2007-03-02,71,"Morizot, Louis Joseph père",,,,sold,,1495,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,72,"Vigneron, Joseph Arthur père",,,,sold,,1840,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,74,"Bazin, Charles Louis",,,,sold,,1725,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,76,"Piernot, Marie Louis",,,,sold,,1840,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,78,"Thomassin, Claude Auguste",,,,sold,,2300,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,79,"Vigneron, André 'Vigneron fils'",,,,sold,,2415,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,80,"Vigneron, Joseph Arthur père",,,,sold,,2185,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,81,"Gillet, Louis Henri",,,,sold,,2875,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,84,"Ouchard, Émile-Auguste",,,,sold,,4888,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,88,"Sartory, Eugène Nicolas",,,,sold,,3680,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,91,"Voirin, François Nicolas",,,,sold,,3450,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,94,"Lupot, François II",,,,sold,,5175,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,95,"Sartory, Eugène Nicolas",,,,sold,,12650,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,96,"Simon, Nicolas FR",,,,sold,,6900,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,97,"Pajeot, Étienne",,,,sold,,8050,GBP,Primary,Primary,Violin Bow
+,,2007-03-02,98,"Lafleur, Joseph René",,,,sold,,11500,GBP,Primary,Primary,Violin Bow

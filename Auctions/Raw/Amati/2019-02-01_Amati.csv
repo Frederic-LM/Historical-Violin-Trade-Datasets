@@ -1,0 +1,10 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2019-02-01,401,Giulio Ettore Degani,"A violin by Giulio Ettore Degani, Venice, 1897",20000,30000,sold,,31600,GBP,Primary,Primary,Violin
+,,2019-02-01,405,C D Greener,"A violin by C. D. Greener, second half of the 20th Century, England",200,400,sold,,632,GBP,Primary,Primary,Violin
+,,2019-02-01,478,C D Greener,"A viola by C. D. Greener, 1982, Newcastle",200,400,sold,,632,GBP,Primary,Primary,Viola
+,,2019-02-01,479,C D Greener,"A viola by C. D. Greener, second half of the 20th Century, England",200,400,sold,,948,GBP,Primary,Primary,Viola
+,,2019-02-01,480,James Preston,"A cello by James Preston, London, 18th Century",5000,10000,sold,,12640,GBP,Primary,Primary,Cello
+,,2019-02-01,483,W. E. Hill & Sons,"A silver-mounted cello bow by W. E. Hill & Sons, England",800,1200,sold,,1011,GBP,Primary,Primary,Cello Bow
+,,2019-02-01,484,Hart & Son,"A silver-mounted cello bow by Hart & Sons, England",500,1000,sold,,822,GBP,Primary,Primary,Cello Bow
+,,2019-02-01,486,Eugene Nicolas Sartory,"A silver-mounted violin bow by Eugène Sartory, France",3000,5000,sold,,4740,GBP,Primary,Primary,Violin Bow
+,,2019-02-01,487,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, England",500,1000,sold,,632,GBP,Primary,Primary,Violin Bow

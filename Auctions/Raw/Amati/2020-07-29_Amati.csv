@@ -1,0 +1,26 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2020-07-29,1,Raffaele Calace,"A violin by Raffaele Calace, Naples, 1895",1000,2000,sold,,6952,GBP,Primary,Primary,Violin
+,,2020-07-29,101,Lawrence Cocker,A silver-mounted cello bow by Lawrence Cocker,100,200,sold,,240,GBP,Primary,Primary,Cello Bow
+,,2020-07-29,13,Toppetti Cesare,"A violin by Cesare Toppetti, Todi, 1996",1200,1800,sold,,1517,GBP,Primary,Primary,Violin
+,,2020-07-29,20,Gerald Littlewood,"A violin by Gerald Littlewood, Hollingworth-in-Longendale, 1983",400,600,sold,,695,GBP,Primary,Primary,Violin
+,,2020-07-29,24,Charles Georges Brugere,"A violin by Charles Brugere, France, 20th Century",1000,1500,sold,,2275,GBP,Primary,Primary,Violin
+,,2020-07-29,31,Frères Laberte-Humbert,"A violin by Laberte-Humbert Freres, France, circa 1920",800,1200,sold,,1074,GBP,Primary,Primary,Violin
+,,2020-07-29,32,Hawkes Riviere,"A 7/8 violin by Riviere & Hawkes, France, 1885",500,1000,sold,,1201,GBP,Primary,Primary,Violin
+,,2020-07-29,42,Markert Ignatius,"A violin by Ignatius Markert, Prague, 1939",3500,5000,sold,,4424,GBP,Primary,Primary,Violin
+,,2020-07-29,43,Charles (II) Collin-Mezin,"A violin by Ch. J.B. Collin-Mézin fils, France, 1912",1500,2500,sold,,2149,GBP,Primary,Primary,Violin
+,,2020-07-29,49,František Zucker,"A violin by Frantisek Zucker, Luby, 1970",1500,2000,sold,,1517,GBP,Primary,Primary,Violin
+,,2020-07-29,51,Kurt Arno Gutter,"A violin by Kurt Gütter, Germany, 20th Century",1500,2500,sold,,1896,GBP,Primary,Primary,Violin
+,,2020-07-29,54,Claude-Augustin Miremont,"A violin by C. A. Miremont, Paris, 1884",10000,15000,sold,,17696,GBP,Primary,Primary,Violin
+,,2020-07-29,58,Hilaire Darche,"A violin by Hilaire Darche, Brussels, circa 1910",2500,4500,sold,,4108,GBP,Primary,Primary,Violin
+,,2020-07-29,61,Andrea Zanre,"A viola by Andrea Zanre, Parma, 2005",5000,10000,sold,,4740,GBP,Primary,Primary,Viola
+,,2020-07-29,62,Riccardo Bergonzi,"A viola by Ricardo Bergonzi, Cremona, 1999",4000,8000,sold,,5688,GBP,Primary,Primary,Viola
+,,2020-07-29,65,Cyril William Jacklin,"A viola by Cyril William Jacklyn, Loughton, 1969",800,1200,sold,,1201,GBP,Primary,Primary,Viola
+,,2020-07-29,66,Lorenzo Guado,"A viola by Lorenzo Frassino Guado, Cremona, 1990",300,500,sold,,2402,GBP,Primary,Primary,Viola
+,,2020-07-29,71,W. E. Hill & Sons,A silver-mounted violin bow by W. E. Hill & Sons,1000,2000,sold,,2907,GBP,Primary,Primary,Violin Bow
+,,2020-07-29,81,C. A. Gotz,A nickel-mounted violin bow by Conrad Gotz,100,200,sold,,164,GBP,Primary,Primary,Violin Bow
+,,2020-07-29,83,Schicker Horst,A silver-mounted violin bow by Horst Schicker,100,200,sold,,600,GBP,Primary,Primary,Violin Bow
+,,2020-07-29,88,Francois Lotte,A nickel-mounted violin bow by François Lotte,1000,1500,sold,,1390,GBP,Primary,Primary,Violin Bow
+,,2020-07-29,9,John (I) Betts,"A violin by John Betts, England, circa 1790",500,1000,sold,,4740,GBP,Primary,Primary,Violin
+,,2020-07-29,97,Mettal Walter,A nickel-mounted cello bow by Walter Mettal,100,200,sold,,177,GBP,Primary,Primary,Cello Bow
+,,2020-07-29,98,Otto Carl Durrschmidt,A nickel-mounted cello bow by Otto Durrschmidt,250,350,sold,,506,GBP,Primary,Primary,Cello Bow
+,,2020-07-29,99,Mettal Walter,A nickel-mounted cello bow by Walter Mettal,100,200,sold,,600,GBP,Primary,Primary,Cello Bow

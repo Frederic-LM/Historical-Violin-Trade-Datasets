@@ -1,0 +1,43 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2020-01-29,100,Claude Pierray,"A violin by Claude Pierray, Paris, 1718",7000,10000,sold,,7906,GBP,Primary,Primary,Violin
+,,2020-01-29,109,H. A. Hammarström,"A violin by H. A. Hammarström, Lidensboda, 1930",300,500,sold,,284,GBP,Primary,Primary,Violin
+,,2020-01-29,119,James Omond,"A violin by James Omond, Scotland, 1895",500,1000,sold,,632,GBP,Primary,Primary,Violin
+,,2020-01-29,123,William Robinson,"A violin by William Robinson, London, 1943",300,600,sold,,3160,GBP,Primary,Primary,Violin
+,,2020-01-29,130,Jacques Camurat,"A violin by Jacques Camurat, Spain, 1951",2000,4000,sold,,2528,GBP,Primary,Primary,Violin
+,,2020-01-29,131,Ingvar Öhman,"A violin by Ingvar Öhman, Sweden, 1979",400,600,sold,,379,GBP,Primary,Primary,Violin
+,,2020-01-29,141,Charles Louis Buthod,"A violin by Charles Louis Buthod, France, 1842",1800,2000,sold,,2275,GBP,Primary,Primary,Violin
+,,2020-01-29,148,Matesic Giuseppe,"A violin by Giuseppe Matesic, Italy, 1997",2000,4000,sold,,2528,GBP,Primary,Primary,Violin
+,,2020-01-29,163,Piero Parravicini,"A violin by Piero Parravicini, Milan, 1931",13000,16000,sold,,16432,GBP,Primary,Primary,Violin
+,,2020-01-29,166,Johann Gottlob Heberlein,"A violin by Johann Gottlob Heberlein, Germany, 1839",1500,2000,sold,,1517,GBP,Primary,Primary,Violin
+,,2020-01-29,176,Paulus Bruno Franz,"A cello by Bruno Franz Paulus, Mittenwald, 20th Century",600,1200,sold,,3160,GBP,Primary,Primary,Cello
+,,2020-01-29,182,Barry Taylor,"A cello by Barry Taylor, England, 20th Century",2000,4000,sold,,4108,GBP,Primary,Primary,Cello
+,,2020-01-29,192,Arthur Bultitude,"A silver-mounted viola bow by A. R. Bultitude, England",1000,2000,sold,,1643,GBP,Primary,Primary,Viola Bow
+,,2020-01-29,195,Walter Gerhard Renz,"A silver-mounted cello bow by Gerhard Walter Renz, Germany",800,1200,sold,,1011,GBP,Primary,Primary,Cello Bow
+,,2020-01-29,196,Ernst Willy Zophel,"A silver-mounted cello bow by E. W. Zöphel, Germany",500,700,sold,,632,GBP,Primary,Primary,Cello Bow
+,,2020-01-29,197,Ernst Willy Zophel,"A nickel-mounted cello bow by E. W. Zöphel, Germany",500,700,sold,,474,GBP,Primary,Primary,Cello Bow
+,,2020-01-29,2,John William Owen,"A violin by W. Owen, Leeds, 1926",800,1200,sold,,1138,GBP,Primary,Primary,Violin
+,,2020-01-29,200,Kurt Dolling,"A silver-mounted cello bow by Kurt Dolling, Germany",300,500,sold,,885,GBP,Primary,Primary,Cello Bow
+,,2020-01-29,21,Aegidius Klotz,"A violin by Aegidius Klotz, Mittenwald, second half of the 18th Century",5000,8000,sold,,6320,GBP,Primary,Primary,Violin
+,,2020-01-29,25,Michael Antony Hepplewhite,"A violin by Michael Antony Hepplewhite, Malvern, 1983",500,1000,sold,,948,GBP,Primary,Primary,Violin
+,,2020-01-29,29,Karel Van der Linden,"A violin by Karel Van der Linden, Hilversum, 20th Century",200,400,sold,,1138,GBP,Primary,Primary,Violin
+,,2020-01-29,3,Charles Gaillard,"A violin by Charles Gaillard, France, 1858",2000,4000,sold,,10744,GBP,Primary,Primary,Violin
+,,2020-01-29,30,Karel Van der Linden,"A violin by Karel Van der Linden, Hilversum, 20th Century",200,400,sold,,1264,GBP,Primary,Primary,Violin
+,,2020-01-29,31,Karel Van der Linden,"A viola by Karel Van der Linden, Hilversum, 20th Century",300,500,sold,,1074,GBP,Primary,Primary,Viola
+,,2020-01-29,32,Karel Van der Linden,"A viola by Karel Van der Linden, Hilversum, 20th Century",300,500,sold,,1074,GBP,Primary,Primary,Viola
+,,2020-01-29,34,Louis Noebe,"A viola by Louis Noebe, Bad-Homburg, 1923",400,600,sold,,1074,GBP,Primary,Primary,Viola
+,,2020-01-29,37,L. A. Perry,"A viola by L. A. Perry, Wales, 1956",400,800,sold,,1011,GBP,Primary,Primary,Viola
+,,2020-01-29,43,W. E. Hill & Sons,"A violin bow by W. E. Hill & Sons, London",1000,2000,sold,,1770,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,44,Malcolm M Taylor,"A gold-mounted violin bow by Malcolm Taylor, England",800,1200,sold,,2022,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,45,Jean Jacques Millant,"A gold-mounted violin bow by Jean-Jacques Millant, Paris",4500,6500,sold,,5688,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,50,W. E. Hill & Sons,"A violin bow by W. E. Hill & Sons, London",1000,2000,sold,,1517,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,53,Karel Van der Meer,"A silver-mounted violin bow by Karel Van der Meer, Amsterdam",600,800,sold,,758,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,57,Arthur Bultitude,"A gold and tortoiseshell-mounted violin bow by A. R. Bultitude, England",1000,2000,sold,,3476,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,61,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill and Sons, London",1000,2000,sold,,2149,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,62,James Tubbs,"A silver-mounted violin bow by James Tubbs, England",3000,5000,sold,,6952,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,63,Paul Weidhaas,"A silver-mounted picture bow by Paul Weidhaas, Germany",200,400,sold,,1390,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,67,Johann Stuber,"A silver-mounted violin bow by J. Stüber, The Hague",600,1000,sold,,569,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,68,John Dodd,"An early bow by John Dodd, England, circa 1795",300,500,sold,,2402,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,69,Gunter Alfred Paulus,"A silver-mounted violin bow by Günter A. Paulus, Germany",800,1200,sold,,1011,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,71,Hermann Richard Pfretzschner,"A silver-mounted violin bow by H. R. Pfretzschner, Germany",300,500,sold,,758,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,74,Fritz Meinel,"A silver-mounted bow by Fritz Meinel, Germany",400,600,sold,,1264,GBP,Primary,Primary,Violin Bow
+,,2020-01-29,84,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1000,2000,sold,,1390,GBP,Primary,Primary,Violin Bow

@@ -1,12 +1,4 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,,18,,Auguste Delivet,,,sold,2100,2604,EUR,Secondary,Secondary,Violin
-,,,49,,Louis Joseph Morizot,,,sold,1700,2108,EUR,Secondary,Secondary,Violin Bow
-,,,127,,Marie-Louis Piernot,,,sold,750,930,EUR,Secondary,Secondary,Cello Bow
-,,,132,,Andre Vigneron,,,sold,1600,1984,EUR,Secondary,Secondary,Violin Bow
-,,,167,,Henry Rawlins,,,sold,2900,3596,EUR,Secondary,Secondary,Violin
-,,,241,,Morizot Frères,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
-,,,276,,Jérôme Thibouville Lamy,,,sold,650,806,EUR,Secondary,Secondary,Violin Bow
-,,,333,,Nicolas (II) Maire,,,sold,10000,12400,EUR,Secondary,Secondary,Viola Bow
 ,,,500,,Jérôme Thibouville Lamy,,,sold,600,744,EUR,Secondary,Secondary,Violin
 ,,,506,,Frères Laberte-Humbert,,,sold,600,744,EUR,Secondary,Secondary,Violin
 ,,,511,,Jérôme Thibouville Lamy,,,sold,400,496,EUR,Secondary,Secondary,Violin

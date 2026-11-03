@@ -39,7 +39,7 @@ Source: [Ingles & Hayday (own site)](https://ingleshayday.com/about-us/), checke
 
 ## Secondary files (`_snd`)
 `<date>_Ingles-Hayday[_<sale number>]_snd.csv` (and `<date>_Ingles-Hayday_press.csv` for the press): lots of this house that the house's own
-documents do not give (34 files, 1286 lots).
+documents do not give (32 files, 1283 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

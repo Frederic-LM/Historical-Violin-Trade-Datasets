@@ -1,0 +1,88 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2009-10-20,102,"Morizot, Louis frères",,,,sold,,2520,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,103,"Hill & Sons, W. E. Firm",,,,sold,,2280,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,104,"Lotte, Roger François",,,,sold,,2520,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,109,"Vuillaume, Jean-Baptiste",,,,sold,,2400,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,11,"Fétique, Victor François",,,,sold,,1033,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,112,"Bazin, Charles Alfred",,,,sold,,2400,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,113,"Nürnberger, Karl Albert II",,,,sold,,2160,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,114,"Ouchard, Émile François",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,116,"Sartory, Eugène Nicolas",,,,sold,,4200,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,117,"Chardon, André",,,,sold,,4200,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,118,"Martin, Jean-Joseph",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,119,"Tourte, François Xavier 'le Jeune'",,,,sold,,3600,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,120,"Rolland, Benoit",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,124,"Vigneron, André 'Vigneron fils'",,,,sold,,5100,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,126,"Vigneron, Joseph Arthur père",,,,sold,,5400,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,127,"Sartory, Eugène Nicolas",,,,sold,,6000,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,129,"Simon, Pierre",,,,sold,,8400,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,13,"Rau, August",,,,sold,,1200,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,130,"Voirin, François Nicolas",,,,sold,,6600,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,134,"Fonclause, Claude Joseph",,,,sold,,9600,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,135,"Simon, Pierre",,,,sold,,15600,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,136,"Peccatte, Dominique",,,,sold,,33000,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,14,"Grutter, Andreas",,,,sold,,600,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,143,"Weller, Frederick Wilhelm",,,,sold,,420,GBP,Primary,Primary,Violin
+,,2009-10-20,155,"Breton, François",,,,sold,,720,GBP,Primary,Primary,Violin
+,,2009-10-20,16,"Lapierre, Marcel Charles",,,,sold,,960,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,160,"Chappuy, Nicolas Augustin",,,,sold,,1080,GBP,Primary,Primary,Violin
+,,2009-10-20,166,"Romer, Adolf",,,,sold,,1560,GBP,Primary,Primary,Violin
+,,2009-10-20,17,"Pfretzschner, Hermann Richard",,,,sold,,720,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,173,"Mayson, Walter H.",,,,sold,,2880,GBP,Primary,Primary,Violin
+,,2009-10-20,174,"Villaume, Gustave",,,,sold,,2040,GBP,Primary,Primary,Violin
+,,2009-10-20,177,"Deblaye, Albert",,,,sold,,2040,GBP,Primary,Primary,Violin
+,,2009-10-20,18,"Vigneron, André 'Vigneron fils'",,,,sold,,1800,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,191,"Thouvenel, Nicolas Henry dit Paganini",,,,sold,,1800,GBP,Primary,Primary,Violin
+,,2009-10-20,194,"Collin-Mézin, Charles fils",,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2009-10-20,195,Kloz Family,,,,sold,,1800,GBP,Primary,Primary,Violin
+,,2009-10-20,196,"Herrmann, August",,,,sold,,2040,GBP,Primary,Primary,Violin
+,,2009-10-20,198,"Richardson, Arthur",,,,sold,,3600,GBP,Primary,Primary,Violin
+,,2009-10-20,204,"Orlandini, Archimede",,,,sold,,3900,GBP,Primary,Primary,Violin
+,,2009-10-20,209,"Verne, Dario",,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2009-10-20,212,Kloz Family,,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2009-10-20,214,"Albanelli, Franco",,,,sold,,3900,GBP,Primary,Primary,Violin
+,,2009-10-20,215,"Albanelli, Franco",,,,sold,,3600,GBP,Primary,Primary,Violin
+,,2009-10-20,218,"Craske, George",,,,sold,,3600,GBP,Primary,Primary,Violin
+,,2009-10-20,22,"Nürnberger, Karl Albert II",,,,sold,,1200,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,223,"Maggiali, Cesare",,,,sold,,4200,GBP,Primary,Primary,Violin
+,,2009-10-20,224,"Villa, Marcello",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2009-10-20,230,"Fredi, Rodolfo",,,,sold,,6600,GBP,Primary,Primary,Violin
+,,2009-10-20,231,"Marchi, Giovanni Antonio",,,,sold,,6000,GBP,Primary,Primary,Violin
+,,2009-10-20,233,"Mayr, Andreas Ferdinand",,,,sold,,6600,GBP,Primary,Primary,Violin
+,,2009-10-20,235,"Gadda, Mario",,,,sold,,9000,GBP,Primary,Primary,Violin
+,,2009-10-20,236,"Pareschi, Gaetano",,,,sold,,7200,GBP,Primary,Primary,Violin
+,,2009-10-20,239,"Veggi, Domenico",,,,sold,,9600,GBP,Primary,Primary,Violin
+,,2009-10-20,242,"Carletti, Carlo",,,,sold,,9000,GBP,Primary,Primary,Violin
+,,2009-10-20,243,"Galimberti, Luigi",,,,sold,,13200,GBP,Primary,Primary,Violin
+,,2009-10-20,244,"Lucci, Giuseppe",,,,sold,,13200,GBP,Primary,Primary,Violin
+,,2009-10-20,249,"Antoniazzi, Romeo",,,,sold,,19200,GBP,Primary,Primary,Violin
+,,2009-10-20,25,"Colas, Prosper",,,,sold,,1200,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,251,"Odoardi, Giuseppe",,,,sold,,21600,GBP,Primary,Primary,Violin
+,,2009-10-20,253,"Genovese, Riccardo",,,,sold,,28800,GBP,Primary,Primary,Violin
+,,2009-10-20,254,"Gagliano, Giuseppe",,,,sold,,54000,GBP,Primary,Primary,Violin
+,,2009-10-20,255,"Vuillaume, Jean-Baptiste",,,,sold,,75000,GBP,Primary,Primary,Violin
+,,2009-10-20,258,"Voirin, François Nicolas",,,,sold,,9000,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,259,"Fétique, Victor François",,,,sold,,9000,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,26,"Morizot, Louis Joseph père",,,,sold,,1680,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,32,"Sartory, Eugène Nicolas",,,,sold,,11400,GBP,Primary,Primary,Cello Bow
+,,2009-10-20,34,"Hornsteiner, Mathias II",,,,sold,,2160,GBP,Primary,Primary,Cello
+,,2009-10-20,37,"Wahl, Eugen",,,,sold,,3900,GBP,Primary,Primary,Cello
+,,2009-10-20,47,"Lapierre, Marcel Charles",,,,sold,,1320,GBP,Primary,Primary,Viola Bow
+,,2009-10-20,49,"Morizot, Louis Joseph père",,,,sold,,3600,GBP,Primary,Primary,Viola Bow
+,,2009-10-20,56,"Corsini, Giorgio",,,,sold,,5400,GBP,Primary,Primary,Viola
+,,2009-10-20,61,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,62,"Prager, Gustav Adolf",,,,sold,,660,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,68,"Weichold, Richard",,,,sold,,960,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,70,"Hill & Sons, W. E. Firm",,,,sold,,480,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,77,"Finkel, Siegfried",,,,sold,,660,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,78,"Nürnberger-Süss, August",,,,sold,,1440,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,86,"Bazin, Charles Louis",,,,sold,,1320,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,87,"Pfretzschner, Hermann Richard",,,,sold,,840,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,88,"Knopf, Heinrich (Henry) Richard",,,,sold,,960,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,89,"Grünke, Richard",,,,sold,,1320,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,91,"Weichold, Richard",,,,sold,,1200,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,93,"Bazin, Charles Nicolas",,,,sold,,780,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,94,"Lapierre, Marcel Charles",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,97,"Prell, Hermann Wilhelm",,,,sold,,1560,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,98,"Morizot, Louis frères",,,,sold,,1920,GBP,Primary,Primary,Violin Bow
+,,2009-10-20,99,"Clasquin, Célestin Émile",,,,sold,,1680,GBP,Primary,Primary,Violin Bow

@@ -1,0 +1,45 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2024-01-31,107,Paul Voigt,"A violin by Paul Voigt, Manchester, 1932",3500,5000,sold,,4298,GBP,Primary,Primary,Violin
+,,2024-01-31,110,Richard (I) Duke,"A violin by Richard Duke Snr., London, circa 1770",2000,4000,sold,,1896,GBP,Primary,Primary,Violin
+,,2024-01-31,112,Paul Shelley,"A violin by Paul Shelley, Birmingham, 2018",2000,4000,sold,,2528,GBP,Primary,Primary,Violin
+,,2024-01-31,118,John Standen,"A violin by John Standen, Inverness, 2015",200,400,sold,,474,GBP,Primary,Primary,Violin
+,,2024-01-31,119,John Standen,"A violin by John Standen, Inverness, 2020",200,400,sold,,126,GBP,Primary,Primary,Violin
+,,2024-01-31,120,John Standen,"A violin by John Standen, Inverness, 2011",200,400,sold,,348,GBP,Primary,Primary,Violin
+,,2024-01-31,121,John Standen,"A violin by John Standen, Inverness, 2011",200,400,sold,,348,GBP,Primary,Primary,Violin
+,,2024-01-31,124,Jérôme Thibouville Lamy,"A violin by Jérôme Thibouville-Lamy,, Mirecourt, circa 1900",500,600,sold,,885,GBP,Primary,Primary,Violin
+,,2024-01-31,128,Jérôme Thibouville Lamy,"A violin by Jérôme Thibouville-Lamy,, Mirecourt, circa 1900",300,400,sold,,379,GBP,Primary,Primary,Violin
+,,2024-01-31,135,Joseph Slade,"A violin by Joseph Slade, London, 1882",500,1000,sold,,1390,GBP,Primary,Primary,Violin
+,,2024-01-31,140,Charles Jean Baptiste Collin-Mezin (III),"A violin by Charles Jean-Baptiste Collin-Mézin III, Mirecourt, 1941",2000,3000,sold,,2907,GBP,Primary,Primary,Violin
+,,2024-01-31,152,Jean Striebig,"A violin by Jean Striebig, Mirecourt, 1948",2000,3000,sold,,2528,GBP,Primary,Primary,Violin
+,,2024-01-31,156,A F Breton Brevete,"A three-quarter size violin by Breton Brevete, Mirecourt, circa 1900",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2024-01-31,157,Jérôme Thibouville Lamy,"A violin by Jérôme Thibouville-Lamy, Mirecourt, circa 1900",400,600,sold,,506,GBP,Primary,Primary,Violin
+,,2024-01-31,160,Jeffery James Gilbert,"A violin by Jeffery James Gilbert, Peterborough, 1890",1500,2500,sold,,3034,GBP,Primary,Primary,Violin
+,,2024-01-31,19,John Standen,"A cello by John Standen, Inverness, 2009",200,400,sold,,822,GBP,Primary,Primary,Cello
+,,2024-01-31,20,W. E. Hill & Sons,"A silver-mounted cello bow by W. E. Hill & Sons, London",800,1200,sold,,2402,GBP,Primary,Primary,Cello Bow
+,,2024-01-31,23,Alfons Riedl,"A silver-mounted cello bow by Alfons Riedl, Bubenreuth",500,1000,sold,,695,GBP,Primary,Primary,Cello Bow
+,,2024-01-31,25,Seifert Lothar,A gold-mounted cello bow by Lothar Seifert,500,1000,sold,,2528,GBP,Primary,Primary,Cello Bow
+,,2024-01-31,28,Georges Emile Barjonnet,"A silver-mounted cello bow by Georges Barjonnet, France, circa 1955",2000,3000,sold,,2528,GBP,Primary,Primary,Cello Bow
+,,2024-01-31,31,C. A. Gotz,"A silver-mounted viola bow by Conrad Gotz, Germany",300,500,sold,,537,GBP,Primary,Primary,Viola Bow
+,,2024-01-31,34,John Dodd,"An ivory-mounted violin bow by John Dodd, London, circa 1780",1000,2000,sold,,3792,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,35,James Tubbs,"A silver-mounted violin bow by James Tubbs, London, circa 1870",1000,1500,sold,,4424,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,36,Byrom Henry,"A gold-mounted violin bow by Henry Byrom, Canterbury",500,1000,sold,,1011,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,43,Otto Carl Durrschmidt,"A nickel-mounted violin bow by Otto Dürrschmidt, Germany",100,200,sold,,442,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,48,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",600,1000,sold,,2654,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,53,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",200,400,sold,,506,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,55,W. E. Hill & Sons,"A silver and tortoiseshell violin bow by W. E. Hill & Sons, London",1500,2500,sold,,5056,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,59,Emile Francois Ouchard,"A nickel-mounted by Emile François Ouchard (père), France",2000,3000,sold,,3160,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,60,Louis Morizot,"A silver-mounted violin bow by Louis Morizot (père), France",2000,3000,sold,,3034,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,62,Marie-Louis Piernot,"A silver-mounted violin bow by Marie Louis Piernot, France",1000,2000,sold,,2149,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,63,Louis Bazin,"A nickel-mounted violin bow by Louis Bazin, Mirecourt",1500,2500,sold,,2907,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,64,Charles Peccatte,"A nickel-mounted violin bow by Charles Peccatte, Paris, circa 1875",4000,6000,sold,,8848,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,67,Andrew McGill,A silver-mounted violin bow by Andrew McGill,500,1000,sold,,885,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,69,Jean Fritsch,"A silver-mounted violin bow by Jean Fritsch, Paris",600,1000,sold,,1643,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,7,William Taylor,"A cello by William Taylor, London, circa 1800",4000,8000,sold,,4424,GBP,Primary,Primary,Cello
+,,2024-01-31,70,Nicolas (II) Maire,"A silver-mounted violin bow by Nicolas Rémy Maire, Paris, circa 1860",5000,10000,sold,,25280,GBP,Primary,Primary,Violin Bow
+,,2024-01-31,72,John Standen,"A viola by John Standen, Ealing, 1985",200,400,sold,,600,GBP,Primary,Primary,Viola
+,,2024-01-31,75,Charles Boullangier,"A violin by Charles Boullangier, London, 1882",5000,10000,sold,,8848,GBP,Primary,Primary,Violin
+,,2024-01-31,78,John Standen,"A viola by John Standen, Inverness, 2011",200,400,sold,,537,GBP,Primary,Primary,Viola
+,,2024-01-31,8,Ross Rowland H,"A cello by Rowland Ross, Guildford, 1979",3000,6000,sold,,3792,GBP,Primary,Primary,Cello
+,,2024-01-31,81,Perry & Wilkinson,"A violin by Perry and Wilkinson, Dublin, 1821",500,1000,sold,,632,GBP,Primary,Primary,Violin
+,,2024-01-31,84,Joseph Philippe Grandjon,"A violin by Joseph Philippe Grandjon, Mirecourt, circa 1860",1500,2500,sold,,3476,GBP,Primary,Primary,Violin
+,,2024-01-31,86,Job Ardern,"A violin by Job Ardern, Wilmslow, circa 1870",800,1200,sold,,1138,GBP,Primary,Primary,Violin

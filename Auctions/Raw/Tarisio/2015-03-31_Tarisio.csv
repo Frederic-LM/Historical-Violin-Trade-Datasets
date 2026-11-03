@@ -1,0 +1,93 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2015-03-31,100,"Tubbs, James",,,,sold,,3728,USD,Primary,Primary,Violin Bow
+,,2015-03-31,101,"Bultitude, Arthur Richard",,,,sold,,2663,USD,Primary,Primary,Violin Bow
+,,2015-03-31,102,"Hill & Sons, W. E. Firm",,,,sold,,3195,USD,Primary,Primary,Violin Bow
+,,2015-03-31,107,"Clasquin, Célestin Émile",,,,sold,,4882,USD,Primary,Primary,Violin Bow
+,,2015-03-31,109,"Thomachot, Stephane",,,,sold,,8432,USD,Primary,Primary,Violin Bow
+,,2015-03-31,113,"Hill & Sons, W. E. Firm",,,,sold,,5326,USD,Primary,Primary,Violin Bow
+,,2015-03-31,114,"Johnston, William Grieve",,,,sold,,6213,USD,Primary,Primary,Violin Bow
+,,2015-03-31,116,"Napier, William",,,,sold,,7419,USD,Primary,Primary,Violin Bow
+,,2015-03-31,117,"Tubbs, James",,,,sold,,8876,USD,Primary,Primary,Violin Bow
+,,2015-03-31,118,"Tubbs, James",,,,sold,,10651,USD,Primary,Primary,Violin Bow
+,,2015-03-31,119,"Ouchard, Émile-Auguste",,,,sold,,10651,USD,Primary,Primary,Violin Bow
+,,2015-03-31,12,"Hill & Sons, W. E. Firm",,,,sold,,5769,USD,Primary,Primary,Cello Bow
+,,2015-03-31,120,"Voirin, François Nicolas",,,,sold,,8432,USD,Primary,Primary,Violin Bow
+,,2015-03-31,121,"Nürnberger, Franz Albert II",,,,sold,,16583,USD,Primary,Primary,Violin Bow
+,,2015-03-31,123,"Adam, Jean I",,,,sold,,10651,USD,Primary,Primary,Violin Bow
+,,2015-03-31,124,"Fétique, Victor François",,,,sold,,13965,USD,Primary,Primary,Violin Bow
+,,2015-03-31,125,"Thomassin, Claude Auguste",,,,sold,,7855,USD,Primary,Primary,Violin Bow
+,,2015-03-31,127,"Sartory, Eugène Nicolas",,,,sold,,14201,USD,Primary,Primary,Violin Bow
+,,2015-03-31,128,"Voirin, François Nicolas",,,,sold,,15977,USD,Primary,Primary,Violin Bow
+,,2015-03-31,129,"Lamy, Joseph Alfred père",,,,sold,,14201,USD,Primary,Primary,Violin Bow
+,,2015-03-31,135,"Sartory, Eugène Nicolas",,,,sold,,39054,USD,Primary,Primary,Violin Bow
+,,2015-03-31,137,"Sartory, Eugène Nicolas",,,,sold,,62131,USD,Primary,Primary,Violin Bow
+,,2015-03-31,139,"Ragot, Lucien André I",,,,sold,,1746,USD,Primary,Primary,Violin
+,,2015-03-31,14,"Thomassin, Claude Auguste",,,,sold,,2967,USD,Primary,Primary,Cello Bow
+,,2015-03-31,144,"Michieletto, Luigi",,,,sold,,2663,USD,Primary,Primary,Violin
+,,2015-03-31,145,"Nicolas, Didier l'aîné",,,,sold,,3550,USD,Primary,Primary,Violin
+,,2015-03-31,15,"Thomassin, Claude Auguste",,,,sold,,3018,USD,Primary,Primary,Cello Bow
+,,2015-03-31,153,"Ercoli, Luigi",,,,sold,,6546,USD,Primary,Primary,Violin
+,,2015-03-31,154,"Dieudonné, Amédée",,,,sold,,3491,USD,Primary,Primary,Violin
+,,2015-03-31,157,"Cavalazzi, Antonino",,,,sold,,5673,USD,Primary,Primary,Violin
+,,2015-03-31,158,"Weiss, Eugenio",,,,sold,,5769,USD,Primary,Primary,Violin
+,,2015-03-31,159,"Govoni, Guglielmo",,,,sold,,5326,USD,Primary,Primary,Violin
+,,2015-03-31,160,"Guastalla, Dante & Alfredo",,,,sold,,7988,USD,Primary,Primary,Violin
+,,2015-03-31,163,"Beare, William Arthur",,,,sold,,5326,USD,Primary,Primary,Violin
+,,2015-03-31,168,"L'Humbert, Emile",,,,sold,,8876,USD,Primary,Primary,Violin
+,,2015-03-31,169,"Klotz, Georg Karl II",,,,sold,,8876,USD,Primary,Primary,Violin
+,,2015-03-31,17,"Barnes, Arthur John",,,,sold,,6110,USD,Primary,Primary,Cello Bow
+,,2015-03-31,173,"Bernardel, Auguste Sébastien Philippe père",,,,sold,,7101,USD,Primary,Primary,Violin
+,,2015-03-31,174,"Albanelli, Franco",,,,sold,,6546,USD,Primary,Primary,Violin
+,,2015-03-31,178,"Blanchi, Alberto Luigi",,,,sold,,10651,USD,Primary,Primary,Violin
+,,2015-03-31,179,"Casini, Lapo",,,,sold,,15089,USD,Primary,Primary,Violin
+,,2015-03-31,18,"Voirin, François Nicolas",,,,sold,,13092,USD,Primary,Primary,Cello Bow
+,,2015-03-31,180,"Klotz, Georg Karl II",,,,sold,,13314,USD,Primary,Primary,Violin
+,,2015-03-31,181,"Hjorth & Sons, Emil",,,,sold,,8728,USD,Primary,Primary,Violin
+,,2015-03-31,190,"Castagnino, Giuseppe",,,,sold,,30178,USD,Primary,Primary,Violin
+,,2015-03-31,192,Gand & Bernardel Firm,,,,sold,,12219,USD,Primary,Primary,Violin
+,,2015-03-31,194,"Silvestre, Hippolyte",,,,sold,,15045,USD,Primary,Primary,Violin
+,,2015-03-31,195,"Tarasconi, Giuseppe",,,,sold,,24852,USD,Primary,Primary,Violin
+,,2015-03-31,199,"Candi, Oreste",,,,sold,,21302,USD,Primary,Primary,Violin
+,,2015-03-31,20,"Sartory, Eugène Nicolas",,,,sold,,14201,USD,Primary,Primary,Cello Bow
+,,2015-03-31,202,"Carletti, Carlo",,,,sold,,31953,USD,Primary,Primary,Violin
+,,2015-03-31,203,"Marchetti, Enrico",,,,sold,,23077,USD,Primary,Primary,Violin
+,,2015-03-31,204,"De Barbieri, Paolo",,,,sold,,18491,USD,Primary,Primary,Violin
+,,2015-03-31,205,"Parmeggiani, Romolo",,,,sold,,53255,USD,Primary,Primary,Violin
+,,2015-03-31,208,"Hill & Sons, W. E. Firm",,,,sold,,27057,USD,Primary,Primary,Violin
+,,2015-03-31,21,"Ouchard, Émile-Auguste",,,,sold,,34912,USD,Primary,Primary,Cello Bow
+,,2015-03-31,211,"Antoniazzi, Romeo",,,,sold,,34912,USD,Primary,Primary,Violin
+,,2015-03-31,212,"Cuypers, Johannes Theodorus",,,,sold,,40829,USD,Primary,Primary,Violin
+,,2015-03-31,213,"Carcassi, Tomaso",,,,sold,,57693,USD,Primary,Primary,Violin
+,,2015-03-31,214,"Gagliano, Giuseppe & Antonio",,,,sold,,106510,USD,Primary,Primary,Violin
+,,2015-03-31,217,"Rugeri, Vincenzo",,,,sold,,207103,USD,Primary,Primary,Violin
+,,2015-03-31,219,"Rugeri, Francesco",,,,sold,,375153,USD,Primary,Primary,Violin
+,,2015-03-31,22,"Kittel, Nikolai",,,,sold,,211541,USD,Primary,Primary,Cello Bow
+,,2015-03-31,29,"Hel, Pierre Joseph",,,,sold,,23077,USD,Primary,Primary,Cello
+,,2015-03-31,32,"Farotti, Celeste",,,,sold,,97634,USD,Primary,Primary,Cello
+,,2015-03-31,34,"Pfretzschner, Hermann Richard",,,,sold,,2095,USD,Primary,Primary,Viola Bow
+,,2015-03-31,37,"Balint, Geza",,,,sold,,1222,USD,Primary,Primary,Viola Bow
+,,2015-03-31,38,"Lotte, Roger François",,,,sold,,1746,USD,Primary,Primary,Viola Bow
+,,2015-03-31,40,"Wilson, Garner",,,,sold,,1396,USD,Primary,Primary,Viola Bow
+,,2015-03-31,42,"Ouchard, Bernard",,,,sold,,5769,USD,Primary,Primary,Viola Bow
+,,2015-03-31,43,"Richaume, André",,,,sold,,15710,USD,Primary,Primary,Viola Bow
+,,2015-03-31,44,"Thomassin, Claude Auguste",,,,sold,,12426,USD,Primary,Primary,Viola Bow
+,,2015-03-31,47,"Galeazzi, Adelino",,,,sold,,4438,USD,Primary,Primary,Viola
+,,2015-03-31,51,"Giacchetti, Giuseppe",,,,sold,,10651,USD,Primary,Primary,Viola
+,,2015-03-31,52,"Lanaro, Umberto",,,,sold,,12219,USD,Primary,Primary,Viola
+,,2015-03-31,53,"Scrollavezza, Renato",,,,sold,,21302,USD,Primary,Primary,Viola
+,,2015-03-31,57,"Fagnola, Annibale",,,,sold,,104735,USD,Primary,Primary,Viola
+,,2015-03-31,58,"Alberti, Ferdinando",,,,sold,,207991,USD,Primary,Primary,Viola
+,,2015-03-31,60,"Cappa, Gioffredo",,,,sold,,6110,USD,Primary,Primary,Violin
+,,2015-03-31,65,"Grünke, Richard",,,,sold,,1686,USD,Primary,Primary,Violin Bow
+,,2015-03-31,68,"Werner, Emil",,,,sold,,873,USD,Primary,Primary,Violin Bow
+,,2015-03-31,69,"Müller, Friedrich Karl",,,,sold,,2663,USD,Primary,Primary,Violin Bow
+,,2015-03-31,7,"Weidhaas, Paul",,,,sold,,2308,USD,Primary,Primary,Cello Bow
+,,2015-03-31,78,"Pfretzschner, Hermann Richard",,,,sold,,2095,USD,Primary,Primary,Violin Bow
+,,2015-03-31,81,"Lotte, François",,,,sold,,1686,USD,Primary,Primary,Violin Bow
+,,2015-03-31,82,"Lotte, Roger François",,,,sold,,4260,USD,Primary,Primary,Violin Bow
+,,2015-03-31,84,"Poirson, Dominique ""Justin""",,,,sold,,3550,USD,Primary,Primary,Violin Bow
+,,2015-03-31,88,"Schmidt, C. Hans-Karl",,,,sold,,1775,USD,Primary,Primary,Violin Bow
+,,2015-03-31,92,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,3728,USD,Primary,Primary,Violin Bow
+,,2015-03-31,93,"Bazin, Charles Alfred",,,,sold,,3373,USD,Primary,Primary,Violin Bow
+,,2015-03-31,95,"Morizot, Louis frères",,,,sold,,2618,USD,Primary,Primary,Violin Bow
+,,2015-03-31,99,"Husson, Charles Claude II",,,,sold,,3195,USD,Primary,Primary,Violin Bow

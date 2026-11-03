@@ -1,0 +1,114 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2017-03-27,1,"Prager, Gustav Adolf",,,,sold,,1200,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,10,"Yeoman, Sydney Braithwaite",,,,sold,,4800,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,100,"Fétique, Victor François",,,,sold,,6000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,101,"Ouchard, Bernard",,,,sold,,3835,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,102,"Thomassin, Claude Auguste",,,,sold,,4500,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,103,"Ouchard, Émile-Auguste",,,,sold,,9600,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,104,"Sartory, Eugène Nicolas",,,,sold,,4800,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,105,"Lamy, Joseph Alfred père",,,,sold,,6000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,107,"Fétique, Victor François",,,,sold,,7800,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,108,"Fétique, Victor François",,,,sold,,6490,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,109,"Pajeot, Étienne",,,,sold,,13200,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,110,"Peccatte, François",,,,sold,,6600,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,111,"Gillet, Louis Henri",,,,sold,,8260,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,112,"Sartory, Eugène Nicolas",,,,sold,,17700,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,113,"Lamy, Joseph Alfred père",,,,sold,,21240,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,114,"Peccatte, Dominique",,,,sold,,72000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,115,"Lotte, Georges",,,,sold,,1440,GBP,Primary,Primary,Violin
+,,2017-03-27,121,"Aubry, Joseph",,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2017-03-27,122,"Mönnig, Fritz",,,,sold,,3900,GBP,Primary,Primary,Violin
+,,2017-03-27,123,"Croll, Peter",,,,sold,,1180,GBP,Primary,Primary,Violin
+,,2017-03-27,129,"Mayson, Walter H.",,,,sold,,2360,GBP,Primary,Primary,Violin
+,,2017-03-27,13,"Jaura, Ferdinand Wilhelm",,,,sold,,6600,GBP,Primary,Primary,Viola
+,,2017-03-27,131,"Meneghesso, Pietro",,,,sold,,3835,GBP,Primary,Primary,Violin
+,,2017-03-27,132,"Barbieri, Silvio",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2017-03-27,136,"Zani, Aldo",,,,sold,,9000,GBP,Primary,Primary,Violin
+,,2017-03-27,137,"Zamberti, Giuseppe",,,,sold,,5310,GBP,Primary,Primary,Violin
+,,2017-03-27,138,"Caccia, Andrea",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2017-03-27,139,"Caccia, Andrea",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2017-03-27,14,"Superti, Renato",,,,sold,,3245,GBP,Primary,Primary,Viola
+,,2017-03-27,141,"Superti, Renato",,,,sold,,3000,GBP,Primary,Primary,Violin
+,,2017-03-27,143,"Cornelissen, Marten",,,,sold,,7670,GBP,Primary,Primary,Violin
+,,2017-03-27,144,"Gadda, Mario",,,,sold,,6600,GBP,Primary,Primary,Violin
+,,2017-03-27,152,"Bergonzi, Riccardo",,,,sold,,8400,GBP,Primary,Primary,Violin
+,,2017-03-27,154,"Celani, Constantino",,,,sold,,4800,GBP,Primary,Primary,Violin
+,,2017-03-27,155,"Frebrunet, Jean-Baptiste",,,,sold,,5400,GBP,Primary,Primary,Violin
+,,2017-03-27,156,"Caussin, François",,,,sold,,8260,GBP,Primary,Primary,Violin
+,,2017-03-27,157,"Collin-Mézin, Charles Jean-Baptiste père",,,,sold,,8400,GBP,Primary,Primary,Violin
+,,2017-03-27,158,"Cavalazzi, Antonino",,,,sold,,7200,GBP,Primary,Primary,Violin
+,,2017-03-27,159,"Gadda, Mario",,,,sold,,6000,GBP,Primary,Primary,Violin
+,,2017-03-27,16,"Peresson, Sergio",,,,sold,,9000,GBP,Primary,Primary,Viola
+,,2017-03-27,161,"Widhalm, Leopold I",,,,sold,,10800,GBP,Primary,Primary,Violin
+,,2017-03-27,164,"Marchetti, Enrico",,,,sold,,8000,GBP,Primary,Primary,Violin
+,,2017-03-27,165,"Chanot, Georges Adolphe",,,,sold,,7000,GBP,Primary,Primary,Violin
+,,2017-03-27,166,"Mougenot, Georges",,,,sold,,11400,GBP,Primary,Primary,Violin
+,,2017-03-27,167,"Bailly, Paul",,,,sold,,10200,GBP,Primary,Primary,Violin
+,,2017-03-27,169,"Gaillard, Charles",,,,sold,,10800,GBP,Primary,Primary,Violin
+,,2017-03-27,17,"Gand, Charles François père",,,,sold,,15600,GBP,Primary,Primary,Viola
+,,2017-03-27,170,"Bernardel, Auguste Sébastien Philippe père",,,,sold,,21600,GBP,Primary,Primary,Violin
+,,2017-03-27,171,"Hill & Sons, W. E. Firm",,,,sold,,11800,GBP,Primary,Primary,Violin
+,,2017-03-27,172,"Messori, Pietro",,,,sold,,11800,GBP,Primary,Primary,Violin
+,,2017-03-27,174,"Grulli, Pietro",,,,sold,,22800,GBP,Primary,Primary,Violin
+,,2017-03-27,179,"Castagnino, Giuseppe",,,,sold,,19200,GBP,Primary,Primary,Violin
+,,2017-03-27,181,"Thibout, Jacques-Pierre",,,,sold,,26400,GBP,Primary,Primary,Violin
+,,2017-03-27,184,"Gagliano, Ferdinando",,,,sold,,66000,GBP,Primary,Primary,Violin
+,,2017-03-27,187,"Vuillaume, Jean-Baptiste",,,,sold,,143000,GBP,Primary,Primary,Violin
+,,2017-03-27,188,"Grancino, Giovanni Battista I",,,,sold,,163200,GBP,Primary,Primary,Violin
+,,2017-03-27,189,"Guadagnini, Giovanni Battista",,,,sold,,810000,GBP,Primary,Primary,Violin
+,,2017-03-27,2,"Nürnberger, Carl Albert",,,,sold,,1680,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,20,Tubbs Family,,,,sold,,1180,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,21,"Nürnberger, Carl Albert",,,,sold,,3000,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,22,"Lapierre, Marcel Charles",,,,sold,,2596,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,24,"Thomassin, Claude Auguste",,,,sold,,1770,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,25,"Thomassin, Claude Auguste",,,,sold,,3900,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,26,"Thomassin, Claude Auguste",,,,sold,,5700,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,28,"Fétique, Victor François",,,,sold,,11400,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,29,"Sartory, Eugène Nicolas",,,,sold,,12980,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,3,"Morizot, Louis frères",,,,sold,,2040,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,30,"Sartory, Eugène Nicolas",,,,sold,,4130,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,31,"Millant, Jean-Jacques",,,,sold,,10620,GBP,Primary,Primary,Cello Bow
+,,2017-03-27,34,"Lapaix, J. A.",,,,sold,,8960,GBP,Primary,Primary,Cello
+,,2017-03-27,35,Kloz Family,,,,sold,,17700,GBP,Primary,Primary,Cello
+,,2017-03-27,36,"Lété, Joseph Dominique",,,,sold,,11800,GBP,Primary,Primary,Cello
+,,2017-03-27,37,"Collin-Mézin, Charles Jean-Baptiste père",,,,sold,,24000,GBP,Primary,Primary,Cello
+,,2017-03-27,4,"Cuniot, Pierre",,,,sold,,2006,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,40,"Dolling, Kurt",,,,sold,,840,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,43,"Prager, August Edwin",,,,sold,,1320,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,44,"Rau, August",,,,sold,,960,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,45,"Penzel, Emil Max",,,,sold,,720,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,46,"Nürnberger-Süss, August",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,49,"Bassler, Richard",,,,sold,,720,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,51,"Morizot, Louis frères",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,53,"Weidhaas, Paul",,,,sold,,900,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,55,"Bazin, Charles Louis",,,,sold,,2760,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,56,"Young, David Russell",,,,sold,,780,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,59,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1320,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,6,"Espey, Charles",,,,sold,,5700,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,60,"Fétique, Victor François",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,64,"Bazin, Charles Nicolas",,,,sold,,2520,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,68,"Leggatt, Charles",,,,sold,,840,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,69,"Bazin, Charles Louis",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,7,"Nehr, Gilles",,,,sold,,2950,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,70,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1320,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,71,"Morizot, Louis frères",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,72,"Gerome, Roger",,,,sold,,1440,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,73,"Morizot, Louis frères",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,75,"Voirin, Joseph",,,,sold,,4200,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,76,"Morizot, Louis frères",,,,sold,,3300,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,78,"Nürnberger, Carl Albert",,,,sold,,1680,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,8,"Baker, Timothy",,,,sold,,2760,GBP,Primary,Primary,Viola Bow
+,,2017-03-27,80,"Bazin, Charles Alfred",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,81,"Gaulard, François Jude",,,,sold,,1560,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,82,"Morizot, Louis Joseph père",,,,sold,,4500,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,85,"Tubbs, Thomas",,,,sold,,2400,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,86,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,2124,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,87,"Ouchard, Émile François",,,,sold,,2160,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,89,"Chardon, André",,,,sold,,2400,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,91,"Finkel, Siegfried",,,,sold,,2400,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,92,"Burke, Noel",,,,sold,,5015,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,94,"Gillet, Louis Henri",,,,sold,,6000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,95,"Watson, William D.",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,96,"Dodd, James II",,,,sold,,2700,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,98,"Poirson, Dominique ""Justin""",,,,sold,,2714,GBP,Primary,Primary,Violin Bow
+,,2017-03-27,99,"Ouchard, Bernard",,,,sold,,2950,GBP,Primary,Primary,Violin Bow

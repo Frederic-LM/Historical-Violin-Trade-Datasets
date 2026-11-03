@@ -1,7 +1,5 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,2021-12-02,4,,"Bailly, Paul",,,sold,1650,2046,EUR,Secondary,Secondary,Viola
 ,,2021-12-02,8,,"Lavest, Jules",,,sold,2400,2976,EUR,Secondary,Secondary,Violin
-,,2021-12-02,12,,"Thir, Johann Georg",,,sold,2400,2976,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,16,,Tabiasco,,,sold,1200,1488,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,20,,"Mermillot, Maurice",,,sold,6800,8432,EUR,Secondary,Secondary,Viola
 ,,2021-12-02,22,,"Denizot, Nicolas",,,sold,1900,2356,EUR,Secondary,Secondary,Violin
@@ -14,21 +12,15 @@
 ,,2021-12-02,56,,"de Soomer, Alphonse",,,sold,1200,1488,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,71,,"Grand-Gérard, Jean-Baptiste",,,sold,1400,1736,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,76,,"Duchaine, Nicolas II",,,sold,1900,2356,EUR,Secondary,Secondary,Violin Bow
-,,2021-12-02,90,,"Tourte, Nicolas Léonard 'l'Ainé'",,,sold,36000,44640,EUR,Secondary,Cross-checked,Violin Bow
 ,,2021-12-02,95,,"Thomassin, Claude Auguste",,,sold,3400,4216,EUR,Secondary,Secondary,Violin Bow
-,,2021-12-02,107,,"Lamy, Léon Jules",,,sold,7200,8928,EUR,Secondary,Secondary,Cello
-,,2021-12-02,116,,"Gaillard, Charles",,,sold,6500,8060,EUR,Secondary,Secondary,Cello
 ,,2021-12-02,125,,"Grancino, Giovanni Battista I",,,sold,335000,415400,EUR,Secondary,Secondary,Cello
 ,,2021-12-02,133,,"Martin, Jean-Joseph",,,sold,2800,3472,EUR,Secondary,Secondary,Cello Bow
 ,,2021-12-02,136,,"Bazin, Charles Nicolas",,,sold,1100,1364,EUR,Secondary,Secondary,Violin Bow
 ,,2021-12-02,138,,"Barbé, Mathias Theophile Auguste",,,sold,3000,3720,EUR,Secondary,Secondary,Violin Bow
-,,2021-12-02,139,,"Vigneron, Joseph Arthur père",,,sold,7000,8680,EUR,Secondary,Cross-checked,Cello Bow
 ,,2021-12-02,146,,"Gaudé, Joseph",,,sold,1500,1860,EUR,Secondary,Secondary,Violin Bow
 ,,2021-12-02,152,,"Derazey, Honoré (Jean-Joseph)",,,sold,1900,2356,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,171,,"Edel, Gustav",,,sold,1900,2356,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,183,,"Martin, Jean-Joseph",,,sold,3800,4712,EUR,Secondary,Secondary,Violin Bow
-,,2021-12-02,198,,"Sartory, Eugène Nicolas",,,sold,4000,4960,EUR,Secondary,Secondary,Viola Bow
-,,2021-12-02,199,,"Maline, Nicolas I",,,sold,10000,12400,EUR,Secondary,Cross-checked,Violin Bow
 ,,2021-12-02,200,,"Pajeot, Étienne",,,sold,29000,35960,EUR,Secondary,Secondary,Viola Bow
 ,,2021-12-02,211,,"Hjorth & Sons, Emil",,,sold,6500,8060,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,220,,"Tedesco, Giovanni",,,sold,29000,35960,EUR,Secondary,Secondary,Viola
@@ -38,8 +30,6 @@
 ,,2021-12-02,251,,"Metelka, Josef II",,,sold,1400,1736,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,263,,"Verron, Christophe",,,sold,3800,4712,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,275,,"Marchetti, Enrico",,,sold,19000,23560,EUR,Secondary,Secondary,Violin
-,,2021-12-02,280,,"Pajeot, Étienne",,,sold,26000,32240,EUR,Secondary,Cross-checked,Cello Bow
-,,2021-12-02,281,,"Ouchard, Émile F. & Émile A.",,,sold,7000,8680,EUR,Secondary,Cross-checked,Cello Bow
 ,,2021-12-02,283,,"Tepho, Georges",,,sold,2800,3472,EUR,Secondary,Secondary,Violin Bow
 ,,2021-12-02,288,,"Morizot, Louis Joseph père",,,sold,3800,4712,EUR,Secondary,Secondary,Cello Bow
 ,,2021-12-02,289,,"Tubbs, Thomas",,,sold,2800,3472,EUR,Secondary,Secondary,Violin Bow
@@ -51,18 +41,13 @@
 ,,2021-12-02,303,,"Deroux, Sébastien Auguste",,,sold,4800,5952,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,308,,"Miremont, Claude Augustin",,,sold,3400,4216,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,312,,"Clermont, Victor",,,sold,1800,2232,EUR,Secondary,Secondary,Violin
-,,2021-12-02,322,,"Wembley, Peter",,,sold,1900,2356,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,328,,"Maire, Nicolas Rémy",,,sold,17000,21080,EUR,Secondary,Secondary,Cello Bow
 ,,2021-12-02,331,,"Thomassin, Victor",,,sold,5000,6200,EUR,Secondary,Secondary,Cello Bow
 ,,2021-12-02,334,,"Voirin, François Nicolas",,,sold,9500,11780,EUR,Secondary,Secondary,Cello Bow
-,,2021-12-02,339,,"Bazin, Charles Nicolas",,,sold,4400,5456,EUR,Secondary,Cross-checked,Violin Bow
-,,2021-12-02,342,,"Vigneron, Joseph Arthur père",,,sold,2200,2728,EUR,Secondary,Cross-checked,Violin Bow
 ,,2021-12-02,345,,"Maire, Nicolas Rémy",,,sold,7500,9300,EUR,Secondary,Secondary,Violin Bow
-,,2021-12-02,348,,"Adam, Jean Dominique",,,sold,8000,9920,EUR,Secondary,Cross-checked,Cello Bow
 ,,2021-12-02,353,,"Caussin, François",,,sold,3600,4464,EUR,Secondary,Secondary,Violin
 ,,2021-12-02,355,,"Rocchi, Sesto",,,sold,27000,33480,EUR,Secondary,Secondary,Viola
 ,,2021-12-02,377,,"Fétique, Victor François",,,sold,2800,3472,EUR,Secondary,Secondary,Violin Bow
-,,2021-12-02,378,,"Voirin, François Nicolas",,,sold,6500,8060,EUR,Secondary,Cross-checked,Cello Bow
 ,,2021-12-02,384,,"Gaulard, François Jude",,,sold,1900,2356,EUR,Secondary,Secondary,Violin Bow
 ,,2021-12-02,388,,"Voirin, François Nicolas",,,sold,18000,22320,EUR,Secondary,Secondary,Violin Bow
 ,,2021-12-02,390,,"Maire, Nicolas Rémy",,,sold,13000,16120,EUR,Secondary,Secondary,Viola Bow

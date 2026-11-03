@@ -1,28 +1,4 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,2002-03-13,18,,"Derazey, Honoré (Jean-Joseph)",,,sold,14000,16500,GBP,Secondary,Cross-checked,Cello
-,,2002-03-13,30,,"Morrison, John",,,sold,17000,19975,GBP,Secondary,Cross-checked,Cello
-,,2002-03-13,31,,"Pedrazzini, Giuseppe",,,sold,25000,29375,GBP,Secondary,Cross-checked,Cello
-,,2002-03-13,36,,"van der Meer, Karel",,,sold,2800,3290,GBP,Secondary,Primary,Violin
-,,2002-03-13,39,,"Sgarabotto, Pietro",,,sold,13000,15275,GBP,Secondary,Cross-checked,Violin
-,,2002-03-13,45,,"Pollastri, Gaetano",,,sold,20000,23500,GBP,Secondary,Cross-checked,Violin
-,,2002-03-13,46,,"Weichold, Richard",,,sold,650,764,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,50,,"Morizot, Louis Joseph père",,,sold,500,588,GBP,Secondary,Primary,Bass Bow
-,,2002-03-13,57,,"Fétique, Victor François",,,sold,3800,4465,GBP,Secondary,Primary,Cello Bow
-,,2002-03-13,74,,"Storioni, Lorenzo",,,sold,52000,60950,GBP,Secondary,Cross-checked,Violin
-,,2002-03-13,89,,"Derazey, Justin Amedée",,,sold,1100,1292,GBP,Secondary,Primary,Violin
-,,2002-03-13,97,,"Morassi, Gio Battista",,,sold,6800,7990,GBP,Secondary,Primary,Violin
-,,2002-03-13,105,,"Testore, Carlo Antonio",,,sold,20000,23500,GBP,Secondary,Cross-checked,Violin
-,,2002-03-13,120,,"Gillet, Louis Henri",,,sold,1700,1998,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,124,,"Gillet, Louis Henri",,,sold,4500,5288,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,133,,"Husson, Mars Auguste",,,sold,1800,2115,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,146,,"Fétique, Jules",,,sold,2200,2585,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,149,,"Lapierre, Marcel Charles",,,sold,600,705,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,150,,"Lamy, Alfred dit neveu",,,sold,4800,5640,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,153,,"Vuillaume, Jean-Baptiste",,,sold,8500,9988,GBP,Secondary,Primary,Violin Bow
-,,2002-03-13,154,,"Pressenda, Giovanni Francesco",,,sold,90000,102750,GBP,Secondary,Cross-checked,Violin
-,,2002-03-13,178,,"Radighieri, Otello",,,sold,1800,2115,GBP,Secondary,Primary,Violin
-,,2002-03-13,194,,"Rocchi, Sesto",,,sold,5000,5875,GBP,Secondary,Primary,Violin
-,,2002-03-13,212,,"Grand-Gérard, Jean-Baptiste",,,sold,300,352,GBP,Secondary,Primary,Violin
 ,,2002-03-13,,,"Pollastri, Gaetano",,,sold,,23500,GBP,Secondary,Secondary,Violin
 ,,2002-03-13,,,"Pressenda, Giovanni Francesco",,,sold,,102750,GBP,Secondary,Secondary,Violin
 ,,2002-03-13,,,"Testore, Carlo Antonio",,,sold,,23500,GBP,Secondary,Secondary,Violin

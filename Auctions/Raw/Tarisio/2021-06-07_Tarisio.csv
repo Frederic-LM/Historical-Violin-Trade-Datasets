@@ -1,0 +1,101 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2021-06-07,100,"Couturieux, Nicolas",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2021-06-07,102,"Nord, Heinz",,,,sold,,1770,GBP,Primary,Primary,Violin
+,,2021-06-07,103,"Egildo, Emanuele",,,,sold,,1800,GBP,Primary,Primary,Violin
+,,2021-06-07,104,"Villaume, Gustave",,,,sold,,4200,GBP,Primary,Primary,Violin
+,,2021-06-07,105,"Bailly, Jenny",,,,sold,,4200,GBP,Primary,Primary,Violin
+,,2021-06-07,106,"L'Humbert, Lucien",,,,sold,,2760,GBP,Primary,Primary,Violin
+,,2021-06-07,107,"L'Humbert, Lucien",,,,sold,,1888,GBP,Primary,Primary,Violin
+,,2021-06-07,112,"Apparut, Georges",,,,sold,,2950,GBP,Primary,Primary,Violin
+,,2021-06-07,113,"Villaume, Gustave",,,,sold,,2520,GBP,Primary,Primary,Violin
+,,2021-06-07,116,"Gartner, Eugen",,,,sold,,4200,GBP,Primary,Primary,Violin
+,,2021-06-07,117,"Fanfani, Paolo",,,,sold,,2360,GBP,Primary,Primary,Violin
+,,2021-06-07,118,"Formaggia, Nicolo",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2021-06-07,119,"Ercoli, Luigi",,,,sold,,3600,GBP,Primary,Primary,Violin
+,,2021-06-07,120,"Mazzotti, Matteo",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2021-06-07,121,"van Hoof, Alphonse",,,,sold,,3300,GBP,Primary,Primary,Violin
+,,2021-06-07,124,"Pupunat, François Marie",,,,sold,,4425,GBP,Primary,Primary,Violin
+,,2021-06-07,126,"Dieudonné, Amédée",,,,sold,,4500,GBP,Primary,Primary,Violin
+,,2021-06-07,127,"Dieudonné, Amédée",,,,sold,,3245,GBP,Primary,Primary,Violin
+,,2021-06-07,128,"Résuche, Charles",,,,sold,,4720,GBP,Primary,Primary,Violin
+,,2021-06-07,13,"Hill & Sons, W. E. Firm",,,,sold,,7200,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,135,"Negroni, Massimo",,,,sold,,7200,GBP,Primary,Primary,Violin
+,,2021-06-07,136,"Bergonzi, Riccardo",,,,sold,,9600,GBP,Primary,Primary,Violin
+,,2021-06-07,137,"Chanot, Georges Adolphe",,,,sold,,7080,GBP,Primary,Primary,Violin
+,,2021-06-07,138,"Kennedy, Thomas",,,,sold,,6000,GBP,Primary,Primary,Violin
+,,2021-06-07,14,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,9600,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,140,"Puglisi, Concetto",,,,sold,,4130,GBP,Primary,Primary,Violin
+,,2021-06-07,141,"Poirson, Elophe",,,,sold,,7200,GBP,Primary,Primary,Violin
+,,2021-06-07,143,"Audinot, Nestor Dominique",,,,sold,,10200,GBP,Primary,Primary,Violin
+,,2021-06-07,144,"Dvorak, Jan Baptista",,,,sold,,10800,GBP,Primary,Primary,Violin
+,,2021-06-07,145,"Celani, Constantino",,,,sold,,8260,GBP,Primary,Primary,Violin
+,,2021-06-07,147,"Gaggini, Pierre",,,,sold,,9600,GBP,Primary,Primary,Violin
+,,2021-06-07,148,"Gaggini, Pierre",,,,sold,,16520,GBP,Primary,Primary,Violin
+,,2021-06-07,149,Gand & Bernardel Firm,,,,sold,,18000,GBP,Primary,Primary,Violin
+,,2021-06-07,150,"Bernardel, Gustave Adolphe",,,,sold,,16800,GBP,Primary,Primary,Violin
+,,2021-06-07,151,"Gand, Charles François père",,,,sold,,15600,GBP,Primary,Primary,Violin
+,,2021-06-07,153,"Gatti, Giorgio",,,,sold,,25960,GBP,Primary,Primary,Violin
+,,2021-06-07,156,"Silvestre, Pierre",,,,sold,,30000,GBP,Primary,Primary,Violin
+,,2021-06-07,157,"Vuillaume, Jean-Baptiste",,,,sold,,70800,GBP,Primary,Primary,Violin
+,,2021-06-07,158,"Tononi, Giovanni",,,,sold,,73160,GBP,Primary,Primary,Violin
+,,2021-06-07,16,"Martin, Jean-Joseph",,,,sold,,9440,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,160,"Rugeri, Vincenzo",,,,sold,,269500,GBP,Primary,Primary,Violin
+,,2021-06-07,17,"Lamy, Joseph Alfred père",,,,sold,,9600,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,19,"Peccatte, François",,,,sold,,18000,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,20,"Fétique, Victor François",,,,sold,,25200,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,21,"Ouchard, Émile-Auguste",,,,sold,,59000,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,22,"De Giorgio, Remo",,,,sold,,12000,GBP,Primary,Primary,Cello
+,,2021-06-07,23,"Caccia, Andrea",,,,sold,,7670,GBP,Primary,Primary,Cello
+,,2021-06-07,28,"Betts, John I",,,,sold,,30000,GBP,Primary,Primary,Cello
+,,2021-06-07,30,"Bazin, Charles Nicolas",,,,sold,,840,GBP,Primary,Primary,Bass Bow
+,,2021-06-07,31,"Thibouville-Lamy, Jérôme Firm",,,,sold,,780,GBP,Primary,Primary,Bass Bow
+,,2021-06-07,32,"Husson, Charles Claude II",,,,sold,,1560,GBP,Primary,Primary,Bass Bow
+,,2021-06-07,34,"Bazin, Charles Nicolas",,,,sold,,2520,GBP,Primary,Primary,Viola Bow
+,,2021-06-07,35,"Gaulard, François Jude",,,,sold,,1416,GBP,Primary,Primary,Viola Bow
+,,2021-06-07,36,"Morizot, Louis frères",,,,sold,,2160,GBP,Primary,Primary,Viola Bow
+,,2021-06-07,37,"Morizot, Louis frères",,,,sold,,2400,GBP,Primary,Primary,Viola Bow
+,,2021-06-07,38,"Morizot, Louis frères",,,,sold,,2520,GBP,Primary,Primary,Viola Bow
+,,2021-06-07,39,"Lotte, Roger François",,,,sold,,1888,GBP,Primary,Primary,Viola Bow
+,,2021-06-07,4,"Bazin, Charles Louis",,,,sold,,1888,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,41,"Voigt, Werner August Theodor",,,,sold,,3245,GBP,Primary,Primary,Viola
+,,2021-06-07,42,"Gartner, Eugen",,,,sold,,5400,GBP,Primary,Primary,Viola
+,,2021-06-07,43,"Gozzo, Giancarlo",,,,sold,,3600,GBP,Primary,Primary,Viola
+,,2021-06-07,45,"Sgarabotto, Gaetano",,,,sold,,29500,GBP,Primary,Primary,Viola
+,,2021-06-07,47,"Bazin, Charles Nicolas",,,,sold,,1416,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,48,"Clasquin, Célestin Émile",,,,sold,,1140,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,49,"Morizot, Louis frères",,,,sold,,1770,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,52,"Pfretzschner, Hermann Richard",,,,sold,,1140,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,53,"Hoyer, Otto A.",,,,sold,,780,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,55,"Schmidt, C. Hans-Karl",,,,sold,,2242,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,56,"Bazin, Charles Alfred",,,,sold,,3900,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,57,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1200,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,58,"Lotte, François",,,,sold,,1140,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,6,"Fétique, Victor François",,,,sold,,2360,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,65,"Ouchard, Émile François",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,66,"Ouchard, Émile François",,,,sold,,6600,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,67,"Ouchard, Émile François",,,,sold,,3300,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,68,"Morizot, Louis frères",,,,sold,,1416,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,69,"Morizot, Louis Joseph père",,,,sold,,2760,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,71,"Bazin, Charles Nicolas",,,,sold,,4200,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,72,"Lapierre, Marcel Charles",,,,sold,,1800,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,74,"Nürnberger, Karl Albert II",,,,sold,,2400,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,75,"Passa, Frank",,,,sold,,2006,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,76,"Martin, Jean-Joseph",,,,sold,,4200,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,77,"Leeson, Albert",,,,sold,,2760,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,78,"Morizot, André Auguste",,,,sold,,3600,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,80,"Piernot, Marie Louis",,,,sold,,3300,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,81,"Colas, Prosper",,,,sold,,1888,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,84,"Nürnberger, Carl Albert",,,,sold,,2640,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,85,"Ouchard, Émile François",,,,sold,,3000,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,86,"Ouchard, Émile François",,,,sold,,3900,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,87,"Martin, Jean-Joseph",,,,sold,,4500,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,88,"Thomachot, Stephane",,,,sold,,5400,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,89,"Johnston, William Grieve",,,,sold,,3600,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,9,"Morizot, Louis frères",,,,sold,,2400,GBP,Primary,Primary,Cello Bow
+,,2021-06-07,91,"Ouchard, Émile-Auguste",,,,sold,,9600,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,92,"Gillet, Louis Henri",,,,sold,,7800,GBP,Primary,Primary,Viola Bow
+,,2021-06-07,93,"Fétique, Victor François",,,,sold,,7800,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,94,"Martin, Jean-Joseph",,,,sold,,3540,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,95,"Lamy, Joseph Alfred père",,,,sold,,11800,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,97,"Sartory, Eugène Nicolas",,,,sold,,14160,GBP,Primary,Primary,Violin Bow
+,,2021-06-07,98,"Tourte, François Xavier & Nicolas Léonard",,,,sold,,19200,GBP,Primary,Primary,Violin Bow

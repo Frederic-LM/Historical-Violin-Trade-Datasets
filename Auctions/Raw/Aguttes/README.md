@@ -37,7 +37,7 @@ Source: [Wikipedia (CC BY-SA)](https://fr.wikipedia.org/wiki/Aguttes), checked 2
 
 ## Secondary files (`_snd`)
 `<date>_Aguttes[_<sale number>]_snd.csv` (and `<date>_Aguttes_press.csv` for the press): lots of this house that the house's own
-documents do not give (19 files, 137 lots).
+documents do not give (16 files, 130 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

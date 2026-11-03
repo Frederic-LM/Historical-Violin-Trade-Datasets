@@ -53,7 +53,7 @@ Source: [Wikipedia (CC BY-SA)](https://en.wikipedia.org/wiki/Skinner,_Inc.), che
 
 ## Secondary files (`_snd`)
 `<date>_Skinner[_<sale number>]_snd.csv` (and `<date>_Skinner_press.csv` for the press): lots of this house that the house's own
-documents do not give (63 files, 2988 lots).
+documents do not give (49 files, 2900 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

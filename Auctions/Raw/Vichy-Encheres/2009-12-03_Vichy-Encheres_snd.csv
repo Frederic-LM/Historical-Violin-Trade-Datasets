@@ -1,9 +1,4 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,2009-12-03,175,,"Germain, Joseph Louis",,,sold,34800,43124,EUR,Secondary,Secondary,Cello
-,,2009-12-03,200,,"Simon, Pierre",,,sold,38400,47585,EUR,Secondary,Secondary,Violin Bow
-,,2009-12-03,220,,"Sannino, Vincenzo",,,sold,22000,27262,EUR,Secondary,Secondary,Violin
-,,2009-12-03,300,,"Peccatte, Dominique",,,sold,23200,28749,EUR,Secondary,Secondary,Violin Bow
-,,2009-12-03,350,,"Peccatte, Dominique",,,sold,36000,44611,EUR,Secondary,Secondary,Violin Bow
 ,,2009-12-03,,,"Antoniazzi, Romeo",,,sold,25200,31228,EUR,Secondary,Secondary,Violin
 ,,2009-12-03,,,"Boquay, Jacques",,,sold,24000,29741,EUR,Secondary,Secondary,Violin
 ,,2009-12-03,,,"Scarampella, Giuseppe",,,sold,63600,78813,EUR,Secondary,Secondary,Violin

@@ -1,0 +1,31 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2021-01-27,102,John Furber,"A violin by John Furber, London, circa 1830",1000,1500,sold,,3034,GBP,Primary,Primary,Violin
+,,2021-01-27,107,Anton Jais,"A violin by Anton Jais, Mittenwald, circa 1810",2000,3000,sold,,2149,GBP,Primary,Primary,Violin
+,,2021-01-27,109,Raffaello Ronchini,"A violin by Raffaele Ronchini, Fano, 1880",5000,6000,sold,,5688,GBP,Primary,Primary,Violin
+,,2021-01-27,16,Rod Ward,"A viola, by Roderick R. Ward, Cambridge, 2005",1000,2000,sold,,1643,GBP,Primary,Primary,Viola
+,,2021-01-27,19,Valerio Prilipco,"A viola by Valerio Prilipco, Cremona, 2000",2500,4000,sold,,2907,GBP,Primary,Primary,Viola
+,,2021-01-27,20,Willem Hendrik van Leeuwen,"A viola by W. H. van Leeuwen, Scheveningen, 1977",1500,2000,sold,,1517,GBP,Primary,Primary,Viola
+,,2021-01-27,26,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1500,2000,sold,,2907,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,27,Hermann Richard Pfretzschner,"A silver-mounted violin bow by H. R. Pfretzschner, Germany",500,1000,sold,,1390,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,28,Albert Nurnberger,"A nickel-mounted violin bow by Albert Nurnberger, Germany",300,500,sold,,600,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,30,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",2000,4000,sold,,3034,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,32,Hermann Richard Pfretzschner,"A silver-mounted violin bow by H. R. Pfretzschner, Germany",1000,2000,sold,,1011,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,34,Marie-Louis Piernot,"A silver-mounted violin bow by Marie Louis Piernot, Lyon, circa 1920",3000,5000,sold,,5372,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,41,Albert Nurnberger,"A silver-mounted violin bow by Albert Nurnberger, Germany",2000,4000,sold,,1628,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,42,Roger Millant,"A silver-mounted violin bow by Roger Millant, Paris",1500,2000,sold,,1643,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,44,Richard Weichold,"A silver-mounted violin bow by R. Weichold, Germany",2000,4000,sold,,1446,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,46,Francois Lotte,"A nickel-mounted violin bow by Francois Lotte, Mirecourt, circa 1920",1000,2000,sold,,1264,GBP,Primary,Primary,Violin Bow
+,,2021-01-27,47,Lothar Hermann,"A silver-mounted viola bow by Lothar Herrmann, Germany",400,600,sold,,506,GBP,Primary,Primary,Viola Bow
+,,2021-01-27,48,Garner Wilson,"A gold-mounted viola bow by Garner Wilson, London",1000,2000,sold,,2275,GBP,Primary,Primary,Viola Bow
+,,2021-01-27,49,Percival Wilfred Bryant,"A gold-mounted viola bow by Percival Wilfred Bryant, London",1000,2000,sold,,3034,GBP,Primary,Primary,Viola Bow
+,,2021-01-27,5,Francois Alexis Maline,"A seven-eighths cello by Alexis Maline, Mirecourt, circa 1840",2000,4000,sold,,5372,GBP,Primary,Primary,Cello
+,,2021-01-27,51,Richard Weichold,"A silver-mounted cello bow by R. Weichold, Dresden",1800,2000,sold,,2022,GBP,Primary,Primary,Cello Bow
+,,2021-01-27,54,Edwin Richards,"A violin by Edwin Richards, London, 1879",600,1000,sold,,2781,GBP,Primary,Primary,Violin
+,,2021-01-27,58,Malcolm F. Richmond,"A violin by Malcolm F. Richmond, Falkirk, 1926",500,1000,sold,,1074,GBP,Primary,Primary,Violin
+,,2021-01-27,67,Jean Baptiste Colin,"A violin by Jean Baptiste Colin, Mirecourt, circa 1890",1000,1500,sold,,3476,GBP,Primary,Primary,Violin
+,,2021-01-27,75,Kaspar Strnad,"A violin by Casper Strnad, Prague, 1824",4500,5500,sold,,4424,GBP,Primary,Primary,Violin
+,,2021-01-27,79,Ferdinando Gagliano,"A violin by Ferdinand Gagliano, Naples, circa 1756",15000,25000,sold,,17696,GBP,Primary,Primary,Violin
+,,2021-01-27,89,Didier Nicolas L’Aîné,"A violin by Didier Nicolas Aine, Mirecourt, circa 1820",1000,2000,sold,,992,GBP,Primary,Primary,Violin
+,,2021-01-27,9,Marshall Youngman,"A cello by Marshall Youngman, Halifax, 1918",500,1000,sold,,1201,GBP,Primary,Primary,Cello
+,,2021-01-27,94,Jan Kudanowski,"A violin by Jan Kudanowski, Cremona, 1977",1000,2000,sold,,2402,GBP,Primary,Primary,Violin
+,,2021-01-27,96,Love G P,"A violin by G. P. Love, Thornton-in-Craven, 1980",400,600,sold,,442,GBP,Primary,Primary,Violin

@@ -59,7 +59,7 @@ Source: [Wikipedia (CC BY-SA)](https://en.wikipedia.org/wiki/Phillips_(auctionee
 
 ## Secondary files (`_snd`)
 `<date>_Phillips[_<sale number>]_snd.csv` (and `<date>_Phillips_press.csv` for the press): lots of this house that the house's own
-documents do not give (157 files, 4614 lots).
+documents do not give (128 files, 3498 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

@@ -1,0 +1,732 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source
+,,2023-11-30,1,,Violon de Léon MOUGENOT,,,sold,,2125,EUR,Primary,Primary
+,,2023-11-30,3,,Violon d'Antonio CAPELA,,,sold,,11574,EUR,Primary,Primary
+,,2023-11-30,4,,Violon d'Hyppolite CAUSSIN,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,5,,Alto XIXème,,,sold,,11250,EUR,Primary,Primary
+,,2023-11-30,8,,Violon de Nicolas VUILLAUME,,,sold,,8125,EUR,Primary,Primary
+,,2023-11-30,9,,Alto 3/4 de François MAST,,,sold,,1800,EUR,Primary,Primary
+,,2023-11-30,11,,Violon fin XVIIIème probablement de l'école Hollandaise,,,sold,,2829,EUR,Primary,Primary
+,,2023-11-30,12,,Violon italien Xxème,,,sold,,12474,EUR,Primary,Primary
+,,2023-11-30,13,,Violon des Frères SACCHETTI,,,sold,,11250,EUR,Primary,Primary
+,,2023-11-30,14,,Violon de Jan KULIK,,,sold,,12083,EUR,Primary,Primary
+,,2023-11-30,16,,Violon Mirecourt de l'école de COUTURIEUX,,,sold,,5250,EUR,Primary,Primary
+,,2023-11-30,19,,Violon de Lucien SCHMITT,,,sold,,5250,EUR,Primary,Primary
+,,2023-11-30,21,,Violon de Charles Louis COLLIN MEZIN Fils,,,sold,,4115,EUR,Primary,Primary
+,,2023-11-30,22,,Violon d'Honoré DERAZEY,,,sold,,6250,EUR,Primary,Primary
+,,2023-11-30,23,,Violon de Pierre GAGGINI,,,sold,,6250,EUR,Primary,Primary
+,,2023-11-30,25,,Violon de Joseph HEL,,,sold,,18750,EUR,Primary,Primary
+,,2023-11-30,28,,Archet de violon de Mathias Théophile Auguste BARBE,,,sold,,6250,EUR,Primary,Primary
+,,2023-11-30,29,,Archet d'alto de MORIZOT Frères,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,30,,Archet de violon d'Emile Auguste OUCHARD Fils,,,sold,,15000,EUR,Primary,Primary
+,,2023-11-30,31,,Archet de violoncelle de Louis Joseph MORIZOT Père,,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,32,,Baguette d'archet de violon de l'école de TOURTE,,,sold,,4250,EUR,Primary,Primary
+,,2023-11-30,33,,"Archet de violoncelle de Nicolas SIMON, dit SIMON Fr",,,sold,,5250,EUR,Primary,Primary
+,,2023-11-30,34,,Archet de violon de Joseph Alfred LAMY fait vers 1910,,,sold,,5144,EUR,Primary,Primary
+,,2023-11-30,35,,Baguette d'archet de violon de François LUPOT,,,sold,,11250,EUR,Primary,Primary
+,,2023-11-30,37,,Archet de violon d'André VIGNERON Fils,,,sold,,3867,EUR,Primary,Primary
+,,2023-11-30,38,,Archet de violon fait en collaboration VIGNERON Père et Fils,,,sold,,8942,EUR,Primary,Primary
+,,2023-11-30,39,,Archet de violon de Marc LABERTE,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,40,,"Très intéressante baguette d'archet de Dominique PECCATTE, hausse et bouton postérieurs montés argent.",,,sold,,60000,EUR,Primary,Primary
+,,2023-11-30,41,,"Archet de Violon de Georges Émile BARJONNET, bouton antérieur en maillechort.",,,sold,,1933,EUR,Primary,Primary
+,,2023-11-30,42,,Archet de violon de François Nicolas VOIRIN,,,sold,,11875,EUR,Primary,Primary
+,,2023-11-30,44,,"Archet de violon de l'école de Charles Nicolas HARMAND, avec hausse remontée en argent et bouton postérieur.",,,sold,,4750,EUR,Primary,Primary
+,,2023-11-30,46,,Archet de violon de JEROME THIBOUVILLE LAMY,,,sold,,2186,EUR,Primary,Primary
+,,2023-11-30,47,,Archet de contrebasse de Victor FETIQUE,,,sold,,8125,EUR,Primary,Primary
+,,2023-11-30,48,,Archet de violon de Victor FETIQUE chip to the frog. Good condition.,,,sold,,13750,EUR,Primary,Primary
+,,2023-11-30,49,,Archet de violon de François LOTTE 1/8 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,2417,EUR,Primary,Primary
+,,2023-11-30,50,,"Baguette d'archet de violon de Pierre SIMON, avec hausse et bouton de Dominique PECCATTE",,,sold,,33750,EUR,Primary,Primary
+,,2023-11-30,54,,Violon de René MORIZOT,,,sold,,4833,EUR,Primary,Primary
+,,2023-11-30,55,,"Violon de François GAVINIES, tête remplacée plus récente.",,,sold,,6430,EUR,Primary,Primary
+,,2023-11-30,56,,Violon de Georges APPARUT,,,sold,,4500,EUR,Primary,Primary
+,,2023-11-30,58,,Violon Français XVIIIème,,,sold,,5658,EUR,Primary,Primary
+,,2023-11-30,59,,Violon de Léon MOUGENOT,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,60,,Violon de GAND Frères,,,sold,,21250,EUR,Primary,Primary
+,,2023-11-30,61,,Violon de JEROME THIBOUVILLE LAMY,,,sold,,1672,EUR,Primary,Primary
+,,2023-11-30,62,,Violon de l'école de Jules GAILLARD,,,sold,,3472,EUR,Primary,Primary
+,,2023-11-30,63,,Violon de Luc GALLICANE,,,sold,,5916,EUR,Primary,Primary
+,,2023-11-30,64,,"Violon d'Anton HORNSTEINER, Avec son manche d'origine.",,,sold,,8125,EUR,Primary,Primary
+,,2023-11-30,66,,Violon de la famille KLOZ,,,sold,,5500,EUR,Primary,Primary
+,,2023-11-30,68,,Violon de l'atelier de Maurice MERMILLOT,,,sold,,8616,EUR,Primary,Primary
+,,2023-11-30,69,,Violon de la maison LABERTE HUMBERT,,,sold,,2250,EUR,Primary,Primary
+,,2023-11-30,70,,Violon de Joseph HEL,,,sold,,11574,EUR,Primary,Primary
+,,2023-11-30,71,,Violon de Gustave VILLAUME,,,sold,,3858,EUR,Primary,Primary
+,,2023-11-30,72,,Violon de Paul BLANCHARD,,,sold,,7500,EUR,Primary,Primary
+,,2023-11-30,73,,Violon de Jean BAUER,,,sold,,4887,EUR,Primary,Primary
+,,2023-11-30,74,,Violon seconde partie du XIXème,,,sold,,3250,EUR,Primary,Primary
+,,2023-11-30,75,,Joli violon de Jean Baptiste VUILLAUME,,,sold,,175000,EUR,Primary,Primary
+,,2023-11-30,76,,Archet de violon de Alfred LAMY Neveu,,,sold,,6500,EUR,Primary,Primary
+,,2023-11-30,77,,Archet de violon d'Hippolyte Camille LAMY Fils,,,sold,,5750,EUR,Primary,Primary
+,,2023-11-30,78,,Archet de violon Louis Joseph MORIZOT Père à l'époque où il collaborait avec SARTORY,,,sold,,6000,EUR,Primary,Primary
+,,2023-11-30,79,,Archet d'alto de Marc LABERTE,,,sold,,4000,EUR,Primary,Primary
+,,2023-11-30,81,,Archet de violon de Pierre MALINE,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,82,,Archet de violon de Charles Nicolas BAZIN,,,sold,,6173,EUR,Primary,Primary
+,,2023-11-30,83,,Archet de violon d'Emile Auguste OUCHARD Fils,,,sold,,10250,EUR,Primary,Primary
+,,2023-11-30,85,,Archet de violon d'Eugène Nicolas SARTORY,,,sold,,21250,EUR,Primary,Primary
+,,2023-11-30,86,,Archet de violon de Nicolas DUCHAINE II,,,sold,,2829,EUR,Primary,Primary
+,,2023-11-30,87,,Archet de violon de André CHARDON,,,sold,,5052,EUR,Primary,Primary
+,,2023-11-30,89,,Archet de violon de Célestin Émile CLASQUIN,,,sold,,4000,EUR,Primary,Primary
+,,2023-11-30,90,,Intéressant archet de violoncelle de Joseph Alfred LAMY Père,,,sold,,12217,EUR,Primary,Primary
+,,2023-11-30,92,,Archet de violon d'Emile François OUCHARD Père,,,sold,,3750,EUR,Primary,Primary
+,,2023-11-30,94,,Archet d'alto de Malcolm TAYLOR,,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,98,,Archet de violon d'Henri Louis GILLET 2/8 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,12217,EUR,Primary,Primary
+,,2023-11-30,99,,Archet de violon de Louis Joseph MORIZOT Père fait à l'époque où il collaborait avec E. SARTORY,,,sold,,3625,EUR,Primary,Primary
+,,2023-11-30,101,,Violoncelle de l'école allemande de la fin du XIXème,,,sold,,4758,EUR,Primary,Primary
+,,2023-11-30,102,,Violoncelle de Léon MOUGENOT,,,sold,,7500,EUR,Primary,Primary
+,,2023-11-30,103,,Intéressant violoncelle 1/2,,,sold,,9375,EUR,Primary,Primary
+,,2023-11-30,104,,Intéressant violoncelle de Just DERAZEY,,,sold,,26250,EUR,Primary,Primary
+,,2023-11-30,105,,Violoncelle de Joseph CHAROTTE,,,sold,,13125,EUR,Primary,Primary
+,,2023-11-30,106,,Violoncelle Mirecourt fait vers 1930,,,sold,,5000,EUR,Primary,Primary
+,,2023-11-30,109,,Violoncelle Allemand début Xxème,,,sold,,4115,EUR,Primary,Primary
+,,2023-11-30,110,,Intéressant et rare violoncelle de Benjamin BANKS,,,sold,,42500,EUR,Primary,Primary
+,,2023-11-30,111,,Violoncelle de GUINOT,,,sold,,4372,EUR,Primary,Primary
+,,2023-11-30,112,,Violoncelle d'Ambroise DECOMBLE,,,sold,,14403,EUR,Primary,Primary
+,,2023-11-30,114,,Violoncelle de JEROME THIBOUVILLE LAMY,,,sold,,10625,EUR,Primary,Primary
+,,2023-11-30,117,,Violoncelle Xxème,,,sold,,4250,EUR,Primary,Primary
+,,2023-11-30,121,,"Violoncelle 3/4 petite taille Français, fait vers 1750 de l'école de CHAPUY",,,sold,,4372,EUR,Primary,Primary
+,,2023-11-30,122,,Violoncelle Mirecourt Xxème,,,sold,,5500,EUR,Primary,Primary
+,,2023-11-30,123,,Violoncelle Mirecourt début Xxème,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,124,,Violoncelle Mirecourt début  Xxème,,,sold,,3142,EUR,Primary,Primary
+,,2023-11-30,126,,Archet de violoncelle de l'école de FETIQUE,,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,127,,"Baguette d'archet de violoncelle d'Emile François OUCHARD, hausse et bouton de même époque",,,sold,,6687,EUR,Primary,Primary
+,,2023-11-30,128,,Archet de violoncelle de Georges Léon LAMY Fils,,,sold,,7073,EUR,Primary,Primary
+,,2023-11-30,131,,"Baguette d'archet de violon de Paul Émile MIQUEL, bouton postérieur",,,sold,,1800,EUR,Primary,Primary
+,,2023-11-30,133,,Archet de violoncelle de Joseph Arthur VIGNERON Père,,,sold,,5916,EUR,Primary,Primary
+,,2023-11-30,134,,Archet de violon de Charles Nicolas BAZIN,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,136,,Archet de violon de François LOTTE,,,sold,,4750,EUR,Primary,Primary
+,,2023-11-30,137,,Archet de violon de Louis Joseph MORIZOT Père,,,sold,,7500,EUR,Primary,Primary
+,,2023-11-30,140,,Très bel archet de violon de Nicolas MAIRE,,,sold,,30208,EUR,Primary,Primary
+,,2023-11-30,141,,Archet de violon 7/8 de Marcel Charles LAPIERRE,,,sold,,2000,EUR,Primary,Primary
+,,2023-11-30,144,,"Archet de violon de Louis Joseph MORIZOT Père, fait à l'époque où il collaborait avec E. SARTORY",,,sold,,5250,EUR,Primary,Primary
+,,2023-11-30,145,,"Rare archet de violoncelle ou de viole de gambe de Nicolas Pierre TOURTE,  en bois d'amourette, hausse postérieure",,,sold,,18750,EUR,Primary,Primary
+,,2023-11-30,146,,"Baguette d'archet de violon de Nicolas SIMON dit ""SIMON F.R.",,,sold,,3125,EUR,Primary,Primary
+,,2023-11-30,147,,"Archet de violon d'Emile OUCHARD, collaboration père et fils",,,sold,,5750,EUR,Primary,Primary
+,,2023-11-30,148,,Archet de violon pochette de Georges Léon LAMY Fils,,,sold,,5250,EUR,Primary,Primary
+,,2023-11-30,149,,Archet de violon de Charles Louis BAZIN,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,151,,Violon d'Amédée DIEUDONNE 3/8 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,4501,EUR,Primary,Primary
+,,2023-11-30,152,,Violon de Jules GAILLARD,,,sold,,4750,EUR,Primary,Primary
+,,2023-11-30,153,,Violon de Roger et Max MILLANT,,,sold,,9500,EUR,Primary,Primary
+,,2023-11-30,154,,Violon de Jean-Baptiste LACOMBE,,,sold,,5250,EUR,Primary,Primary
+,,2023-11-30,155,,Violon de François LUPOT,,,sold,,10288,EUR,Primary,Primary
+,,2023-11-30,156,,Violon de Victor AUDINOT MOUROT,,,sold,,2443,EUR,Primary,Primary
+,,2023-11-30,157,,Violon de Charles MOINEL CHERPITEL,,,sold,,5000,EUR,Primary,Primary
+,,2023-11-30,158,,Violon de Antonio CAPELA,,,sold,,17500,EUR,Primary,Primary
+,,2023-11-30,160,,Joli violon de Pierre HEL,,,sold,,15432,EUR,Primary,Primary
+,,2023-11-30,161,,Violon de Léon MOUGENOT,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,162,,"Alto XVIIIème, tête remplacée faite en copie.",,,sold,,6687,EUR,Primary,Primary
+,,2023-11-30,163,,Violon de Charles Jean-Baptiste COLLIN MEZIN Père,,,sold,,10000,EUR,Primary,Primary
+,,2023-11-30,165,,Violoncelle de LABERTE HUMBERT,,,sold,,11574,EUR,Primary,Primary
+,,2023-11-30,166,,Violon  de Maurice ROUGIER,,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,167,,"Violon d'Emile MENESSON dit ""Guarini""",,,sold,,5750,EUR,Primary,Primary
+,,2023-11-30,168,,Violon de Nicolas VUILLAUME,,,sold,,11875,EUR,Primary,Primary
+,,2023-11-30,169,,Violon XIXème,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,170,,Violon de Joseph HEL,,,sold,,7750,EUR,Primary,Primary
+,,2023-11-30,171,,"Violon d'Emile MENNESSON dit ""GUARINI""",,,sold,,4500,EUR,Primary,Primary
+,,2023-11-30,172,,Violon de Paul LORANGE,,,sold,,5000,EUR,Primary,Primary
+,,2023-11-30,174,,Violon de Frédéric BOYER,,,sold,,3250,EUR,Primary,Primary
+,,2023-11-30,175,,Violon de Carlo Giuseppe TESTORE,,,sold,,117500,EUR,Primary,Primary
+,,2023-11-30,176,,Archet de violon de Jean-Paul LAUXERROIS,,,sold,,4630,EUR,Primary,Primary
+,,2023-11-30,177,,Archet de violon de Charles Claude HUSSON,,,sold,,6500,EUR,Primary,Primary
+,,2023-11-30,178,,Archet d'alto de Louis Joseph MORIZOT Père,,,sold,,6750,EUR,Primary,Primary
+,,2023-11-30,181,,Archet de violon de Joseph THOMASSIN,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,182,,Archet de violon de Charles Alfred BAZIN,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,184,,Archet de contrebasse d'Henri Louis GILLET,,,sold,,4750,EUR,Primary,Primary
+,,2023-11-30,186,,Archet de violon de Christophe SCHAEFFER,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,187,,Archet de violon de Marie Louis PIERNOT,,,sold,,3867,EUR,Primary,Primary
+,,2023-11-30,188,,Archet de violon d'Henri Louis GILLET,,,sold,,8750,EUR,Primary,Primary
+,,2023-11-30,189,,Archet de violon de François LOTTE,,,sold,,1750,EUR,Primary,Primary
+,,2023-11-30,191,,Archet de violon de Roger François LOTTE,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,193,,Archet d'alto de Jean-Jacques MILLANT,,,sold,,5401,EUR,Primary,Primary
+,,2023-11-30,195,,Archet de violon de Victor François FETIQUE,,,sold,,8750,EUR,Primary,Primary
+,,2023-11-30,198,,"Archet de violon de Victor François FETIQUE, avec bouton postérieur.",,,sold,,9375,EUR,Primary,Primary
+,,2023-11-30,199,,Archet de violon de Charles Nicolas BAZIN,,,sold,,2000,EUR,Primary,Primary
+,,2023-11-30,200,,Rare archet de violon de Nicolas Rémy MAIRE,,,sold,,77500,EUR,Primary,Primary
+,,2023-11-30,201,,Violon de Maurice MERMILLOT fait à Paris en collaboration avec Auguste DECHE 4/8 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,3500,EUR,Primary,Primary
+,,2023-11-30,204,,Joli violon de Marc LABERTE,,,sold,,3086,EUR,Primary,Primary
+,,2023-11-30,205,,Violon de Gustave BERNARDEL,,,sold,,12500,EUR,Primary,Primary
+,,2023-11-30,206,,Intéressant violon de l'école de DERAZEY,,,sold,,3601,EUR,Primary,Primary
+,,2023-11-30,207,,Violon Français XVIIIème,,,sold,,4334,EUR,Primary,Primary
+,,2023-11-30,209,,Violon d'Etienne PERRIN,,,sold,,2315,EUR,Primary,Primary
+,,2023-11-30,210,,Violoncelle de JEROME THIBOUVILLE LAMY,,,sold,,10931,EUR,Primary,Primary
+,,2023-11-30,212,,Violon de Georges CONE,,,sold,,5015,EUR,Primary,Primary
+,,2023-11-30,214,,Violon de Georges APPARUT,,,sold,,4750,EUR,Primary,Primary
+,,2023-11-30,215,,Violon de Hippolyte SILVESTRE,,,sold,,12860,EUR,Primary,Primary
+,,2023-11-30,216,,Violon de MOINEL-CHERPITEL,,,sold,,2250,EUR,Primary,Primary
+,,2023-11-30,220,,Intéressant violon de Charles Adolphe MAUCOTEL,,,sold,,36250,EUR,Primary,Primary
+,,2023-11-30,221,,Violon de Charles Louis COLLIN MEZIN Fils,,,sold,,4592,EUR,Primary,Primary
+,,2023-11-30,222,,Violoncelle de François PILLEMENT,,,sold,,13750,EUR,Primary,Primary
+,,2023-11-30,223,,Joli violon d'Alberto Luigi BLANCHI,,,sold,,15715,EUR,Primary,Primary
+,,2023-11-30,226,,Archet de violon de Charles Nicolas BAZIN,,,sold,,4372,EUR,Primary,Primary
+,,2023-11-30,227,,"Baguette d'archet de violon d'André VIGNERON Fils, avec hausse et bouton de même époque",,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,229,,Archet de violon d'Eugène CUNIOT-HURY,,,sold,,3601,EUR,Primary,Primary
+,,2023-11-30,230,,Archet d'alto de Joseph HENRY,,,sold,,43750,EUR,Primary,Primary
+,,2023-11-30,231,,Archet de violon de Louis Joseph MORIZOT Père,,,sold,,5500,EUR,Primary,Primary
+,,2023-11-30,232,,Archet de violon de Jean Joseph MARTIN,,,sold,,5144,EUR,Primary,Primary
+,,2023-11-30,233,,Archet de violon de Victor François FETIQUE,,,sold,,7073,EUR,Primary,Primary
+,,2023-11-30,235,,Archet de violon de Victor François FETIQUE,,,sold,,10625,EUR,Primary,Primary
+,,2023-11-30,236,,Archet d'alto de Georges Emile BARJONNET,,,sold,,5000,EUR,Primary,Primary
+,,2023-11-30,238,,Archet de violoncelle de Jules FETIQUE pendant sa collaboration avec SARTORY,,,sold,,8359,EUR,Primary,Primary
+,,2023-11-30,239,,Archet de violon d'Emile François OUCHARD,,,sold,,2500,EUR,Primary,Primary
+,,2023-11-30,240,,Bel archet de violoncelle de François PECCATTE,,,sold,,31250,EUR,Primary,Primary
+,,2023-11-30,241,,Archet de violon de MORIZOT Frères,,,sold,,2375,EUR,Primary,Primary
+,,2023-11-30,244,,Archet de violon de Charles Nicolas BAZIN,,,sold,,5144,EUR,Primary,Primary
+,,2023-11-30,245,,Archet de violoncelle de Victor François FETIQUE,,,sold,,10931,EUR,Primary,Primary
+,,2023-11-30,247,,Baguette d'archet de violoncelle de Louis Joseph MORIZOT Père,,,sold,,6750,EUR,Primary,Primary
+,,2023-11-30,248,,Archet de violon de Victor François FETIQUE,,,sold,,12500,EUR,Primary,Primary
+,,2023-11-30,249,,"Archet de violon de Dominique POIRSON dit ""Justin POIRSON""",,,sold,,2443,EUR,Primary,Primary
+,,2023-11-30,250,,Archet de violon de Dominique PECCATTE,,,sold,,51440,EUR,Primary,Primary
+,,2023-11-30,251,,"Violon composite. Fond et éclisses dans le style italien XVIIIème, table et tête remplacées, deux éclisses changées.",,,sold,,2443,EUR,Primary,Primary
+,,2023-11-30,252,,Violoncelle Mirecourt de l'école de DERAZEY,,,sold,,8359,EUR,Primary,Primary
+,,2023-11-30,253,,Violon de François CAUSSIN 5/8 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,6000,EUR,Primary,Primary
+,,2023-11-30,254,,Intéressant violon de Jenny BAILLY,,,sold,,2315,EUR,Primary,Primary
+,,2023-11-30,256,,Violon de François CAUSSIN,,,sold,,3266,EUR,Primary,Primary
+,,2023-11-30,259,,Alto fin XIXème,,,sold,,3750,EUR,Primary,Primary
+,,2023-11-30,264,,Violon d'Amédée DIEUDONNE,,,sold,,3500,EUR,Primary,Primary
+,,2023-11-30,265,,Intéressant violon Xxème,,,sold,,7716,EUR,Primary,Primary
+,,2023-11-30,266,,Violoncelle Mirecourt fait vers 1900,,,sold,,2058,EUR,Primary,Primary
+,,2023-11-30,268,,Violon de Gabriel Adolphe THIBOUT,,,sold,,15000,EUR,Primary,Primary
+,,2023-11-30,269,,Violon 1/2 Italien,,,sold,,2186,EUR,Primary,Primary
+,,2023-11-30,271,,Violon de Charles CONTAL dit SIMONIN,,,sold,,3086,EUR,Primary,Primary
+,,2023-11-30,273,,Violon de Louis GUERSAN,,,sold,,10000,EUR,Primary,Primary
+,,2023-11-30,274,,Joli violon de Just DERAZEY,,,sold,,4500,EUR,Primary,Primary
+,,2023-11-30,276,,Archet de violon de Charles Nicolas BAZIN,,,sold,,2375,EUR,Primary,Primary
+,,2023-11-30,277,,"Archet d'alto de l'atelier de François PECCATTE, en bois d'amourette",,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,278,,Belle baguette d'archet de violon d'Etienne PAJEOT,,,sold,,31250,EUR,Primary,Primary
+,,2023-11-30,279,,"Baguette d'archet de violon de Joseph Alfred LAMY Père, bouton postérieur.",,,sold,,2500,EUR,Primary,Primary
+,,2023-11-30,284,,Archet de violon de François LOTTE,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,285,,Archet de violon de François Nicolas VOIRIN,,,sold,,23148,EUR,Primary,Primary
+,,2023-11-30,289,,Archet de violon de François LOTTE,,,sold,,2058,EUR,Primary,Primary
+,,2023-11-30,292,,Archet de violon/alto de l'école de MAIRE,,,sold,,4000,EUR,Primary,Primary
+,,2023-11-30,293,,Archet de violon d'Emile Auguste OUCHARD fils,,,sold,,12500,EUR,Primary,Primary
+,,2023-11-30,294,,"Archet de violon de l'école de PAJEOT dans le style de GAUDE, avec bouton postérieur",,,sold,,2508,EUR,Primary,Primary
+,,2023-11-30,295,,Archet d'alto d'Henri Louis GILLET,,,sold,,10625,EUR,Primary,Primary
+,,2023-11-30,297,,"Baguette d'archet de violon de Claude THOMASSIN, hausse de GILLET et bouton de même époque",,,sold,,4000,EUR,Primary,Primary
+,,2023-11-30,300,,Très bel archet de violon de Pierre SIMON,,,sold,,72500,EUR,Primary,Primary
+,,2023-11-30,303,,Violon Italien fin XVIIIème,,,sold,,20000,EUR,Primary,Primary
+,,2023-11-30,304,,Violon de Nicolas VUILLAUME,,,sold,,15298,EUR,Primary,Primary
+,,2023-11-30,305,,Violon de VISSENAIRE Père,,,sold,,6687,EUR,Primary,Primary
+,,2023-11-30,306,,Violon de Léon TINCEAU,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,307,,Intéressant violon XIXème.,,,sold,,3344,EUR,Primary,Primary
+,,2023-11-30,308,,Violon d'Andréa CASTAGNIERI,,,sold,,7587,EUR,Primary,Primary
+,,2023-11-30,309,,Violon d'Amédée DIEUDONNE,,,sold,,5000,EUR,Primary,Primary
+,,2023-11-30,310,,Alto de F.X. COUTURIEUX,,,sold,,10000,EUR,Primary,Primary
+,,2023-11-30,311,,Violon de Jean-Baptiste GARABOEUF dit LACOMBE,,,sold,,2375,EUR,Primary,Primary
+,,2023-11-30,312,,Violon de Paul BAILLY,,,sold,,11250,EUR,Primary,Primary
+,,2023-11-30,314,,Alto de Paul HILAIRE,,,sold,,3500,EUR,Primary,Primary
+,,2023-11-30,315,,Violon d'Emile GERMAIN 6/8 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,9375,EUR,Primary,Primary
+,,2023-11-30,316,,Violoncelle Xxème,,,sold,,3086,EUR,Primary,Primary
+,,2023-11-30,320,,Violon Allemand début XVIIIème de l'école d'ALBANI,,,sold,,6301,EUR,Primary,Primary
+,,2023-11-30,324,,Violon de la famille HOPF,,,sold,,5075,EUR,Primary,Primary
+,,2023-11-30,325,,Violon de Jacques Pierre THIBOUT,,,sold,,19290,EUR,Primary,Primary
+,,2023-11-30,326,,Archet de violon de Pierre MALINE,,,sold,,3250,EUR,Primary,Primary
+,,2023-11-30,328,,Hausse de Dominique PECCATTE,,,sold,,14375,EUR,Primary,Primary
+,,2023-11-30,329,,Archet de violon d'Emile François OUCHARD Père,,,sold,,1800,EUR,Primary,Primary
+,,2023-11-30,331,,Archet de violon d'Auguste LENOBLE,,,sold,,2750,EUR,Primary,Primary
+,,2023-11-30,332,,Archet de violoncelle de Claude THOMASSIN,,,sold,,10288,EUR,Primary,Primary
+,,2023-11-30,334,,"Archet de violon de Louis Joseph MORIZOT Père, avec bouton de même époque maillechort.",,,sold,,2125,EUR,Primary,Primary
+,,2023-11-30,335,,"Rare archet de violon, de Bernard Georges Louis MILLANT",,,sold,,23148,EUR,Primary,Primary
+,,2023-11-30,336,,Archet de violon de Victor François FETIQUE,,,sold,,3750,EUR,Primary,Primary
+,,2023-11-30,337,,Archet de violon de Joseph Alfred LAMY Père,,,sold,,6750,EUR,Primary,Primary
+,,2023-11-30,340,,"Baguette d'archet de violoncelle de Nicolas MAIRE, avec bouton de même époque.",,,sold,,23750,EUR,Primary,Primary
+,,2023-11-30,341,,Archet de violon de Charles Louis BAZIN,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,342,,Archet de contrebasse de CUNIOT HURY,,,sold,,3215,EUR,Primary,Primary
+,,2023-11-30,343,,Archet de violon de Jean Joseph MARTIN,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,344,,Archet de violon fait en collaboration avec Victor FETIQUE,,,sold,,4500,EUR,Primary,Primary
+,,2023-11-30,345,,Archet de violon de Louis Henri GILLET,,,sold,,9375,EUR,Primary,Primary
+,,2023-11-30,347,,"Archet de violon de Claude Auguste THOMASSIN, avec bouton postérieur.",,,sold,,4000,EUR,Primary,Primary
+,,2023-11-30,348,,Archet de violon de François Nicolas VOIRIN,,,sold,,10625,EUR,Primary,Primary
+,,2023-11-30,350,,Bel archet de violon d'Eugène Nicolas SARTORY,,,sold,,32500,EUR,Primary,Primary
+,,2023-11-30,351,,Violon Français première moitié XIXème,,,sold,,2375,EUR,Primary,Primary
+,,2023-11-30,353,,Violon de Jacques Pierre THIBOUT,,,sold,,21750,EUR,Primary,Primary
+,,2023-11-30,354,,Alto Allemand fin XVIIIème,,,sold,,3858,EUR,Primary,Primary
+,,2023-11-30,356,,Violon de Max MILLANT,,,sold,,5250,EUR,Primary,Primary
+,,2023-11-30,358,,Violon de Sébastien KLOZ,,,sold,,9002,EUR,Primary,Primary
+,,2023-11-30,360,,Violoncelle de LABERTE HUMBERT,,,sold,,20576,EUR,Primary,Primary
+,,2023-11-30,361,,Violon fait dans l'atelier d'Antoine FRAMBACHd condition. 355mm,,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,365,,Violon Italien fin XVIIIème,,,sold,,30000,EUR,Primary,Primary
+,,2023-11-30,367,,Violon de François Hippolyte CAUSSIN,,,sold,,4500,EUR,Primary,Primary
+,,2023-11-30,370,,Intéressant violon de François LUPOT,,,sold,,21250,EUR,Primary,Primary
+,,2023-11-30,373,,Intéressant violon fin XIXème,,,sold,,2572,EUR,Primary,Primary
+,,2023-11-30,374,,Violon probablement Allemand fait vers 1800,,,sold,,2186,EUR,Primary,Primary
+,,2023-11-30,377,,Archet de violon de Louis Joseph MORIZOT,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,378,,Archet de violon de Hippolyte Camille LAMY Fils,,,sold,,4750,EUR,Primary,Primary
+,,2023-11-30,380,,Archet de violon d'Emile Auguste OUCHARD Fils 7/8 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,20000,EUR,Primary,Primary
+,,2023-11-30,381,,Archet de violon de Charles Nicolas BAZIN,,,sold,,2000,EUR,Primary,Primary
+,,2023-11-30,383,,"Baguette d'archet de violoncelle de Charles Nicolas BAZIN, avec hausse et bouton postérieurs",,,sold,,1222,EUR,Primary,Primary
+,,2023-11-30,384,,"Tête, hausse et bouton de violon de Jean Pierre Marie PERSOIT",,,sold,,7750,EUR,Primary,Primary
+,,2023-11-30,385,,"Baguette d'archet de violon d'Eugène Nicolas SARTORY, avec hausse et bouton postérieurs",,,sold,,16250,EUR,Primary,Primary
+,,2023-11-30,386,,Archet de violon de Pierre MALINE,,,sold,,6500,EUR,Primary,Primary
+,,2023-11-30,388,,Baguette d'archet de violon d'Etienne PAJEOT,,,sold,,8750,EUR,Primary,Primary
+,,2023-11-30,389,,Archet de violon de Jacques AUDINOT,,,sold,,3250,EUR,Primary,Primary
+,,2023-11-30,390,,"Baguette d'archet de violon de Claude Joseph FONCLAUSE, bouton argent postérieur",,,sold,,11875,EUR,Primary,Primary
+,,2023-11-30,391,,Archet d'alto de MORIZOT Frères,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-30,392,,Archet de violon de Charles Louis BAZIN,,,sold,,5750,EUR,Primary,Primary
+,,2023-11-30,393,,Archet de violon de Louis Joseph MORIZOT Père à l'époque où il collaborait avec E. SARTORY,,,sold,,4000,EUR,Primary,Primary
+,,2023-11-30,394,,Archet de violon d'Emile François OUCHARD Père,,,sold,,2500,EUR,Primary,Primary
+,,2023-11-30,396,,"Archet de violon de Louis Joseph MORIZOT Père, fait à l'époque de sa collaboration avec SARTORY",,,sold,,7492,EUR,Primary,Primary
+,,2023-11-30,397,,"Archet de violon de  HILL & SONS, fait par l'un des grands archetiers de cette maison anglaise",,,sold,,2315,EUR,Primary,Primary
+,,2023-11-30,400,,"Intéressant archet d'alto de Jean-François RAFFIN, 8/8",,,sold,,16250,EUR,Primary,Primary
+,,2023-11-29,500,,"Violon d'Honoré DERAZEY fait à Mirecourt vers 1860 en modèle Duiffopruggar  portant étiquette et plusieurs marques au fer de H. Derazey. Tête sculptée accidentée, fond et éclisses décorés. Petite cassure sur la table. 356mm.",,,sold,,5500,EUR,Primary,Primary
+,,2023-11-29,501,,"Violon de Michel COUTURIEUX fait à Mirecourt vers 1840, portant marque au fer Michel Couturieux. Bon état. 365mm.",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,502,,"Violon Mirecourt fait vers 1870 dans le style de Jules Gaillard, portant étiquette apocryphe Stradivarius. Légère restauration. 358mm.",,,sold,,1286,EUR,Primary,Primary
+,,2023-11-29,503,,"Violon d'Amédée DIEUDONNE fait à Mirecourt vers 1940 et vendu par Pierre Gaggini à Nice, portant étiquette lutherie artistique, façonné et mis au point par P. Gaggini. Assez bon état. 359mm.",,,sold,,3383,EUR,Primary,Primary
+,,2023-11-29,504,,"Violon de René CUNE fait à Mirecourt en 1951, portant étiquette fait par Renato Conni. Cassure d'âme sur la table. 354mm",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,505,,"Joli violon français début XXème, portant étiquette apocryphe Chardon père et fils. Bon état. 361mm.",,,sold,,2500,EUR,Primary,Primary
+,,2023-11-29,506,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1900/1910, portant étiquette et marque au fer apocryphe de Jombar. Assez bon état. 357mm.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,508,,"Violon Français province XVIIIème, portant étiquette raccommodé par Thibout L'ainé luthier rue St Jean à Caen 1789 et étiquette apocryphe Stainer. Cassure sur la table. 362mm.",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,509,,"Violon de Christian OLIVIER et Paul BISCH fait à Paris en 1927, portant signature de Ch. Olivier et Bisch et étiquette de Christian Olivier. Bon état. 357mm.",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,510,,"Violon d'Améde DIEUDONNE fait à Mirecourt en 1952, portant étiquette de Dieudonné et signatures. Assez bon état. 356mm.",,,sold,,4000,EUR,Primary,Primary
+,,2023-11-29,512,,"Violon de la maison COUESNON fait à Mirecourt en 1946, numéroté 2657, portant étiquette Georges Cherpitel. Assez bon état. 358mm.",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,513,,"Violon fait dans les ateliers LABERTE HUMBERT à Mirecourt vers 1925/1930, portant étiquette Beuscher. Assez bon état. 358mm",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,514,,"Violon de LABERTE HUMBERT fait à Mirecourt vers 1935 en modèle Paul Mangenot, dont il porte l'étiquette. Bon état. 356mm.",,,sold,,2250,EUR,Primary,Primary
+,,2023-11-29,515,,"Violon de Gustave METHFESSEL fait à Berne en 1899 numéroté 91, portant étiquette de Gustave Methfessel. Assez bon état. 360mm.",,,sold,,6750,EUR,Primary,Primary
+,,2023-11-29,516,,"Violon probablement Allemand fin XVIIIème, portant étiquette Hoffmann à Naples. Différentes restaurations et cassures. 356mm.",,,sold,,2250,EUR,Primary,Primary
+,,2023-11-29,517,,"Violon fait dans les ateliers Pierre HEL (second choix), non verni. Bon état. 357mm. Instrument provenant de la famille Louvois-Hel",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,518,,Violon de LABERTE-HUMBERT fait à Mirecourt vers 1935 en modèle Paul Mangenot dont il porte l'étiquette. Bon état. 357mm,,,sold,,2125,EUR,Primary,Primary
+,,2023-11-29,519,,"Violon de Bernard ANCIAUME fait à Mirecourt vers  1770, portant étiquette réparé par Claudot élève de Gand, avec marque au talon. différentes cassures sur la table, tête remplacée plus tardive. 362mm. 1/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net Violon de Didier Nicolas AINE fait à Mirecourt vers 1800 , portant marques au fer Nicolas Ainé sur la table et sur le fond. Petite cassure sur la table, traces de vers sur la table et les éclisses, talon cassé. 363mm.",,,sold,,1208,EUR,Primary,Primary
+,,2023-11-29,522,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème en modèle Buthod, portant étiquette Buthod. Assez bon état. 359mm.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,523,,"Violon XIXème, portant marque au fer Otto Sander. Différentes cassures et restaurations sur la table. 357mm.",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,524,,"Violon des atelier Charles Jean-Baptiste Léon COLLIN MEZIN petit fils, fait à Mirecourt en 1851, fini et vendu par Albert Deblaye, portant étiquette de Deblaye. Bon état. 359mm.",,,sold,,2443,EUR,Primary,Primary
+,,2023-11-29,525,,"Violon de Jules GAILLARD fait à Mirecourt en 1858, signé Gaillard sur le fond, portant étiquette apocryphe Stradivarius. Quelques restaurations sur la table. 362mm.",,,sold,,3750,EUR,Primary,Primary
+,,2023-11-29,527,,"Archet de violon de Georges Émile BARJONNET, fait vers 1970, signé ""Gerome Devoivre"", monté argent. 60g3, avec mèche fine. Petits coups tête, légers éclats hausse. Bon état. Archet de violon de MORIZOT Frères, fait vers 1960, signé ""L. Morizot"", monté argent. 55g1, avec mèche fine. Petits coups et veine dessus tête, usure et éclats bas de baguette, éclats mortaise de vis et écrou, fractures et éclats hausse. Bon état. Archet de violoncelle de MORIZOT Frères, fait vers 1955 pour ""Collin-Mezin"", monté maillechort. 71g6, avec mèche et garniture légères. Gerces et usure bas de baguette, une vis de coulisse manquante, éclats hausse. Bon état. Baguette d'archet de violon de Charles Louis BAZIN, fait vers 1930, signé ""Louis Bazin"", avec hausse et bouton provenant d'un autre archet de ce maître, monté argent. 56g, avec mèche fine. Coups dessus tête, gerce arrière baguette et devant mortaise de vis et écrou. Bon état.",,,sold,,1148,EUR,Primary,Primary
+,,2023-11-29,532,,"Archet de violon de Charles Louis BAZIN, fait vers 1945, monté maillechort. 45g6, sans mèche ni garniture. Fins de noeud baguette. Bon état.",,,sold,,1148,EUR,Primary,Primary
+,,2023-11-29,534,,"Archet de violon de Roger François LOTTE, fait vers 1960, signé ""François Lotte"", monté maillechort. 60g2. Coups dessus tête. Bon état. Archet de violon de Charles Louis BAZIN, fait vers 1935, signé ""Louis Bazin"", monté argent. 58g5, avec mèche fine. Petite fracture arrière et usures côtés tête, gerces baguette, usure bas de baguette, fracture et éclats hausse. Bon état. Archet de violon de Charles Nicolas BAZIN, fait vers 1880, signé ""C. Bazin"", monté maillechort, avec bouton postérieur. 56g, avec mèche et garniture fines. Fin de noeud baguette, fracture et éclat mortaise de vis et écrou, coulisse légèrement endommagée. Bon état.",,,sold,,1188,EUR,Primary,Primary
+,,2023-11-29,538,,"Archet de violon de Louis Joseph MORIZOT Père, fait vers 1930, monté maillechort. 45g, sans mèche et garniture fine. Petits coups tête et baguette, trace de mortaise côté tête. Bon état.",,,sold,,1692,EUR,Primary,Primary
+,,2023-11-29,540,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1890, signé ""illisible"", monté maillechort. 59g5, avec mèche fine. Petits coups dessus tête, légers éclats hausse. Bon état. 2/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net Archet de violon de Charles Nicolas BAZIN, fait vers 1890, signé apocryphe ""A. Lamy à Paris"", monté argent. 57g6, avec mèche et garniture fines. Gerce recollée milieu de baguette. Petits coups et noeud baguette, arrière tête légèrement repris. Bon état.",,,sold,,1088,EUR,Primary,Primary
+,,2023-11-29,543,,"Archet d'alto de MORIZOT Frères, fait vers 1950, signé ""A. Deblaye"", monté maillechort. 59g, sans garniture. Coups et arrachures tête et baguette, noeuds baguette, arrachures sous garniture. Bon état. Archet de contrebasse de Charles Nicolas BAZIN, fait vers 1890, signé ""C. Bazin"", monté maillechort. 126g, sans mèche. Petit éclat dessus tête et baguette, mastic sur le bouton, Fentes hausse, éclats, usure hausse côté opposé. Bon état. Archet de violon de Charles Louis BAZIN, fait vers 1935, signé ""Louis Bazin"", monté maillechort. 48g2, sans mèche. Petits coups côté tête et collet, fin de noeud baguette, trou de ver rebouché arrière baguette, légère gerce arrière baguette. Bon état.",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,546,,"Baguette de violon de Pierre MALINE, fait vers 1925, signé ""Pillot"", hausse et bouton de l'école de BAZIN, monté maillechort. 55g4, avec mèche fine. Fracture côté tête, usure bas de baguette. Bon état. Archet de violon de Charles Nicolas BAZIN, fait vers 1890, signé ""C. Bazin"", monté argent. 57g2, mèches fines. Noeud tête et baguette, usure arrière baguette, arrachure côté mortaise de vis et écrou. Bon état.",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,549,,"Archet de violon de Charles Nicolas BAZIN, fait vers 1880, signé ""Tourte"", monté maillechort. 52g2, sans mèche. Petits coups et usure arrière baguette, éclats hausse. Bon état. Archet de violon de MORIZOT Frères, fait vers 1950, signé ""L. Morizot"", monté argent. 62g7. Arrière tête un peu retouché, usure bas de baguette, légère fracture mortaise de vis et écrou, petite fracture hausse. Bon état.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-29,551,,"Joli violon fait dans les ateliers LABERTE HUMBERT à Mirecourt vers 1900, portant étiquette de Chartreux. Bon état. 360mm.",,,sold,,1785,EUR,Primary,Primary
+,,2023-11-29,552,,"Violon fait dans l'atelier de Julien LAVEST à Montluçon vers 1930, portant étiquette apocryphe Stradivarius et étiquette Lavest. Bon état. 359mm",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,553,,"Violon de René MORIZOT fait à Mirecourt en 1952, numéroté 416, portant signature de René Morizot. Bon état. 355mm.",,,sold,,3000,EUR,Primary,Primary
+,,2023-11-29,554,,"Violon Mirecourt fait vers 1760, porte une marque de Colin à Paris. Joint de fond décollé, cassures sur la table. 359mm.",,,sold,,1188,EUR,Primary,Primary
+,,2023-11-29,555,,"Violon de l'école de DERAZEY, fait à Mirecourt vers 1870. Cassure d'âme sur la table. 358mm.",,,sold,,2900,EUR,Primary,Primary
+,,2023-11-29,556,,"Violon de Victor AUDINOT MOUROT, fait à Mirecourt vers 1920, portant étiquette Laberte Humbert Frères. Bon état. 357mm. Violon de Louis MOITESSIER fait à Mirecourt vers 1830, portant marque au fer Moitessier à Paris et différentes mentions de restaurations. Différentes restaurations sur la table. 366mm. Avec facture de Camurat.This instrument is more than 100 years old.",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,558,,"Violon de Victor AUDINOT-MOUROT fait à Paris en 1926, portant étiquette et signature sur le fond Victor Audinot Mourot. Complet mais entièrement décollé. 359mm 3/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net Violon de Johann Gottfried HAMM fait à Markneukirchen en1780, portant vestige  d'étiquette de Hamm. Tête avec cartouche incrustation en os. Nombreuses cassures sur le fond et sur table dont cassure d'âme sur la table. 360mm.",,,sold,,1157,EUR,Primary,Primary
+,,2023-11-29,560,,"Joli violon Mirecourt XXème, portant étiquette apocryphe Amatus. Assez bon état. 354mm",,,sold,,2375,EUR,Primary,Primary
+,,2023-11-29,561,,"Violon de LABERTE HUMBERT fait à Mirecourt XXème, portant étiquette Beuscher. Assez bon état. 357mm",,,sold,,1415,EUR,Primary,Primary
+,,2023-11-29,563,,"Violon fait dans les ateliers de Pierre HEL (second choix) à Lille vers 1925/1930, non verni. Sans sa touche. Petit manque sur le joint de fond. 356mm. Instrument provenant de la famille Louvois-Hel Violon XXème de JEROME THIBOUVILLE LAMY fait à Mirecourt en modèle Buthod portant étiquette Buthod et marque au fer J.T.L. sur le fond. Petit éclat sur la coulisse arrière de la tête et petite cassure sur la table au niveau de l'F droit. 357mm",,,sold,,1415,EUR,Primary,Primary
+,,2023-11-29,565,,"Violon fait dans l'atelier de R & M. MILLANT à Paris en 1933 en copie de Kloz, portant étiquette fait dans les ateliers R & M. Millant. Assez bon état. 358mm",,,sold,,3250,EUR,Primary,Primary
+,,2023-11-29,566,,"Violon 3/4 probablement italien, portant étiquette apocryphe Sacchetti . Galeries de vers rebouchées, petites cassures sur la table. 327mm.",,,sold,,1800,EUR,Primary,Primary
+,,2023-11-29,568,,"Violon  fait par THIERY chez GOSSELIN fait à Paris vers 1820/1830, portant étiquette de Thiery. Tête française remplacée de la même époque. Nombreuses traces de vers. 358mm",,,sold,,3500,EUR,Primary,Primary
+,,2023-11-29,569,,"Violon fait dans l'atelier Léo SIR à Marmande en 1902, portant étiquette fait dans l'atelier de Léo Sir. Traces de vers sur la table, les éclisses et le fond. 357mm.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-29,570,,"Violon de Nicolas CAUSSIN fait vers 1870/1880, portant étiquette Jacques Boquet. Quelques restaurations sur la table dont une cassure d'âme. 357mm.",,,sold,,4000,EUR,Primary,Primary
+,,2023-11-29,572,,Violon Mirecourt fin XIXème de l'école de GRANDJON. Assez bon état. 358mm.,,,sold,,2500,EUR,Primary,Primary
+,,2023-11-29,573,,"Violon de JEROME THIBOUVILLE LAMY, fait à Mirecourt en 1934 en modèle Blondelet, portant étiquette et marque au fer de Blondelet. Bon état. 361mm",,,sold,,1800,EUR,Primary,Primary
+,,2023-11-29,574,,"Alto petite taille de Charles Jean-Baptiste Léon COLLIN MEZIN petit fils, fait à Mirecourt en 1953, portant étiquette de Collin Mezin. Bon état.  379mm",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,575,,"Violon de l'école de CAUSSIN fait à Neufchateau vers 1860/1870, portant étiquette apocryphe Guadagnini et signature illisible. Cassure sur la table. 357mm. Baguette d'archet de violon de l'école de VOIRIN, faite vers 1880, signée ""Audinot à Paris"", avec hausse et bouton postérieurs monté argent. 51g, sans mèche ni garniture. Fracture arrière tête recollée, coups dessus tête et baguette, usure et fractures bas de baguette, coulisse endommagée, fracture et éclat hausse. Assez bon état.",,,sold,,1329,EUR,Primary,Primary
+,,2023-11-29,577,,"Archet de violon de MORIZOT Frères, fait vers 1950, signé ""L. Morizot"", monté maillechort. 60g5. Petite gerce baguette, éclats mortaise de vis et écrou. Bon état.",,,sold,,2250,EUR,Primary,Primary
+,,2023-11-29,578,,"Archet d'alto de CUNIOT-HURY / OUCHARD, fait vers 1915/1920, monté maillechort. 57g4, sans mèche. Petite arrachure baguette. Bon état. 4/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,2125,EUR,Primary,Primary
+,,2023-11-29,579,,"Archet de violon de MORIZOT Frères, fait vers 1950, signé ""L. Morizot"", monté maillechort. 56g, mèche fine. Arrachure devant mortaise de vis et écrou. Petit éclat sous la hausse. Bon état. Archet de violon d'Alfred LAMY Neveu, fait vers 1920 pour ""Couesnon"" et signé ""A. Voirin Fils"", monté argent. 56g, sans mèche. Éclats dessus tête, arrachure et gerce baguette, usure bas et sous baguette, coups bouton, éclat et fracture hausse. Bon état. Archet de contrebasse de MORIZOT Frères, fait vers 1950, signé ""Morizot"", monté maillechort. 124g, long. 660mm. Petit noeud baguette, éclat mortaise de vis et écrou, éclat dessus tête, éclat hausse. Bon état. Archet de violoncelle de JEROME THIBOUVILLE LAMY, fait vers 1940 en modèle ""Grandini"", monté maillechort. 70g2, sans mèche. Arrachure tête et baguette, éclat mortaise de vis et écrou, éclat ébène. Bon état. Archet de violon de MORIZOT Frères, fait vers 1955, signé ""Rechh"", monté maillechort,  passant postérieur. 57g, avec mèche fine. Fracture côté tête, coups tête et baguette, éclats et fracture hausse. Bon état.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,587,,"Archet de violon de MORIZOT Frères, fait vers 1950, signé ""L. Morizot"", monté argent. 51g, sans mèche.. Petite fracture arrière baguette. Bon état.",,,sold,,3750,EUR,Primary,Primary
+,,2023-11-29,588,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1930, signé ""Paul Beuscher à Paris"", monté argent. 52g4, sans mèche ni bouton. Gerce arrière baguette. Bon état.",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,589,,"Archet de violon de Roger François LOTTE, fait vers 1980, signé ""François Lotte"", monté argent. 63g8. Usure bas de baguette. Bon état.",,,sold,,2755,EUR,Primary,Primary
+,,2023-11-29,594,,"Archet de violon de François LOTTE, fait en collaboration avec Pierre MALINE, vers 1930 pour ""François Lotte"", monté maillechort. 67g. Fin de noeud baguette. Bon état. Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1950, signé ""E. Blondelet à Paris"" et ""E. A. Broca Brevete"", monté argent. 63g, avec mèche fine. Très légère gerce arrière baguette. Très bon état.",,,sold,,2250,EUR,Primary,Primary
+,,2023-11-29,596,,"Archet de violon de l'atelier d'Albert NURNBERGER, fait vers 1950, signé ""Albert Nurnberger"", monté or. 56g4, avec mèche fine. Usure arrière baguette. Bon état.",,,sold,,4630,EUR,Primary,Primary
+,,2023-11-29,598,,"Archet de violon de Charles Louis BAZIN, fait vers 1925, signé ""Louis Bazin"", monté argent. 59g. Fracture arrière et côté tête, usure arrière baguette, fracture et éclat hausse. Bon état.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,599,,"Baguette d'archet de violon de Nicolas DUCHAINE, faite vers 1775. 39g. Coups tête et bec un peu diminué, éclats et coups baguette. Bon état.",,,sold,,1063,EUR,Primary,Primary
+,,2023-11-29,600,,"Archet de violon de CUNIOT HURY/OUCHARD, fait vers 1920, en modèle et signé ""Tourte"", monté argent. 55g. Léger éclat bec de tête, petits coups hausse.",,,sold,,2250,EUR,Primary,Primary
+,,2023-11-29,602,,"Violon début XXème de JEROME THIBOUVILLE LAMY fait à Mirecourt, portant étiquette apocryphe Carlo Bergonzo. Assez bon état. 358mm.",,,sold,,2296,EUR,Primary,Primary
+,,2023-11-29,603,,"Violon de René JACQUEMIN fait à Mirecourt en 1942, portant étiquette de René Jacquemin. Assez bon état. 356mm",,,sold,,3022,EUR,Primary,Primary
+,,2023-11-29,604,,"Violon de François CABASSE, portant signature et marque au fer Cabasse Goviot. Assez bon état. 360mm. 5/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1736,EUR,Primary,Primary
+,,2023-11-29,606,,"Joli violon Mirecourt début XXème, portant étiquette ""Prosper Colas 1911"". Bon état. 357mm.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,607,,"Violoncelle Mirecourt début XXème, trou dans l'éclisse du c, nombreuses traces et piqures de vers, quelques restaurations. 757mm.",,,sold,,3601,EUR,Primary,Primary
+,,2023-11-29,608,,"Violon fait dans l'atelier de LACOMBE à Mirecourt vers 1870, portant étiquette apocryphe Amatus et signature sur la table de Fabrique de Lacombe. Assez bon état. 354mm (Réf C0332/1).",,,sold,,1929,EUR,Primary,Primary
+,,2023-11-29,609,,"Violon d'Alexandre CARILLON fait à Fraize en 1912, portant étiquette et signatures d'Alexandre Carillon. Bon état. 354mm.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,610,,"Violon fait dans l'atelier de Roger et Max MILLANT à Paris en 1951, portant étiquette fait dans les ateliers de R et M Millant. Bon état. 358mm",,,sold,,3383,EUR,Primary,Primary
+,,2023-11-29,612,,Violon Mirecourt fin XIXème fabriqué probablement vers 1880. Cassure sur la table. 351mm.,,,sold,,3250,EUR,Primary,Primary
+,,2023-11-29,613,,"Violon de Léon MOUGENOT fait à Mirecourt en 1930, portant étiquette Léon Mougenot Gauché. Joint de table décollé. 356mm.",,,sold,,2375,EUR,Primary,Primary
+,,2023-11-29,616,,"Violon de la maison LABERTE HUMBERT fait à Mirecourt vers 1930, portant étiquette et marque au fer Lorenzi. Bon état. 361mm",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,617,,"Violon fait dans les ateliers de Pierre HEL (second choix) à Lille vers 1925/1930, non verni. Petites gerces sur la table. 356mm. Instrument provenant de la famille Louvois-Hel",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,619,,"Violon fait dans les ateliers JEROME THIBOUVILLE LAMY à Mirecourt en 1907, portant étiquette et marque au fer J.T.L. Assez bon état. 358mm.",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,620,,"Violon de LABERTE-HUMBERT fait à Mirecourt vers 1935/1940, portant étiquette et marque au fer apocryphe d'Albert Claudot. Coin de table manquant, partiellement déverni. 356mm",,,sold,,2443,EUR,Primary,Primary
+,,2023-11-29,621,,"Violon de Michel COUTURIEUX fait à Mirecourt vers 1810/1830, portant marque au fer Couturieux Deroux à Paris. Légères restaurations. 363mm.",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,622,,"Violon français province XVIIIème, portant étiquette apocryphe Clots. Quelques restaurations. 358mm. This instrument is more than 100 years old.",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,624,,"Violon fait dans l'atelier de COLLIN MEZIN Fils  à Mirecourt vers 1930/1935 numéroté 348, portant étiquette apocryphe Stradivarius avec les initiales C.M. Assez bon état. 358mm.",,,sold,,2500,EUR,Primary,Primary
+,,2023-11-29,625,,"Alto fin XVIIIème, portant étiquette apocryphe Stradivarius. Cassure sur la table. 383mm.",,,sold,,3250,EUR,Primary,Primary
+,,2023-11-29,626,,"Archet de violon de François LOTTE, fait vers 1960, signé ""Tourte"", monté maillechort. 54g, avec mèche fine. Bon état. Archet de violoncelle de LABERTE HUMBERT fait vers 1930, signé ""V.J. Ferelli"", monté maillechort. 74g sans mèche. Fin de noeud  usure bas et coups baguette, fracture mortaise de vis et écrou, éclat et fente hausse. Archet de contrebasse de Charles Nicolas BAZIN, fait vers 1880, monté maillechort. 129g4, sans garniture. Petit éclat côté tête, gerce sous baguette, petit arrachure côté mortaise de vis et écrou. Bon état 6/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,631,,"Archet de violon de Charles Louis BAZIN, fait vers 1930, monté maillechort. 58g, avec mèche fine. Petits éclats bec de tête, éclats hausse. Bon état. Archet de violon de Georges Émile BARJONNET, fait vers 1970, signé ""Roger Gérome"", monté argent. 57g5, sans mèche. Coups et fin de noeud baguette, fin de gerces et usure arrière baguette, fracture et éclat hausse. Bon état.",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,636,,"Archet de violon fait dans l'atelier de PFRETZSCHNER, vers 1930, signé ""H.R. Pfretzchner"", monté argent. 57g8. Petits coups baguette, usure arrière baguette. Bon état. Archet de violon de Joseph GAUDE, fait vers 1845, en bois d'amourette, bouton os. 53g6, sans mèche ni garniture. Éclat bec de tête, petit éclat devant mortaise de vis et écrou, hausse légèrement reprise. Bon état.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-29,641,,"Archet de violon de l'école de BAZIN, fait vers 1920, monté maillechort. 51g6. Coups arrière baguette, gravure superficielle arrière baguette, coup hausse, dégorgement repris.",,,sold,,688,EUR,Primary,Primary
+,,2023-11-29,642,,"Archet de violon de L. MORIZOT Frères, fait vers 1955, monté maillechort. 56g9, avec mèche fine. Fracture et fin de gerce baguette. Bon état.",,,sold,,1188,EUR,Primary,Primary
+,,2023-11-29,643,,"Archet de violon de François LOTTE, fait vers 1950, signé ""J. Lavest"", monté maillechort. 55g1, avec mèche fine. Arrachure bas de baguette et noeud baguette. Bon état.",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,644,,"Archet de violon de Pierre MALINE, fait vers 1920, pour ""J.P. Beuscher Paris"", monté maillechort. 58g7. Eclat hausse. Bon état. Archet de violoncelle 7/8ème de Nicolas MAIRE, en bois d'amourette, fait vers 1860, monté maillechort. 78g3, sans garniture. Petits coups baguette, trace de cordes sur la hausse. Long; 66,7cm. Bon état.",,,sold,,7330,EUR,Primary,Primary
+,,2023-11-29,650,,"Archet de violon de Charles Louis BAZIN fait vers 1925, signé ""Louis Bazin"", monté maillechort. 55g8, mèches fines. Fin de noeud baguette. Bon état.",,,sold,,2125,EUR,Primary,Primary
+,,2023-11-29,651,,"Violoncelle 3/4 français XVIIIème de l'école de Frebrunet, différentes restaurations, piqûres et traces de vers. 680mm.",,,sold,,1608,EUR,Primary,Primary
+,,2023-11-29,652,,"Violon de Charles Jean-Baptiste Léon COLLIN MEZIN petit fils, fait à Mirecourt en 1946, portant étiquette de Collin-Mezin. Assez bon état. 356mm.",,,sold,,3729,EUR,Primary,Primary
+,,2023-11-29,653,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1910/1915, portant étiquette de Guarnerius et de J.T.L., marque au fer de J.T.L. sur le tasseau de devant. Assez bon état. 359mm.",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,654,,"Violon de Joseph NICOLAS fait à Mirecourt vers 1840, portant marque au fer et signature de J. Nicolas. Petites cassures sur la table, talon cassé. 364mm.",,,sold,,1329,EUR,Primary,Primary
+,,2023-11-29,656,,Violon Mirecourt XXème portant étiquette apocryphe Guarnerius. Joint de table décollé et recollé. 358mm.,,,sold,,1286,EUR,Primary,Primary
+,,2023-11-29,657,,"Violon Léonidas NADEGINI fait à Paris en 1923, numéroté 323, portant étiquette de Nadegini. Différentes cassures dont une cassure d'âme sur la table avec affaissement. 359mm.",,,sold,,1286,EUR,Primary,Primary
+,,2023-11-29,658,,"Violon XIXème, portant étiquette apocryphe Fent. Différentes cassures et gerce sur le fond, cassure sur la tête. 359mm. 7/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1800,EUR,Primary,Primary
+,,2023-11-29,659,,"Violon fait dans la maison LABERTE-HUMBERT frères à Mirecourt vers 1920, portant étiquette apocryphe Guarnerius et marque au fer LHF. Bon état. 357mm.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-29,660,,"Violon fait vers 1900 en modèle Guarnerius, portant marque au fer Gautrot Aîné à Paris . Fond décollé. 360mm.",,,sold,,3000,EUR,Primary,Primary
+,,2023-11-29,662,,"Violoncelle Mirecourt XXème. Piqures de vers sur la table, avec une nouvelle enture de tête. Traces de vers sur les éclisses. 762mm",,,sold,,1736,EUR,Primary,Primary
+,,2023-11-29,664,,"Violon de la maison COUESNON, fait à Mirecourt vers 1940, portant étiquette Bernez. Bon état. 361mm",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,666,,"Violon fait dans les ateliers Pierre HEL (second choix), non verni. FF partiellement taillés. 356mm. Instrument provenant de la famille Louvois-Hel",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,667,,"Violon fait dans les ateliers de Charles Louis COLLIN-MEZIN Fils à Mirecourt vers 1920/1930, vendu par Léon Bernardel, dont il porte l'étiquette et la date de 1933. Assez bon état. 359mm",,,sold,,4115,EUR,Primary,Primary
+,,2023-11-29,670,,Violon Allemand fait à Mittenwald vers 1780. Nombreuses restaurations. 361mm.,,,sold,,3500,EUR,Primary,Primary
+,,2023-11-29,672,,"Violon de Joseph CHAROTTE fait à Mirecourt vers 1820, portant étiquette apocryphe Guarnerius et étiquette Clément. Quelques restaurations. 358mm.",,,sold,,4750,EUR,Primary,Primary
+,,2023-11-29,673,,"Violon XVIIIème, portant étiquette apocryphe Batiazza. Tête remplacée allemande. Quelques restaurations, cassure d'âme sur le fond et traces de vers. 355mm. Violon français XVIIIème avec tête postérieure, trace de marque au fer sur le talon, inscription à l'encre sur le fond probablement de réparation avec la date de 1848 ?. Différentes cassures et restaurations sur la table. 360mm.",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,675,,"Violon de Jean STRIEBIG fait à Mirecourt en 1950 numéroté 1017, portant étiquette de Jean Striebig et marque au fer sur le fond. Bon état. 356mm",,,sold,,2572,EUR,Primary,Primary
+,,2023-11-29,676,,"Archet de violon de MORIZOT Frères, fait vers 1955, signé ""A. Vigneron à Paris"", monté maillechort. 55g5, sans mèche ni garniture. Petite arrachure baguette, petits coups hausse. Bon état.",,,sold,,2125,EUR,Primary,Primary
+,,2023-11-29,677,,"Archet de violon de l'école de OUCHARD, fait vers 1920, monté maillechort. 55g4, sans mèche ni garniture. Petits coups baguette, éclat mortaise de vis et écrou. Bon état. Archet de violon de Charles Nicolas BAZIN fait vers 1900, monté maillechort.  51g1, sans mèche et garniture baleine. Eclat bec de tête, éclat mortaise de vis et écrou, coups tête et baguette, Eclat hausse. Bon état. Archet de violon de Charles Nicolas BAZIN, fait vers 1890, monté maillechort avec bouton de même époque. 48g6, sans mèche ni garniture. Éclat bec de tête, fracture avant mortaise vis et écrou, légère fracture éclat hausse. Bon état. Archet de violon d'Eugène CUNIOT dit ""CUNIOT-HURY"" fait vers 1900, signé ""Moinel-Cherpitel"", monté argent. 55g2, avec mèche et garniture fines. Gerce baguette après la garniture, gerce mortaise de vis et écrou, coulisse endommagée. Bon état. Baguette et bouton d'archet de violon de François Jude GAULARD, fait vers 1830, en bois de fer, hausse de même époque montée os. 55g7, sans mèche. Gerces baguette et coups, fracture avant mortaise de vis et écrou, traces de brulure baguette. Bon état. 8/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,683,,"Archet de violon d'Eugène CUNIOT-HURY, fait vers 1900, signé ""Cuniot-Hury"", monté argent. 47g7, sans mèche. Petite gerce baguette. Bon état.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,684,,"Archet de violon de MORIZOT Frères, fait vers 1940, monté maillechort. 50g5, sans mèche. Eclat hausse. Bon état. Archet de violon de Claude Auguste THOMASSIN, fait vers 1905, signé ""C. Thomassin à Paris"", monté argent. 46g5, avec garniture légère. Coups dessus tête, coups et usure pouce et bas baguette, fracture et usure bec hausse. Bon état.",,,sold,,3142,EUR,Primary,Primary
+,,2023-11-29,686,,"Archet d'alto de Roger François LOTTE, fait vers 1970, signé ""Roger Lotte"", monté argent. 72g5. Fin de noeud baguette. Bon état.",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,689,,"Archet de contrebasse de Charles Louis BAZIN, fait vers 1930, signé ""Louis Bazin"", monté maillechort. 120g1 et 634mm. Griffures dessus tête, gerce arrière baguette. Bon état. Archet de violon de Marcel Charles LAPIERRE, fait vers 1960, pour ""René Cune"", monté maillechort. 55g1, sans mèche. Fin de noeud et comblage baguette, éclat hausse, gerce avant mortaise vis et écrou. Bon état.",,,sold,,2250,EUR,Primary,Primary
+,,2023-11-29,693,,"Archet de violon de MORIZOT Frères, fait vers 1960, monté maillechort. 53g3, sans mèche. Coups côté tête. Bon état.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,694,,"Archet de violon de Charles Louis BAZIN, fait vers 1930, signé ""Louis Bazin"", monté maillechort. 63g5. Eclat bec de tête et coups baguette. Bon état. Baguette d'archet de violon de Jean Joseph MARTIN, fait vers 1880, hausse d'un autre archet de ce maître et bouton postérieur, monté maillechort. 52g, avec mèche et garniture fines. Coulisse déformée, petits coups tête, éclat hausse. Bon état.",,,sold,,2375,EUR,Primary,Primary
+,,2023-11-29,697,,"Archet de violon de MORIZOT Frères, fait vers 1955, signé ""L. Morizot"", monté maillechort. 54g2, sans mèche. Petite gerce devant mortaise de vis et écrou. Bon état. Archet de violon de Louis Joseph MORIZOT Père, fait vers 1935, signé ""L. Morizot"", monté maillechort. 59g3. Trou de ver rebouché et fin de noeud baguette, coulisse endommagée et éclat ébène, gerce côté mortaise de vis et écrou. Bon état.",,,sold,,1933,EUR,Primary,Primary
+,,2023-11-29,700,,"Archet de violon d'Emile François OUCHARD, dit ""Ouchard Père"", fait vers 1925, monté maillechort. 48g5, sans mèche. Noeud gercé. Bon état.",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,701,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt en 1886, portant étiquette et marque au fer de Barnabetti. Bon état. 358mm.",,,sold,,1692,EUR,Primary,Primary
+,,2023-11-29,702,,"Violon fait vers 1790, portant étiquette apocryphe Jacobs. Nombreuses restaurations et cassures sur la table, cassures sur le fond et sur la tête. 360mm.",,,sold,,2296,EUR,Primary,Primary
+,,2023-11-29,703,,"Violon de Joann Joseph STADLMANN fait à Vienne en 1770, portant étiquette de Stadlmann. Tête remplacée. Quelques restaurations sur la table et cassures d'éclisses. 357mm.",,,sold,,3500,EUR,Primary,Primary
+,,2023-11-29,704,,"Violon probablement de la maison LABERTE, fait à Mirecourt vers 1900, portant étiquette JF Alcide Drouin. Assez bon état. 357mm. Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1900, en modèle JB Vuillaume, portant étiquette apocryphe Vuillaume  et marque au fer JTL. sur le tasseau de devant. Petit éclat sur le fond. 357mm. 9/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,707,,"Violon allemand début XXème, portant étiquette apocryphe Guarnerius. Petite cassure sur la table. 358mm.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-29,708,,"Violoncelle Mirecourt XXème, portant étiquette apocryphe Stainer. Différentes restaurations. 753mm",,,sold,,3601,EUR,Primary,Primary
+,,2023-11-29,709,,Violon Mirecourt fait vers 1770. Quelques restaurations et traces de vers sur les éclisses. 360mm.,,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,710,,"Violon XXème, portant étiquette apocryphe Dalaglio. Assez bon état. 356mm.",,,sold,,3472,EUR,Primary,Primary
+,,2023-11-29,711,,"Violon Mirecourt XIXème de l'école de DERAZEY, portant étiquette apocryphe Stradivarius, recoupé par le bas. 357mm.",,,sold,,1093,EUR,Primary,Primary
+,,2023-11-29,713,,Violoncelle Mirecourt fait vers 1915/1920 portant étiquette apocryphe Vuillaume.  Quelques piqures de vers rebouchées. Légères restaurations. 753mm.,,,sold,,3750,EUR,Primary,Primary
+,,2023-11-29,714,,"Violon fait dans les ateliers Charles Louis COLLIN MEZIN fils à Mirecourt en 1932, portant étiquette fait sous le direction de Collin Mézin. Bon état. 355mm",,,sold,,3000,EUR,Primary,Primary
+,,2023-11-29,715,,"Violon Allemand fait à Mittenwald vers 1750/1760, portant étiquette apocryphe Stainer. Différentes cassures et restaurations, tête cassée, vernis abîmé. 357mm.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-29,717,,"Violon fait dans les ateliers de Pierre HEL (second choix) à Lille vers 1925/1930, non verni. Bon état. 356mm. Instrument provenant de la famille Louvois-Hel",,,sold,,3000,EUR,Primary,Primary
+,,2023-11-29,718,,"Alto fait à Mirecourt vers 1925/1930, portant étiquette apocryphe  Vuillaume. Assez bon état. 402mm.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,720,,"Violon de Charles Louis COLLIN MEZIN fils fait à Mirecourt en 1926 numéroté 303 en modèle le Victorieux, portant étiquette de Collin Mezin. Petites fissures sur la table. 356mm.",,,sold,,2701,EUR,Primary,Primary
+,,2023-11-29,721,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1915/1920, portant étiquette de Carlo Bescona. Assez bon état. 359mm.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-29,722,,"Violon de Louis BLITZ fait à Rotterdam en 1937, portant étiquette et marque au fer de Blitz. Bon état. 356mm",,,sold,,1800,EUR,Primary,Primary
+,,2023-11-29,725,,"Violon de Jean STRIEBIG fait à Mirecourt en 1942, portant étiquette de Jean Striebig en 1942. Bon état. 360mm.",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,726,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1950, signé ""Diens"", monté argent. 59g6, avec mèche fine. Petits coups devant tête, petite gerce collet, éclat mortaise de vis et écrou. Bon état. Archet de contrebasse de MORIZOT Frères, fait vers 1950 pour ""J. Tournier Paris"", monté maillechort avec un bouton d'un autre archet de ces maîtres. 118g. Petite gerce sous baguette, usure et gerce arrière baguette, coulisse manquante, passant dessoudé, fracture hausse et éclat. Bon état. Archet de violon de Nicolas SIMON dit SIMON Fr., fait vers 1860, en bois d'amourette, monté maillechort, avec bouton postérieur. 55g5, avec mèche et garniture fines. Arrachure, comblage pouce baguette, fracture et gerces tête. Assez bon état.",,,sold,,938,EUR,Primary,Primary
+,,2023-11-29,730,,"Archet de violon de MORIZOT Frères, fait vers 1950, signé ""L. Morizot"", monté maillechort. 57g4, avec mèche fine. Noeuds baguette, trous de ver ébène hausse. Bon état. 10/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,731,,"Archet d'alto fait dans le style de Nicolas Léonard Tourte fait vers 1800, en bois de fer, hausse en buis et bouton os. 57g, sans mèche ni garniture. Tête cassée et manquante, bouton fendu. En l'état.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-29,732,,"Archet de violon de Marcel Charles LAPIERRE, fait vers 1955, signé ""Ph. Coornaert Bruxelles"", monté argent. 61g5. Petit éclat arrière et coups baguette, petit éclat hausse. Très bon état,",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,733,,"Archet de violon de Charles Louis BAZIN, fait vers 1935 en modèle ""Tourte"", monté maillechort. 54g3, avec mèche et garniture fines. Gerces baguette. Bon état.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-29,734,,"Archet de violoncelle  fait vers 2000 en copie baroque, en bois d'amourette, hausse en os. 65g1 sans garniture, ni bouton. Eclat hausse. Bon état.",,,sold,,1222,EUR,Primary,Primary
+,,2023-11-29,735,,"Archet de violon de Roger François LOTTE, fait vers 1960, signé ""R & M Millant à Paris"", monté argent. 60g3. Usure bas de baguette, petits éclats sous collet, fracture hausse. Bon état. Archet de violon de CUNIOT-HURY fait vers 1900, signé ""Cuniot-Hury"", monté argent. 52g1, sans mèche. Coups et arrachures baguette, usure et fractures arrière baguette, fractures hausse et passant endommagé. Bon état.",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,737,,"Archet de violon de Pierre CUNIOT, fait vers 1875, monté maillechort. 54g7, sans garniture. Usure sous baguette, hausse bloquée, éclat et fracture hausse. Bon état. Archet de violon de Jean Joseph MARTIN fait vers 1880, monté maillechort. 43g7, sans mèche ni garniture. Dégorgement légèrement repris, petite arrachure, fin de noeud et gerce baguette, petite gerce côté baguette. Bon état.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,739,,"Archet de violon de Roger François LOTTE, fait vers 1960, signé ""François Lotte"", monté argent. 62g. Petit éclat mortaise vis et écrou, fracture et petit éclat hausse. Bon état.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,740,,"Archet de violon de Marcel LAPIERRE, fait vers 1955, signé ""M. Lapierre"", monté argent. 63g3. Coups dessus tête, petit éclat bec de tête, fente arrière baguette, culot bouton dessoudé. Bon état. Baguette d'archet de violon de l'école de BAZIN, faite vers 1890, hausse de SIMON FR,  monté argent avec un bouton de même époque. 48g9, sans mèche ni garniture. Coups et usure bas de baguette, coulisse endommagée, mamelon et mortaise de vis et écrou endommagés, éclat hausse. Bon état.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,742,,"Archet de violon de Pierre MALINE, fait vers 1910, signé ""Feret Marcotte Paris"", monté maillechort. 55g, avec mèche fine. Gerce baguette et coups, usure arrière baguette, éclats ébène hausse. Bon état.",,,sold,,1027,EUR,Primary,Primary
+,,2023-11-29,744,,"Baguette d'archet de violon d'Auguste LENOBLE, fait vers 1875. 41g4, avec garniture. Fin de noeud baguette. Assez bon état.",,,sold,,1188,EUR,Primary,Primary
+,,2023-11-29,745,,"Archet de violon de Charles Louis BAZIN, fait vers 1930, signé ""Lupot"", monté maillechort. 52g, sans mèche. Fente côté tête et coups baguette. Bon état.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-29,746,,"Archet de violon de Charles Louis BAZIN, fait vers 1930, signé ""Louis Bazin"", monté maillechort. 60g1. Usures et coups arrière baguette, éclat hausse. Bon état.",,,sold,,2375,EUR,Primary,Primary
+,,2023-11-29,747,,"Archet de violon de Charles Louis BAZIN, fait vers 1930, signé ""Vanelli"", monté maillechort. 59g. Bon état. 11/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,3500,EUR,Primary,Primary
+,,2023-11-29,751,,"Violon de LABERTE-HUMBERT fait à Mirecourt vers 1935, portant étiquette authentique de Paul Mangenot. Assez bon état. 360mm.",,,sold,,688,EUR,Primary,Primary
+,,2023-11-29,752,,Alto Mirecourt début XXème portant étiquette apocryphe Celoniatus.  Bon état.  402mm.,,,sold,,2375,EUR,Primary,Primary
+,,2023-11-29,754,,"Violon XIXème, portant étiquette apocryphe Testore. Quelques restaurations et traces de vers sur la table. 359mm.",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,755,,"Violon de Charles Louis COLLIN MEZIN fils, fait à Mirecourt en 1933, en  modèle ""Le Victorieux"" numéroté 181. Assez bon état. 358mm.",,,sold,,4375,EUR,Primary,Primary
+,,2023-11-29,756,,"Violon XXème, portant étiquette Legipont et signature de réparation.  Assez bon état. 358mm Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1910/1915, portant étiquette de Jerome Thibouville Lamy, étiquette apocryphe Stradivarius, et marque au fer J.T.L. sur le tasseau de devant. Bon état.  359mm.",,,sold,,2250,EUR,Primary,Primary
+,,2023-11-29,758,,"Violon XXème fait à Mirecourt, portant étiquette apocryphe de Léon Mougenot Gauché. Assez bon état. 357mm.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-29,759,,"Violon Mirecourt XXème fait en modèle Guarnerius del Gesu. Assez bon état. 360mm Violoncelle de l'atelier JEROME THIBOUVILLE LAMY fait à  Mirecourt début XXème, portant étiquette apocryphe Amati. Différentes restaurations dont une cassure d'âme au fond restaurée, talon cassé. 763mm. Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1920/1930, portant étiquette apocryphe Amatus, et étiquette Acoulon et Blondelet, et marque au fer Sarasate sur le talon. Assez bon état. 358mm.",,,sold,,965,EUR,Primary,Primary
+,,2023-11-29,762,,"Violon de LABERTE HUMBERT fait à Mirecourt vers 1930/1935 en modèle Paul Mangenot, portant étiquette de Paul Mangenot et marque au fer sur l'éclisse arrière. Assez bon état. 359mm. Violon Français province XVIIIème, portant étiquette remis d'épaisseur et barré par Laguetto à Bordeaux en 1772. Manche d'origine, sans sa touche. Quelques restaurations et traces de vers. 358mm. Violon de Léon MOUGENOT, fait à Mirecourt vers 1910/1915 et vendu par la maison HEL, portant étiquette de Stradivarius et une signature moderne, fait dans l'atelier de Joseph HEL, assez bon état. 358mm.",,,sold,,4372,EUR,Primary,Primary
+,,2023-11-29,766,,Violon Mirecourt XXème fini et vendu chez Lucien SCHMITT à Grenoble en 1954. Bon état.  356mm,,,sold,,1750,EUR,Primary,Primary
+,,2023-11-29,767,,"Violon de LABERTE HUMBERT fait à Mirecourt en 1910, portant étiquette apocryphe Pressenda et étiquette de Laberte Humbert. Assez bon état. 360mm.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-29,768,,"Violon Français, seconde partie du XVIIIème, portant étiquette apocryphe Albanus. Tête remplacée. Quelques restaurations,  table et fond refiletés. 361mm.",,,sold,,2315,EUR,Primary,Primary
+,,2023-11-29,769,,"Violon fait dans les ateliers COUESNON à Mirecourt vers 1928, portant étiquette de L. Bernardel. Cassures sur la table. Assez bon état. 357mm.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-29,771,,Violoncelle Mirecourt XXème. Cassure d'âme au fond. 757mm,,,sold,,2500,EUR,Primary,Primary
+,,2023-11-29,773,,Violoncelle d'étude XXème. Assez bon état.750mm.,,,sold,,3250,EUR,Primary,Primary
+,,2023-11-29,774,,Violon Français province XVIIIème de l'école de Grand Gérard. Assez bon état. 358mm. 12/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net,,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,775,,"Violon de Didier Nicolas AINE fait à Mirecourt vers 1825/1830, et portant marque au fer de D. Nicolas Ainé à la ville de Crémone. Assez bon état.  361mm.",,,sold,,3500,EUR,Primary,Primary
+,,2023-11-29,778,,"Baguette d'archet de violon de l'école de BAZIN, signé ""Lamy"", hausse et bouton de C.N. BAZIN. 56g. Coups dessus tête et baguette, petite arrachure baguette.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,779,,"Archet de violon de Charles Louis BAZIN, fait vers 1940, signé ""Legrand Paris"", monté maillechort. 58g5.  Petit noeud baguette, mamelon endommagé. Bon état. Baguette d'archet de violon de Marcel Gaston FETIQUE, faite vers 1940, signée, avec hausse et bouton d'Emile Auguste OUCHARD, monté maillechort. 52g, sans mèche et garniture fine. Coup dessus et devant tête, usure arrière baguette, éclats hausse. Bon état",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,782,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1940, signé ""Ch. Buthod à Paris"", monté argent. 57g, avec mèche fine. Eclat arrière baguette, fracture hausse. Bon état. Archet de violon de l'atelier Etienne PAJEOT, en bois d'amourette, fait vers 1910. 51g5, sans mèche ni garniture. Gerce et fin de trous de vers baguette, petits éclats arrière, petit éclat devant mortaise de vis et écrou, éclats et gerces hausse. Bon état.",,,sold,,3000,EUR,Primary,Primary
+,,2023-11-29,785,,"Archet d'alto de Roger-François LOTTE, fait vers 1965, signé ""Roger-François Lotte"", monté ivoire et argent. 68g2. Petit coup dessus tête, fente et éclat hausse. Bon état.",,,sold,,3000,EUR,Primary,Primary
+,,2023-11-29,786,,"Archet de violon de Louis Joseph MORIZOT Père, fait vers 1915 en modèle ""Lupot"", monté maillechort. 50g1, sans mèche et garniture fine. Fracture arrière baguette. Bon état.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,788,,"Archet de violon de JEROME THIBOUVILLE-LAMY, fait vers 1950 pour ""Julien Lavest"" et signé ""Pillot ainé à Paris"", monté argent. 55g5, sans mèche. Coups côté tête et baguette, griffures bouton. Bon état.",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,790,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1900, signé apocryphe ""A. Vigneron à Paris"", monté argent. 54g3, sans mèche. Coups tête et baguette. Bon état.",,,sold,,2500,EUR,Primary,Primary
+,,2023-11-29,791,,"Archet de violon de Charles Nicolas BAZIN fait vers 1890, monté maillechort. 50g, sans mèche ni garniture. Éclat bec de tête, petits coups tête, marques passant, coup hausse . Bon état.",,,sold,,1027,EUR,Primary,Primary
+,,2023-11-29,792,,"Archet de violon d'Alfred LAMY Neveu, fait vers 1920, signé ""L.B. Paris""  monté maillechort. 53g5, sans mèche. Noeud baguette. Bon état.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,793,,"Baguette d'archet de violon de Marc LABERTE fait vers 1930, bouton d'Eugène SARTORY remonté argent. 62g5. Traces d'outils tête, coups et noeud baguette, petit éclat ébène hausse. Bon état. Archet de violon d'Emile François OUCHARD Père fait vers 1915, signé ""Tourte"", monté argent. 52g5, sans mèche ni garniture. Petits coups tête et baguette, usure arrière et bas de baguette, usure et fente hausse. Assez bon état. (CXMP-BYN-5806). Vendu en collaboration avec la maison R & C de Marseille. Archet de violon de Marc LABERTE, fait vers 1930, signé ""Marc Laberte"", monté argent. 59g7, sans mèche. Petits coups baguette et tête, fin de noeud et usure bas de baguette, hausse bloquée et petits coups et petite fracture hausse. Bon état.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-29,800,,"Archet de violon de Charles Louis BAZIN, fait vers 1935, signé ""Louis Bazin"", monté argent. 59g. Bon état. 13/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net Violon de Louis MOITESSIER fait à Mirecourt vers 1800, portant étiquette Moitessier Paris. Différentes traces de vers rebouchées sur la table et sur le fond. 360mm. Vendu en collaboration avec la maison R & C de Marseille. Violoncelle 3/4 de l'école allemande du XIXème, portant étiquette apocryphe De Lannoy.  Différentes cassures restaurées sur la table, dont cassure d'âme, cassures le fond et les éclisses, traces de vers. 692mm.",,,sold,,1222,EUR,Primary,Primary
+,,2023-11-29,803,,"Violon de Lucien SCHMITT fait à Nice en 1921, portant étiquette de Lucien Schmitt. Assez bon état. 358mm.",,,sold,,5000,EUR,Primary,Primary
+,,2023-11-29,804,,"Violon de Léon MOUGENOT fait à Mirecourt en 1929, portant étiquette de Léon Mougenot Gauché. Cassure d'âme sur la table. 358mm",,,sold,,1329,EUR,Primary,Primary
+,,2023-11-29,805,,Violon Français province XVIIIème. Quelques restaurations sur la table. 358mm.,,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,806,,"Violoncelle Mirecourt début XXème, portant étiquette apocryphe Stradivarius. Différentes cassures sur la table. Pièce au niveau du talon sur le fond.  765mm.",,,sold,,1692,EUR,Primary,Primary
+,,2023-11-29,807,,Violoncelle 7/8ème français province seconde partie du XVIIIème. Nombreuses restaurations. 710mm.,,,sold,,4000,EUR,Primary,Primary
+,,2023-11-29,808,,"Violon de la maison COUESNON, fait à Mirecourt en 1936, portant étiquette de Georges Cherpitel. Bon état. 361mm",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,809,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt en 1925 en modèle Blondelet,  portant étiquette et marque au fer d'Emile Blondelet. Assez bon état. 357mm",,,sold,,1415,EUR,Primary,Primary
+,,2023-11-29,810,,Violoncelle Mirecourt XIXème. Différentes restaurations dont une cassure d'âme au fond. 753mm.,,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,811,,"Violon Mirecourt fait vers 1930, portant étiquette apocryphe Vuillaume et étiquette Paul Beuscher. Bon état. 350mm Alto seconde partie du XVIIIème, probablement de l'école française, portant étiquette ""raccommodé par Joseph Jacquet 1791"", tête remplacée plus tardive. Différentes cassures et restaurations sur la table, nombreuses traces de vers sur la tête. 403mm.",,,sold,,3500,EUR,Primary,Primary
+,,2023-11-29,813,,"Violon de Lucien FRANCAIS fait à Nancy en 1931 numéroté 72, portant étiquette et marques au fer de L. Français. Bon état. 359mm.",,,sold,,3344,EUR,Primary,Primary
+,,2023-11-29,814,,"Violon de Charles Louis Collin MEZIN fils, fait à Mirecourt en 1908, en modèle Amati, portant étiquette et signature de Collin Mezin. Cassures sur la table. 362mm.",,,sold,,1672,EUR,Primary,Primary
+,,2023-11-29,815,,"Violon de Georges APPARUT fait à Mirecourt en 1932 numéroté 574, portant étiquette de Georges Apparut. Assez bon état. 355mm",,,sold,,3875,EUR,Primary,Primary
+,,2023-11-29,816,,Violoncelle Mirecourt XXème. Cassure d'âme au fond. 763mm,,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,817,,"Violon Français province, portant étiquette apocryphe Kloz et marque au fer CV sous le talon. Différentes restaurations et traces de ver. 360mm",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,819,,"Violon de Louis MOITESSIER fait à Mirecourt vers 1820, portant marque au fer Louis Moitessier et étiquette réparé par Couturieux. Quelques restaurations sur la table. 361mm.",,,sold,,785,EUR,Primary,Primary
+,,2023-11-29,820,,"Joli violoncelle 1/2 Allemand seconde partie du XVIIIème, portant étiquette apocryphe Stainer. Quelques restaurations. 643mm.",,,sold,,2500,EUR,Primary,Primary
+,,2023-11-29,821,,"Violon XXème, portant étiquette apocryphe Sgarbi. Petite cassure sur la table. 355mm 14/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1450,EUR,Primary,Primary
+,,2023-11-29,825,,"Violoncelle Mirecourt XXème,  portant étiquette apocryphe Stradivarius. Table décollée, coin accidenté, cassures sur la table, piqures de vers sur le fond.  757mm",,,sold,,3250,EUR,Primary,Primary
+,,2023-11-29,832,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1920, signé ""Sarasate Maitre"", monté argent. 59g1, sans mèche. Coups devant tête, fractures hausse et passant postérieur. Bon état.",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-29,833,,"Archet de violon de François LOTTE, fait vers 1950, monté maillechort. 58g, avec mèche fine. Bon état. Archet de violon de JEROME THIBOUVILLE LAMY fait vers 1930, signé ""Brevet EA Broca"", monté argent. 59g5, sans mèche. Petit éclat coté tête, mastic bas tête, éclat mortaise de vis et écrou, cercle manquant.  Bon état.",,,sold,,1208,EUR,Primary,Primary
+,,2023-11-29,835,,"Archet de violon de Louis Joseph MORIZOT Père fait vers 1920, signé ""Morizot"", monté argent. 56g5, sans mèche. Noeud et gerces baguette, petits éclats hausse. Bon état.",,,sold,,5250,EUR,Primary,Primary
+,,2023-11-29,836,,"Archet de violon de Charles Nicolas BAZIN, fait vers 1890, monté maillechort avec bouton postérieur os. 51g4, sans mèche ni garniture. Fente hausse. Bon état. Archet d'alto de François LOTTE, fait vers 1945, monté maillechort. 59g, sans mèche et garniture fine. Petits coups arrière tête, griffures arrière baguette, éclat mortaise de vis et écrou. Petits éclats hausse. Bon état.",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,842,,"Archet de violon de Charles Alfred BAZIN, fait vers 1955, signé ""Vanelli"", monté maillechort.  53g, Coups bas de baguette, petits coups hausse. Bon état.",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,843,,"Archet de violon de Jean Marc PANHALEUX, fait vers 1985, signé ""J.M. Panhaleux"", monté argent. 59g8. Petits coups dessus tête, griffures bouton. Bon état. Archet de violon de l'école de SIMON, fait vers 1880, en bois d'amourette, monté maillechort avec bouton de même époque. 55g4, sans mèche ni garniture. Fracture arrière baguette, éclat hausse. Bon état.",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,845,,"Archet de violon d'Emile François OUCHARD, fait vers 1925, monté maillechort. 54g9, avec mèche fine. Petit noeud arrière et petits coups baguette. Bon état.",,,sold,,2125,EUR,Primary,Primary
+,,2023-11-29,847,,"Archet de violon de Marc LABERTE, fait vers 1940, en modèle ""G. Fournier"", monté argent. 59g7. Bon état. Archet de violon de Charles Nicolas BAZIN fait vers 1890, monté maillechort. 54g3, mèche fine et sans garniture. Petit éclat dessus tête, noeud, coups, petites usure bas de baguette, coups bouton. En bon état. Archet de violon de Nicolas SIMON dit ""SIMON FR"", monté maillechort. 51g, sans mèche ni garniture. Petits coups baguette et collet, éclat mortaise de vis et écrou, usure bas de baguette, petits éclats hausse, vestige de marque. Bon état.",,,sold,,2750,EUR,Primary,Primary
+,,2023-11-29,851,,"Violon XXème, portant étiquette Lucien Dolphyn. Assez bon état. 359mm",,,sold,,1157,EUR,Primary,Primary
+,,2023-11-29,852,,"Violon de Léon MOUGENOT fait à Mirecourt en 1936, portant étiquette de Léon Mougenot Gauché. Assez bon état. 357mm",,,sold,,2375,EUR,Primary,Primary
+,,2023-11-29,855,,"Violon Français province fait vers 1770/1775, portant étiquette apocryphe Boquay. Tête remplacée. Quelques restaurations sur la table. 356mm. 15/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net Violon fait à Mirecourt vers 1860 en modèle Maggini, de l'école de DERAZEY,  portant étiquette apocryphe  Maggini. Cassure d'âme sur la table et petit trou sur la coulisse arrière de la tête. 359mm.This instrument is more than 100 years old.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-29,859,,"Violon de Marius RICHELME fait à Marseille en 1888, portant étiquette et signature Richelme. Tête sculptée, dos décoré, éclisses gravées. Reverni. Bon état. 366mm.",,,sold,,1063,EUR,Primary,Primary
+,,2023-11-29,860,,"Violon de Charles Louis COLLIN-MEZIN Fils fait à Mirecourt en 1927 numéroté 359, portant étiquette de Collin-Mezin. Assez bon état. 360mm.",,,sold,,3472,EUR,Primary,Primary
+,,2023-11-29,861,,"Violon de Marc LABERTE fait à Mirecourt vers 1935, numéroté 1544, portant étiquette apocryphe Lupot et étiquette de Marc Laberte. Bon état. 359mm Violon Mirecourt fait vers 1875/1880, portant étiquette apocryphe Pacherel. Légères restaurations. 360mm. UE buyers : Item under importation, please note that specific import VAT (5,5%). This VAT could be refunded FOR PROFESSIONAL after VAT number provided and proof of exitOut of UE buyers : Item under importation, please note that specific import VAT (5,5%). This VAT could be refunded after proof of exitAcheteurs Français : Objet sous importation, de la TVA à l'importation (5,5%) sera appliquée",,,sold,,1045,EUR,Primary,Primary
+,,2023-11-29,864,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème, portant étiquette apocryphe Léon Bernardel. Cassure d'âme sur la table. 358mm.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-29,866,,Petit violoncelle Mirecourt XIXème portant étiquette Bassot. Quelques restaurations.  Touche décollée. 438mm.,,,sold,,1286,EUR,Primary,Primary
+,,2023-11-29,867,,"Violon de Maurice ROUGIER fait à Toulon en 1951 numéroté 96, portant étiquette et marques au fer de Maurice Rougier . Assez bon état. 361mm",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-29,869,,"Violon fait dans les ateliers JEROME THIBOUVILLE LAMY à Mirecourt début XXème, portant étiquette apocryphe Stradivarius. Assez bon état. 358mm.",,,sold,,875,EUR,Primary,Primary
+,,2023-11-29,870,,"Violon de Léon MOUGENOT fait à Mirecourt en 1931, portant étiquette de Léon Mougenot. Assez bon état. 358mm Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1930 et fini et vendu par Lavest à Mirecourt en 1932, portant étiquette de Lavest et marque au fer sur l'éclisse arrière et marque au fer J.T.L. sur le tasseau de devant. Vernis abîmé. 357mm.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-29,875,,"Alto de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème, portant étiquette J.T.L. et étiquette apocryphe de Ruggieri. Assez bon état. 399mm. Archet de violon de Joseph Arthur VIGNERON, fait vers 1900, signé ""A. Vigneron à Paris"", monté argent. 62g7. Clavette tête, dégorgement repris, coups et usure pouce arrière baguette, fente hausse, grand talon refait. Assez bon état de restauration.",,,sold,,4592,EUR,Primary,Primary
+,,2023-11-29,879,,"Archet de l'atelier de PECCATTE, en bois d'amourette, monté maillechort. 59g5.",,,sold,,1608,EUR,Primary,Primary
+,,2023-11-29,881,,"Archet de violon de François LOTTE, fait vers 1940, signé ""Tourte"", monté maillechort. 58g5, avec mèche fine. Fracture hausse. Petit coup côté tête. Bon état. Archet de violoncelle de Louis Joseph THOMASSIN, fait vers 1890, signé ""L. Thomassin à Paris"", monté argent. 63g5, avec mèche et garniture fines. Coups tête, ligature collet, usure sous garniture, pouce et arrière baguette. Bon état de restauration.",,,sold,,1222,EUR,Primary,Primary
+,,2023-11-29,883,,"Archet de violon de Paul Emile MIQUEL, fait vers 1900, monté argent avec bouton postérieur. 46g5. Coups dessus tête et baguette, fentes et éclat hausse. Bon état. 16/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net Archet de violon de Claude Auguste THOMASSIN, fait vers 1910, signé ""C. Thomassin à Paris"", monté argent. 45g6, sans mèche et garniture légère. Arrachure dessus tête, petite usure bas de baguette, baguette cassée et recollée postérieurement,  fracture hausse. Assez bon état.",,,sold,,2186,EUR,Primary,Primary
+,,2023-11-29,886,,"Archet d'alto de Marc LABERTE, fait vers 1940,  signé ""Laberte"",  monté argent. 70g5, Petites gerces arrière tête, coups baguette. Bon état. Archet de violon de Charles Louis BAZIN fait vers 1925, signé ""Louis Bazin"", monté maillechort avec bouton de même époque, remonté argent. 61g, Petit éclat coté tête, fin de noeud baguette, arrachures baguette, éclat mortaise de vis et écrou, gerces baguette, fente hausse. Assez bon état.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,890,,"Archet de violoncelle de MORIZOT Frères, fait vers 1955, signé ""L. Morizot"", monté argent. 76g5, avec mèche fine. Fente hausse. Bon état. Baguette d'archet de violon de Dominique POIRSON dit ""Justin POIRSON"", faite vers 1915, signée ""Poirson à Paris"", avec hausse et bouton de même époque, montés maillechort. 46g2, sans garniture et mèche fine. Coups baguette et tête, usure bas de baguette, gerce côté mortaise de vis et écrou, noeud baguette, fractures hausse. Bon état. Baguette d'archet de violon de l'école Allemande, faite vers 1920, hausse et bouton de même époque, montés argent. 56g9, avec garniture légère. Usure arrière baguette, baguette arrondie postérieurement, gerce tête, coups baguette, fente hausse et éclats ébène. Bon état.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-29,897,,"Archet de violon de Louis BAZIN, fait vers 1925, monté maillechort. 58g2. Petit éclat tête.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-29,898,,"Archet de violon de l'école de  BAZIN fait vers 1925, avec bouton postérieur, monté argent. 52g, sans mèche et garniture fine. Coups et noeud baguette, fente arrière baguette, fente hausse. Assez bon état. Baguette d'archet de violon dans le style de DUCHAINE II, en bois de fer, fait vers 1805/1810, avec hausse et bouton os postérieurs. 60g, avec mèche et garniture fines. Fente arrière baguette, coup arrière tête, gerces tête et baguette. Bon état.",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,908,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème, portant étiquette apocryphe Stradivarius et marque au fer J.T.L. sur le tasseau de devant. Assez bon état. 360mm.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,909,,"Violon Mirecourt fin XIXème, portant étiquettes apocryphes de Grandjon et Stradivarius. Gerces sur la table, talon chevillé. 357mm.",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-29,914,,"Violon fait dans l'atelier d'Amédée DIEUDONNE  à Mirecourt vers 1930, portant marque au fer illisible. Joint de table décollé, vernis abimé, piqure de vers sur la table. 358mm.",,,sold,,1188,EUR,Primary,Primary
+,,2023-11-29,916,,"Violon de Charles BUTHOD fait à Mirecourt vers 1845-1850, portant étiquette apocryphe Lupot. Table remplacée avec nombreuses restaurations. 362mm.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-29,919,,"Violon Français province fait vers 1770, portant étiquette apocryphe Amati. Avec son manche d'origine. Cassure sur la table et sur les éclisses. 354mm. Baguette d'archet de violon de l'école de FONCLAUSE, faite vers 1840,  en bois de fer, avec hausse et bouton postérieurs montés maillechort. 55g, sans mèche. Arrachure et usure bas de baguette, légers coups tête , fracture mortaise vis-écrou.  Bon état. 17/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-29,933,,"Archet de violon de Roger François LOTTE, fait vers 1960, signé ""Roger Lotte"" et marque apocryphe de ""Emile Ouchard"", monté argent. 61g7. Coups dessus tête et baguette, fente hausse. Bon état. 18/18 RÉSULTATS DE VENTE D'INSTRUMENTS DU QUATUOR N° lot Description Montant Net",,,sold,,3500,EUR,Primary,Primary
+,,2023-11-28,2001,,"Violon de JEROME THIBOUVILLE LAMY fait à  Mirecourt début XXème, en modèle Sarasate, portant étiquette apocryphe Amatus, marque au fer Sarasate et étiquette et marque au fer de JTL. Assez bon état. 358mm.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2002,,"Violon Mirecourt XXème, portant étiquette apocryphe de Chipot. Assez bon état. 357mm",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2003,,"Violon fait dans la maison de COUESNON à Mirecourt vers 1900, portant étiquette de Couesnon. Bon état. 358mm.",,,sold,,1692,EUR,Primary,Primary
+,,2023-11-28,2004,,"Violon Mirecourt fait vers 1860, portant étiquette apocryphe Stradivarius. Assez bon état. 359mm.",,,sold,,435,EUR,Primary,Primary
+,,2023-11-28,2005,,"Alto petite taille de Joseph TIRIOT fait à Mirecourt vers 1800, portant marque au fer de Tiriot à Paris sous le talon et sur le fond. Quelques restaurations sur la table. 379mm.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-28,2006,,"Violon 3/4 Mirecourt début XXème, portant étiquette apocryphe Stradivarius. Assez bon état. 333mm.",,,sold,,525,EUR,Primary,Primary
+,,2023-11-28,2007,,"Violon Français province XVIIIème, avec son manche d'origine. Assez bon état. 358mm.",,,sold,,2375,EUR,Primary,Primary
+,,2023-11-28,2008,,Violon Mirecourt fait vers 1930. Bon état. 358mm,,,sold,,1188,EUR,Primary,Primary
+,,2023-11-28,2010,,"Violon de Joseph COUTURIEUX fait à Mirecourt vers 1830, portant marque au fer de Couturieux Deroux. Cassures sur la table et table dévernie, quelques restaurations. 360mm.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2012,,"Violon Mirecourt XXème, portant étiquette apocryphe Lupot. Bon état. 357mm",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2014,,"Violon fait dans les ateliers JEROME THIBOUVILLE LAMY à Mirecourt début XXème, portant marque fer Nicolas Duchene. Assez bon état. 362mm.",,,sold,,563,EUR,Primary,Primary
+,,2023-11-28,2015,,"Violon  début XXème, portant étiquette Ruscolini. Quelques restaurations, doublure demi bord table, cassures. 358mm.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2016,,Violoncelle 3/4 Mirecourt XXème. Quelques restaurations sur la table. 668mm Réf. 00-8,,,sold,,325,EUR,Primary,Primary
+,,2023-11-28,2017,,Violon Mirecourt début XXème fait dans les ateliers COLLIN MEZIN Fils portant étiquette Collin Mezin fils collaborateur. Assez bon état. 359mm.,,,sold,,1093,EUR,Primary,Primary
+,,2023-11-28,2020,,"Violon de REMY fait à Mirecourt vers 1820/1830, portant marque au fer sur le fond de Rémy. Pièce à l'âme sur la table. 363mm.",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-28,2021,,"Violon début XXème, portant étiquette apocryphe Kloz. Assez bon état. 358mm.",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2022,,"Violon Mirecourt début XXème probablement fait dans les ateliers JEROME THIBOUVILLE LAMY, portant étiquette apocryphe Guarnerius. Bon état. 358mm.",,,sold,,965,EUR,Primary,Primary
+,,2023-11-28,2023,,Violon Mirecourt XXème. Assez bon état. 357mm,,,sold,,965,EUR,Primary,Primary
+,,2023-11-28,2024,,"Violon Mirecourt XXème, portant étiquette apocryphe Nicolas Lupot. Assez bon état. 361mm",,,sold,,604,EUR,Primary,Primary
+,,2023-11-28,2026,,"Baguette d'archet de violon de Charles Nicolas BAZIN , signé ""Tourte. L"". 33g9. Assez bon état.",,,sold,,514,EUR,Primary,Primary
+,,2023-11-28,2027,,"Archet de violon allemand fin XIXème, monté argent. 56g5, sans garniture et mèche fine. Plaque de recouvrement décoré de motifs floraux. Petit manque à la hausse, bouton bloqué. Assez bon état.",,,sold,,7250,EUR,Primary,Primary
+,,2023-11-28,2028,,"Archet de violoncelle de l'école de PECCATTE, en bois de fer. 75g6. Bouton accidenté, petits éclats et manque hausse.",,,sold,,1176,EUR,Primary,Primary
+,,2023-11-28,2029,,"Archet de violoncelle Allemand, signé ""Mathias Toma"", monté argent. 80g4. Bon état.",,,sold,,906,EUR,Primary,Primary
+,,2023-11-28,2031,,"Archet de violon de JEROME THIBOUVILLE LAMY, monté maillechort. 54g5, sans mèche ni garniture. Bon état.",,,sold,,375,EUR,Primary,Primary
+,,2023-11-28,2032,,"Archet de violoncelle de l'école de PAJEOT PECCATTE, en bois de fer, monté maillechort. 74g, sans mèche et manque une virole au bouton. Assez bon état.",,,sold,,707,EUR,Primary,Primary
+,,2023-11-28,2034,,"Archet de violon de l'école de  Jean-Joseph MARTIN fait vers 1880, en  bois d'amourette monté maillechort. 50g5. sans mèche ni garniture. Bon état.  (CXAN-CHQ-3496).",,,sold,,514,EUR,Primary,Primary
+,,2023-11-28,2035,,"Baguette d'archet de violon de Charles Alfred BAZIN, avec hausse et bouton postérieurs, montés argent. 60g5, sans mèche. Assez bon état.  (CIFR-BQM-0873)",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2038,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1880, monté maillechort. 60g, sans garniture. Bon état. (CXAN-BYW-2129).",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2042,,"Archet de violon de l'école de PAJEOT fait dans le style de ""GAUDE"", vers 1830, en bois d'amourette, monté maillechort. 56g5, sans mèche ni garniture. Mortaise arrière baguette rallongée postérieurement, coups et grattes baguette, bec de tête légèrement repris, talon manquant, éclat hausse, bouton endommagé. Bon état. (BFFR-CCZ-4718). Vendu en collaboration avec Côte Basque enchères.",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2043,,"Baguette d'archet de violon faite dans le style de HARMAND/GAULARD vers 1830, en bois exotique, hausse et bouton os de même époque. 52g, sans mèche ni garniture. Accident à la hausse.  (CWPM-BYX-4929).",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2046,,"Archet de violon Allemand, monté argent, portant signature apocryphe Sylvestre et Maucotel. 51g8, sans mèche ni garniture. Gerce tête, bague arrière. Bon état. (CWWQ-CJO-0181)",,,sold,,500,EUR,Primary,Primary
+,,2023-11-28,2047,,"Archet de violon de LABERTE, monté maillechort. 54g5 sans mèche. Bon état.(CXAN-BYY-0677)",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2050,,"Archet de violon Allemand, monté or. 62g. Assez bon état.",,,sold,,2315,EUR,Primary,Primary
+,,2023-11-28,2051,,"Violon Mirecourt XXème, portant étiquette apocryphe Lupot. Assez bon état. 360mm",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2052,,Violon Mirecourt XXème fini et vendu par Lucien Schmitt à Grenoble dont il porte l'étiquette. 360mm,,,sold,,965,EUR,Primary,Primary
+,,2023-11-28,2055,,"Violon de l'atelier de Charles Louis COLLIN MEZIN Fils fait à Mirecourt en 1928, portant étiquette Collin-Mezin Collaborateur. Table accidentée. 357mm",,,sold,,836,EUR,Primary,Primary
+,,2023-11-28,2056,,"Violon de Claude François VUILLAUME dit VUILLAUME Père fait à Mirecourt vers 1800, portant marque au fer sur le fond de Vuillaume. Quelques restaurations sur la table dont une cassure d'âme. 361mm.",,,sold,,2572,EUR,Primary,Primary
+,,2023-11-28,2057,,"Violon de François PAILLIOT fait à Mirecourt vers 1770/1780, portant signature F.R. Paillot sous le talon. Avec son manche d'origine. Légères restaurations. 366mm.",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2058,,"Violon fait dans l'atelier de Léon MOUGENOT à Mirecourt en 1925, portant étiquette fait dans l'atelier de Léon Mougenot. Petite cassure patte d'FF. Assez bon état. 357mm",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2059,,"Violon Allemand fin XIXème, portant étiquette apocryphe Guarnerius. Différentes restaurations. 356mm.",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2060,,"Violon de François CAUSSIN fait à Rouvres la Chétive vers 1850, portant marque au fer et signature de François Caussin. Petite cassure d'âme sur la table. 367mm.",,,sold,,836,EUR,Primary,Primary
+,,2023-11-28,2061,,"Violon fait dans les ateliers LABERTE HUMBERT fait à Mirecourt vers 1930, portant étiquette H Clotelle. Assez bon état. 360mm",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2063,,"Intéressant violon 1/2, probablement de l'école Italienne début XXème, portant étiquette apocryphe Stradivarius. Assez bon état. 331mm.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2065,,"Violon fait dans les ateliers LABERTE HUMBERT à Mirecourt vers 1930, portant étiquette apocryphe Amatus. Assez bon état. 358mm.",,,sold,,725,EUR,Primary,Primary
+,,2023-11-28,2066,,"Violon fait dans les ateliers LABERTE HUMBERT à Mirecourt XXème, portant étiquette Gabriel Didion. Assez bon état. 358mm.",,,sold,,563,EUR,Primary,Primary
+,,2023-11-28,2067,,"Violon de l'atelier d'Ewald BRUCKNER fait à Markneukirchen en 1921, portant étiquette Ewald Bruckner. Cassure le long de la barre. 361mm.",,,sold,,1093,EUR,Primary,Primary
+,,2023-11-28,2070,,"Violon de Jean Baptiste GRANDGERARD fait à Mirecourt vers 1780, portant marque au fer de Grandgérard sur le fond. Cassures sur la table. Violon recoupé par le bas. 359mm.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2071,,"Violon 3/4 de SAUNIER fait à Mirecourt vers 1830, portant marque au fer Saunier sous le talon. Assez bon état. 330mm.",,,sold,,625,EUR,Primary,Primary
+,,2023-11-28,2073,,"Violon Mirecourt XXème, portant étiquette fait sous la direction d'Amati Mangenot à Bordeaux. Manche décollé. Assez bon état. 355mm.",,,sold,,1929,EUR,Primary,Primary
+,,2023-11-28,2075,,"Violon Mirecourt fini et vendu par Roger et Max Millant, dont il porte l'étiquette. Bon état. 360mm",,,sold,,1813,EUR,Primary,Primary
+,,2023-11-28,2077,,"Baguette d'archet de violon de l'école de SIMON, hausse et bouton de l'école de PAJEOT, bois de fer, monté argent. 63g. Assez bon état.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2078,,"Archet de violon de Marc LABERTE, fait vers 1950, signé V.J. Ferelli, monté maillechort. 52g5, avec mèche et garniture fines. Noeud baguette, usure bas de baguette. Bon état (CIRT-CKL-1313)",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2079,,"Archet de violon allemand, signé A Nurnberger, monté argent. 58g5. Bon état.",,,sold,,2125,EUR,Primary,Primary
+,,2023-11-28,2080,,"Archet de violon de Pierre MALINE, fait vers 1900, signé ""Feret-Marcotte Paris"", monté argent. 56g4, sans mèche. Hausse retouchée au niveau du dégorgement, gratte avant tête. Bon état. (CWSZ-CHI-0558)",,,sold,,1543,EUR,Primary,Primary
+,,2023-11-28,2081,,"Archet de violoncelle de Charles Nicolas BAZIN, bois d'abeille, monté maillechort. 66g3, sans mèche ni garniture. Bon état.",,,sold,,563,EUR,Primary,Primary
+,,2023-11-28,2082,,"Archet de violoncelle allemand, monté argent avec bouton début XIXème. 80g. Usure pouce. Bon état.",,,sold,,1027,EUR,Primary,Primary
+,,2023-11-28,2083,,"Archet de violoncelle de François Nicolas VOIRIN, signé ""F.N. Voirin à Paris"", monté argent. 56g, sans mèche. Cassé au collet et modifié.",,,sold,,1029,EUR,Primary,Primary
+,,2023-11-28,2085,,"Archet de violon de L. MORIZOT Frères fait vers 1955, monté maillechort. 59g5. Coups dessus tête et collet. Bon état. (BTPQ-BHA-4170)",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2087,,"Archet de violon de Louis BAZIN, signé Louis Bazin, monté maillechort avec bouton de même époque. 58g3. Bon état.UE buyers : Item under importation, please note that specific import VAT (5,5%). This VAT could be refunded FOR PROFESSIONAL after VAT number provided and proof of exitOut of UE buyers : Item under importation, please note that specific import VAT (5,5%). This VAT could be refunded after proof of exitAcheteurs Français : Objet sous importation, de la TVA à l'importation (5,5%) sera appliquée",,,sold,,967,EUR,Primary,Primary
+,,2023-11-28,2088,,"Archet de violon de Roger LOTTE, monté maillechort. 63g2. Assez bon état.",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2089,,"Archet de violon de CUNIOT HURY, signé Cuniot Hury, monté maillechort. 52g3, sans mèche ni garniture.  Assez bon état.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2091,,"Archet de violon de JEROME THIBOUVILLE LAMY, signé Buthod, monté maillechort. 59g7, sans mèche. Bouton bloqué. Assez bon état.",,,sold,,514,EUR,Primary,Primary
+,,2023-11-28,2092,,"Archet de violon de MORIZOT Frères, signé L. Morizot, monté maillechort. 54g, sans mèche. Assez bon état.",,,sold,,846,EUR,Primary,Primary
+,,2023-11-28,2093,,"Archet de violon de Prosper COLAS, fait vers 1905, signé ""Prosper Colas Paris"", monté maillechort. 54g, avec mèche et garniture fines. Petit noeud et coups baguette, partie légèrement endommagée, fente hausse. Bon état. (CINX-CHN-2625) (20853).",,,sold,,688,EUR,Primary,Primary
+,,2023-11-28,2094,,This instrument is more than 100 years old.,,,sold,,707,EUR,Primary,Primary
+,,2023-11-28,2095,,"Archet de violon de K. Gerhart PENZEL, fait vers 1970, signé ""K. Gerhard Penzel"", monté argent. 61g. Noeud arrière baguette avec usure bas de baguette, coups dessus tête et baguette. Bon état.",,,sold,,836,EUR,Primary,Primary
+,,2023-11-28,2096,,"Archet de violon 3/4 de Charles Nicolas BAZIN. 40g, sans garniture et mèche fine, long. 660mm. Bon état.",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2097,,"Archet de violon de Paul BARJONNET, signé ""Gérome Devoivre"", monté argent. 56g, sans mèche. Pointe de tête accidentée.",,,sold,,1672,EUR,Primary,Primary
+,,2023-11-28,2098,,"Archet de violon de MORIZOT Frères, monté maillechort, signé ""A Deblaye"". 58g2, sans mèche. Bon état.",,,sold,,1286,EUR,Primary,Primary
+,,2023-11-28,2099,,"Archet de violon de MORIZOT Frères, signé ""L. Morizot"", monté argent. 56g3, sans mèche. Éclat et manque dessus tête.",,,sold,,1157,EUR,Primary,Primary
+,,2023-11-28,2101,,"Violon Province Française seconde partie XVIIIème, portant étiquette apocryphe de Salomon. Différentes cassures sur la table et sur le fond, bords de table accidentés. Usure tête et coquillon, traces de vers sur les éclisses. 362mm. This instrument is more than 100 years old.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2103,,"Violon Mirecourt début XXème fait dans les ateliers LABERTE, portant étiquette Parisot. Bon état. 358mm.",,,sold,,874,EUR,Primary,Primary
+,,2023-11-28,2104,,Violon début XXème portant étiquette apocryphe Bisiach. Assez bon état. 355mm.,,,sold,,2000,EUR,Primary,Primary
+,,2023-11-28,2105,,"Violon fin XVIIIème, portant étiquette Christian Wohlfart. Nombreuses restaurations. 359mm.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2106,,"Violon allemand début XXème, portant étiquette apocryphe Geissenhof. Petite cassure sur la table. 358mm.",,,sold,,1157,EUR,Primary,Primary
+,,2023-11-28,2107,,"Violon allemand début XXème, marqué Conservatory Violin. Talon cassé. 360mm.",,,sold,,707,EUR,Primary,Primary
+,,2023-11-28,2108,,"Violon de Louis DELIGNON, fait à Beaudricourt en 1945 numéroté 877, portant étiquette de Delignon. Bon état. 357mm.",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2109,,"Violon de Louis MOITESSIER fait à Mirecourt vers 1800/1810, portant marque au fer Moitessier. Quelques restaurations dont une cassure d'âme et cassure de barre sur la table. 357mm.",,,sold,,1029,EUR,Primary,Primary
+,,2023-11-28,2110,,"Alto petite taille de l'école allemande du XVIIIème, à tête sculptée. Différentes cassures dont cassure d'âme sur la table. 380mm.",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-28,2111,,"Violon de Nicolas HARMAND fait à Mirecourt vers 1770 portant marque à l'encre NH sur le talon. Différentes restaurations sur la table, la tête et traces de vers rebouchées sur les éclisses. Montage baroque. 356mm.",,,sold,,1093,EUR,Primary,Primary
+,,2023-11-28,2112,,"Violon Mirecourt début XXème probablement fait dans les ateliers JEROME THIBOUVILLE LAMY, portant étiquette apocryphe Steiner. Assez bon état. 361mm.",,,sold,,785,EUR,Primary,Primary
+,,2023-11-28,2113,,"Violon Français XVIIIème fait dans le style de GRANDGERARD, portant étiquette Luthier à Ste Cécile. Tête remplacée. Différentes restaurations et pièces non originales sur la table. 359mm.",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-28,2114,,"Violon de François PILLEMENT fait à Mirecourt vers 1820/1830, portant marque au fer François Pillement. Assez bon état. 362mm.",,,sold,,1027,EUR,Primary,Primary
+,,2023-11-28,2115,,"Violon Mirecourt grande taille fait vers 1850, portant étiquette apocryphe Maggini, signature et marque au fer apocryphe de N Vuillaume à Bruxelles. Assez bon état. 368mm.",,,sold,,4755,EUR,Primary,Primary
+,,2023-11-28,2116,,"Violon seconde partie du XIXème, probablement Français, portant étiquette de Pajeot. Quelques restaurations. 363mm.",,,sold,,375,EUR,Primary,Primary
+,,2023-11-28,2117,,"Violon XXème, portant étiquette apocryphe Blondelet. Bon état. 355mm",,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2118,,"Violon Mirecourt fini et vendu par Lucien Schmitt, portant étiquette Lucien Schmitt en collaboration. Vernis de la table un peu craquelé et coin manquant. 356mm",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-28,2119,,"Violon Mirecourt début XXème probablement fait dans les ateliers LABERTE, portant étiquette apocryphe d'Albani. Assez bon état. 359mm.",,,sold,,500,EUR,Primary,Primary
+,,2023-11-28,2120,,"Violon Mirecourt fait vers 1935,  portant étiquette apocryphe Pressenda. Assez bon état. 353mm",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2121,,"Violon de l'atelier de LABERTE-HUMBERT fait à Mirecourt vers 1920/1930, portant étiquette de Couturieux. Assez bon état. 360mm",,,sold,,563,EUR,Primary,Primary
+,,2023-11-28,2122,,"Violon Mirecourt XXème, portant étiquette et marque au fer de Daniel Moinel. Assez bon état. 359mm.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2123,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1870/1880, portant étiquette apocryphe Stradivarius. Cassures sur la table. 358mm.",,,sold,,1415,EUR,Primary,Primary
+,,2023-11-28,2125,,"Violon des ateliers de Charles Jean-Baptiste COLLIN Fils  MEZIN, fait à Mirecourt en 1925, portant étiquette Collin Mezin Collaborateur. Bon état.  360mm",,,sold,,1222,EUR,Primary,Primary
+,,2023-11-28,2127,,"Baguette d'archet de violon de Charles Nicolas BAZIN, hausse et bouton postérieurs, monté maillechort. 56g, mèche et garniture fine. Bon état.",,,sold,,1029,EUR,Primary,Primary
+,,2023-11-28,2129,,"Archet de violon de CUNIOT HURY, monté argent. 48g5, sans garniture. Pièce tête.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2130,,"Archet de violon de Roger François LOTTE, monté argent. 57g7. Bon état",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2131,,"Baguette d'archet de violon allemande, signé HC Silvestre à Paris, hausse et bouton de Charles Nicolas BAZIN, monté argent. 63g4. Coup pointe tête. Assez bon état.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2133,,"Archet d'alto allemand, signé Nurnberger, monté or. 61g4. Bon état.",,,sold,,5401,EUR,Primary,Primary
+,,2023-11-28,2134,,"Baguette d'archet de violon en bois d'abeille de l'école de  Maline, Hausse et bouton de Nicolas Maline, monté maillechort. 55g4, sans garniture. Bon état.",,,sold,,836,EUR,Primary,Primary
+,,2023-11-28,2135,,"Archet de violon de Marcel Gaston LAPIERRE, fait vers 1950, monté argent. 52g5, avec mèche fine et garniture fine. Petit mastic tête. Bon état",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2137,,"Archet de violon de JEROME THIBOUVILLE LAMY,  signé ""Blondelet et EA Broca"", monté maillechort  . 53g4 sans mèche. Assez bon état.",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2138,,"Archet d'alto de l'école de PECCATTE, monté maillechort. 57g3, sans garniture. Usure au bouton.",,,sold,,1275,EUR,Primary,Primary
+,,2023-11-28,2139,,"Archet de violon de l'école de BAZIN, monté maillechort. 62g avec mèche fine. Assez bon état.",,,sold,,500,EUR,Primary,Primary
+,,2023-11-28,2141,,"Archet de violon de LABERTE, signé ""Baur"", monté maillechort. 63g. Bon état.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2142,,"Archet de violon de Charles Alfred BAZIN, signé de ""Louis Bazin"", monté maillechort. 64g. Bon état.",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2144,,"Archet de violon allemand XXème, monté argent. 59g. Bon état.",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2145,,"Archet de contrebasse Allemand XXème, signé ""Prager"".  139g, long. 685mm. Eclat tête.",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2146,,"Archet de violon de Charles Alfred BAZIN, signé ""Louis Bazin"", monté maillechort. 57g6, sans mèche. Bon état.",,,sold,,967,EUR,Primary,Primary
+,,2023-11-28,2147,,"Archet de violon de Louis BAZIN, signé ""Lupot"", monté maillechort. 49g, sans mèche ni garniture. Petit éclat pointe tête.",,,sold,,846,EUR,Primary,Primary
+,,2023-11-28,2149,,"Archet de violon de l'école de GAULARD, en bois de fer. 55g4, sans mèche ni garniture ni bouton. Fente arrière baguette.",,,sold,,653,EUR,Primary,Primary
+,,2023-11-28,2150,,"Archet de violon Jean Jacques MARTIN, en bois d'amourette, monté maillechort. 54g sans mèche ni garniture. Assez bon état.",,,sold,,1250,EUR,Primary,Primary
+,,2023-11-28,2151,,"Violon Mirecourt XXème, portant étiquette apocryphe Amati. Bon état. 360mm",,,sold,,375,EUR,Primary,Primary
+,,2023-11-28,2152,,"Violon de Claude ALLARD fait à Sarlat en 1988, portant étiquette de Claude Allard. Cassure sur la table près de la barre. 356mm.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2154,,"Violon Mirecourt début XXème fait dans les ateliers LABERTE, portant étiquette Borelli. Assez bon état. 359mm.",,,sold,,625,EUR,Primary,Primary
+,,2023-11-28,2155,,"Violon Mirecourt XXème, portant étiquette René Cune. 359mm",,,sold,,1125,EUR,Primary,Primary
+,,2023-11-28,2156,,Violon allemand XXème. Bon état. 358mm.,,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2158,,"Violon de LABERTE HUMBERT, portant étiquette de Louis Jacquot. 359mm",,,sold,,1093,EUR,Primary,Primary
+,,2023-11-28,2159,,Violoncelle Mirecourt fin XIXème. Différentes restaurations. En partie déverni. Piqures de vers. 760mm.,,,sold,,579,EUR,Primary,Primary
+,,2023-11-28,2160,,"Violon fait dans l'atelier d'Albert DEBLAYE à Mirecourt en 1929, portant étiquette fait sous la direction d'Albert Deblaye. Petite cassure sur la table. 358mm.",,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2161,,"Violon de Charles FLAMBAU, portant marque au fer Flambau sous le talon. Quelques restaurations et F de gauche retouché avec pièce non originale. Sans sa touche. 358mm",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2162,,"Joli violon de JEROME THIBOUVILLE LAMY fait à Mirecourt vers 1900, portant étiquette apocryphe Guarnerius. Bon état. 360mm.",,,sold,,625,EUR,Primary,Primary
+,,2023-11-28,2163,,Violon moderne. Bon état. 356mm.,,,sold,,766,EUR,Primary,Primary
+,,2023-11-28,2164,,"Violon Mirecourt XXème, fait en copie Vuillaume dont il porte étiquette apocryphe. Coin de table manquant. Assez bon état. 356mm",,,sold,,1021,EUR,Primary,Primary
+,,2023-11-28,2166,,"Violon fait dans les ateliers JEROME THIBOUVILLE LAMY à Mirecourt XXème, portant étiquette Le Stentor marque au fer JTL sur le tasseau de devant. Assez bon état. 358mm",,,sold,,707,EUR,Primary,Primary
+,,2023-11-28,2168,,Violon Mirecourt XXème  portant étiquette apocryphe Stradivarius. Assez bon état. 357mm,,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2169,,"Violon fait dans les ateliers JEROME THIBOUVILLE LAMY à Mirecourt XXème, portant étiquette apocryphe Stradivarius et marque au fer des initiales J.T.L. sur le tasseau de devant. Assez bon état. 359mm",,,sold,,563,EUR,Primary,Primary
+,,2023-11-28,2171,,"Violon fait dans les ateliers JEROME THIBOUVILLE LAMY à Mirecourt XXème, portant étiquette Galiani et étiquette JTL. Légères restaurations sur la table. 358mm",,,sold,,375,EUR,Primary,Primary
+,,2023-11-28,2172,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt fin XIXème, portant étiquette apocryphe de Cloz. 360mm.",,,sold,,500,EUR,Primary,Primary
+,,2023-11-28,2173,,"Violon Allemand début XXème, probablement de Markneukirchen, portant marque au fer illisible. Bon état. 361mm.",,,sold,,1088,EUR,Primary,Primary
+,,2023-11-28,2174,,"Violon Mirecourt début XXème fait dans les ateliers COUESNON, portant étiquette Blaise. Coin de table cassé. 359mm.",,,sold,,579,EUR,Primary,Primary
+,,2023-11-28,2175,,"Violon Mirecourt fait vers 1940, probablement des ateliers Laberte, portant étiquette modèle d'après Guarnerius. Bon état. 354mm",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2176,,"Archet de violon de l'école de PAJEOT dans le style de GAUDE, en bois de fer, monté maillechort. 54g5, sans mèche ni passant, manque une virole au bouton. Assez bon état.",,,sold,,500,EUR,Primary,Primary
+,,2023-11-28,2177,,"Archet de violon de JEROME THIBOUVILLE LAMY ,  signé ""Pillot"", monté argent. 61g8. Bon état.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-28,2178,,"Archet de violon de l'école de MALINE, monté maillechort. 51g, sans mèche. Usure baguette à l'arrière de la hausse. Assez bon état.",,,sold,,2500,EUR,Primary,Primary
+,,2023-11-28,2179,,"Archet de violon de l'école de PAJEOT, monté maillechort. 60g, sans mèche ni garniture . Tête cassée",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2180,,"Archet de violon de Charles Louis BAZIN, fait vers 1940 en modèle ""Lupot."", monté maillechort. 51g3, sans mèche ni garniture. Usure au bouton.  Bon état.",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2181,,"Archet d'alto de l'école de PECATTE/SIMON, en bois d'amourette, monté maillechort. 70g. Assez bon état.",,,sold,,3445,EUR,Primary,Primary
+,,2023-11-28,2182,,"Archet de violon de Charles Nicolas BAZIN, monté maillechort. 56g. Petit éclat et usure hausse.",,,sold,,785,EUR,Primary,Primary
+,,2023-11-28,2183,,"Archet de violon d'Auguste TOUSSAIN, monté maillechort. 54g6, sans mèche. Bon état.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2186,,"Baguette d'archet de Charles Nicolas BAZIN, signé ""Tourte L."" avec hausse et bouton de même époque, monté maillechort. 47g, sans mèche et garniture fine. Bon état.",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2189,,"Archet de violon de JEROME THIBOUVILLE LAMY, signé ""Jacquot Nancy"", monté maillechort. 53g, sans mèche. Bon état.",,,sold,,1088,EUR,Primary,Primary
+,,2023-11-28,2192,,"Archet de violon de Charles Alfred BAZIN, signé ""C. Bazin"",  monté maillechort. 60g. Bon état.",,,sold,,1029,EUR,Primary,Primary
+,,2023-11-28,2193,,"Archet de violon de Charles Nicolas BAZIN, signé ""Tourte"", monté maillechort.  51g9, sans mèche. Bon état.",,,sold,,805,EUR,Primary,Primary
+,,2023-11-28,2196,,"Baguette d'archet de violon de Charles Nicolas BAZIN, hausse et bouton postérieurs, montés maillechort. 52g sans mèche et garniture ni passant.  Assez bon état.",,,sold,,1029,EUR,Primary,Primary
+,,2023-11-28,2197,,"Baguette d'archet de violon de MORIZOT Frères, signé ""R et M Millant Paris"", bouton postérieur. Passant manquant. 52g5, sans mèche. Gerces baguette.",,,sold,,1063,EUR,Primary,Primary
+,,2023-11-28,2199,,"Archet de violon Allemand, fait vers 1930, signé ""Fletcher New York"". 62g. Coups d'outils et usure arrière baguette, arrachure arrière mortaise tête, gerces arrière tête et baguette, fracture hausse.",,,sold,,688,EUR,Primary,Primary
+,,2023-11-28,2200,,"Archet de violon de Charles Nicolas BAZIN, fait vers 1880, signé ""Vuillaume"", monté maillechort, avec bouton de même époque. 56g3, avec mèche et garniture fines. Bon état.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2201,,"Violon Mirecourt début XXème, portant étiquette apocryphe Stradivarius. Assez bon état. 359mm.",,,sold,,250,EUR,Primary,Primary
+,,2023-11-28,2202,,"Violon fait dans l'atelier de DOLLING début XXème, portant signature de Dolling. Cassure sur la table près de la barre. 358mm.",,,sold,,836,EUR,Primary,Primary
+,,2023-11-28,2203,,"Violon XXème, probablement de l'école Allemande, portant étiquette apocryphe Carcassi. Assez bon état.  359mm",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-28,2206,,"Violoncelle Mirecourt XXème, portant étiquette apocryphe Bergonzi. Cassures sur la table et sur le fond dont une cassure d'âme, touche cassée, éclisses contreplaquées. 760mm.",,,sold,,563,EUR,Primary,Primary
+,,2023-11-28,2208,,"Violon des ateliers de Charles Jean-Baptiste COLLIN MEZIN FILS fait en 1927, numéroté 18  dont il porte l'étiquette . Petit éclat au coin . 358mm.",,,sold,,1222,EUR,Primary,Primary
+,,2023-11-28,2209,,"Violon Mirecourt début XXème probablement fait dans les ateliers LABERTE, portant étiquette Soriot. Assez bon état. 358mm.",,,sold,,438,EUR,Primary,Primary
+,,2023-11-28,2214,,"Violon 3/4 de François PILLEMENT fait à Mirecourt vers 1830/1840, portant marque au fer Pillement sur le fond. Quelques restaurations sur la table. 338mm.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2216,,"Violon de la maison Couesnon à Mirecourt, fait vers 1930, portant étiquette Montegalio. Fond décollé. 358mm.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2217,,"Violon Français XVIIIème, portant étiquette de Guersan. Différentes restaurations et traces de vers. 353mm.",,,sold,,2500,EUR,Primary,Primary
+,,2023-11-28,2218,,Violon fait dans les ateliers LABERTE HUMBERT à Mirecourt vers 1920 - 1930. Bon état. 357mm,,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2219,,"Violon de LABERTE HUMBERT fait à Mirecourt vers 1900, portant étiquette de Jean Baptiste Colin. Assez bon état. 357mm.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2222,,"Violon d'Amédée DIEUDONNE fait à Mirecourt en 1942, portant étiquette, marque au fer et signature d'Amédée Dieudonné. Restauration sur la table. 357mm. Avec certificat de Dieudonné",,,sold,,1875,EUR,Primary,Primary
+,,2023-11-28,2223,,"Violon de la maison LABERTE, fait à Mirecourt vers 1920, portant étiquette Leclerc. Bon état. 359mm.",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2224,,Violon fait dans les ateliers LABERTE HUMBERT à Mirecourt vers 1920. Bon état. 356mm.,,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2225,,"Violoncelle Mirecourt XXème, portant étiquette Mansuy. Différentes restaurations dont une cassure d'âme sur la table. Talon cassé. 760mm",,,sold,,2058,EUR,Primary,Primary
+,,2023-11-28,2226,,"Archet de violon de JEROME THIBOUVILLE LAMY, signé ""Charotte-Millot"", monté maillechort. 56g. Assez bon état.",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2227,,"Archet de violon de Charles Nicolas BAZIN, monté maillechort.59g, sans garniture. Noeud baguette.",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2228,,"Archet de violon 3/4 de Georges Emile BARJONNET, monté maillechort. 43g, sans mèche et garniture fine, longueur baguette 667mm.  Fente arrière baguette, éclat et fente à la hausse.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2229,,"Archet de violon allemand, signé ""Tourte"", monté maillechort. 58g6, sans mèche. Bon état.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2231,,"Archet de violon de l'école de MAIRE/PECCATTE, en bois d'amourette, monté maillechort. 56g, sans mèche ni passant . Bon état.",,,sold,,900,EUR,Primary,Primary
+,,2023-11-28,2235,,"Archet de violon de Charles Nicolas BAZIN, fait vers 1890, monté maillechort. 56g, sans mèche. Bon état.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-28,2237,,"Archet de violon de Jean Joseph MARTIN, fait vers 1890, signé ""Lupot"", monté argent. 55g, sans garniture.  Passant gravé ""prix Gigard G. Fromont"". Baguette cassée et recollée, usure bas de baguette, fracture et éclat hausse, tête reprise. Bon état.",,,sold,,1750,EUR,Primary,Primary
+,,2023-11-28,2239,,"Archet de violon de l'atelier de Franck DAGUIN, fait vers 2000, signé ""Jean Satin"", monté argent. 60g4. Bon état.",,,sold,,1063,EUR,Primary,Primary
+,,2023-11-28,2243,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1930, signé ""Ch. Buthod à Paris"", monté argent. 56g7, sans mèche. Très bon état.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-28,2245,,"Archet de violon de Marc LABERTE, fait vers 1950, signé ""Marc Laberte"", monté argent. Hausse et bouton d'un autre archet de cet auteur. 57g, sans mèche. Pièce de bec de tête, coups baguette. Assez bon état.",,,sold,,1286,EUR,Primary,Primary
+,,2023-11-28,2246,,"Archet de violon allemand, monté argent. 51g6, sans mèche. Bon état.",,,sold,,1208,EUR,Primary,Primary
+,,2023-11-28,2247,,"Archet de violon de Max WUNDERLICH, fait vers 1960, signé, monté argent. 61g. Assez bon état.",,,sold,,1029,EUR,Primary,Primary
+,,2023-11-28,2250,,"Archet de violon de MORIZOT Frères, fait vers 1955, signé ""Perelli"", monté maillechort avec bouton argent de même époque. 60g7. Bon état.",,,sold,,846,EUR,Primary,Primary
+,,2023-11-28,2251,,"Violon allemand XVIIIème, portant étiquette apocryphe Stainer. Nombreuses restaurations sur la table, tête remplacée. 355mm.",,,sold,,688,EUR,Primary,Primary
+,,2023-11-28,2256,,"Violon de Dominique SALZAR, fait à Mirecourt vers 1830, portant marque au fer de Salzar. Différentes cassures et restaurations, piqures de vers sur les éclisses, le manche et la table. 363mm.",,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2257,,"Violon fait dans l'atelier de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème, portant étiquette apocryphe Stradivarius. Assez bon état. 357mm.",,,sold,,1450,EUR,Primary,Primary
+,,2023-11-28,2258,,"Violon de Louis DELIGNON fait à Beaudricourt en 1943 numéroté 218, portant étiquette et marque au fer de Delignon. Assez bon état.  360mm.",,,sold,,1505,EUR,Primary,Primary
+,,2023-11-28,2261,,"Violon de Louis MOITESSIER fait à Mirecourt vers 1820, portant marque au fer Moitessier à Paris. Petite cassures sur la table et sur le fond. 366mm.",,,sold,,1027,EUR,Primary,Primary
+,,2023-11-28,2263,,"Alto violon de Marius RICHELME, fait à Marseille en 1874. Assez bon état. 375mm.",,,sold,,1375,EUR,Primary,Primary
+,,2023-11-28,2264,,"Violon de l'atelier de JEROME THIBOUVILLE LAMY, fait à Mirecourt vers 1900, portant étiquette apocryphe Guadagnini. Assez bon état (fausses cassures). 360mm.",,,sold,,688,EUR,Primary,Primary
+,,2023-11-28,2267,,"Violoncelle Mirecourt fait vers 1900, portant étiquette Nicolas Bertholini. Différentes cassures dont une cassure d'âme sur le fond. 753mm.",,,sold,,1350,EUR,Primary,Primary
+,,2023-11-28,2268,,Violon de Victor PIROUE fait à Mirecourt vers 1830 portant marque fer Victor Piroué. Pièce non originale sur la patte d'F. 360mm.,,,sold,,846,EUR,Primary,Primary
+,,2023-11-28,2269,,Violon Mirecourt XXème fini et vendu par Léon Bernardel portant étiquette Léon Bernardel. Assez bon état. 358mm,,,sold,,1500,EUR,Primary,Primary
+,,2023-11-28,2271,,"Violon Mirecourt fait vers 1930 , portant étiquette apocryphe Guarnerius. 354mm",,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2272,,"Violoncelle Mirecourt début XXème fait dans les ateliers LABERTE, portant étiquette Bertholini. Différentes cassures, restaurations sur la table et sur le fond dont une cassure d'âme au fond. 752mm.",,,sold,,1029,EUR,Primary,Primary
+,,2023-11-28,2273,,"Violon de JEROME THIBOUVILLE LAMY fait en modèle Blondelet, dont il porte l'étiquette et la marque au fer. Bon état.  357mm",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2274,,Violon des ateliers de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème. 357mm.,,,sold,,688,EUR,Primary,Primary
+,,2023-11-28,2276,,"Archet de violon de L. MORIZOT Frères, fait vers 1960, signé ""Louis Bazin"", monté maillechort. 61g. Trace mortaise vis et écrou, fracture et petits éclats hausse. Bon état.",,,sold,,707,EUR,Primary,Primary
+,,2023-11-28,2277,,"Archet de violon de Charles Louis BAZIN, monté maillechort. 54g7, avec mèche et garniture fines. Trace de coup de scie arrière baguette et noeuds baguette, petit comblage baguette, petites arrachures baguette. Bon état. ID",,,sold,,1188,EUR,Primary,Primary
+,,2023-11-28,2278,,"Archet de violon de L. MORIZOT Frères, fait vers 1950, signé ""Tourte"", monté maillechort. 51g5, sans mèche et garniture légère. Gerces et coups arrière baguette, fracture mortaise de vis et écrou, éclats hausse. Bon état.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2280,,"Archet d'alto de Vincent TRICOU, fait vers 2000, signé ""F. Vincent à Lyon"", monté argent. 70g4. Bon état.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2281,,"Archet de violon de Charles Alfred BAZIN, fait vers 1950, signé de la marque de son père ""Vanelli"", monté maillechort. 53g, sans mèche. Fin de noeud baguette. Très bon état.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2283,,"Archet de violoncelle de Jean-François DABER fait vers 2000 , signé ""Nicolas Delaune"", monté argent. 78g7.  Usure bouton. Assez bon état.",,,sold,,2125,EUR,Primary,Primary
+,,2023-11-28,2284,,"Archet de violon de Charles Nicolas BAZIN, en bois exotique, monté maillechort. 50g, sans mèche et garniture fine.  Assez bon état.",,,sold,,563,EUR,Primary,Primary
+,,2023-11-28,2285,,"Archet de violon d'Eugène CUNIOT dit ""CUNIOT-HURY"", fait vers 1905, signé ""Cuniot Hury"", monté argent. 48g, sans garniture. Bon état.",,,sold,,1625,EUR,Primary,Primary
+,,2023-11-28,2286,,"Archet de violon 3/4 de Louis GILLET, monté maillechort. 52g5, avec mèche fine, long. 675mm. Bon état.",,,sold,,3375,EUR,Primary,Primary
+,,2023-11-28,2289,,"Archet de violon fait dans les ateliers de OUCHARD Père, fait vers 1925, monté maillechort. 52g4, sans mèche. Eclat bec de tête, noeud baguette. Bon état.",,,sold,,625,EUR,Primary,Primary
+,,2023-11-28,2290,,"Archet de violon XXème fait en copie de Dominique Peccatte, monté argent. 49g, sans mèche.",,,sold,,2572,EUR,Primary,Primary
+,,2023-11-28,2292,,"Archet de violon de MORIZOT Frères, signé ""A. Deblaye"", monté argent. 53g, sans mèche. Cassé côté tête.",,,sold,,1563,EUR,Primary,Primary
+,,2023-11-28,2293,,Archet de violon portant trace de marque au fer.56g6. Bon état.,,,sold,,6430,EUR,Primary,Primary
+,,2023-11-28,2294,,"Baguette d'archet de violon de Dominique POIRSON dit ""Justin Poirson"", signé, fait vers 1890, hausse et bouton de même époque, montés maillechort. 56g6, sans mèche. Coups baguette et devant tête, tête légèrement modifiée. Bon état.",,,sold,,625,EUR,Primary,Primary
+,,2023-11-28,2295,,"Archet de violon de Eugène CUNIOT-HURY, fait vers 1900, monté maillechort. 45g7, sans mèche ni garniture. Bon état.",,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2299,,"Archet de violon de l'atelier de Louis BAZIN, fait vers 1940, monté maillechort. 56g5, sans mèche. Bon état.",,,sold,,625,EUR,Primary,Primary
+,,2023-11-28,2300,,"Archet de violon d'Alfred LAMY Neveu, signé apocryphe ""Bazin"", monté maillechort. 57g1.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-28,2301,,"Violon XXème, portant étiquette apocryphe   Merciolle. Assez bon état.  358mm",,,sold,,1088,EUR,Primary,Primary
+,,2023-11-28,2303,,Violon de l'école allemande fin XVIIIème portant étiquette apocryphe Rugger. Différentes restaurations sur la table.  Manche décollé. 355mm.,,,sold,,3000,EUR,Primary,Primary
+,,2023-11-28,2305,,"Violon contemporain, portant étiquette apocryphe de Georgeus Foschi 1986. Bon état. 355mm. Abimé sur la table au niveau du chevalet.",,,sold,,3086,EUR,Primary,Primary
+,,2023-11-28,2306,,"Alto petite taille, XXème, portant signature de  Galli. Eclisses décollées, petite piqure de ver sur le fond, sans sa touche et sans vernis.  384mm",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2307,,"Violon de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème, portant étiquette Jérôme Thibouville Lamy. Cassure sur la table. 355mm.",,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2308,,Violon de l'école allemande fait vers 1800. NOmbreuses restaurations. 358mm.,,,sold,,1063,EUR,Primary,Primary
+,,2023-11-28,2312,,Violon  de  JEROME THIBOUVILLE LAMY Mirecourt XXème portant étiquette apocryphe Stradivarius et étiquette JTL. Assez bon état. 356mm,,,sold,,1063,EUR,Primary,Primary
+,,2023-11-28,2313,,"Violon de LABERTE HUMBERT fait à Mirecourt en 1928 numéroté 6481, portant étiquette Laberte Humbert Frères. Trace de ver sur l'éclisse du démanché. 354mm. Accompagné de son certificat LABERTE HUMBERT",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2314,,"Violon des ateliers d'Albert DEBLAYE, fait à Mirecourt en 1926, portant étiquette Deblaye. Bon état. 355mm",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2315,,"Violon / alto de Marius RICHELME fait à Marseille en 1884, portant étiquette de Richelme, signature sur le fond. Assez bon état. 370mm.",,,sold,,1188,EUR,Primary,Primary
+,,2023-11-28,2316,,Violon Mirecourt XIXème. Touche décollée. Assez bon état. 362mm.,,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2317,,Violon début XXème portant étiquette apocryphe Landolfi. Assez bon état. 356mm.,,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2318,,"Violon Mirecourt XXème, portant étiquette apocryphe Vuillaume. Assez bon état. 361mm",,,sold,,785,EUR,Primary,Primary
+,,2023-11-28,2319,,"Alto de petite taille de Didier Nicolas AINE, fait à Mirecourt vers 1800, portant marque au fer de Didier Nicolas Ainé. Cassure de barre sur la table.  375mm.",,,sold,,849,EUR,Primary,Primary
+,,2023-11-28,2320,,"Tête de violoncelle XVIIIème de Lafille, quelques restaurations.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2321,,Violon 7/8 eme en modèle Buthod de JEROME THIBOUVILLE LAMY dont il porte la marque au fer sous le talon. 348mm,,,sold,,1000,EUR,Primary,Primary
+,,2023-11-28,2322,,"Violon fait dans l'atelier de LABERTE-HUMBERT fait à Mirecourt vers 1935, portant étiquette Paul Mangenot. Bon état. 358mm",,,sold,,965,EUR,Primary,Primary
+,,2023-11-28,2323,,"Violon de la maison CARMELO CATANIA en Italie fait à Catagne en 1949, portant étiquette Carmelo Catania. Bon état.  359mm",,,sold,,785,EUR,Primary,Primary
+,,2023-11-28,2324,,Violon de l'atelier de JEROME THIBOUVILLE LAMY fait à Mirecourt début XXème portant étiquette Buthod. Assez bon état. 358mm.,,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2326,,"Archet de violon de L. MORIZOT Frères, fait vers 1945, fait en modèle et signé ""Tourte"", monté maillechort. 55g5, avec mèche et garniture fines. Petits coups dessus tête et baguette, petite usure pouce, petits éclats hausse. Bon état.",,,sold,,681,EUR,Primary,Primary
+,,2023-11-28,2327,,"Archet de violon de Pierre CUNIOT, fait vers 1870, monté maillechort. 55g8. Fracture et éclat hausse, éclat et gerce mortaise vis et écrou. Bon état.",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2329,,"Archet de violon Allemand XXème, signé J. Vedral, monté argent. 51g5, sans mèche. Bon état.",,,sold,,1500,EUR,Primary,Primary
+,,2023-11-28,2330,,"Archet de violon Allemand, monté argent. 51g3, sans garniture et mèche fine. Bon état.",,,sold,,2000,EUR,Primary,Primary
+,,2023-11-28,2331,,"Archet de violon de JEROME THIBOUVILLE LAMY, fait vers 1880, monté argent. 56g3, sans mèche. Coups baguette, coups autours mortaise de vis et écrou, gerce apparente mortaise de vis et écrou. Bon état.",,,sold,,750,EUR,Primary,Primary
+,,2023-11-28,2332,,"Archet de violon d'Emile François OUCHARD Père, fait vers 1925, en modèle ""Tourte"", monté maillechort. 50g. Gerce traversante tête, gerce baguette. Bon état.",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2333,,"Archet de violon de L. MORIZOT Frères, fait vers 1955, monté maillechort, avec bouton de même époque. 56g, avec mèche et garniture fines. Bon état.",,,sold,,813,EUR,Primary,Primary
+,,2023-11-28,2334,,"Archet de violoncelle de l'atelier BAZIN, en bois d'abeille, monté maillechort. 70g, sans garniture. Assez bon état.",,,sold,,643,EUR,Primary,Primary
+,,2023-11-28,2337,,"Archet de violon Allemand début XXème, signé ""Ceuner Berlin"" , monté argent. 58g, avec mèche fine. Bague de renforcement.",,,sold,,5144,EUR,Primary,Primary
+,,2023-11-28,2338,,"Archet de violon de François LOTTE, fait vers 1935, signé Julien Lavest, monté maillechort. 54g5, avec mèche fine. Noeud et petits coups baguette, éclats mortaise vis-écrou. Bon état.",,,sold,,938,EUR,Primary,Primary
+,,2023-11-28,2342,,"Archet de violon de Roger François LOTTE, fait vers 1970, signé ""Parisot"", monté maillechort avec bouton postérieur. 56g3. Fentes arrière et coups baguette, coups tête et hausse. Bon état.",,,sold,,875,EUR,Primary,Primary
+,,2023-11-28,2343,,"Archet de violon de MORIZOT Frères, monté maillechort. 56g6, sans mèche.  Bon état.",,,sold,,1063,EUR,Primary,Primary
+,,2023-11-28,2347,,"Archet de violon d'Emile François OUCHARD Père, fait vers 1920, en modèle ""Tourte"", monté maillechort. 52g, sans mèche. Fracture bas de baguette, noeud ouvert baguette, hausse bloquée. Bon état.",,,sold,,836,EUR,Primary,Primary
+,,2023-11-28,2348,,"Baguette d'archet de violon de François LOTTE, faite vers 1945, avec hausse et bouton de même époque, montés maillechort.  47g7, sans mèche ni garniture. Baguette diminuée postérieurement, trace de coups de scie et fracture arrière baguette, fracture hausse. Bon état.",,,sold,,625,EUR,Primary,Primary
+,,2023-11-28,2349,,"Baguette d'archet de violon de l'école de SIMON, en bois exotique, fait vers 1860, hausse et bouton os de même époque. 55g, sans mèche ni garniture. Eclat bas de baguette, fente hausse. Bon état.",,,sold,,772,EUR,Primary,Primary
+,,2023-11-28,2350,,"Archet de Violon de  François LOTTE fait vers 1940,  signé ""Fçois Lotte"",  monté maillechort. 56g1, sans mèche.  En bon état.",,,sold,,1125,EUR,Primary,Primary

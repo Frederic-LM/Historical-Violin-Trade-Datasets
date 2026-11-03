@@ -1,0 +1,56 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2020-07-23,1,"Nehr, Jean-Pascal",,,,sold,,7252,USD,Primary,Primary,Cello Bow
+,,2020-07-23,10,"Fétique, Victor François",,,,sold,,9160,USD,Primary,Primary,Violin Bow
+,,2020-07-23,11,"Ouchard, Émile-Auguste",,,,sold,,14262,USD,Primary,Primary,Violin Bow
+,,2020-07-23,12,"Sartory, Eugène Nicolas",,,,sold,,24427,USD,Primary,Primary,Violin Bow
+,,2020-07-23,13,"Sartory, Eugène Nicolas",,,,sold,,33587,USD,Primary,Primary,Violin Bow
+,,2020-07-23,14,"Maline, Nicolas I",,,,sold,,29007,USD,Primary,Primary,Violin Bow
+,,2020-07-23,15,"Henry, Joseph",,,,sold,,45038,USD,Primary,Primary,Violin Bow
+,,2020-07-23,16,"Collin-Mézin, Charles fils",,,,sold,,5725,USD,Primary,Primary,Violin
+,,2020-07-23,17,"Bailly, Charles",,,,sold,,6107,USD,Primary,Primary,Violin
+,,2020-07-23,18,"Smillie, Alexander",,,,sold,,3053,USD,Primary,Primary,Violin
+,,2020-07-23,19,"L'Humbert, Lucien",,,,sold,,4198,USD,Primary,Primary,Violin
+,,2020-07-23,2,"Banks, Benjamin",,,,sold,,56297,USD,Primary,Primary,Cello
+,,2020-07-23,20,"Blanchi, Alberto Luigi",,,,sold,,11259,USD,Primary,Primary,Violin
+,,2020-07-23,21,"Gadda, Mario",,,,sold,,12977,USD,Primary,Primary,Violin
+,,2020-07-23,22,"Szepessy, Béla",,,,sold,,12214,USD,Primary,Primary,Violin
+,,2020-07-23,26,"Pareschi, Gaetano",,,,sold,,15013,USD,Primary,Primary,Violin
+,,2020-07-23,27,"Stefanini, Giuseppe",,,,sold,,18320,USD,Primary,Primary,Violin
+,,2020-07-23,28,"Silvestre, Hippolyte Chrétien",,,,sold,,25954,USD,Primary,Primary,Violin
+,,2020-07-23,29,"Tononi, Carlo Annibale",,,,sold,,120100,USD,Primary,Primary,Violin
+,,2020-07-23,3,"Rolland, Benoit",,,,sold,,15267,USD,Primary,Primary,Viola Bow
+,,2020-07-23,31,"Thomassin, Claude Auguste",,,,sold,,11800,USD,Primary,Primary,Cello Bow
+,,2020-07-23,32,"Ouchard, Émile-Auguste",,,,sold,,24000,USD,Primary,Primary,Cello Bow
+,,2020-07-23,34,"Fuchs, Pierre-Yves",,,,sold,,4130,USD,Primary,Primary,Viola Bow
+,,2020-07-23,35,"Espey, Charles",,,,sold,,15600,USD,Primary,Primary,Viola Bow
+,,2020-07-23,36,"Carletti, Natale",,,,sold,,9600,USD,Primary,Primary,Viola
+,,2020-07-23,37,"Guadagnini, Giuseppe I",,,,sold,,35400,USD,Primary,Primary,Viola
+,,2020-07-23,38,"Salchow, William",,,,sold,,5400,USD,Primary,Primary,Violin Bow
+,,2020-07-23,43,"Dodd, John I",,,,sold,,4720,USD,Primary,Primary,Violin Bow
+,,2020-07-23,44,"Dodd, John I",,,,sold,,4720,USD,Primary,Primary,Violin Bow
+,,2020-07-23,45,"Tubbs, James",,,,sold,,12000,USD,Primary,Primary,Violin Bow
+,,2020-07-23,47,"Sartory, Eugène Nicolas",,,,sold,,14400,USD,Primary,Primary,Violin Bow
+,,2020-07-23,48,"Sartory, Eugène Nicolas",,,,sold,,33000,USD,Primary,Primary,Violin Bow
+,,2020-07-23,49,"Simon, Pierre",,,,sold,,24780,USD,Primary,Primary,Violin Bow
+,,2020-07-23,50,"Hornsteiner, Mathias II",,,,sold,,5700,USD,Primary,Primary,Violin
+,,2020-07-23,51,"Mächler, Carl I",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2020-07-23,52,"Hjorth & Sons, Emil",,,,sold,,7080,USD,Primary,Primary,Violin
+,,2020-07-23,53,"Collin-Mézin, Charles Jean-Baptiste père",,,,sold,,10200,USD,Primary,Primary,Violin
+,,2020-07-23,54,"Lutz, Ignaz Anton",,,,sold,,9440,USD,Primary,Primary,Violin
+,,2020-07-23,55,"Roth, Ernst Heinrich",,,,sold,,14400,USD,Primary,Primary,Violin
+,,2020-07-23,56,"Bailly, Paul",,,,sold,,9600,USD,Primary,Primary,Violin
+,,2020-07-23,57,"Parravicini, Piero",,,,sold,,10800,USD,Primary,Primary,Violin
+,,2020-07-23,58,"Martini, Oreste",,,,sold,,18880,USD,Primary,Primary,Violin
+,,2020-07-23,59,"Hel, Pierre Joseph",,,,sold,,25200,USD,Primary,Primary,Violin
+,,2020-07-23,60,"Gaida, Giovanni",,,,sold,,23600,USD,Primary,Primary,Violin
+,,2020-07-23,61,"Fredi, Rodolfo",,,,sold,,25200,USD,Primary,Primary,Violin
+,,2020-07-23,63,"Lecchi, Giuseppe Bernardo",,,,sold,,27600,USD,Primary,Primary,Violin
+,,2020-07-23,64,"Degani, Giulio Ettore",,,,sold,,47200,USD,Primary,Primary,Violin
+,,2020-07-23,65,"Becker, Carl Sr.",,,,sold,,47200,USD,Primary,Primary,Violin
+,,2020-07-23,66,"Gigli, Giulio Cesare",,,,sold,,70800,USD,Primary,Primary,Violin
+,,2020-07-23,68,"Guadagnini, Giuseppe I",,,,sold,,100300,USD,Primary,Primary,Violin
+,,2020-07-23,69,"Scarampella, Stefano",,,,sold,,118000,USD,Primary,Primary,Violin
+,,2020-07-23,7,"Fendt, Bernard Simon II",,,,sold,,13740,USD,Primary,Primary,Viola
+,,2020-07-23,70,"Rugeri, Vincenzo",,,,sold,,441250,USD,Primary,Primary,Violin
+,,2020-07-23,8,"Piattellini, Gasparo",,,,sold,,32866,USD,Primary,Primary,Viola
+,,2020-07-23,9,"Nürnberger, Carl Albert",,,,sold,,3053,USD,Primary,Primary,Violin Bow

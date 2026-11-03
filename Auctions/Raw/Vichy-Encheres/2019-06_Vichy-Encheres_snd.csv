@@ -1,10 +1,4 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,,29,,Morizot Frères,,,sold,2650,3286,EUR,Secondary,Secondary,Viola Bow
-,,,31,,Louis Bazin,,,sold,3585,4445,EUR,Secondary,Secondary,Viola Bow
-,,,37,,Albert Nurnberger,,,sold,2800,3472,EUR,Secondary,Secondary,Cello Bow
-,,,88,,Francois Nicolas Voirin,,,sold,,957,GBP,Secondary,Secondary,Violin Bow
-,,,172,,Georg Karl (II) Klotz,,,sold,,12754,GBP,Secondary,Secondary,Violin
-,,,320,,Jérôme Thibouville Lamy,,,sold,900,1116,EUR,Secondary,Secondary,Cello
 ,,,501,,Jérôme Thibouville Lamy,,,sold,1033,1281,EUR,Secondary,Secondary,Violin
 ,,,503,,Jérôme Thibouville Lamy,,,sold,930,1153,EUR,Secondary,Secondary,Violin
 ,,,508,,Nicolas Harmand,,,sold,517,641,EUR,Secondary,Secondary,Violin

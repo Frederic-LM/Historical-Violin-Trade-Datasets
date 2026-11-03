@@ -1,0 +1,32 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2022-02-02,106,John Breckinbridge,"A violin by John Breckinridge, Glasgow, 1870",800,1200,sold,,632,GBP,Primary,Primary,Violin
+,,2022-02-02,110,Walter H. Mayson,"A violin by Walter H. Mayson, Manchester, 1891",1500,3500,sold,,1643,GBP,Primary,Primary,Violin
+,,2022-02-02,113,Perry & Wilkinson,"A violin by Perry and Wilkinson, Dublin, circa 1822",1800,2800,sold,,1896,GBP,Primary,Primary,Violin
+,,2022-02-02,118,Jean Baptiste Colin,"A violin by Jean-Baptiste Colin, Mirecourt, 1894",500,1000,sold,,1264,GBP,Primary,Primary,Violin
+,,2022-02-02,12,Lawrence Cocker,"A cello by Lawrence Cocker, Derby, 1961",5000,10000,sold,,5688,GBP,Primary,Primary,Cello
+,,2022-02-02,128,Brealey Brian Phillip,"A violin, by Brian Philip Brealey, Nottingham, 1987",500,1000,sold,,632,GBP,Primary,Primary,Violin
+,,2022-02-02,136,Charles (II) Collin-Mezin,"A violin by Ch. J. B. Collin-Mezin Fils, Mirecourt, 1926",1400,2500,sold,,1896,GBP,Primary,Primary,Violin
+,,2022-02-02,17,Miranda Karol Green,"A viola by Miranda Karol, Cardiff 1983",400,600,sold,,1896,GBP,Primary,Primary,Viola
+,,2022-02-02,19,Eugene Cuniot-Hury,"A silver-mounted cello bow by Eugene Cuniot, France, 1915",1000,1500,sold,,3476,GBP,Primary,Primary,Cello Bow
+,,2022-02-02,2,Louis Noebe,"A cello by Louis Noebe, Homburg, 1882",2000,4000,sold,,2528,GBP,Primary,Primary,Cello
+,,2022-02-02,28,Edwin August Prager,"A nickel-mounted viola bow by August Edwin Prager, Markneukirchen",300,500,sold,,695,GBP,Primary,Primary,Viola Bow
+,,2022-02-02,29,Garner Wilson,A gold-mounted viola bow by Garner Wilson,1000,2000,sold,,2528,GBP,Primary,Primary,Viola Bow
+,,2022-02-02,3,John Hoddinott,"A cello by John Hodinott, Wimbourne, circa 1970",1000,2000,sold,,2907,GBP,Primary,Primary,Cello
+,,2022-02-02,30,W. E. Hill & Sons,A silver-mounted violin bow by W. E. Hill & Sons,800,1200,sold,,1896,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,33,H. Fleury,"A silver-mounted violin bow by H. Fleury, Paris",200,400,sold,,278,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,4,John Hoddinott,"A three-quarter-sized cello by John Hodinott, Wimbourne, 1970",500,1000,sold,,2654,GBP,Primary,Primary,Cello
+,,2022-02-02,45,Richard Grunke,"A gold-mounted violin bow by Richard Grünke, Germany",800,2000,sold,,1770,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,47,Hermann Richard Pfretzschner,"A gold-mounted violin bow by H. R. Pfretzschner, Germany",300,500,sold,,1011,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,49,Garner Wilson,A silver-mounted violin bow by Garner Wilson,1000,2000,sold,,1264,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,5,Hayn Ragnar,"A cello by Ragnar Hayn, Newark, 1999",3000,5000,sold,,3160,GBP,Primary,Primary,Cello
+,,2022-02-02,51,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1000,1500,sold,,2781,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,55,Roy Collins,"A silver-mounted violin bow by Roy Collins, England",200,400,sold,,278,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,56,Morizot Frères,"A nickel-mounted violin bow by L. Morizot freres, France, 1955",1000,2000,sold,,1896,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,57,Morizot Frères,"A nickel-mounted violin bow by L. Morizot freres, France, 1955",1000,2000,sold,,1264,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,64,Otto Schuller,"A silver-mounted violin bow by Otto Schüller, Bad Brambach, 20th Century",200,400,sold,,569,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,68,Otto Carl Durrschmidt,"A nickel-mounted violin bow by Otto Dürrschmidt, Germany",300,500,sold,,379,GBP,Primary,Primary,Violin Bow
+,,2022-02-02,71,Honore Derazey,"A violin by Honore Derazey, Mirecourt, second half of the 19th Century",10000,15000,sold,,18960,GBP,Primary,Primary,Violin
+,,2022-02-02,75,Jesse Dennis,"A violin by Jesse Dennis, London, circa 1830",1000,2000,sold,,2149,GBP,Primary,Primary,Violin
+,,2022-02-02,76,John (I) Betts,"A violin by John Betts, London, circa 1810",2000,4000,sold,,6004,GBP,Primary,Primary,Violin
+,,2022-02-02,83,Leon Victor Mougenot,"A violin by Leon Victor Mougenot, Mirecourt, circa 1890",800,1200,sold,,3034,GBP,Primary,Primary,Violin
+,,2022-02-02,96,Joseph (I) Hill,"A violin by Joseph Hill, London, circa 1770",2000,4000,sold,,2907,GBP,Primary,Primary,Violin

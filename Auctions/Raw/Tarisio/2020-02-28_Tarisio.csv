@@ -1,0 +1,96 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2020-02-28,10,"Yeoman, Sydney Braithwaite",,,,sold,,4200,USD,Primary,Primary,Cello Bow
+,,2020-02-28,100,"Gambarin, Alessandro",,,,sold,,5700,USD,Primary,Primary,Violin
+,,2020-02-28,101,"Carta, Giorgio",,,,sold,,2360,USD,Primary,Primary,Violin
+,,2020-02-28,102,"Ciappelli, Samuele",,,,sold,,4200,USD,Primary,Primary,Violin
+,,2020-02-28,104,"Frirsz, Maximillian (Miksa) II",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2020-02-28,105,"Caccia, Andrea",,,,sold,,5100,USD,Primary,Primary,Violin
+,,2020-02-28,106,"Forcellini, Franco",,,,sold,,5400,USD,Primary,Primary,Violin
+,,2020-02-28,108,"Ercoli, Luigi",,,,sold,,7800,USD,Primary,Primary,Violin
+,,2020-02-28,109,"Negroni, Massimo",,,,sold,,10800,USD,Primary,Primary,Violin
+,,2020-02-28,11,"Poirson, Dominique ""Justin""",,,,sold,,4800,USD,Primary,Primary,Cello Bow
+,,2020-02-28,110,"Mazzotti, Matteo",,,,sold,,5310,USD,Primary,Primary,Violin
+,,2020-02-28,112,"Bailly, Jenny",,,,sold,,4720,USD,Primary,Primary,Violin
+,,2020-02-28,114,"Meisel, K. Lothar",,,,sold,,4720,USD,Primary,Primary,Violin
+,,2020-02-28,118,"Pilát, Paul (Pál) I",,,,sold,,9600,USD,Primary,Primary,Violin
+,,2020-02-28,119,"Pilát, Paul (Pál) I",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2020-02-28,120,"Lanaro, Luigi",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2020-02-28,122,"Bulfari, Alceste",,,,sold,,8260,USD,Primary,Primary,Violin
+,,2020-02-28,124,"Cavani, Giovanni",,,,sold,,14400,USD,Primary,Primary,Violin
+,,2020-02-28,127,"Vuillaume, Nicolas III",,,,sold,,18000,USD,Primary,Primary,Violin
+,,2020-02-28,13,"Martin, Jean-Joseph",,,,sold,,13200,USD,Primary,Primary,Cello Bow
+,,2020-02-28,130,"Parravicini, Piero",,,,sold,,13200,USD,Primary,Primary,Violin
+,,2020-02-28,131,"Gadda, Mario",,,,sold,,10030,USD,Primary,Primary,Violin
+,,2020-02-28,133,"McCaige, Dennis",,,,sold,,15340,USD,Primary,Primary,Violin
+,,2020-02-28,134,"Bailly, Paul",,,,sold,,15340,USD,Primary,Primary,Violin
+,,2020-02-28,135,"Sderci, Igino",,,,sold,,21600,USD,Primary,Primary,Violin
+,,2020-02-28,14,"Sartory, Eugène Nicolas",,,,sold,,20400,USD,Primary,Primary,Cello Bow
+,,2020-02-28,143,"Morassi, Gio Battista",,,,sold,,45000,USD,Primary,Primary,Violin
+,,2020-02-28,145,"Albani, Matthias II",,,,sold,,51000,USD,Primary,Primary,Violin
+,,2020-02-28,146,"Scarampella, Stefano",,,,sold,,165200,USD,Primary,Primary,Violin
+,,2020-02-28,17,"Thompson, Charles & Samuel",,,,sold,,18000,USD,Primary,Primary,Cello
+,,2020-02-28,18,"Rabut, Guy",,,,sold,,24000,USD,Primary,Primary,Cello
+,,2020-02-28,28,"Bernardel, Auguste Sébastien Philippe père",,,,sold,,114000,USD,Primary,Primary,Cello
+,,2020-02-28,29,"Poggi, Ansaldo",,,,sold,,258600,USD,Primary,Primary,Cello
+,,2020-02-28,3,"Bazin, Charles Louis",,,,sold,,2006,USD,Primary,Primary,Cello Bow
+,,2020-02-28,31,"Lee, John Norwood",,,,sold,,3600,USD,Primary,Primary,Viola Bow
+,,2020-02-28,32,"Wilson, Garner",,,,sold,,2160,USD,Primary,Primary,Viola Bow
+,,2020-02-28,33,"Maline, Nicolas I",,,,sold,,9600,USD,Primary,Primary,Viola Bow
+,,2020-02-28,35,"Heberlein, Heinrich Theodore Jr.",,,,sold,,7800,USD,Primary,Primary,Viola
+,,2020-02-28,37,"Gaiani, Romano",,,,sold,,3540,USD,Primary,Primary,Viola
+,,2020-02-28,38,"Capela, Antonio",,,,sold,,8260,USD,Primary,Primary,Viola
+,,2020-02-28,39,"Cavani, Vincenzo",,,,sold,,11400,USD,Primary,Primary,Viola
+,,2020-02-28,40,"Dieudonné, Amédée",,,,sold,,14160,USD,Primary,Primary,Viola
+,,2020-02-28,41,"Klotz, Sebastian I",,,,sold,,25200,USD,Primary,Primary,Viola
+,,2020-02-28,42,"Becker, Carl Sr.",,,,sold,,36000,USD,Primary,Primary,Viola
+,,2020-02-28,43,"Zygmuntowicz, Samuel",,,,sold,,120000,USD,Primary,Primary,Viola
+,,2020-02-28,44,"Colas, Prosper",,,,sold,,944,USD,Primary,Primary,Violin Bow
+,,2020-02-28,45,"Bazin, Charles Alfred",,,,sold,,1560,USD,Primary,Primary,Violin Bow
+,,2020-02-28,47,"Huipe, Miguel",,,,sold,,600,USD,Primary,Primary,Violin Bow
+,,2020-02-28,48,"Penzel, Gerhard Kurt",,,,sold,,885,USD,Primary,Primary,Violin Bow
+,,2020-02-28,49,"Thibouville, Jerome",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2020-02-28,50,"Pfretzschner, Hermann Richard",,,,sold,,1680,USD,Primary,Primary,Violin Bow
+,,2020-02-28,51,"Bazin, Charles Alfred",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,2020-02-28,53,"Bazin, Charles Nicolas",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,2020-02-28,55,"Morizot, Louis frères",,,,sold,,2520,USD,Primary,Primary,Violin Bow
+,,2020-02-28,56,"Cuniot, Pierre",,,,sold,,1560,USD,Primary,Primary,Violin Bow
+,,2020-02-28,57,"Maline, Pierre",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2020-02-28,58,"Lotte, François",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2020-02-28,59,"Wilson, Garner",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2020-02-28,6,"Taylor, Malcolm",,,,sold,,2400,USD,Primary,Primary,Cello Bow
+,,2020-02-28,60,"Kagan, Gerald",,,,sold,,2160,USD,Primary,Primary,Violin Bow
+,,2020-02-28,61,"Radosavljevic, Vladimir",,,,sold,,2360,USD,Primary,Primary,Violin Bow
+,,2020-02-28,62,"Bazin, Charles Louis",,,,sold,,2360,USD,Primary,Primary,Violin Bow
+,,2020-02-28,63,"Bazin, Charles Louis",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2020-02-28,64,"Ouchard, Émile François",,,,sold,,5400,USD,Primary,Primary,Violin Bow
+,,2020-02-28,65,"Ouchard, Émile François",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2020-02-28,66,"Malo, François",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,2020-02-28,67,"Baker, Timothy",,,,sold,,3540,USD,Primary,Primary,Violin Bow
+,,2020-02-28,68,"Bazin, Charles Nicolas",,,,sold,,5700,USD,Primary,Primary,Violin Bow
+,,2020-02-28,69,"Husson, Mars Auguste",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2020-02-28,70,"Husson, Mars Auguste",,,,sold,,5605,USD,Primary,Primary,Violin Bow
+,,2020-02-28,71,"Bailey, Leslie Alfred",,,,sold,,2478,USD,Primary,Primary,Violin Bow
+,,2020-02-28,72,"Hill & Sons, W. E. Firm",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2020-02-28,73,"Taylor, Malcolm",,,,sold,,5700,USD,Primary,Primary,Violin Bow
+,,2020-02-28,74,"Retford, William Richard",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2020-02-28,77,"Tubbs, James",,,,sold,,6000,USD,Primary,Primary,Violin Bow
+,,2020-02-28,78,"Tubbs, James",,,,sold,,7800,USD,Primary,Primary,Violin Bow
+,,2020-02-28,79,"Tubbs, James",,,,sold,,8260,USD,Primary,Primary,Violin Bow
+,,2020-02-28,8,"Bazin, Charles Nicolas",,,,sold,,2360,USD,Primary,Primary,Cello Bow
+,,2020-02-28,80,"Martin, Jean-Joseph",,,,sold,,9600,USD,Primary,Primary,Violin Bow
+,,2020-02-28,81,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,14160,USD,Primary,Primary,Violin Bow
+,,2020-02-28,82,"Lamy, Joseph Alfred père",,,,sold,,11400,USD,Primary,Primary,Violin Bow
+,,2020-02-28,83,"Voirin, François Nicolas",,,,sold,,21600,USD,Primary,Primary,Violin Bow
+,,2020-02-28,84,"Kaston, Henryk",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2020-02-28,85,"Fétique, Jules",,,,sold,,18000,USD,Primary,Primary,Violin Bow
+,,2020-02-28,86,"Sartory, Eugène Nicolas",,,,sold,,25960,USD,Primary,Primary,Violin Bow
+,,2020-02-28,88,"Wilkanowski, William",,,,sold,,1770,USD,Primary,Primary,Violin
+,,2020-02-28,89,"Milton, Louis Frank",,,,sold,,2040,USD,Primary,Primary,Violin
+,,2020-02-28,90,"Ottani, Dante",,,,sold,,1800,USD,Primary,Primary,Violin
+,,2020-02-28,91,"Boga, Tonino",,,,sold,,3300,USD,Primary,Primary,Violin
+,,2020-02-28,93,"Roth, Ernst Heinrich",,,,sold,,2183,USD,Primary,Primary,Violin
+,,2020-02-28,94,"Moennig, Fritz",,,,sold,,2400,USD,Primary,Primary,Violin
+,,2020-02-28,95,"Moya, Hidalgo",,,,sold,,3900,USD,Primary,Primary,Violin
+,,2020-02-28,96,"Kessler, Paul",,,,sold,,2950,USD,Primary,Primary,Violin
+,,2020-02-28,97,"Roth, Ernst Heinrich",,,,sold,,7670,USD,Primary,Primary,Violin
+,,2020-02-28,99,"Stanzani, Giancarlo",,,,sold,,3600,USD,Primary,Primary,Violin

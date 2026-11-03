@@ -1,0 +1,102 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2000-05-19,FB 1,"Sartory, Eugène Nicolas",,,,sold,,10175,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 13,"Fétique, Victor François",,,,sold,,4400,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 15,"Bazin, Charles Nicolas",,,,sold,,4950,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 16,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,2970,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 17,"Thomassin, Claude Auguste",,,,sold,,4675,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 19,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 2,"Lamy, Joseph Alfred père",,,,sold,,9900,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 20,"Husson, Charles Claude II",,,,sold,,3410,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 21,"Bazin, Charles Nicolas",,,,sold,,3410,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 23,"Ouchard, Émile François",,,,sold,,3685,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 24,"Bazin, Charles Nicolas",,,,sold,,3135,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 27,"Morizot, Louis Joseph père",,,,sold,,2860,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 3,"Harmand, Nicolas Joseph",,,,sold,,9350,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 30,"Bazin, Charles Nicolas",,,,sold,,3080,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 32,"Lotte, François",,,,sold,,1650,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 33,"Poirson, Dominique ""Justin""",,,,sold,,3301,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 34,"Sartory, Eugène Nicolas",,,,sold,,2750,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 41,"Morizot, Louis Joseph père",,,,sold,,1760,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 49,"Voirin, François Nicolas",,,,sold,,1540,USD,Primary,Primary,Violin Bow
+,,2000-05-19,FB 53,"Bazin, Charles Louis",,,,sold,,3080,USD,Primary,Primary,Viola Bow
+,,2000-05-19,FB 54,"Laberte, Marc André Joseph",,,,sold,,1650,USD,Primary,Primary,Viola Bow
+,,2000-05-19,FB 55,"Pajeot, Étienne",,,,sold,,7975,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 56,"Vigneron, André 'Vigneron fils'",,,,sold,,7700,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 57,"Peccatte, Charles",,,,sold,,7425,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 58,"Lamy, Alfred dit neveu",,,,sold,,10230,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 59,"Fétique, Victor François",,,,sold,,7150,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 61,"Martin, Jean-Joseph",,,,sold,,4400,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 63,"Morizot, Louis Joseph père",,,,sold,,2310,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 64,"Morizot, Louis Joseph père",,,,sold,,3303,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 65,"Morizot, Louis frères",,,,sold,,1595,USD,Primary,Primary,Cello Bow
+,,2000-05-19,FB 7,"Eury, Jacob (Nicolas)",,,,sold,,6050,USD,Primary,Primary,Violin Bow
+,,2000-05-19,IV 1,"Guadagnini, Giovanni Battista",,,,sold,,264000,USD,Primary,Primary,Violin
+,,2000-05-19,IV 10,"Sannino, Vincenzo",,,,sold,,27500,USD,Primary,Primary,Violin
+,,2000-05-19,IV 12,"De Barbieri, Paolo",,,,sold,,19800,USD,Primary,Primary,Violin
+,,2000-05-19,IV 15,"Tarasconi, Giuseppe",,,,sold,,16500,USD,Primary,Primary,Violin
+,,2000-05-19,IV 16,"Bignami, Otello",,,,sold,,13200,USD,Primary,Primary,Violin
+,,2000-05-19,IV 17,"Scarampella, Stefano",,,,sold,,11000,USD,Primary,Primary,Violin
+,,2000-05-19,IV 19,"Fredi, Rodolfo",,,,sold,,11550,USD,Primary,Primary,Violin
+,,2000-05-19,IV 2,"Balestrieri, Tommaso",,,,sold,,99000,USD,Primary,Primary,Violin
+,,2000-05-19,IV 20,"Messori, Pietro",,,,sold,,10450,USD,Primary,Primary,Violin
+,,2000-05-19,IV 21,"Sgarabotto, Gaetano",,,,sold,,11000,USD,Primary,Primary,Violin
+,,2000-05-19,IV 22,"Bedocchi, Mario",,,,sold,,9350,USD,Primary,Primary,Violin
+,,2000-05-19,IV 23,"Politi, Enrico",,,,sold,,15400,USD,Primary,Primary,Violin
+,,2000-05-19,IV 24,"Guastalla, Dante",,,,sold,,7700,USD,Primary,Primary,Violin
+,,2000-05-19,IV 27,"Tua, Silvio",,,,sold,,6600,USD,Primary,Primary,Violin
+,,2000-05-19,IV 3,"Fagnola, Annibale",,,,sold,,60500,USD,Primary,Primary,Violin
+,,2000-05-19,IV 31,"Radrizzani, Angelo",,,,sold,,11275,USD,Primary,Primary,Violin
+,,2000-05-19,IV 37,"Mozzani, Luigi",,,,sold,,4950,USD,Primary,Primary,Violin
+,,2000-05-19,IV 38,"Carletti, Carlo",,,,sold,,6710,USD,Primary,Primary,Violin
+,,2000-05-19,IV 39,"Pizzamiglio, Carlo",,,,sold,,4785,USD,Primary,Primary,Violin
+,,2000-05-19,IV 4,"Sacconi, Simone Fernando",,,,sold,,47850,USD,Primary,Primary,Violin
+,,2000-05-19,IV 40,"Tadioli, Maurizio",,,,sold,,4675,USD,Primary,Primary,Violin
+,,2000-05-19,IV 42,"Cavalazzi, Antonino",,,,sold,,5225,USD,Primary,Primary,Violin
+,,2000-05-19,IV 44,"Cavalli, Aristide",,,,sold,,4070,USD,Primary,Primary,Violin
+,,2000-05-19,IV 49,"Cavalli, Aristide",,,,sold,,1870,USD,Primary,Primary,Violin
+,,2000-05-19,IV 5,"Della Corte, Alfonso",,,,sold,,68750,USD,Primary,Primary,Violin
+,,2000-05-19,IV 50,"Parravicini, Piero",,,,sold,,1760,USD,Primary,Primary,Violin
+,,2000-05-19,IV 6,"Bisiach, Leandro I",,,,sold,,50050,USD,Primary,Primary,Violin
+,,2000-05-19,IV 7,"Bisiach, Leandro I",,,,sold,,38500,USD,Primary,Primary,Violin
+,,2000-05-19,IV 8,"Degani, Giulio Ettore",,,,sold,,20000,USD,Primary,Primary,Violin
+,,2000-05-19,IV 9,"Pallotta, Pietro",,,,sold,,24750,USD,Primary,Primary,Violin
+,,2000-05-19,IVAC 1,"Amati, Antonio & Girolamo",,,,sold,,775500,USD,Primary,Primary,Viola
+,,2000-05-19,IVAC 10,"Mozzani, Luigi",,,,sold,,5500,USD,Primary,Primary,Viola
+,,2000-05-19,IVAC 11,"Erician, Martin",,,,sold,,3685,USD,Primary,Primary,Viola
+,,2000-05-19,IVAC 3,"Tivoli-Fiorini, Arrigo",,,,sold,,18150,USD,Primary,Primary,Viola
+,,2000-05-19,IVAC 6,"Sderci, Igino",,,,sold,,11000,USD,Primary,Primary,Viola
+,,2000-05-19,IVAC 9,"Pareschi, Gaetano",,,,sold,,5500,USD,Primary,Primary,Viola
+,,2000-05-19,LA 2,"Sartory, Eugène Nicolas",,,,sold,,18150,USD,Primary,Primary,Violin Bow
+,,2000-05-19,LA 3,"Sartory, Eugène Nicolas",,,,sold,,8250,USD,Primary,Primary,Violin Bow
+,,2000-05-19,LA 5,"Lucci, Giuseppe",,,,sold,,11000,USD,Primary,Primary,Violin
+,,2000-05-19,LA 6,"Roth, Ernst Heinrich",,,,sold,,3685,USD,Primary,Primary,Violin
+,,2000-05-19,OB 2,"Finkel, Siegfried",,,,sold,,1100,USD,Primary,Primary,Violin Bow
+,,2000-05-19,OB 7,"Tubbs, James",,,,sold,,9900,USD,Primary,Primary,Viola Bow
+,,2000-05-19,OB 8,"Finkel, Siegfried",,,,sold,,1320,USD,Primary,Primary,Viola Bow
+,,2000-05-19,OV 13,"Smillie, Alexander",,,,sold,,4400,USD,Primary,Primary,Violin
+,,2000-05-19,OV 14,"Darche, Charles Claude François",,,,sold,,4015,USD,Primary,Primary,Violin
+,,2000-05-19,OV 17,"Dieudonné, Amédée",,,,sold,,4345,USD,Primary,Primary,Violin
+,,2000-05-19,OV 2,"Silvestre, Pierre",,,,sold,,19800,USD,Primary,Primary,Violin
+,,2000-05-19,OV 20,"Betts, John I",,,,sold,,2750,USD,Primary,Primary,Violin
+,,2000-05-19,OV 21,"Berger, Karl August",,,,sold,,4125,USD,Primary,Primary,Violin
+,,2000-05-19,OV 23,"Hull, John Justus",,,,sold,,3850,USD,Primary,Primary,Violin
+,,2000-05-19,OV 24,"Roth, Ernst Heinrich",,,,sold,,3795,USD,Primary,Primary,Violin
+,,2000-05-19,OV 28,"Laberte, Marc André Joseph",,,,sold,,2200,USD,Primary,Primary,Violin
+,,2000-05-19,OV 3,"Gaillard, Charles",,,,sold,,16500,USD,Primary,Primary,Violin
+,,2000-05-19,OV 31,"Mougenot, Léon Victor",,,,sold,,2420,USD,Primary,Primary,Violin
+,,2000-05-19,OV 32,"Collin-Mézin, Charles Jean-Baptiste père",,,,sold,,2640,USD,Primary,Primary,Violin
+,,2000-05-19,OV 33,"Beuscher, Paul",,,,sold,,3245,USD,Primary,Primary,Violin
+,,2000-05-19,OV 36,"Collin-Mézin, Charles fils",,,,sold,,1870,USD,Primary,Primary,Violin
+,,2000-05-19,OV 41,"Lavest, Jules",,,,sold,,2530,USD,Primary,Primary,Violin
+,,2000-05-19,OV 42,"Farley, Charles Emery",,,,sold,,1100,USD,Primary,Primary,Violin
+,,2000-05-19,OV 43,"Deblaye, Albert",,,,sold,,1925,USD,Primary,Primary,Violin
+,,2000-05-19,OV 46,"Monnig, Curt",,,,sold,,1705,USD,Primary,Primary,Violin
+,,2000-05-19,OV 47,"Deblaye, Albert",,,,sold,,2200,USD,Primary,Primary,Violin
+,,2000-05-19,OV 48,"Grandjon, Jules Joseph",,,,sold,,990,USD,Primary,Primary,Violin
+,,2000-05-19,OV 6,"Blanchard, Paul Francois",,,,sold,,7150,USD,Primary,Primary,Violin
+,,2000-05-19,OV 7,"Salomon, Jean Baptiste Deshayes",,,,sold,,13200,USD,Primary,Primary,Violin
+,,2000-05-19,OV 8,"Holder, Thomas James",,,,sold,,6325,USD,Primary,Primary,Violin
+,,2000-05-19,OV 9,"Collenot, Raymond",,,,sold,,5775,USD,Primary,Primary,Violin
+,,2000-05-19,OVAC 1,"Banks, James",,,,sold,,6325,USD,Primary,Primary,Viola
+,,2000-05-19,OVAC 2,"Zach, Carl",,,,sold,,4950,USD,Primary,Primary,Viola
+,,2000-05-19,OVAC 4,"Jacquot, Charles",,,,sold,,24200,USD,Primary,Primary,Cello

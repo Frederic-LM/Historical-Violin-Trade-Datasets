@@ -1,0 +1,56 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2024-03-27,1,Paul Hilaire,"A cello by Paul Hilaire, Paris, 1969",5000,10000,sold,,11376,GBP,Primary,Primary,Cello
+,,2024-03-27,109,Gustav Lutschg,"A violin by Gustav Lutschg, Bern, 1921",2500,3000,sold,,3160,GBP,Primary,Primary,Violin
+,,2024-03-27,113,Ernst Glasel,"A violin by Ernst Gläsel, Germany, 1900",800,1200,sold,,2275,GBP,Primary,Primary,Violin
+,,2024-03-27,114,Jean Francois Pillement,"A violin by Jean Francois Pillement, Mirecourt, circa 1810",1200,1800,sold,,1517,GBP,Primary,Primary,Violin
+,,2024-03-27,121,Jacob Stainer,"A violin by Jacobus Stainer, Absam, circa 1660-70",20000,30000,sold,,47400,GBP,Primary,Primary,Violin
+,,2024-03-27,127,Gio Batta Morassi,"A violin by Giovanni Battista Morassi, Cremona, 1970",20000,40000,sold,,34760,GBP,Primary,Primary,Violin
+,,2024-03-27,131,Georges Adolphe Chanot,"A violin by Georges Adolphe Chanot, Manchester, 1898",3000,5000,sold,,4424,GBP,Primary,Primary,Violin
+,,2024-03-27,136,Jan Kudanowski,"A violin by Jan Kudanowski, Birmingham, 1976",1000,1500,sold,,1390,GBP,Primary,Primary,Violin
+,,2024-03-27,139,The Voller Brothers,"A violin by the Voller Brothers, London, circa 1900",20000,30000,sold,,22752,GBP,Primary,Primary,Violin
+,,2024-03-27,166,George Wulme-Hudson,"A violin by George Wulme-Hudson, London, 1923",6000,10000,sold,,7584,GBP,Primary,Primary,Violin
+,,2024-03-27,17,Paulus Bruno Franz,"A cello by Bruno Paulus, Mittenwald, circa 1960",2500,3500,sold,,4108,GBP,Primary,Primary,Cello
+,,2024-03-27,176,Walter H. Mayson,"A violin by Walter H. Mayson, Manchester, 1889",1000,1500,sold,,1264,GBP,Primary,Primary,Violin
+,,2024-03-27,180,Marius Didier,"A violin by Marius Didier, Mattaincourt, 1932",1800,3000,sold,,3160,GBP,Primary,Primary,Violin
+,,2024-03-27,193,Frans Waldemar Dahlen,"A violin by Frans Dahlen, Gothenburg, 192*",500,1000,sold,,1517,GBP,Primary,Primary,Violin
+,,2024-03-27,204,Victor Audinot,"A violin by Victor Audinot, Paris, 1929",1500,3000,sold,,3160,GBP,Primary,Primary,Violin
+,,2024-03-27,205,James Meek,"A violin by James Meek, Carlisle, 1899",800,1200,sold,,1074,GBP,Primary,Primary,Violin
+,,2024-03-27,21,W. E. Hill & Sons,"A silver-mounted cello bow by W. E. Hill & Sons, London, 20th Century",2000,4000,sold,,6320,GBP,Primary,Primary,Cello Bow
+,,2024-03-27,216,Johann Heinrich Schult,"A violin by Johann Heinrich Schult, Lübeck, circa 1919",800,1200,sold,,1770,GBP,Primary,Primary,Violin
+,,2024-03-27,23,Hermann Richard Pfretzschner,"A silver-mounted cello bow by H. R. Pfretzschner, Germany, 20th Century",1500,2500,sold,,2654,GBP,Primary,Primary,Cello Bow
+,,2024-03-27,233,Emanuel Whitmarsh,"A violin by Emanuel Whitmarsh, London, 1885",1500,2500,sold,,1896,GBP,Primary,Primary,Violin
+,,2024-03-27,234,William Luff,"A violin by William H. Luff, London, 1948",1000,2000,sold,,6004,GBP,Primary,Primary,Violin
+,,2024-03-27,239,Anton Ostler,"A violin by Anton Ostler, Mittenwald, 1936",2000,4000,sold,,2654,GBP,Primary,Primary,Violin
+,,2024-03-27,242,Joseph (I) Hill,"A viola by Joseph Hill, London, circa 1770",10000,15000,sold,,12640,GBP,Primary,Primary,Viola
+,,2024-03-27,244,Emile Mennesson,"A viola by Emile Menesson, Paris, 1880",1000,2000,sold,,3792,GBP,Primary,Primary,Viola
+,,2024-03-27,25,Georges Emile Barjonnet,"A nickel-mounted cello bow by Georges Barjonnet, France, circa 1955",1500,2500,sold,,2781,GBP,Primary,Primary,Cello Bow
+,,2024-03-27,250,J.E. Vickers,"A viola by J. E. Vickers, King's Lynn, 1988",500,600,sold,,758,GBP,Primary,Primary,Viola
+,,2024-03-27,32,Heinz Dolling,"A silver-mounted cello bow by Heinz Dolling, Germany, circa 1920",500,1000,sold,,632,GBP,Primary,Primary,Cello Bow
+,,2024-03-27,36,Muhl Wilhelm,"A silver-mounted viola bow by Wilhelm Muhl, Germany circa 1910",300,500,sold,,379,GBP,Primary,Primary,Viola Bow
+,,2024-03-27,39,Thomas Tubbs,"A silver-mounted viola bow by Thomas Tubbs, London, circa 1850",2500,3500,sold,,3160,GBP,Primary,Primary,Viola Bow
+,,2024-03-27,40,Otto Carl Durrschmidt,"A silver-mounted violin / viola bow by Otto Durrschmidt, Germany, circa 1920",300,500,sold,,379,GBP,Primary,Primary,Viola Bow
+,,2024-03-27,41,Eugene Nicolas Sartory,"A silver-mounted violin bow by Eugène Sartory, Paris, circa 1920",5000,10000,sold,,20224,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,42,John Dodd,"A silver and ivory-mounted violin bow by John Dodd, London, circa 1790",2500,4500,sold,,3160,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,43,Alfred Joseph Lamy,"A silver-mounted violin bow by Alfred Lamy (Père), Paris, circa 1890",2500,4500,sold,,8848,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,44,Hermann Richard Pfretzschner,"A silver-mounted violin bow by H. R. Pfretzschner, Germany, circa 1930",800,1200,sold,,1011,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,44A,James Tubbs,"A gold-mounted violin bow by James Tubbs, London",6000,8000,sold,,8216,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,45,Friedrich Karl Muller,"A gold and tortoiseshell-mounted violin bow by Friedrich Karl Muller, Markneukirchen, circa 1930",500,1000,sold,,1390,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,46,Alfred Knoll,"A silver-mounted violin bow by Alfred Knoll, Germany, circa 1920",100,200,sold,,303,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,48,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London, 20th Century",800,1200,sold,,1517,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,50,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London, 20th Century",800,1200,sold,,1390,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,51,Hermann Richard Pfretzschner,"A silver-mounted violin bow by H. R. Pfretzschner, Germany, circa 1930",400,600,sold,,885,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,52,Chalupetzky Franz,"A silver-mounted violin bow by F. Chalupetsky, Germany, circa 1940",300,500,sold,,758,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,58,Rudolf Neudorfer,"A silver-mounted violin bow by Rudolf Neudorfer, Czechoslovakia, 20th Century",300,500,sold,,758,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,61,Otto Carl Durrschmidt,"A silver-mounted violin bow by Otto Durrschmidt, Germany, 20th Century",300,600,sold,,569,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,64,Richard Geipel,"A nickel-mounted violin bow by Richard Giepel, Germany, circa 1930",200,400,sold,,253,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,67,Louis Joseph Thomassin,"A silver-mounted violin bow by Louis Joseph Thomassin, Paris, circa 1890",6000,8000,sold,,7584,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,72,Claude Auguste Thomassin,"A gold-mounted violin bow, by Claude Thomassin, Paris, circa 1910",4000,6000,sold,,10744,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,74,Lothar Hermann,"A silver-mounted violin bow by Lothar Herrmann, Germany, circa 1920",300,600,sold,,1390,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,84,Emile Francois Ouchard,"A silver-mounted violin bow by Emile-François Ouchard, Mirecourt, circa 1920",3000,5000,sold,,3792,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,85,Claude Auguste Thomassin,"A silver-mounted violin bow by Claude Thomassin, Paris, circa 1910",3000,5000,sold,,4424,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,87,W. E. Hill & Sons,"A silver and tortoiseshell-mounted violin bow by W. E. Hill and Sons, London, 1930",3000,5000,sold,,5372,GBP,Primary,Primary,Violin Bow
+,,2024-03-27,88,Paolo Antonio Testore,"A violin by Paulo Antonio Testore, Milan, circa 1730",30000,50000,sold,,75840,GBP,Primary,Primary,Violin
+,,2024-03-27,89,Charles Jean Baptiste Collin-Mezin (I),"A violin by Ch. J. B. Collin-Mezin, Mirecourt, 1892",6000,10000,sold,,10112,GBP,Primary,Primary,Violin
+,,2024-03-27,91A,Joseph Philippe Grandjon,"A violin by Joseph Philippe Grandjon, Mirecourt, circa 1860",800,1200,sold,,3160,GBP,Primary,Primary,Violin
+,,2024-03-27,96,Louis Frank Milton,"A violin by Louis F. Milton, Bedford, 1930",1000,2000,sold,,1264,GBP,Primary,Primary,Violin
+,,2024-03-27,97,Jean-Baptiste Vuillaume,"A violin by Jean-Baptiste Vuillaume, Paris, circa 1845",20000,30000,sold,,56880,GBP,Primary,Primary,Violin

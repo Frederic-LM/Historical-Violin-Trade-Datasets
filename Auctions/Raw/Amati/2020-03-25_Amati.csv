@@ -1,0 +1,36 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2020-03-25,1,Eugene Nicolas Sartory,"A violin bow by Eugène Sartory, Paris",1600,1800,sold,,10112,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,104,Enrico Orselli,"A violin by Enrico Orselli, Ferrara, 192",4000,6000,sold,,7584,GBP,Primary,Primary,Violin
+,,2020-03-25,107,Antonio Costa,"A violin by Antonio Costa, Forlimpopoli, 1945",2000,4000,sold,,3160,GBP,Primary,Primary,Violin
+,,2020-03-25,108,Georges (I) Chanot,"A violin by Georges Chanot, Paris, 1835",8000,12000,sold,,10112,GBP,Primary,Primary,Violin
+,,2020-03-25,109,Emanuel Whitmarsh,"A violin by Emanuel Whitmarsh, London, 1887",1000,2000,sold,,1264,GBP,Primary,Primary,Violin
+,,2020-03-25,113,Kuzel Vila,"A violin by Vila Kužel, Brne, 1965",2000,4000,sold,,2654,GBP,Primary,Primary,Violin
+,,2020-03-25,115,Piero Parravicini,"A violin by Piero Parravicini, Milan, 1957",10000,15000,sold,,12640,GBP,Primary,Primary,Violin
+,,2020-03-25,125,Olav Breivik,"A viola by Olav Breivik, Milwaukee, 1934",900,1400,sold,,1390,GBP,Primary,Primary,Viola
+,,2020-03-25,126,Wilfred G. Saunders,"A viola by Wilfred G. Saunders, Nottingham, 1992",2000,4000,sold,,3476,GBP,Primary,Primary,Viola
+,,2020-03-25,129,John Wilkinson,"A viola by John Wilkinson, London, circa 1940",2500,4500,sold,,3160,GBP,Primary,Primary,Viola
+,,2020-03-25,133,Pietro Trimboli,"A viola by Pietro Trimboli, Bologna, 1976",5000,7000,sold,,3792,GBP,Primary,Primary,Viola
+,,2020-03-25,143,Sillem Benecke,"A cello by Sillen Benecke, Stockholm, 1882",5000,10000,sold,,6320,GBP,Primary,Primary,Cello
+,,2020-03-25,15,K. Gerhard Penzel,"A silver-mounted violin bow by K. Gerhard Penzel, Germany",600,800,sold,,758,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,16,August Rau,"A silver-mounted violin bow by August Rau, Germany",500,800,sold,,885,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,2,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, England",1000,2000,sold,,2781,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,20,Claude Auguste Thomassin,"A nickel-mounted violin bow by C. A. Thomassin, Paris",1500,2500,sold,,2022,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,21,August Rau,"A silver-mounted violin bow by August Rau, Germany",100,150,sold,,1517,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,32,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, England",1000,2000,sold,,1770,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,33,Albert Nurnberger,"A silver-mounted violin bow by Albert Nürnberger, Germany",1000,2000,sold,,1011,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,36,James Tubbs,"A silver-mounted violin bow by James Tubbs, England",3000,5000,sold,,3792,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,38,Hermann Richard Pfretzschner,"A silver-mounted violin bow by H. R. Pfretzschner, Germany",250,450,sold,,1264,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,41,Bailey Gordon E,"A silver-mounted viola bow by Gordon E. Bailey, England",400,800,sold,,506,GBP,Primary,Primary,Viola Bow
+,,2020-03-25,47,Roger Lotte,"A nickel-mounted viola bow by Roger François Lotte, France",1000,1500,sold,,1390,GBP,Primary,Primary,Viola Bow
+,,2020-03-25,48,Hermann Richard Pfretzschner,"A silver-mounted cello bow by H. R. Pfretzschner, Germany",500,800,sold,,2149,GBP,Primary,Primary,Cello Bow
+,,2020-03-25,49,August Wilhelm Pfretzschner,"A silver-mounted cello bow by W. A. Pfretzschner, Germany",1000,2000,sold,,1390,GBP,Primary,Primary,Cello Bow
+,,2020-03-25,50,W. E. Hill & Sons,"A silver and tortoiseshell-mounted cello bow by W. E. Hill & Sons, England",3000,5000,sold,,3792,GBP,Primary,Primary,Cello Bow
+,,2020-03-25,51,Emil Werner,"A silver-mounted cello bow by Emil Werner, Germany",400,500,sold,,600,GBP,Primary,Primary,Cello Bow
+,,2020-03-25,52,Hermann Richard Pfretzschner,"A silver-mounted cello bow by H. R. Pfretzschner, Germany",400,600,sold,,1517,GBP,Primary,Primary,Cello Bow
+,,2020-03-25,56,Giovanni Battista Ceruti,"A violin by Giovanni Battista Ceruti, Cremona, circa 1810",40000,60000,sold,,126400,GBP,Primary,Primary,Violin
+,,2020-03-25,62,Toppetti Cesare,"A violin by Cesare Toppetti, Todi, 1997",3000,4000,sold,,1770,GBP,Primary,Primary,Violin
+,,2020-03-25,65,Georges Adolphe Chanot,"A violin by Georges Adolphe Chanot, Manchester, 1909",5000,10000,sold,,6320,GBP,Primary,Primary,Violin
+,,2020-03-25,79,Giuseppe Stefanini,"A violin by Giuseppe Stefanini, Brescia, 1971",4000,6000,sold,,12008,GBP,Primary,Primary,Violin
+,,2020-03-25,8,W. E. Hill & Sons,"A gold and tortoiseshell-mounted violin bow by W. E. Hill & Sons, London",2500,4500,sold,,10112,GBP,Primary,Primary,Violin Bow
+,,2020-03-25,86,Jacques-Pierre Thibout,"A violin by Jacques-Pierre Thibout, Paris, 1837",10000,15000,sold,,26544,GBP,Primary,Primary,Violin
+,,2020-03-25,90,F. Eugene Marchand,"A violin by Eugene Marchand, Paris, circa 1890",3000,6000,sold,,3223,GBP,Primary,Primary,Violin

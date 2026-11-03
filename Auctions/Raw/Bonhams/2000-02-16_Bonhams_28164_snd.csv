@@ -1,16 +1,4 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,2000-02-16,71,,"Smith, Thomas",,,sold,1000,1150,GBP,Secondary,Primary,Viola
-,,2000-02-16,93,,Neuner & Hornsteiner,,,sold,480,552,GBP,Secondary,Primary,Violin
-,,2000-02-16,113,,"Bailly, Charles",,,sold,950,1092,GBP,Secondary,Primary,Violin
-,,2000-02-16,114,,"Robinson, William",,,sold,1500,1725,GBP,Secondary,Primary,Violin
-,,2000-02-16,119,,"Striebig, Jean",,,sold,650,747,GBP,Secondary,Primary,Violin
-,,2000-02-16,126,,"Braund, Frederick T.",,,sold,300,345,GBP,Secondary,Primary,Violin
-,,2000-02-16,131,,"Cone, Georges",,,sold,650,747,GBP,Secondary,Primary,Violin
-,,2000-02-16,144,,"Neuner, Mathias II",,,sold,380,437,GBP,Secondary,Primary,Violin
-,,2000-02-16,146,,Neuner & Hornsteiner,,,sold,260,299,GBP,Secondary,Primary,Violin
-,,2000-02-16,150,,"Lorange, Paul II",,,sold,750,862,GBP,Secondary,Primary,Violin
-,,2000-02-16,157,,Neuner & Hornsteiner,,,sold,300,345,GBP,Secondary,Primary,Violin
-,,2000-02-16,159,,"Lowendall, Louis",,,sold,460,529,GBP,Secondary,Primary,Violin
 ,,2000-02-16,,,"Bruet, Nicholas",,,sold,640,,USD,Secondary,Secondary,Violin
 ,,2000-02-16,,,"Sivori,",,,sold,960,,USD,Secondary,Secondary,Violin
 ,,2000-02-16,,,"Toth, A.",,,sold,512,,USD,Secondary,Secondary,Violin

@@ -71,14 +71,18 @@ yearbooks), named once in `../COVERAGE.md`. Only facts are taken from them, neve
 | Folder | Years | Sales | Lots | Sold | Source of the house's data |
 |---|---|---|---|---|---|
 | `Aguttes/` | 2022–2026 | 9 | 860 | 860 | aguttes.com sale and lot pages, read 18 Oct 2026 |
+| `Amati/` | 2018–2026 | 42 | 1 476 | 1 476 | the house's own results pages |
 | `Artcurial/` | 2025 | 1 | 1 | 1 | the house's lot page and published result |
 | `Bonhams/` | 2003–2015 | 44 | 13 147 | 8 281 | bonhams.com sale pages, read 19 Oct 2026 |
-| `Christies/` | 1984–2026 | 35 | 4 372 | 3 571 | christies.com lot pages, read 17 Oct 2026; London: the author's printed catalogues and price lists |
-| `Gardiner-Houlgate/` | 2019–2026 | 32 | 13 101 | 10 012 | musicalinstrument-auctions.co.uk results pages, read 20 Oct 2026, and the printed catalogues |
+| `Christies/` | 1984–2026 | 35 | 4 372 | 3 738 | christies.com lot pages, read 17 Oct 2026; London: the author's printed catalogues and price lists |
+| `Gardiner-Houlgate/` | 2019–2026 | 32 | 13 101 | 10 056 | musicalinstrument-auctions.co.uk results pages, read 20 Oct 2026, and the printed catalogues |
 | `Ingles-Hayday/` | 2020–2026 | 12 | 2 229 | 1 669 | ingleshayday.com results pages, read 17 Oct 2026 |
-| `Phillips/` | 1975–1998 | 132 | 32 786 | 23 776 | the author's printed catalogues and price lists |
+| `Phillips/` | 1975–1998 | 132 | 32 786 | 24 469 | the author's printed catalogues and price lists |
 | `Skinner/` | 2005–2021 | 28 | 10 230 | 8 766 | skinnerinc.com results archive, read 19 Oct 2026 |
-| `Sothebys/` | 1968–2005 | 45 | 10 811 | 8 704 | the author's printed catalogues, price lists and results sheets |
+| `Sothebys/` | 1968–2005 | 45 | 10 811 | 8 715 | the author's printed catalogues, price lists and results sheets |
+| `T2-Auctions/` | 2016–2023 | 40 | 159 | 159 | the house's own results (Tarisio's online sales; part only) |
+| `Tarisio/` | 1999–2026 | 139 | 12 841 | 12 841 | the house's own results archive |
+| `Vichy-Encheres/` | 1994–2025 | 67 | 36 845 | 22 121 | the house's results documents, lot lists and catalogues (also the author's typed catalogues) |
 
 Sales whose own documents we do not hold (most Sotheby's, Christie's and Phillips London sales: only those of the
 author's printed copies are primary here; Brompton's, Dorotheum...) appear through their secondary files (`_snd.csv`),

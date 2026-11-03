@@ -1,0 +1,57 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2019-10-23,1,Jean Charles,"A cello by Jean Charles, France, 18th Century",10000,15000,sold,,15168,GBP,Primary,Primary,Cello
+,,2019-10-23,106,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,108,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,164,GBP,Primary,Primary,Violin
+,,2019-10-23,11,Bryan Maynard,"A bass viol by Bryan Maynard, England, 20th Century",500,1000,sold,,758,GBP,Primary,Primary,Cello
+,,2019-10-23,115,C D Greener,"A violin by C. D. Greener, England, second half of the 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,116,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,152,GBP,Primary,Primary,Violin
+,,2019-10-23,117,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,122,Didier Nicolas L’Aîné,"A violin by Didier Nicolas l'Aîné, France, circa 1830",1000,2000,sold,,885,GBP,Primary,Primary,Violin
+,,2019-10-23,126,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,190,GBP,Primary,Primary,Violin
+,,2019-10-23,127,Vittorio Mutti,"A violin by Vittorio Mutti, Castiglione delle Stiviere, 1940",500,1000,sold,,822,GBP,Primary,Primary,Violin
+,,2019-10-23,136,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,126,GBP,Primary,Primary,Violin
+,,2019-10-23,137,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,14,John Wilkinson,"A violin by John Wilkinson, England, circa 1930",4000,6000,sold,,6320,GBP,Primary,Primary,Violin
+,,2019-10-23,142,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,190,GBP,Primary,Primary,Violin
+,,2019-10-23,143,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,147,Walter Gerhard Renz,"A silver-mounted violin bow by Gerhard Walter Renz, Germany",100,200,sold,,537,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,149,Hermann Richard Pfretzschner,"A nickel-mounted violin bow by H. R. Pfretzschner, Germany",400,800,sold,,506,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,153,Albert Nurnberger,"A silver-mounted violin bow by Albert Nürnberger, Germany",800,1600,sold,,2402,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,154,Alfred Joseph Lamy,"A silver-mounted violin bow by Alfred Lamy, France, circa 1900",6000,10000,sold,,10112,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,155,Monnig Michael,"A silver-mounted viola bow by Michael Mönnig, Germany",400,800,sold,,506,GBP,Primary,Primary,Viola Bow
+,,2019-10-23,156,Arthur Bultitude,"A silver-mounted cello bow by Arthur Richard Bultitude, England",1500,2500,sold,,2654,GBP,Primary,Primary,Cello Bow
+,,2019-10-23,157,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, England",1500,2500,sold,,2654,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,158,Louis Morizot,"A silver-mounted violin bow by Louis Morizot, France",1500,2500,sold,,4108,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,162,Albin Hums,"A silver-mounted cello bow by Albin Hums, Germany",500,1000,sold,,1264,GBP,Primary,Primary,Cello Bow
+,,2019-10-23,166,Richard Weichold,"A silver-mounted violin bow by R. Weichold, Dresden",200,400,sold,,1264,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,174,Claude Auguste Thomassin,"A nickel-mounted violin bow by Claude Auguste Thomassin, France",2000,4000,sold,,2528,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,175,Devoivre Gerome,"A nickel-mounted violin bow by Gerôme Devoivre, France",200,400,sold,,695,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,182,W. E. Hill & Sons,"A silver-mounted viola bow by W. E. Hill & Sons, England",2000,3000,sold,,2528,GBP,Primary,Primary,Viola Bow
+,,2019-10-23,186,Johann Stuber,"A silver-mounted viola bow by Johann Stüber, Holland",1500,2500,sold,,1896,GBP,Primary,Primary,Viola Bow
+,,2019-10-23,190,Edwin August Prager,"A gold-mounted violin bow by August Edwin Prager, Germany",500,1000,sold,,632,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,200,Kurt Dolling,"A silver-mounted cello bow by Kurt Dolling, Germany",1000,1500,sold,,1201,GBP,Primary,Primary,Cello Bow
+,,2019-10-23,202,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1500,2500,sold,,4740,GBP,Primary,Primary,Violin Bow
+,,2019-10-23,21,Antonio Lechi,"A violin by Antonio Lechi, Cremona, 1921",1000,2000,sold,,1643,GBP,Primary,Primary,Violin
+,,2019-10-23,210,John Norwoodlee,"A silver-mounted cello bow by John Norwood Lee, United States",500,1000,sold,,758,GBP,Primary,Primary,Cello Bow
+,,2019-10-23,214,Piero Parravicini,"A viola by Piero Parravicini, Milan, 1949",10000,15000,sold,,12640,GBP,Primary,Primary,Viola
+,,2019-10-23,216,Derick M Sanderson,"A viola by Derick M. Sanderson, Scotland, 1971",500,1000,sold,,506,GBP,Primary,Primary,Viola
+,,2019-10-23,218,Valerio Prilipco,"A viola by Valerio Prilipco, Cremona, 2000",2500,4000,sold,,3476,GBP,Primary,Primary,Viola
+,,2019-10-23,220,Piero Parravicini,"A viola by Piero Parravicini, Milan, 1949",10000,15000,sold,,12640,GBP,Primary,Primary,Viola
+,,2019-10-23,224,Guido Trotta,"A viola by Guido Trotta, Cremona, 1993",1000,2000,sold,,2907,GBP,Primary,Primary,Viola
+,,2019-10-23,30,Gerald Littlewood,"A viola by Gerald Littlewood, Hollingworth-in-Longdendale, 1978",200,400,sold,,600,GBP,Primary,Primary,Viola
+,,2019-10-23,32,Frank Watson,"A violin by Frank Watson, Rochdale, 1904",400,800,sold,,506,GBP,Primary,Primary,Violin
+,,2019-10-23,33,Markert Ignatius,"A violin by Ignatius Markert, Prague, 1936",800,1600,sold,,1896,GBP,Primary,Primary,Violin
+,,2019-10-23,34,Louis Moitessier,"A violin by Louis Moitessier, France, 19th Century",2000,4000,sold,,2149,GBP,Primary,Primary,Violin
+,,2019-10-23,40,Jeffery James Gilbert,"A violin by Jeffery Gilbert, Peterborough, 1817",500,1000,sold,,4108,GBP,Primary,Primary,Violin
+,,2019-10-23,48,Thomas Earle Hesketh,"A violin by T. Earle Hesketh, Manchester, 1935",4000,5000,sold,,5056,GBP,Primary,Primary,Violin
+,,2019-10-23,5,Klotz [Family],"A cello by a member of the Klotz family, Mittenwald, 18th Century",10000,15000,sold,,22752,GBP,Primary,Primary,Cello
+,,2019-10-23,59,Carlo Antonio Testore,"A violin by Carlo Antonio Testore, Milan, circa 1730",35000,55000,sold,,35678,GBP,Primary,Primary,Violin
+,,2019-10-23,63,Mauro Lunati,"A violin by Mauro Lunati, Genoa, 2018",3000,5000,sold,,3792,GBP,Primary,Primary,Violin
+,,2019-10-23,65,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,66,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,75,Jaap Emner,"A violin by Jaap Emner, Amsterdam, 1947",500,1000,sold,,1138,GBP,Primary,Primary,Violin
+,,2019-10-23,81,Giuseppe Gagliano,"A violin by Joseph Gagliano, Naples, circa 1780",35000,55000,sold,,44240,GBP,Primary,Primary,Violin
+,,2019-10-23,82,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,240,GBP,Primary,Primary,Violin
+,,2019-10-23,89,Matteo Mazzotti,"A violin by Matteo Mazzotti, Cremona, 2010",1000,2000,sold,,1643,GBP,Primary,Primary,Violin
+,,2019-10-23,94,Salustri Mario,"A violin by Mario Salustri, Albano, late 20th Century",200,400,sold,,253,GBP,Primary,Primary,Violin
+,,2019-10-23,99,Gert Marrer,"A violin by Gert Marrer, Amsterdam, 20th Century",800,1200,sold,,1011,GBP,Primary,Primary,Violin

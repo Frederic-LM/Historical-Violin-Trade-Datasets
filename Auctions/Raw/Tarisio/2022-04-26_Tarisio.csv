@@ -1,0 +1,91 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2022-04-26,100,"Caussin, Nicolas",,,,sold,,6000,EUR,Primary,Primary,Violin
+,,2022-04-26,104,"Paralupi, Rudolfo",,,,sold,,8400,EUR,Primary,Primary,Violin
+,,2022-04-26,105,"Bargelli, Giuseppe (di Saladino)",,,,sold,,9440,EUR,Primary,Primary,Violin
+,,2022-04-26,108,"Castelli, Cesare",,,,sold,,10800,EUR,Primary,Primary,Violin
+,,2022-04-26,11,"Nürnberger, Albert",,,,sold,,11400,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,110,"Brugère, Charles Georges",,,,sold,,11800,EUR,Primary,Primary,Violin
+,,2022-04-26,112,"Ullmann, Georg",,,,sold,,16800,EUR,Primary,Primary,Violin
+,,2022-04-26,113,"Farina, Erminio",,,,sold,,13200,EUR,Primary,Primary,Violin
+,,2022-04-26,117,Gand Frères Firm,,,,sold,,21600,EUR,Primary,Primary,Violin
+,,2022-04-26,118,"Schwarz, Giovanni",,,,sold,,24000,EUR,Primary,Primary,Violin
+,,2022-04-26,119,"Degani, Eugenio",,,,sold,,25960,EUR,Primary,Primary,Violin
+,,2022-04-26,12,"Bazin, Charles Louis",,,,sold,,5605,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,120,"De Comble, Ambroise",,,,sold,,23600,EUR,Primary,Primary,Violin
+,,2022-04-26,121,"Candi, Oreste",,,,sold,,33000,EUR,Primary,Primary,Violin
+,,2022-04-26,123,"Cuypers, Johannes Theodorus",,,,sold,,48000,EUR,Primary,Primary,Violin
+,,2022-04-26,124,"Bisiach, Giacomo & Leandro",,,,sold,,33000,EUR,Primary,Primary,Violin
+,,2022-04-26,125,"Capicchioni, Marino",,,,sold,,72000,EUR,Primary,Primary,Violin
+,,2022-04-26,126,"Pollastri, Gaetano",,,,sold,,60000,EUR,Primary,Primary,Violin
+,,2022-04-26,127,"Soliani, Angelo",,,,sold,,59000,EUR,Primary,Primary,Violin
+,,2022-04-26,128,"Pique, François-Louis",,,,sold,,90000,EUR,Primary,Primary,Violin
+,,2022-04-26,129,"Rugeri, Francesco",,,,sold,,153400,EUR,Primary,Primary,Violin
+,,2022-04-26,13,"Salchow, Steven",,,,sold,,2360,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,130,"Poggi, Ansaldo",,,,sold,,153400,EUR,Primary,Primary,Violin
+,,2022-04-26,132,"Guarneri, Giuseppe 'filius Andreae'",,,,sold,,750000,EUR,Primary,Primary,Violin
+,,2022-04-26,14,"Salchow, Isaac",,,,sold,,4200,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,15,"Sasano, Mitsuaki",,,,sold,,10800,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,16,"Oxley, Peter",,,,sold,,7200,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,17,"Hill & Sons, W. E. Firm",,,,sold,,4800,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,18,"Neudorfer, Rudolf",,,,sold,,7080,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,19,"Nürnberger, Albert",,,,sold,,7800,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,20,"Hill & Sons, W. E. Firm",,,,sold,,5400,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,21,"Bazin, Charles Nicolas",,,,sold,,4800,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,22,"Espey, Charles",,,,sold,,8400,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,23,"Rolland, Benoit",,,,sold,,9000,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,24,"Thomachot, Stephane",,,,sold,,10800,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,25,"Voirin, François Nicolas",,,,sold,,10200,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,26,"Voirin, François Nicolas",,,,sold,,15600,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,27,"Voirin, François Nicolas",,,,sold,,14400,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,28,"Lamy, Joseph Alfred père",,,,sold,,12000,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,29,"Fétique, Victor François",,,,sold,,21240,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,30,"Sartory, Eugène Nicolas",,,,sold,,23600,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,32,Laberte-Humbert Frères Firm,,,,sold,,7080,EUR,Primary,Primary,Cello
+,,2022-04-26,33,"Ercoli, Luigi",,,,sold,,10800,EUR,Primary,Primary,Cello
+,,2022-04-26,34,"Verne, Dario",,,,sold,,7080,EUR,Primary,Primary,Cello
+,,2022-04-26,37,"Blanchi, Alberto Luigi",,,,sold,,47200,EUR,Primary,Primary,Cello
+,,2022-04-26,40,"Antoniazzi, Romeo",,,,sold,,70800,EUR,Primary,Primary,Cello
+,,2022-04-26,42,"Gaudé, Joseph",,,,sold,,2640,EUR,Primary,Primary,Viola Bow
+,,2022-04-26,43,"Hill & Sons, W. E. Firm",,,,sold,,3300,EUR,Primary,Primary,Viola Bow
+,,2022-04-26,44,"Fuchs, Pierre-Yves",,,,sold,,4500,EUR,Primary,Primary,Viola Bow
+,,2022-04-26,46,"Gozzo, Giancarlo",,,,sold,,3540,EUR,Primary,Primary,Viola
+,,2022-04-26,47,"Hautin, Regis",,,,sold,,3540,EUR,Primary,Primary,Viola
+,,2022-04-26,48,"Tivoli-Fiorini, Arrigo",,,,sold,,7080,EUR,Primary,Primary,Viola
+,,2022-04-26,50,"Farotto, Celestino",,,,sold,,18000,EUR,Primary,Primary,Viola
+,,2022-04-26,54,"von Baehr, Stephan",,,,sold,,48000,EUR,Primary,Primary,Viola
+,,2022-04-26,56,"Hoyer, Friedrich",,,,sold,,1920,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,57,"van der Meer, Karel",,,,sold,,1560,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,58,"Thibouville-Lamy, Jérôme Firm",,,,sold,,1200,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,59,"Bazin, Charles Louis",,,,sold,,3300,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,60,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,1560,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,61,"Pfretzschner, Hermann Richard",,,,sold,,2640,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,63,"Pfretzschner, G.A.",,,,sold,,2640,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,64,"Lapierre, Marcel Charles",,,,sold,,2400,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,65,"Maline, Pierre",,,,sold,,2880,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,66,"Pfretzschner, Hermann Richard",,,,sold,,6600,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,69,"Nürnberger, Carl Albert",,,,sold,,4500,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,7,"Nürnberger, Albert",,,,sold,,5310,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,70,"Wilson, Garner",,,,sold,,3600,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,71,"Guillaume, Simon",,,,sold,,4200,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,75,"Morizot, Louis Joseph père",,,,sold,,6000,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,76,"Miquel, Paul Émile",,,,sold,,2950,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,77,"Yeoman, Sydney Braithwaite",,,,sold,,4425,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,79,"Ouchard, Émile-Auguste",,,,sold,,10200,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,80,"Barjonnet, Georges Emile",,,,sold,,4720,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,82,"Lamy, Joseph Alfred père",,,,sold,,8400,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,83,"Taylor, Malcolm",,,,sold,,5700,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,84,"Rolland, Benoit",,,,sold,,11210,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,85,"Ouchard, Émile-Auguste",,,,sold,,14400,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,86,"Vigneron, Joseph Arthur père",,,,sold,,10200,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,87,"Pajeot, Étienne",,,,sold,,14400,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,88,"Peccatte, Charles",,,,sold,,12000,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,89,"Pajeot, Étienne",,,,sold,,18000,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,9,"Pfretzschner, Richard Hermann",,,,sold,,3300,EUR,Primary,Primary,Cello Bow
+,,2022-04-26,91,"Lamy, Joseph Alfred père",,,,sold,,35400,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,92,"Maline, Nicolas I",,,,sold,,29500,EUR,Primary,Primary,Violin Bow
+,,2022-04-26,94,"Todt, Heinrich Hermann",,,,sold,,5100,EUR,Primary,Primary,Violin
+,,2022-04-26,95,"Falisse, Auguste",,,,sold,,6600,EUR,Primary,Primary,Violin
+,,2022-04-26,96,"Cornelissen, Marten",,,,sold,,3835,EUR,Primary,Primary,Violin
+,,2022-04-26,97,"Knorr, Paul",,,,sold,,7800,EUR,Primary,Primary,Violin
+,,2022-04-26,98,"Verne, Dario",,,,sold,,5100,EUR,Primary,Primary,Violin
+,,2022-04-26,99,"Hammig, Wilhelm Hermann",,,,sold,,7080,EUR,Primary,Primary,Violin

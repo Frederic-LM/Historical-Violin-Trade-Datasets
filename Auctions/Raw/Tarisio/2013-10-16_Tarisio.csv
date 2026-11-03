@@ -1,0 +1,152 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2013-10-16,100,"Peresson, Sergio",,,,sold,,12000,USD,Primary,Primary,Viola
+,,2013-10-16,101,"Renaudin, Leopold",,,,sold,,14160,USD,Primary,Primary,Viola
+,,2013-10-16,102,"Morassi, Gio Battista",,,,sold,,21600,USD,Primary,Primary,Viola
+,,2013-10-16,103,"Lucci, Giuseppe",,,,sold,,27600,USD,Primary,Primary,Viola
+,,2013-10-16,104,"Carcassi, Lorenzo & Tomaso",,,,sold,,36000,USD,Primary,Primary,Viola
+,,2013-10-16,106,"Bolander, John Alfred II",,,,sold,,767,USD,Primary,Primary,Violin Bow
+,,2013-10-16,107,"Thibouville-Lamy, Jérôme Firm",,,,sold,,1800,USD,Primary,Primary,Violin Bow
+,,2013-10-16,112,"Lapierre, Marcel Charles",,,,sold,,1800,USD,Primary,Primary,Violin Bow
+,,2013-10-16,113,"Lotte, Roger François",,,,sold,,2280,USD,Primary,Primary,Violin Bow
+,,2013-10-16,114,"Friedrich, John",,,,sold,,1800,USD,Primary,Primary,Violin Bow
+,,2013-10-16,116,"Bazin, Charles Louis",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2013-10-16,121,"Pfretzschner, Hermann Richard",,,,sold,,1770,USD,Primary,Primary,Violin Bow
+,,2013-10-16,124,"Barnes, Arthur John",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2013-10-16,125,"Hill & Sons, W. E. Firm",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2013-10-16,126,"Hill & Sons, W. E. Firm",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,128,"Beilke, Martin",,,,sold,,2124,USD,Primary,Primary,Violin Bow
+,,2013-10-16,129,"Shallock, Robert",,,,sold,,2160,USD,Primary,Primary,Violin Bow
+,,2013-10-16,131,"Voigt, Arnold",,,,sold,,2160,USD,Primary,Primary,Violin Bow
+,,2013-10-16,132,"Bazin, François Xavier",,,,sold,,1770,USD,Primary,Primary,Violin Bow
+,,2013-10-16,135,"Ouchard, Bernard",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2013-10-16,136,"Nürnberger, Carl Albert",,,,sold,,2040,USD,Primary,Primary,Violin Bow
+,,2013-10-16,137,"Nürnberger, Carl Albert",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2013-10-16,138,"Nürnberger, Carl Albert",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2013-10-16,139,"Pfretzschner, Hermann Richard",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2013-10-16,140,"Thomassin, Claude Auguste",,,,sold,,2596,USD,Primary,Primary,Violin Bow
+,,2013-10-16,142,"Durrschmidt, Otto Carl",,,,sold,,2400,USD,Primary,Primary,Violin Bow
+,,2013-10-16,144,"Hill & Sons, W. E. Firm",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2013-10-16,145,"Hill & Sons, W. E. Firm",,,,sold,,5400,USD,Primary,Primary,Violin Bow
+,,2013-10-16,146,"Hill & Sons, W. E. Firm",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2013-10-16,148,"Bazin, Charles Nicolas",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2013-10-16,153,"Tubbs, James",,,,sold,,7800,USD,Primary,Primary,Violin Bow
+,,2013-10-16,154,"Baker, Timothy",,,,sold,,3540,USD,Primary,Primary,Violin Bow
+,,2013-10-16,155,"Barbé, Mathias Theophile Auguste",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,156,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2013-10-16,158,"Cuniot, Pierre",,,,sold,,2520,USD,Primary,Primary,Violin Bow
+,,2013-10-16,159,"Cuniot, Pierre",,,,sold,,2360,USD,Primary,Primary,Violin Bow
+,,2013-10-16,161,"Yeoman, Sydney Braithwaite",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2013-10-16,163,"Lamy, Hippolyte Camille dit 1er fils",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,164,"Chardon, André",,,,sold,,4720,USD,Primary,Primary,Violin Bow
+,,2013-10-16,165,"Barbé, Mathias Theophile Auguste",,,,sold,,3540,USD,Primary,Primary,Violin Bow
+,,2013-10-16,170,"Voirin, François Nicolas",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,171,"Leggatt, Charles",,,,sold,,15600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,172,"Lamy, Alfred dit neveu",,,,sold,,8400,USD,Primary,Primary,Violin Bow
+,,2013-10-16,173,"Sartory, Eugène Nicolas",,,,sold,,19200,USD,Primary,Primary,Violin Bow
+,,2013-10-16,178,"Fétique, Victor François",,,,sold,,10800,USD,Primary,Primary,Violin Bow
+,,2013-10-16,180,"Lamy, Joseph Alfred père",,,,sold,,15600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,181,"Ouchard, Émile-Auguste",,,,sold,,12000,USD,Primary,Primary,Violin Bow
+,,2013-10-16,182,"Ouchard, Émile-Auguste",,,,sold,,13200,USD,Primary,Primary,Violin Bow
+,,2013-10-16,183,"Martin, Jean-Joseph",,,,sold,,12000,USD,Primary,Primary,Violin Bow
+,,2013-10-16,184,"Simon, Pierre",,,,sold,,9600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,185,"Adam, Jean Dominique",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2013-10-16,186,"Peccatte, Charles",,,,sold,,28800,USD,Primary,Primary,Violin Bow
+,,2013-10-16,187,"Sartory, Eugène Nicolas",,,,sold,,19200,USD,Primary,Primary,Violin Bow
+,,2013-10-16,188,"Sartory, Eugène Nicolas",,,,sold,,21600,USD,Primary,Primary,Violin Bow
+,,2013-10-16,190,"Peccatte, Dominique",,,,sold,,19200,USD,Primary,Primary,Violin Bow
+,,2013-10-16,192,"Bazin, Charles Nicolas",,,,sold,,885,USD,Primary,Primary,Violin Bow
+,,2013-10-16,194,"Zobboli, Bruno",,,,sold,,2950,USD,Primary,Primary,Violin
+,,2013-10-16,195,"Martinelli, Giorgio",,,,sold,,2880,USD,Primary,Primary,Violin
+,,2013-10-16,196,"Boga, Tonino",,,,sold,,3245,USD,Primary,Primary,Violin
+,,2013-10-16,198,"Zobboli, Bruno",,,,sold,,3540,USD,Primary,Primary,Violin
+,,2013-10-16,199,"Moennig, William R. IV",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2013-10-16,200,"Bitterer, Karl",,,,sold,,4500,USD,Primary,Primary,Violin
+,,2013-10-16,201,"Juzek, Jan (John)",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2013-10-16,202,"Acoulon, Alexandre Alfred",,,,sold,,3000,USD,Primary,Primary,Violin
+,,2013-10-16,203,"Bailly, Charles",,,,sold,,3540,USD,Primary,Primary,Violin
+,,2013-10-16,204,"Dieudonné, Amédée",,,,sold,,5400,USD,Primary,Primary,Violin
+,,2013-10-16,206,"Collin-Mézin, Charles fils",,,,sold,,2832,USD,Primary,Primary,Violin
+,,2013-10-16,207,"Le Lyonnais, Charles",,,,sold,,3300,USD,Primary,Primary,Violin
+,,2013-10-16,208,"Blondelet, Hugues Emile",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2013-10-16,209,"Mougenot, Léon Victor",,,,sold,,3900,USD,Primary,Primary,Violin
+,,2013-10-16,212,"Carlisle, James Reynold",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2013-10-16,214,"Smith, William",,,,sold,,3000,USD,Primary,Primary,Violin
+,,2013-10-16,218,"Guado, Lorenzo Frassino",,,,sold,,4500,USD,Primary,Primary,Violin
+,,2013-10-16,219,"Anastasio, Vincenzo",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2013-10-16,220,"Apparut, Georges",,,,sold,,5400,USD,Primary,Primary,Violin
+,,2013-10-16,221,"Cone, Georges",,,,sold,,8400,USD,Primary,Primary,Violin
+,,2013-10-16,227,"Squier, Jerome Bonaparte",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2013-10-16,228,"Goss, Walter Solon",,,,sold,,6000,USD,Primary,Primary,Violin
+,,2013-10-16,229,"Einsele, George Nicolas",,,,sold,,4720,USD,Primary,Primary,Violin
+,,2013-10-16,231,"Agostinelli, Luigi",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2013-10-16,233,"Billottet, Louis Fernand",,,,sold,,5900,USD,Primary,Primary,Violin
+,,2013-10-16,235,"Meisel, K. Lothar",,,,sold,,6600,USD,Primary,Primary,Violin
+,,2013-10-16,238,"Bosi, Carlo",,,,sold,,9000,USD,Primary,Primary,Violin
+,,2013-10-16,239,"Lanaro, Umberto",,,,sold,,10800,USD,Primary,Primary,Violin
+,,2013-10-16,240,"Lutz, Ignaz Anton",,,,sold,,7080,USD,Primary,Primary,Violin
+,,2013-10-16,241,"Kuttner, Francis",,,,sold,,16800,USD,Primary,Primary,Violin
+,,2013-10-16,242,"Tadioli, Maurizio",,,,sold,,13200,USD,Primary,Primary,Violin
+,,2013-10-16,243,"Bassot, Joseph",,,,sold,,16800,USD,Primary,Primary,Violin
+,,2013-10-16,244,"Craske, George",,,,sold,,10200,USD,Primary,Primary,Violin
+,,2013-10-16,246,"Lanaro, Luigi",,,,sold,,6000,USD,Primary,Primary,Violin
+,,2013-10-16,247,"Danieli, Silvio",,,,sold,,6000,USD,Primary,Primary,Violin
+,,2013-10-16,249,"Cavalazzi, Antonino",,,,sold,,11400,USD,Primary,Primary,Violin
+,,2013-10-16,253,"Hill & Sons, W. E. Firm",,,,sold,,16800,USD,Primary,Primary,Violin
+,,2013-10-16,256,"Rovatti, Luigi",,,,sold,,10200,USD,Primary,Primary,Violin
+,,2013-10-16,257,"Carzoglio, Luigi B.",,,,sold,,9000,USD,Primary,Primary,Violin
+,,2013-10-16,259,"Ullmann, Georg",,,,sold,,9600,USD,Primary,Primary,Violin
+,,2013-10-16,260,"Ullmann, Georg",,,,sold,,10800,USD,Primary,Primary,Violin
+,,2013-10-16,261,"Ullmann, Georg",,,,sold,,13200,USD,Primary,Primary,Violin
+,,2013-10-16,264,"Blanchard, Paul Francois",,,,sold,,20400,USD,Primary,Primary,Violin
+,,2013-10-16,268,"Borghi, Pietro",,,,sold,,12980,USD,Primary,Primary,Violin
+,,2013-10-16,270,"Bailly, Paul",,,,sold,,22800,USD,Primary,Primary,Violin
+,,2013-10-16,272,"Candi, Oreste",,,,sold,,14400,USD,Primary,Primary,Violin
+,,2013-10-16,273,"D'Attili, Dario",,,,sold,,26400,USD,Primary,Primary,Violin
+,,2013-10-16,274,"Sindelar, Frank",,,,sold,,19200,USD,Primary,Primary,Violin
+,,2013-10-16,275,"Vuillaume (St. Cecile mark), Jean-Baptiste & Nicolas",,,,sold,,21600,USD,Primary,Primary,Violin
+,,2013-10-16,276,"Morassi, Gio Battista",,,,sold,,39000,USD,Primary,Primary,Violin
+,,2013-10-16,279,"Marchetti, Enrico",,,,sold,,23600,USD,Primary,Primary,Violin
+,,2013-10-16,280,"Hofmans, Matthias III",,,,sold,,21600,USD,Primary,Primary,Violin
+,,2013-10-16,281,"Blanchi, Alberto Luigi",,,,sold,,21600,USD,Primary,Primary,Violin
+,,2013-10-16,282,"Silvestre, Hippolyte Chrétien",,,,sold,,27600,USD,Primary,Primary,Violin
+,,2013-10-16,283,"De Barbieri, Paolo",,,,sold,,51000,USD,Primary,Primary,Violin
+,,2013-10-16,284,"Bignami, Otello",,,,sold,,33000,USD,Primary,Primary,Violin
+,,2013-10-16,286,"Hel, Pierre Jean Henri",,,,sold,,36000,USD,Primary,Primary,Violin
+,,2013-10-16,287,Curtin & Alf,,,,sold,,132000,USD,Primary,Primary,Violin
+,,2013-10-16,290,"Sacconi, Simone Fernando",,,,sold,,94400,USD,Primary,Primary,Violin
+,,2013-10-16,294,"Vuillaume, Jean-Baptiste",,,,sold,,228000,USD,Primary,Primary,Violin
+,,2013-10-16,295,"Pressenda, Giovanni Francesco",,,,sold,,475750,USD,Primary,Primary,Violin
+,,2013-10-16,296,"Guadagnini, Giovanni Battista",,,,sold,,1390000,USD,Primary,Primary,Violin
+,,2013-10-16,35,"Morizot, Louis frères",,,,sold,,1800,USD,Primary,Primary,Bass Bow
+,,2013-10-16,36,"Ouchard, Émile-Auguste",,,,sold,,5015,USD,Primary,Primary,Bass Bow
+,,2013-10-16,38,"Finkel, Siegfried",,,,sold,,2242,USD,Primary,Primary,Cello Bow
+,,2013-10-16,41,"Raguse, Douglas",,,,sold,,2640,USD,Primary,Primary,Cello Bow
+,,2013-10-16,45,"Hill & Sons, W. E. Firm",,,,sold,,1416,USD,Primary,Primary,Cello Bow
+,,2013-10-16,46,"Hill & Sons, W. E. Firm",,,,sold,,2400,USD,Primary,Primary,Cello Bow
+,,2013-10-16,47,"Hill & Sons, W. E. Firm",,,,sold,,5100,USD,Primary,Primary,Cello Bow
+,,2013-10-16,48,"Bishop, Edgar",,,,sold,,5400,USD,Primary,Primary,Cello Bow
+,,2013-10-16,50,"Pfretzschner, Hermann Richard",,,,sold,,5605,USD,Primary,Primary,Cello Bow
+,,2013-10-16,54,"Sartory, Eugène Nicolas",,,,sold,,66000,USD,Primary,Primary,Cello Bow
+,,2013-10-16,55,"Tourte, François Xavier 'le Jeune'",,,,sold,,25960,USD,Primary,Primary,Cello Bow
+,,2013-10-16,56,"Peccatte, Dominique",,,,sold,,29500,USD,Primary,Primary,Cello Bow
+,,2013-10-16,57,"Peccatte, Dominique",,,,sold,,78000,USD,Primary,Primary,Cello Bow
+,,2013-10-16,59,"Niggel, Simpert III",,,,sold,,9600,USD,Primary,Primary,Cello
+,,2013-10-16,62,"Claudot, Augustin",,,,sold,,20060,USD,Primary,Primary,Cello
+,,2013-10-16,63,"Cavallini, Oreste",,,,sold,,25200,USD,Primary,Primary,Cello
+,,2013-10-16,68,"Hill, Joseph I",,,,sold,,51000,USD,Primary,Primary,Cello
+,,2013-10-16,69,"Becker, Carl Sr.",,,,sold,,84000,USD,Primary,Primary,Cello
+,,2013-10-16,72,"Grancino, Giovanni Battista I",,,,sold,,495900,USD,Primary,Primary,Cello
+,,2013-10-16,73,"Balint, Geza",,,,sold,,2596,USD,Primary,Primary,Viola Bow
+,,2013-10-16,75,"Fleury, Albert",,,,sold,,1200,USD,Primary,Primary,Viola Bow
+,,2013-10-16,76,"Morizot, Louis frères",,,,sold,,3000,USD,Primary,Primary,Viola Bow
+,,2013-10-16,77,"Ouchard, Bernard",,,,sold,,3300,USD,Primary,Primary,Viola Bow
+,,2013-10-16,78,"Ouchard, Bernard",,,,sold,,3600,USD,Primary,Primary,Viola Bow
+,,2013-10-16,82,"Bultitude, Arthur Richard",,,,sold,,4200,USD,Primary,Primary,Viola Bow
+,,2013-10-16,84,"Millant, Jean-Jacques",,,,sold,,7670,USD,Primary,Primary,Viola Bow
+,,2013-10-16,85,"Espey, Charles",,,,sold,,5400,USD,Primary,Primary,Viola Bow
+,,2013-10-16,86,"Ouchard, Émile-Auguste",,,,sold,,10030,USD,Primary,Primary,Viola Bow
+,,2013-10-16,87,"Ouchard, Émile-Auguste",,,,sold,,18000,USD,Primary,Primary,Viola Bow
+,,2013-10-16,90,"Barbieri, Bruno",,,,sold,,3900,USD,Primary,Primary,Viola
+,,2013-10-16,91,"LaMay, Lawrence",,,,sold,,8400,USD,Primary,Primary,Viola
+,,2013-10-16,97,"Cavani, Vincenzo",,,,sold,,7200,USD,Primary,Primary,Viola
+,,2013-10-16,99,"Giacchetti, Giuseppe",,,,sold,,24000,USD,Primary,Primary,Viola

@@ -1,0 +1,84 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,1999-11-12,FB 1,"Maline, Nicolas I",,,,sold,,16500,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 14,"Thomassin, Claude Auguste",,,,sold,,6325,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 15,"Ouchard, Émile-Auguste",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 17,"Voirin, François Nicolas",,,,sold,,5500,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 18,"Pajeot, Étienne",,,,sold,,4620,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 2,"Peccatte, Charles",,,,sold,,17050,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 20,"Fétique, Victor François",,,,sold,,3685,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 21,"Vigneron, Joseph Arthur père",,,,sold,,3850,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 25,"Vigneron, André 'Vigneron fils'",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 27,"Lamy, Alfred dit neveu",,,,sold,,3575,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 28,"Thomassin, Claude Auguste",,,,sold,,2750,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 29,"Vigneron, Joseph Arthur père",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 30,"Ouchard, Émile François",,,,sold,,2695,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 32,"Morizot, Louis frères",,,,sold,,2805,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 37,"Bazin, Charles Louis",,,,sold,,2090,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 4,"Persoit, Jean Pierre Marie",,,,sold,,15400,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 42,"Poulot, Jacques",,,,sold,,770,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 43,"Bazin, Charles Louis",,,,sold,,890,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 44,"Eury, Jacob (Nicolas)",,,,sold,,853,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 5,"Maline, Nicolas I",,,,sold,,15675,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 52,"Morizot, Louis frères",,,,sold,,2090,USD,Primary,Primary,Viola Bow
+,,1999-11-12,FB 59,"Voirin, François Nicolas",,,,sold,,4400,USD,Primary,Primary,Cello Bow
+,,1999-11-12,FB 60,"Bazin, Charles Louis",,,,sold,,3850,USD,Primary,Primary,Cello Bow
+,,1999-11-12,FB 61,"Morizot, Louis frères",,,,sold,,2970,USD,Primary,Primary,Cello Bow
+,,1999-11-12,FB 8,"Peccatte, Charles",,,,sold,,9625,USD,Primary,Primary,Violin Bow
+,,1999-11-12,FB 9,"Lamy, Joseph Alfred père",,,,sold,,9625,USD,Primary,Primary,Violin Bow
+,,1999-11-12,IV 1,"Gagliano, Ferdinando",,,,sold,,71500,USD,Primary,Primary,Violin
+,,1999-11-12,IV 10,"Farotti, Celeste",,,,sold,,20350,USD,Primary,Primary,Violin
+,,1999-11-12,IV 14,"Lucci, Giuseppe",,,,sold,,9075,USD,Primary,Primary,Violin
+,,1999-11-12,IV 15,"Siega, Iginio",,,,sold,,14575,USD,Primary,Primary,Violin
+,,1999-11-12,IV 16,"Mandelli, Camillo 'da Calco'",,,,sold,,8250,USD,Primary,Primary,Violin
+,,1999-11-12,IV 17,"Gallinotti, Pietro",,,,sold,,9075,USD,Primary,Primary,Violin
+,,1999-11-12,IV 2,"Oddone, Carlo Giuseppe",,,,sold,,38500,USD,Primary,Primary,Violin
+,,1999-11-12,IV 22,"Castello, Paolo",,,,sold,,10175,USD,Primary,Primary,Violin
+,,1999-11-12,IV 24,"Carletti, Natale",,,,sold,,6325,USD,Primary,Primary,Violin
+,,1999-11-12,IV 28,"Mozzani, Luigi",,,,sold,,6050,USD,Primary,Primary,Violin
+,,1999-11-12,IV 29,"Zaccaria, Antonio",,,,sold,,4125,USD,Primary,Primary,Violin
+,,1999-11-12,IV 31,"Marchetti, Enrico",,,,sold,,5500,USD,Primary,Primary,Violin
+,,1999-11-12,IV 34,"Carzoglio, Luigi B.",,,,sold,,6655,USD,Primary,Primary,Violin
+,,1999-11-12,IV 38,"Albanelli, Franco",,,,sold,,4235,USD,Primary,Primary,Violin
+,,1999-11-12,IV 44,"Radighieri, Otello",,,,sold,,3302,USD,Primary,Primary,Violin
+,,1999-11-12,IV 46,Bottali-Roth-Pelitti Firm,,,,sold,,3385,USD,Primary,Primary,Violin
+,,1999-11-12,IV 6,"Sgarabotto, Gaetano",,,,sold,,19800,USD,Primary,Primary,Violin
+,,1999-11-12,IV 7,"Gaibisso, Giovanni Battista",,,,sold,,17050,USD,Primary,Primary,Violin
+,,1999-11-12,IV 8,"Mandelli, Camillo 'da Calco'",,,,sold,,12375,USD,Primary,Primary,Violin
+,,1999-11-12,IV 9,"Messori, Pietro",,,,sold,,17600,USD,Primary,Primary,Violin
+,,1999-11-12,IVAC 11,"Villa, Marcello",,,,sold,,9636,USD,Primary,Primary,Cello
+,,1999-11-12,IVAC 13,"Bandini, Mario",,,,sold,,4400,USD,Primary,Primary,Cello
+,,1999-11-12,IVAC 4,"Ciciliati, Alessandro",,,,sold,,8251,USD,Primary,Primary,Viola
+,,1999-11-12,IVAC 6,"Radighieri, Otello",,,,sold,,2585,USD,Primary,Primary,Viola
+,,1999-11-12,IVAC 7,"Gadda, Mario",,,,sold,,21175,USD,Primary,Primary,Cello
+,,1999-11-12,IVAC 9,"Piccagliani, Armando",,,,sold,,15850,USD,Primary,Primary,Cello
+,,1999-11-12,MISC 2,"Gadda, Mario",,,,sold,,4510,USD,Primary,Primary,Small Violin
+,,1999-11-12,MISC 3,"Konya, Lajos",,,,sold,,1045,USD,Primary,Primary,Small Violin
+,,1999-11-12,OB 1,"Pfretzschner, Hermann Richard",,,,sold,,1650,USD,Primary,Primary,Violin Bow
+,,1999-11-12,OB 11,"Winterling, Georg",,,,sold,,660,USD,Primary,Primary,Violin Bow
+,,1999-11-12,OB 3,"Hill & Sons, W. E. Firm",,,,sold,,2118,USD,Primary,Primary,Violin Bow
+,,1999-11-12,OB 4,"Hill & Sons, W. E. Firm",,,,sold,,2145,USD,Primary,Primary,Violin Bow
+,,1999-11-12,OB 7,"Pfretzschner, Hermann Richard",,,,sold,,880,USD,Primary,Primary,Violin Bow
+,,1999-11-12,OB 8,"Hoyer, Carl Adolf",,,,sold,,880,USD,Primary,Primary,Violin Bow
+,,1999-11-12,OB 9,"Hoyer, Otto A.",,,,sold,,825,USD,Primary,Primary,Violin Bow
+,,1999-11-12,OV 1,Gand & Bernardel Firm,,,,sold,,18702,USD,Primary,Primary,Violin
+,,1999-11-12,OV 10,"Forster, William II or Sr",,,,sold,,4400,USD,Primary,Primary,Violin
+,,1999-11-12,OV 16,"Charotte, Joseph",,,,sold,,4345,USD,Primary,Primary,Violin
+,,1999-11-12,OV 20,"Roth, Ernst Heinrich",,,,sold,,2860,USD,Primary,Primary,Violin
+,,1999-11-12,OV 23,"Gütter, Kurt Arno",,,,sold,,3168,USD,Primary,Primary,Violin
+,,1999-11-12,OV 25,"Dieudonné, Amédée",,,,sold,,2860,USD,Primary,Primary,Violin
+,,1999-11-12,OV 26,"Vuillaume, Sebastien",,,,sold,,7703,USD,Primary,Primary,Violin
+,,1999-11-12,OV 28,"Roth, Ernst Heinrich",,,,sold,,2145,USD,Primary,Primary,Violin
+,,1999-11-12,OV 29,"Vidoudez, Alfred",,,,sold,,4137,USD,Primary,Primary,Violin
+,,1999-11-12,OV 39,"Oliver, Freeman Adams",,,,sold,,1432,USD,Primary,Primary,Violin
+,,1999-11-12,OV 4,"Gemünder, George I",,,,sold,,7150,USD,Primary,Primary,Violin
+,,1999-11-12,OV 5,"Bernardel, Auguste Sébastien Philippe père",,,,sold,,6325,USD,Primary,Primary,Violin
+,,1999-11-12,OV 6,Caressa & Français Firm,,,,sold,,6600,USD,Primary,Primary,Violin
+,,1999-11-12,OV 7,"Chanot, Joseph Anthony",,,,sold,,5776,USD,Primary,Primary,Violin
+,,1999-11-12,OV 8,"Millant, Max",,,,sold,,5775,USD,Primary,Primary,Violin
+,,1999-11-12,OVAC 1,"Keller, Helmuth",,,,sold,,7150,USD,Primary,Primary,Viola
+,,1999-11-12,OVAC 14,"Gosselin, Jean",,,,sold,,22000,USD,Primary,Primary,Cello
+,,1999-11-12,OVAC 18,Gand Frères Firm,,,,sold,,2313,USD,Primary,Primary,Cello
+,,1999-11-12,OVAC 2,"Spidlen, Přemysl Otakar",,,,sold,,7152,USD,Primary,Primary,Viola
+,,1999-11-12,OVAC 5,"Vidoudez, Pierre",,,,sold,,4015,USD,Primary,Primary,Viola
+,,1999-11-12,OVAC 7,"Vávra, Karel",,,,sold,,3355,USD,Primary,Primary,Viola
+,,1999-11-12,OVAC 9,"Stevens, Dale Walker",,,,sold,,2420,USD,Primary,Primary,Viola

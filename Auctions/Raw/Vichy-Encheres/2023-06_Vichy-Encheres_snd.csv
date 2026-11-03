@@ -1,7 +1,3 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,,1,,"Storioni, Lorenzo",,,sold,11250,13950,EUR,Secondary,Secondary,Violin
-,,,219,,"Sorsana, Spirito",,,sold,6126,7596,EUR,Secondary,Secondary,Violin
 ,,,305,,"Kaul, Paul",,,sold,6700,8308,EUR,Secondary,Secondary,Violin
 ,,,323,,Paul Kaul,,,sold,2573,3191,EUR,Secondary,Secondary,Violin
-,,,354,,"Eberle, Tomaso",,,sold,2550,3162,EUR,Secondary,Secondary,Violin
-,,,390,,James (II) Dodd,,,sold,9250,11470,EUR,Secondary,Secondary,Cello Bow

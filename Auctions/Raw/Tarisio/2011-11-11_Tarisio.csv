@@ -1,0 +1,136 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2011-11-11,10,"Grünke, Richard",,,,sold,,3900,USD,Primary,Primary,Cello Bow
+,,2011-11-11,100,"Morizot, Louis Joseph père",,,,sold,,1920,USD,Primary,Primary,Violin Bow
+,,2011-11-11,101,"Bazin, Charles Alfred",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,2011-11-11,102,Bazin Family,,,,sold,,2160,USD,Primary,Primary,Violin Bow
+,,2011-11-11,104,"Knopf, Heinrich (Henry) Richard",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,106,"Piernot, Marie Louis",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,2011-11-11,107,"Bazin, Charles Louis",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,109,"Hill & Sons, W. E. Firm",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2011-11-11,11,"Bazin, Charles Nicolas",,,,sold,,2520,USD,Primary,Primary,Cello Bow
+,,2011-11-11,110,"Ouchard, Émile F. & Émile A.",,,,sold,,6000,USD,Primary,Primary,Violin Bow
+,,2011-11-11,112,"Wilson, Garner",,,,sold,,2520,USD,Primary,Primary,Violin Bow
+,,2011-11-11,113,"Watson, William D.",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2011-11-11,116,"Bazin, Charles Louis",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2011-11-11,12,"Bazin, Charles Nicolas",,,,sold,,2520,USD,Primary,Primary,Cello Bow
+,,2011-11-11,120,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2011-11-11,123,"Nürnberger, Carl Albert",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2011-11-11,124,"Bazin, Charles Nicolas",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2011-11-11,125,"Espey, Charles",,,,sold,,7800,USD,Primary,Primary,Violin Bow
+,,2011-11-11,127,"Tubbs, Edward",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2011-11-11,128,"Nürnberger, Carl Albert",,,,sold,,7800,USD,Primary,Primary,Violin Bow
+,,2011-11-11,13,"Wilson, Garner",,,,sold,,3300,USD,Primary,Primary,Cello Bow
+,,2011-11-11,130,"Napier, Frank Donald",,,,sold,,5400,USD,Primary,Primary,Violin Bow
+,,2011-11-11,131,"Bishop, Edgar",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,132,"Thomassin, Claude Auguste",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2011-11-11,134,"Bazin, François Xavier",,,,sold,,4800,USD,Primary,Primary,Violin Bow
+,,2011-11-11,135,"Barbé, Mathias Theophile Auguste",,,,sold,,6600,USD,Primary,Primary,Violin Bow
+,,2011-11-11,136,"Vigneron, Joseph Arthur père",,,,sold,,13200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,137,"Voirin, François Nicolas",,,,sold,,7800,USD,Primary,Primary,Violin Bow
+,,2011-11-11,14,"Henry, Joseph",,,,sold,,5100,USD,Primary,Primary,Cello Bow
+,,2011-11-11,140,"Martin, Jean-Joseph",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2011-11-11,142,"Thomassin, Claude Auguste",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,143,"Tubbs, James",,,,sold,,9000,USD,Primary,Primary,Violin Bow
+,,2011-11-11,144,"Tubbs, James",,,,sold,,10800,USD,Primary,Primary,Violin Bow
+,,2011-11-11,146,"Tubbs, James",,,,sold,,8400,USD,Primary,Primary,Violin Bow
+,,2011-11-11,147,"Voirin, François Nicolas",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,148,"Ouchard, Émile-Auguste",,,,sold,,14400,USD,Primary,Primary,Violin Bow
+,,2011-11-11,149,"Simon, Nicolas FR",,,,sold,,10200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,151,"Maline, Nicolas I",,,,sold,,9600,USD,Primary,Primary,Violin Bow
+,,2011-11-11,152,"Tourte, François Xavier 'le Jeune'",,,,sold,,51000,USD,Primary,Primary,Violin Bow
+,,2011-11-11,153,"Sartory, Eugène Nicolas",,,,sold,,16800,USD,Primary,Primary,Violin Bow
+,,2011-11-11,154,"Sartory, Eugène Nicolas",,,,sold,,21600,USD,Primary,Primary,Violin Bow
+,,2011-11-11,156,"Sartory, Eugène Nicolas",,,,sold,,39000,USD,Primary,Primary,Violin Bow
+,,2011-11-11,158,"Simon, Pierre",,,,sold,,42000,USD,Primary,Primary,Violin Bow
+,,2011-11-11,16,"Watson, William D.",,,,sold,,2880,USD,Primary,Primary,Cello Bow
+,,2011-11-11,164,"Drozen, Frantisek Xavier",,,,sold,,2760,USD,Primary,Primary,Violin
+,,2011-11-11,168,"Nicolas, Didier l'aîné",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2011-11-11,17,"Lotte, Roger François",,,,sold,,2640,USD,Primary,Primary,Cello Bow
+,,2011-11-11,172,"Pfretzschner, Carl Friedrich I",,,,sold,,3900,USD,Primary,Primary,Violin
+,,2011-11-11,173,"Ficker, Gustav August",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2011-11-11,177,"Bruckner, Fritz Oswald",,,,sold,,3900,USD,Primary,Primary,Violin
+,,2011-11-11,19,"Yeoman, Sydney Braithwaite",,,,sold,,5700,USD,Primary,Primary,Cello Bow
+,,2011-11-11,191,"Craske, George",,,,sold,,4500,USD,Primary,Primary,Violin
+,,2011-11-11,192,"Vasich, Nicholas",,,,sold,,3600,USD,Primary,Primary,Violin
+,,2011-11-11,194,"Wachter, Anton",,,,sold,,5700,USD,Primary,Primary,Violin
+,,2011-11-11,196,"Cahusac, Thomas",,,,sold,,8400,USD,Primary,Primary,Violin
+,,2011-11-11,200,"White, Asa Warren",,,,sold,,5400,USD,Primary,Primary,Violin
+,,2011-11-11,201,"Albanelli, Franco",,,,sold,,6600,USD,Primary,Primary,Violin
+,,2011-11-11,203,"Frirsz, Maximillian (Miksa) II",,,,sold,,5400,USD,Primary,Primary,Violin
+,,2011-11-11,204,"Heinicke, Mathias",,,,sold,,4200,USD,Primary,Primary,Violin
+,,2011-11-11,205,"Wagner, H.",,,,sold,,3900,USD,Primary,Primary,Violin
+,,2011-11-11,21,"Watson, William D.",,,,sold,,5400,USD,Primary,Primary,Cello Bow
+,,2011-11-11,211,"Martinelli, Giorgio",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2011-11-11,213,"Rapoport, Hahn",,,,sold,,5400,USD,Primary,Primary,Violin
+,,2011-11-11,215,"Barbieri, Bruno",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2011-11-11,22,"Guinot, Charles Joseph Théodore",,,,sold,,3800,USD,Primary,Primary,Cello Bow
+,,2011-11-11,220,"Muncher, Romedio",,,,sold,,10800,USD,Primary,Primary,Violin
+,,2011-11-11,223,"Capela, Antonio",,,,sold,,9600,USD,Primary,Primary,Violin
+,,2011-11-11,224,"Klotz, Johann Carl",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2011-11-11,225,"Lorange, Paul II",,,,sold,,7800,USD,Primary,Primary,Violin
+,,2011-11-11,227,"Hubicka, Julius A.",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2011-11-11,228,"Celani, Constantino",,,,sold,,15600,USD,Primary,Primary,Violin
+,,2011-11-11,23,"Vigneron, Joseph Arthur père",,,,sold,,6000,USD,Primary,Primary,Cello Bow
+,,2011-11-11,236,"Vuillaume, Nicolas III",,,,sold,,14400,USD,Primary,Primary,Violin
+,,2011-11-11,239,"Widhalm, Martin Leopold (Leopold II)",,,,sold,,9600,USD,Primary,Primary,Violin
+,,2011-11-11,24,"Sartory, Eugène Nicolas",,,,sold,,18000,USD,Primary,Primary,Cello Bow
+,,2011-11-11,242,"Pique, François-Louis",,,,sold,,54000,USD,Primary,Primary,Violin
+,,2011-11-11,243,"Cavallini, Ettore",,,,sold,,12000,USD,Primary,Primary,Violin
+,,2011-11-11,246,"Forster, William III",,,,sold,,19200,USD,Primary,Primary,Violin
+,,2011-11-11,248,"Gemünder, George I",,,,sold,,18000,USD,Primary,Primary,Violin
+,,2011-11-11,249,"Gemünder, George I",,,,sold,,22800,USD,Primary,Primary,Violin
+,,2011-11-11,25,"Gillet, Louis Henri",,,,sold,,9600,USD,Primary,Primary,Cello Bow
+,,2011-11-11,250,"Degani, Giulio Ettore",,,,sold,,36000,USD,Primary,Primary,Violin
+,,2011-11-11,256,"Bisiach, Giacomo & Leandro",,,,sold,,48000,USD,Primary,Primary,Violin
+,,2011-11-11,261,"Lecchi, Giuseppe Bernardo",,,,sold,,26400,USD,Primary,Primary,Violin
+,,2011-11-11,262,"Lucci, Giuseppe",,,,sold,,26400,USD,Primary,Primary,Violin
+,,2011-11-11,263,"Testore, Carlo Antonio",,,,sold,,51000,USD,Primary,Primary,Violin
+,,2011-11-11,266,"Gand, Charles François père",,,,sold,,48000,USD,Primary,Primary,Violin
+,,2011-11-11,268,"De Barbieri, Paolo",,,,sold,,36000,USD,Primary,Primary,Violin
+,,2011-11-11,269,"Gragnani, Antonio",,,,sold,,27600,USD,Primary,Primary,Violin
+,,2011-11-11,27,"Peccatte, Dominique",,,,sold,,30000,USD,Primary,Primary,Cello Bow
+,,2011-11-11,270,"Dollenz, Giovanni",,,,sold,,42000,USD,Primary,Primary,Violin
+,,2011-11-11,271,"Sannino, Vincenzo",,,,sold,,48000,USD,Primary,Primary,Violin
+,,2011-11-11,274,"Vuillaume, Jean-Baptiste",,,,sold,,66000,USD,Primary,Primary,Violin
+,,2011-11-11,277,"Gagliano, Nicolò",,,,sold,,156000,USD,Primary,Primary,Violin
+,,2011-11-11,278,"Pressenda, Giovanni Francesco",,,,sold,,144000,USD,Primary,Primary,Violin
+,,2011-11-11,280,"Grancino, Giovanni Battista I",,,,sold,,162000,USD,Primary,Primary,Violin
+,,2011-11-11,281,"Amati, Antonio & Girolamo",,,,sold,,447200,USD,Primary,Primary,Violin
+,,2011-11-11,282,"Guadagnini, Giovanni Battista",,,,sold,,1080000,USD,Primary,Primary,Violin
+,,2011-11-11,4,"Lee, John Norwood",,,,sold,,2040,USD,Primary,Primary,Cello Bow
+,,2011-11-11,40,"Collin-Mézin, Charles Jean-Baptiste père",,,,sold,,30000,USD,Primary,Primary,Cello
+,,2011-11-11,41,"Carletti, Genuzio",,,,sold,,33000,USD,Primary,Primary,Cello
+,,2011-11-11,42,Gand & Bernardel Firm,,,,sold,,44000,USD,Primary,Primary,Cello
+,,2011-11-11,45,"Tononi, Giovanni",,,,sold,,251200,USD,Primary,Primary,Cello
+,,2011-11-11,46,"Guadagnini, Giovanni Battista",,,,sold,,800000,USD,Primary,Primary,Cello
+,,2011-11-11,47,"Clasquin, Célestin Émile",,,,sold,,4200,USD,Primary,Primary,Viola Bow
+,,2011-11-11,49,"Taylor, Malcolm",,,,sold,,3900,USD,Primary,Primary,Viola Bow
+,,2011-11-11,50,"Grunberger, Pierre",,,,sold,,3000,USD,Primary,Primary,Viola Bow
+,,2011-11-11,54,"Bazin, Charles Nicolas",,,,sold,,5100,USD,Primary,Primary,Viola Bow
+,,2011-11-11,56,"Maline, Nicolas I",,,,sold,,13200,USD,Primary,Primary,Viola Bow
+,,2011-11-11,57,"Ouchard, Émile-Auguste",,,,sold,,12000,USD,Primary,Primary,Viola Bow
+,,2011-11-11,6,"Wehling, Matthew",,,,sold,,3600,USD,Primary,Primary,Cello Bow
+,,2011-11-11,63,"Michelangeli, Enrico",,,,sold,,5100,USD,Primary,Primary,Viola
+,,2011-11-11,64,"Galetti, Pierluigi",,,,sold,,10200,USD,Primary,Primary,Viola
+,,2011-11-11,65,"Lanaro, Umberto",,,,sold,,6600,USD,Primary,Primary,Viola
+,,2011-11-11,67,"Briggs, James William",,,,sold,,10800,USD,Primary,Primary,Viola
+,,2011-11-11,69,"Sderci, Luciano",,,,sold,,22800,USD,Primary,Primary,Viola
+,,2011-11-11,70,"Capelli, Aldo",,,,sold,,9600,USD,Primary,Primary,Viola
+,,2011-11-11,71,"Pallaver, Giovanni Battista",,,,sold,,3600,USD,Primary,Primary,Viola
+,,2011-11-11,72,"Peternella, Jago",,,,sold,,12000,USD,Primary,Primary,Viola
+,,2011-11-11,73,"Bisiach, Giacomo & Leandro",,,,sold,,28800,USD,Primary,Primary,Viola
+,,2011-11-11,75,"Peresson, Sergio",,,,sold,,18000,USD,Primary,Primary,Viola
+,,2011-11-11,76,"Peresson, Sergio",,,,sold,,72000,USD,Primary,Primary,Viola
+,,2011-11-11,77,"Cuniot, Pierre",,,,sold,,450,USD,Primary,Primary,Violin Bow
+,,2011-11-11,78,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,510,USD,Primary,Primary,Violin Bow
+,,2011-11-11,8,"Hammig, Wilhelm Hermann",,,,sold,,2040,USD,Primary,Primary,Cello Bow
+,,2011-11-11,82,"Weichold, Richard",,,,sold,,2280,USD,Primary,Primary,Violin Bow
+,,2011-11-11,83,"Lotte, Roger François",,,,sold,,1320,USD,Primary,Primary,Violin Bow
+,,2011-11-11,87,"Voigt, Arnold",,,,sold,,1560,USD,Primary,Primary,Violin Bow
+,,2011-11-11,88,"Hoyer, Otto A.",,,,sold,,1920,USD,Primary,Primary,Violin Bow
+,,2011-11-11,9,"Lotte, François",,,,sold,,3600,USD,Primary,Primary,Cello Bow
+,,2011-11-11,90,"Morizot, Louis Joseph père",,,,sold,,2640,USD,Primary,Primary,Violin Bow
+,,2011-11-11,93,"Ouchard, Émile François",,,,sold,,4200,USD,Primary,Primary,Violin Bow
+,,2011-11-11,95,"Wilson, Garner",,,,sold,,1800,USD,Primary,Primary,Violin Bow
+,,2011-11-11,97,"Nürnberger, Franz Albert II",,,,sold,,5400,USD,Primary,Primary,Violin Bow
+,,2011-11-11,98,"Morizot, Louis frères",,,,sold,,3600,USD,Primary,Primary,Violin Bow

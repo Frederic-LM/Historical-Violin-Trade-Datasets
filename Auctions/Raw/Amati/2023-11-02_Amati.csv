@@ -1,0 +1,38 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2023-11-02,182,Charles & Samuel Thompson,"A cello by Charles and Samuel Thompson, London, circa 1770",10000,15000,sold,,18960,GBP,Primary,Primary,Cello
+,,2023-11-02,187,W. E. Hill & Sons,"A violin bow by W. E. Hill & Sons, London",1500,2500,sold,,2022,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,188,Eugene Nicolas Sartory,"A silver-mounted violin bow by Eugène Sartory, Paris",8000,12000,sold,,17696,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,189,Albert Nurnberger,"A silver-mounted violin bow by Albert Nürnberger, Germany",800,1200,sold,,3160,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,192,Garner Wilson,"A gold-mounted violin bow by Garner Wilson, Suffolk",1000,1500,sold,,2528,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,194,Fiedler Hermann,"A nickel-mounted violin bow by Hermann Fiedler, Dresden",100,200,sold,,126,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,195,Pierre Simon,"A silver-mounted violin bow by Pierre Simon, Paris",15000,20000,sold,,18960,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,199,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1000,2000,sold,,2907,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,200,Georges Emile Barjonnet,"A silver-mounted violin bow by Georges Barjonnet, Mirecourt",1500,2000,sold,,2022,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,209,James Tubbs,"A silver-mounted violin bow by James Tubbs, London",4000,6000,sold,,6952,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,210,W. E. Hill & Sons,"A gold-mounted violin bow by W. E. Hill & Sons, London",3000,5000,sold,,4108,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,211,W. E. Hill & Sons,"A silver-mounted violin bow by W. E. Hill & Sons, London",1000,2000,sold,,2654,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,215,Louis Morizot,"A gold and ivory mounted violin bow by Louis Morizot (freres), Mirecourt",2000,4000,sold,,4740,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,216,Louis Morizot,"A gold-mounted violin bow by Louis Morizot (freres), Mirecourt",1500,2500,sold,,4740,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,218,Friedrich Wunderlich,"A silver-mounted violin bow by Friedrich Wunderlich, Leipzig",1000,1500,sold,,1770,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,219,Brian Alvey,"A silver-mounted violin bow by Brian Alvey, London",800,1200,sold,,1643,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,220,Eugene Nicolas Sartory,"A silver-mounted violin bow by Eugène Sartory, Paris",14000,16000,sold,,20224,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,222,Richard Geipel,"A silver-mounted bow by Richard Geipel, Markneukirchen",200,400,sold,,537,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,223,Roderich Paesold,A silver-mounted violin bow by Roderich Paesold,200,400,sold,,695,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,224,Louis Bazin,A nickel-mounted violin bow by Louis Bazin,1500,2500,sold,,1580,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,227,Victor Fetique,"A silver-mounted violin bow by Victor Fetique, Paris",6000,10000,sold,,7584,GBP,Primary,Primary,Violin Bow
+,,2023-11-02,228,Garner Wilson,"A silver-mounted viola bow by Garner Wilson, Suffolk",1500,2500,sold,,2402,GBP,Primary,Primary,Viola Bow
+,,2023-11-02,231,Chipot-Vuillaume,"A violin by Jean Baptiste Chipot-Vuillaume, Paris, 1889",800,1200,sold,,2275,GBP,Primary,Primary,Violin
+,,2023-11-02,240,Charles Jean Baptiste Collin-Mezin (I),"A violin by Ch. J. B. Collin-Mezin Pere, Mirecourt 1900",2000,4000,sold,,2528,GBP,Primary,Primary,Violin
+,,2023-11-02,256,Thomas Earle Hesketh,"A violin by Thomas Earle Hesketh, Manchester, 1936",4000,6000,sold,,8848,GBP,Primary,Primary,Violin
+,,2023-11-02,258,Giovanni Battista Ceruti,"A violin by G. B. Ceruti, Cremona, 1802",60000,80000,sold,,75840,GBP,Primary,Primary,Violin
+,,2023-11-02,271,Saunders Ernest J,"A violin by Ernest J. Saunders, London, 1920",500,1000,sold,,632,GBP,Primary,Primary,Violin
+,,2023-11-02,272,Emanuel Whitmarsh,"A violin by Emmanuel Whitmarsh, London, 1917",1500,2500,sold,,1896,GBP,Primary,Primary,Violin
+,,2023-11-02,279,Gerald Littlewood,"A violin by Gerald Littlewood, Hollingworth-in-Longendale, 1976",500,1000,sold,,1011,GBP,Primary,Primary,Violin
+,,2023-11-02,292,Etienne Perrin,"A violin by Etienne Perrin, Mirecourt, circa 1830",1000,1500,sold,,1264,GBP,Primary,Primary,Violin
+,,2023-11-02,296,Joseph Laurent Mast,"A violin by Joseph Laurent Mast, Toulouse, circa 1800",3000,5000,sold,,4424,GBP,Primary,Primary,Violin
+,,2023-11-02,306,Charles Jean Baptiste Collin-Mezin (I),"A violin, by Ch. J.B. Collin-Mezin, Paris, 1882",4000,6000,sold,,5688,GBP,Primary,Primary,Violin
+,,2023-11-02,311,Emery Julian,"A viola by Julian Emery, Aberystwyth, 1987",1000,2000,sold,,1643,GBP,Primary,Primary,Viola
+,,2023-11-02,314,Jan Bobak,"A viola by Jan Bobak, Chicago, 1997",1000,2000,sold,,2907,GBP,Primary,Primary,Viola
+,,2023-11-02,316,Ross Rowland H,"A large viola by Rowland Ross, Guildford, 1978",1000,2000,sold,,1264,GBP,Primary,Primary,Viola
+,,2023-11-02,317,Ross Rowland H,"A viola by Rowland H. Ross, Guildford, 1977",2000,4000,sold,,2149,GBP,Primary,Primary,Viola
+,,2023-11-02,318,Paul Shelley,"A viola by Paul Shelley, Birmingham",2000,4000,sold,,2275,GBP,Primary,Primary,Viola
