@@ -24,7 +24,7 @@ The house publishes its results with the buyer's premium. Recent sales: 20 % or 
 
 ## Secondary files (`_snd`)
 `<date>_Tarisio[_<sale number>]_snd.csv` (and `<date>_Tarisio_press.csv` for the press): lots of this house that the house's own
-documents do not give (108 files, 2127 lots).
+documents do not give (92 files, 632 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

@@ -1,0 +1,91 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2025-03-14,1,"Dotschkail, Reinhold",,,,sold,,944,USD,Primary,Primary,Cello Bow
+,,2025-03-14,10,"Thomassin, Claude Auguste",,,,sold,,20400,USD,Primary,Primary,Cello Bow
+,,2025-03-14,100,"Mozzani, Luigi",,,,sold,,7200,USD,Primary,Primary,Violin
+,,2025-03-14,102,"Kantuscher, Joseph",,,,sold,,10200,USD,Primary,Primary,Violin
+,,2025-03-14,103,"Collin-Mézin, Charles fils",,,,sold,,10200,USD,Primary,Primary,Violin
+,,2025-03-14,104,"Millant, Roger & Max Firm",,,,sold,,9600,USD,Primary,Primary,Violin
+,,2025-03-14,105,"Matsuda, Tetsuo",,,,sold,,16800,USD,Primary,Primary,Violin
+,,2025-03-14,106,"De Luccia, Gennaro",,,,sold,,14400,USD,Primary,Primary,Violin
+,,2025-03-14,109,"Gaggini, Pierre",,,,sold,,12000,USD,Primary,Primary,Violin
+,,2025-03-14,11,"Eury, Jacob (Nicolas)",,,,sold,,35400,USD,Primary,Primary,Cello Bow
+,,2025-03-14,110,"Tarasconi, Mirco",,,,sold,,11210,USD,Primary,Primary,Violin
+,,2025-03-14,114,"Hess, Jordan",,,,sold,,14160,USD,Primary,Primary,Violin
+,,2025-03-14,116,"Stefanini, Giuseppe",,,,sold,,25960,USD,Primary,Primary,Violin
+,,2025-03-14,118,Gand & Bernardel Firm,,,,sold,,26400,USD,Primary,Primary,Violin
+,,2025-03-14,119,"Bailly, Paul",,,,sold,,21240,USD,Primary,Primary,Violin
+,,2025-03-14,12,"Reuter, Gunther",,,,sold,,8260,USD,Primary,Primary,Cello
+,,2025-03-14,122,"Bellarosa, Vittorio",,,,sold,,28800,USD,Primary,Primary,Violin
+,,2025-03-14,123,"Peresson, Sergio",,,,sold,,60000,USD,Primary,Primary,Violin
+,,2025-03-14,124,"Curtin, Joseph",,,,sold,,48000,USD,Primary,Primary,Violin
+,,2025-03-14,125,"Gadda, Gaetano",,,,sold,,35400,USD,Primary,Primary,Violin
+,,2025-03-14,127,"Vinaccia, Antonio",,,,sold,,82600,USD,Primary,Primary,Violin
+,,2025-03-14,128,"Bergonzi, Nicola",,,,sold,,165200,USD,Primary,Primary,Violin
+,,2025-03-14,129,"Testore, Carlo Giuseppe",,,,sold,,106200,USD,Primary,Primary,Violin
+,,2025-03-14,130,"Vuillaume, Jean-Baptiste",,,,sold,,236000,USD,Primary,Primary,Violin
+,,2025-03-14,131,"Gagliano, Gennaro",,,,sold,,295000,USD,Primary,Primary,Violin
+,,2025-03-14,14,"Matsuda, Tetsuo",,,,sold,,25200,USD,Primary,Primary,Cello
+,,2025-03-14,15,"Barbieri, Bruno",,,,sold,,33000,USD,Primary,Primary,Cello
+,,2025-03-14,16,"Vuillaume, Jean-Baptiste",,,,sold,,236000,USD,Primary,Primary,Cello
+,,2025-03-14,17,"Dotschkail, Reinhold",,,,sold,,1920,USD,Primary,Primary,Viola Bow
+,,2025-03-14,18,"Kolstein, Samuel",,,,sold,,960,USD,Primary,Primary,Viola Bow
+,,2025-03-14,2,"Finkel, Johannes S.",,,,sold,,2400,USD,Primary,Primary,Cello Bow
+,,2025-03-14,21,"Watson, William D.",,,,sold,,9000,USD,Primary,Primary,Cello Bow
+,,2025-03-14,24,"Bazin, Charles Nicolas",,,,sold,,10200,USD,Primary,Primary,Viola Bow
+,,2025-03-14,27,"Thomachot, Stephane",,,,sold,,22800,USD,Primary,Primary,Viola Bow
+,,2025-03-14,28,"Sartory, Eugène Nicolas",,,,sold,,39000,USD,Primary,Primary,Viola Bow
+,,2025-03-14,29,"Müller, Carl Albert",,,,sold,,3540,USD,Primary,Primary,Viola
+,,2025-03-14,30,"Nebel, Martin",,,,sold,,7200,USD,Primary,Primary,Viola
+,,2025-03-14,31,"Huggler, William John",,,,sold,,4720,USD,Primary,Primary,Viola
+,,2025-03-14,32,"Klotz, Aegidius Sebastian",,,,sold,,6490,USD,Primary,Primary,Viola
+,,2025-03-14,33,"Kuttner, Francis",,,,sold,,8260,USD,Primary,Primary,Viola
+,,2025-03-14,34,"Gamberini, Claudio",,,,sold,,25200,USD,Primary,Primary,Viola
+,,2025-03-14,35,"Maggiali, Cesare",,,,sold,,12980,USD,Primary,Primary,Viola
+,,2025-03-14,37,"Sderci, Igino",,,,sold,,27600,USD,Primary,Primary,Viola
+,,2025-03-14,38,"Balzarini, Pier Angelo",,,,sold,,39000,USD,Primary,Primary,Viola
+,,2025-03-14,39,"Morassi, Gio Battista",,,,sold,,29500,USD,Primary,Primary,Viola
+,,2025-03-14,4,"Salchow, William",,,,sold,,6600,USD,Primary,Primary,Cello Bow
+,,2025-03-14,41,"Dotschkail, Reinhold",,,,sold,,960,USD,Primary,Primary,Violin Bow
+,,2025-03-14,42,"Dotschkail, Reinhold",,,,sold,,2760,USD,Primary,Primary,Violin Bow
+,,2025-03-14,44,"Bazin, Charles Louis",,,,sold,,5700,USD,Primary,Primary,Violin Bow
+,,2025-03-14,45,"Bazin, Charles Louis",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,2025-03-14,46,"Morizot, Louis frères",,,,sold,,1800,USD,Primary,Primary,Violin Bow
+,,2025-03-14,47,"Morizot, Louis Joseph père",,,,sold,,6000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,48,"Ouchard, Émile François",,,,sold,,7200,USD,Primary,Primary,Violin Bow
+,,2025-03-14,50,"Hill & Sons, W. E. Firm",,,,sold,,3900,USD,Primary,Primary,Violin Bow
+,,2025-03-14,51,"Nürnberger, Albert",,,,sold,,3300,USD,Primary,Primary,Violin Bow
+,,2025-03-14,52,"Cuniot, Eugène ""Cuniot-Hury""",,,,sold,,2596,USD,Primary,Primary,Violin Bow
+,,2025-03-14,54,"Morizot, Louis frères",,,,sold,,2360,USD,Primary,Primary,Violin Bow
+,,2025-03-14,57,"Hill & Sons, W. E. Firm",,,,sold,,4130,USD,Primary,Primary,Violin Bow
+,,2025-03-14,58,"Hill & Sons, W. E. Firm",,,,sold,,2360,USD,Primary,Primary,Violin Bow
+,,2025-03-14,59,"Hill & Sons, W. E. Firm",,,,sold,,3000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,6,"Hill & Sons, W. E. Firm",,,,sold,,10620,USD,Primary,Primary,Cello Bow
+,,2025-03-14,61,"Bazin, Charles Nicolas",,,,sold,,9000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,63,"Hill & Sons, W. E. Firm",,,,sold,,5100,USD,Primary,Primary,Violin Bow
+,,2025-03-14,64,"Napier, Frank Donald",,,,sold,,3600,USD,Primary,Primary,Violin Bow
+,,2025-03-14,65,"Daguin, Franck",,,,sold,,2596,USD,Primary,Primary,Violin Bow
+,,2025-03-14,67,"Poirson, Dominique ""Justin""",,,,sold,,7800,USD,Primary,Primary,Violin Bow
+,,2025-03-14,69,"Adam, Jean Dominique",,,,sold,,6000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,7,"Gillet, Louis Henri",,,,sold,,18880,USD,Primary,Primary,Cello Bow
+,,2025-03-14,70,"Martin, Jean-Joseph",,,,sold,,9600,USD,Primary,Primary,Violin Bow
+,,2025-03-14,71,"Espey, Charles",,,,sold,,14400,USD,Primary,Primary,Violin Bow
+,,2025-03-14,72,"Siefried, Paul Martin",,,,sold,,6000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,73,"Tubbs, James",,,,sold,,21600,USD,Primary,Primary,Violin Bow
+,,2025-03-14,74,"Lamy, Joseph Alfred père",,,,sold,,11400,USD,Primary,Primary,Violin Bow
+,,2025-03-14,76,"Lenoble, Auguste",,,,sold,,9000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,78,"Richaume, André",,,,sold,,20400,USD,Primary,Primary,Violin Bow
+,,2025-03-14,8,"Thomassin, Claude Auguste",,,,sold,,10620,USD,Primary,Primary,Cello Bow
+,,2025-03-14,80,"Thomachot, Stephane",,,,sold,,27600,USD,Primary,Primary,Violin Bow
+,,2025-03-14,81,"Sartory, Eugène Nicolas",,,,sold,,19200,USD,Primary,Primary,Violin Bow
+,,2025-03-14,82,"Sartory, Eugène Nicolas",,,,sold,,18880,USD,Primary,Primary,Violin Bow
+,,2025-03-14,83,"Ouchard, Émile-Auguste",,,,sold,,18000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,84,"Sartory, Eugène Nicolas",,,,sold,,39000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,85,"Maline, Nicolas I",,,,sold,,38350,USD,Primary,Primary,Violin Bow
+,,2025-03-14,86,"Maline, Nicolas I",,,,sold,,21600,USD,Primary,Primary,Violin Bow
+,,2025-03-14,87,"Henry, Joseph",,,,sold,,60000,USD,Primary,Primary,Violin Bow
+,,2025-03-14,89,"Wrona, Anthony T.",,,,sold,,2640,USD,Primary,Primary,Violin
+,,2025-03-14,9,"Adam, Jean Dominique",,,,sold,,10800,USD,Primary,Primary,Cello Bow
+,,2025-03-14,92,"Martino, Giuseppe",,,,sold,,8850,USD,Primary,Primary,Violin
+,,2025-03-14,93,"Bryant, Ole H.",,,,sold,,4800,USD,Primary,Primary,Violin
+,,2025-03-14,94,Perry & Wilkinson Firm,,,,sold,,12000,USD,Primary,Primary,Violin
+,,2025-03-14,95,"Ercoli, Luigi",,,,sold,,7200,USD,Primary,Primary,Violin

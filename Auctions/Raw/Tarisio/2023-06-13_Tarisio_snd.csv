@@ -1,67 +1,17 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,2023-06-13,3,,"Neudorfer, Rudolf",,,sold,,4139,USD,Secondary,Secondary,Cello Bow
-,,2023-06-13,4,,"Lotte, Roger François",,,sold,,3238,USD,Secondary,Cross-checked,Cello Bow
-,,2023-06-13,5,,"Sasano, Mitsuaki",,,sold,,22020,USD,Secondary,Cross-checked,Cello Bow
 ,,2023-06-13,6,,"Lamy, Joseph Alfred père",,,sold,,15543,USD,Secondary,Cross-checked,Cello Bow
 ,,2023-06-13,8,,"Collin-Mézin, Charles fils",,,sold,,19429,USD,Secondary,Cross-checked,Cello
-,,2023-06-13,12,,"Vuillaume, Jean-Baptiste",,,sold,,356200,USD,Secondary,Cross-checked,Cello
-,,2023-06-13,13,,"Neudorfer, Rudolf",,,sold,,2331,USD,Secondary,Cross-checked,Viola Bow
-,,2023-06-13,14,,"Pfretzschner, Hermann Richard",,,sold,,3238,USD,Secondary,Cross-checked,Viola Bow
-,,2023-06-13,15,,"Knopf, Christian Wilhelm I",,,sold,,4458,USD,Secondary,Cross-checked,Viola Bow
 ,,2023-06-13,16,,"Schnabl, Reinhold",,,sold,,3562,USD,Secondary,Cross-checked,Viola
 ,,2023-06-13,17,,"Vávra, Karel",,,sold,,8419,USD,Secondary,Cross-checked,Viola
-,,2023-06-13,18,,"Rocchi, Sesto",,,sold,,28496,USD,Secondary,Cross-checked,Viola
 ,,2023-06-13,19,,"von Baehr, Stephan",,,sold,,58287,USD,Secondary,Cross-checked,Viola
-,,2023-06-13,25,,"Bazin, Charles Alfred",,,sold,,1813,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,26,,"Bazin, Charles Louis",,,sold,,2072,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,27,,"Neudorfer, Rudolf",,,sold,,2072,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,28,,"Neudorfer, Rudolf",,,sold,,2072,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,32,,"Morizot, Louis Joseph père",,,sold,,3886,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,33,,"Bazin, François Xavier",,,sold,,4533,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,34,,Grünke & Söhne Firm,,,sold,,2547,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,35,,"Morizot, Louis frères",,,sold,,1274,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,38,,"Bazin, Charles Nicolas",,,sold,,3109,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,39,,"Bazin, Charles Nicolas",,,sold,,3562,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,40,,"Bazin, Charles Nicolas",,,sold,,2929,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,41,,"Bazin, Charles Louis",,,sold,,3886,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,42,,"Ouchard, Émile François",,,sold,,3238,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,43,,"Gabriel, Joseph P.",,,sold,,2461,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,44,,"Lapierre, Marcel Charles",,,sold,,2720,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,45,,"Husson, Mars Auguste",,,sold,,4210,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,47,,"Schmidt, C. Daniel",,,sold,,3238,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,48,,"Schmidt, C. Hans-Karl",,,sold,,3503,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,49,,"Schmidt, C. Hans-Karl",,,sold,,3886,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,50,,"Martin, Jean-Joseph",,,sold,,3184,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,51,,"Ouchard, Bernard",,,sold,,5181,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,52,,"Bazin, Charles Louis",,,sold,,5505,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,53,,"Ouchard, Émile François",,,sold,,3886,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,54,,"Daguin, Franck",,,sold,,3886,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,55,,"Nehr, Gilles",,,sold,,5505,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,56,,"Husson, Mars Auguste",,,sold,,6476,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,57,,"Hoyer, Otto A.",,,sold,,2159,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,61,,"fils, Hippolyte Camille Lamy dit 1er",,,sold,,10826,USD,Secondary,Secondary,Violin Bow
 ,,2023-06-13,63,,"Lamy, Joseph Alfred père",,,sold,,11010,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,64,,"Fétique, Jules",,,sold,,11463,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,65,,"Simon, Pierre",,,sold,,18134,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,66,,"Sartory, Eugène Nicolas",,,sold,,25905,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,67,,"Sartory, Eugène Nicolas",,,sold,,27201,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,68,,"Sartory, Eugène Nicolas",,,sold,,32382,USD,Secondary,Cross-checked,Violin Bow
 ,,2023-06-13,69,,"Sartory, Eugène Nicolas",,,sold,,28496,USD,Secondary,Cross-checked,Violin Bow
-,,2023-06-13,70,,"Schuster, Carl Gottlob Jr.",,,sold,,3057,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,71,,"Meisel, Friedrich August",,,sold,,2979,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,73,,"Curtoni, Emanuele",,,sold,,7124,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,74,,"Mazzotti, Matteo",,,sold,,4857,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,75,,"Husson, Théodore",,,sold,,12953,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,77,,"Averna, Gesualdo",,,sold,,7772,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,79,,"Hubicka, Julius A.",,,sold,,11010,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,80,,"Vuillaume, Nicolas François",,,sold,,7772,USD,Secondary,Cross-checked,Violin
 ,,2023-06-13,82,,"Audinot, Nestor Dominique",,,sold,,11010,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,87,,"Hjorth & Sons, Emil",,,sold,,12737,USD,Secondary,Cross-checked,Violin
 ,,2023-06-13,89,,"Hel, Pierre Joseph",,,sold,,38858,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,91,,"Bissolotti, Francesco",,,sold,,38858,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,94,,"Candi, Cesare",,,sold,,55049,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,95,,"Postiglione, Vincenzo II",,,sold,,51811,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,96,,"Lupot, Nicolas",,,sold,,90669,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,97,,"Pique, François-Louis",,,sold,,97145,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,101,,"Tecchler, David",,,sold,,110098,USD,Secondary,Cross-checked,Violin
-,,2023-06-13,103,,"Gagliano, Giuseppe",,,sold,,168385,USD,Secondary,Cross-checked,Violin
