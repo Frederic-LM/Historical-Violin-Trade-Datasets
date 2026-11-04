@@ -1,5 +1,38 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2005-05-12,17,"Lanini, Alfred Eugene",,,,sold,,1610,USD,Primary,Primary,Violin
+,,2005-05-12,32,"Herclik, Frantisek",,,,sold,,1955,USD,Primary,Primary,Violin
+,,2005-05-12,37,"Laberte, Marc André Joseph",,,,sold,,4025,USD,Primary,Primary,Violin
+,,2005-05-12,39,"Hidy, László",,,,sold,,2300,USD,Primary,Primary,Violin
+,,2005-05-12,42,"Millis, George E.",,,,sold,,1035,USD,Primary,Primary,Violin
+,,2005-05-12,43,"Kaye, Joseph",,,,sold,,1150,USD,Primary,Primary,Violin
+,,2005-05-12,44,"Atchley, Earsel Vivian",,,,sold,,1380,USD,Primary,Primary,Violin
+,,2005-05-12,48,"Rief, Anton",,,,sold,,2875,USD,Primary,Primary,Violin
+,,2005-05-12,50,"Collin-Mézin, Charles fils",,,,sold,,3450,USD,Primary,Primary,Violin
+,,2005-05-12,53,"Baracchi, Lanfranco",,,,sold,,5175,USD,Primary,Primary,Violin
+,,2005-05-12,54,"Derazey, Honoré (Jean-Joseph)",,,,sold,,4025,USD,Primary,Primary,Violin
+,,2005-05-12,55,"Mougenot, Léon Victor",,,,sold,,2875,USD,Primary,Primary,Violin
+,,2005-05-12,57,,Ernst Heinrich (I) Roth,,,sold,,3358,GBP,Secondary,Secondary,Violin
+,,2005-05-12,69,"Beebe, Byron",,,,sold,,2300,USD,Primary,Primary,Violin
+,,2005-05-12,71,"Roth, Ernst Heinrich",,,,sold,,1840,USD,Primary,Primary,Violin
+,,2005-05-12,73,"Orlando, Salvatore",,,,sold,,2070,USD,Primary,Primary,Violin
+,,2005-05-12,74,"Catcheside, Thomas",,,,sold,,2530,USD,Primary,Primary,Violin
+,,2005-05-12,76,"Glass, Johann",,,,sold,,4313,USD,Primary,Primary,Violin
+,,2005-05-12,81,"Français, Lucien",,,,sold,,5175,USD,Primary,Primary,Violin
+,,2005-05-12,83,"Mougenot, Léon Victor",,,,sold,,2875,USD,Primary,Primary,Violin
+,,2005-05-12,85,"Peternella, Jago",,,,sold,,8050,USD,Primary,Primary,Violin
+,,2005-05-12,86,"Pulpaneck, Fritz",,,,sold,,4888,USD,Primary,Primary,Violin
+,,2005-05-12,87,,MIGGE OTTO,,,sold,,4887,USD,Secondary,Secondary,Violin
+,,2005-05-12,89,,SEIFERT & GROSSMAN,,,sold,,2875,USD,Secondary,Secondary,Violin
+,,2005-05-12,90,"Berger, Karl August",,,,sold,,3450,USD,Primary,Primary,Violin
+,,2005-05-12,91,"Dieudonné, Amédée",,,,sold,,4600,USD,Primary,Primary,Violin
+,,2005-05-12,92,"Richardson, Arthur",,,,sold,,4025,USD,Primary,Primary,Violin
+,,2005-05-12,93,"Smith, Thomas",,,,sold,,5750,USD,Primary,Primary,Violin
+,,2005-05-12,95,"Darche, Hilaire",,,,sold,,6900,USD,Primary,Primary,Violin
+,,2005-05-12,96,"Poirson, Elophe",,,,sold,,8050,USD,Primary,Primary,Violin
+,,2005-05-12,97,"Bissolotti, Francesco",,,,sold,,16100,USD,Primary,Primary,Violin
+,,2005-05-12,99,"Gemünder, George I",,,,sold,,11500,USD,Primary,Primary,Violin
 ,,2005-05-12,110,"Fischer, Albert William",,,,sold,,403,USD,Primary,Primary,Violin Bow
+,,2005-05-12,115,,ASHMEED RALPH,,,sold,,690,USD,Secondary,Secondary,Violin Bow
 ,,2005-05-12,118,"Martin, Jean-Joseph",,,,sold,,1150,USD,Primary,Primary,Violin Bow
 ,,2005-05-12,119,"Rau, August",,,,sold,,1380,USD,Primary,Primary,Violin Bow
 ,,2005-05-12,127,"Colas, Prosper",,,,sold,,690,USD,Primary,Primary,Violin Bow
@@ -16,9 +49,9 @@
 ,,2005-05-12,155,"Hill & Sons, W. E. Firm",,,,sold,,1150,USD,Primary,Primary,Violin Bow
 ,,2005-05-12,156,"Hill & Sons, W. E. Firm",,,,sold,,2415,USD,Primary,Primary,Violin Bow
 ,,2005-05-12,157,"Hill & Sons, W. E. Firm",,,,sold,,3450,USD,Primary,Primary,Violin Bow
+,,2005-05-12,158,,BISHOP EDGAR,,,sold,,3737,USD,Secondary,Secondary,Violin Bow
 ,,2005-05-12,159,"Pajeot, Louis Simon",,,,sold,,3335,USD,Primary,Primary,Violin Bow
 ,,2005-05-12,160,"Fétique, Victor François",,,,sold,,5750,USD,Primary,Primary,Violin Bow
-,,2005-05-12,17,"Lanini, Alfred Eugene",,,,sold,,1610,USD,Primary,Primary,Violin
 ,,2005-05-12,173,"Vuillaume, Nicolas III",,,,sold,,6900,USD,Primary,Primary,Violin
 ,,2005-05-12,175,"Morizot, Louis Joseph père",,,,sold,,748,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,176,"Bolander, John Alfred II",,,,sold,,173,USD,Primary,Primary,Viola Bow
@@ -27,12 +60,14 @@
 ,,2005-05-12,183,"Lapierre, Marcel Charles",,,,sold,,2300,USD,Primary,Primary,Viola Bow
 ,,2005-05-12,184,"Lapierre, Marcel Charles",,,,sold,,3450,USD,Primary,Primary,Viola Bow
 ,,2005-05-12,187,"Bultitude, Arthur Richard",,,,sold,,4600,USD,Primary,Primary,Viola Bow
+,,2005-05-12,188,,JOHNSTON WILLIAM GRIEVE,,,sold,,5500,USD,Secondary,Secondary,Viola Bow
 ,,2005-05-12,189,"Gaiani, Romano",,,,sold,,1380,USD,Primary,Primary,Viola
 ,,2005-05-12,190,"Soelen, J. N. van",,,,sold,,1380,USD,Primary,Primary,Viola
 ,,2005-05-12,196,"Coggin, James Radford",,,,sold,,4025,USD,Primary,Primary,Viola
 ,,2005-05-12,198,"Richardson, Arthur",,,,sold,,4600,USD,Primary,Primary,Viola
 ,,2005-05-12,199,"Walker, John Harold",,,,sold,,5463,USD,Primary,Primary,Viola
 ,,2005-05-12,200,"Hanson, H. R.",,,,sold,,4600,USD,Primary,Primary,Viola
+,,2005-05-12,203,,Otello Bignami,,,sold,,2290,GBP,Secondary,Secondary,Viola
 ,,2005-05-12,204,"Lanaro, Umberto",,,,sold,,6325,USD,Primary,Primary,Viola
 ,,2005-05-12,206,"Sderci, Luciano",,,,sold,,5463,USD,Primary,Primary,Viola
 ,,2005-05-12,208,"Peresson, Sergio",,,,sold,,13800,USD,Primary,Primary,Viola
@@ -73,6 +108,7 @@
 ,,2005-05-12,294,"Dieudonné, Amédée",,,,sold,,4600,USD,Primary,Primary,Violin
 ,,2005-05-12,297,"Apparut, Georges",,,,sold,,4888,USD,Primary,Primary,Violin
 ,,2005-05-12,300,"Homolka, Emanuel Adam",,,,sold,,4313,USD,Primary,Primary,Violin
+,,2005-05-12,303,,NICOLAS DIDIER AÎNÉ,,,sold,,4025,USD,Secondary,Secondary,Violin
 ,,2005-05-12,304,"Carlisle, James Reynold",,,,sold,,4025,USD,Primary,Primary,Violin
 ,,2005-05-12,307,"Calace, Raffaele I",,,,sold,,4600,USD,Primary,Primary,Violin
 ,,2005-05-12,309,"Mozzani, Luigi",,,,sold,,5750,USD,Primary,Primary,Violin
@@ -80,7 +116,7 @@
 ,,2005-05-12,314,"Militello, Mariano",,,,sold,,4600,USD,Primary,Primary,Violin
 ,,2005-05-12,317,"De Giorgio, Remo",,,,sold,,4600,USD,Primary,Primary,Violin
 ,,2005-05-12,318,"Collin-Mézin, Charles fils",,,,sold,,5463,USD,Primary,Primary,Violin
-,,2005-05-12,32,"Herclik, Frantisek",,,,sold,,1955,USD,Primary,Primary,Violin
+,,2005-05-12,328,,STRNAD CASPER,,,sold,,6900,USD,Secondary,Secondary,Violin
 ,,2005-05-12,330,"Verne, Dario",,,,sold,,6900,USD,Primary,Primary,Violin
 ,,2005-05-12,332,"Gadda, Mario",,,,sold,,12650,USD,Primary,Primary,Violin
 ,,2005-05-12,335,"Giulietti, Armando",,,,sold,,9775,USD,Primary,Primary,Violin
@@ -97,17 +133,17 @@
 ,,2005-05-12,360,"Candi, Cesare",,,,sold,,46000,USD,Primary,Primary,Violin
 ,,2005-05-12,362,"Scarampella, Stefano",,,,sold,,83250,USD,Primary,Primary,Violin
 ,,2005-05-12,363,"Grancino, Giovanni Battista I",,,,sold,,95000,USD,Primary,Primary,Violin
-,,2005-05-12,37,"Laberte, Marc André Joseph",,,,sold,,4025,USD,Primary,Primary,Violin
 ,,2005-05-12,377,"Schicker, Horst",,,,sold,,633,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,378,"Guillaume, Pierre",,,,sold,,690,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,383,"Lotte, Roger François",,,,sold,,2185,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,385,"Taylor, Malcolm",,,,sold,,2300,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,386,"Bazin, Charles Nicolas",,,,sold,,4313,USD,Primary,Primary,Cello Bow
-,,2005-05-12,39,"Hidy, László",,,,sold,,2300,USD,Primary,Primary,Violin
+,,2005-05-12,387,,BARNES ARTHUR JOHN,,,sold,,7475,USD,Secondary,Secondary,Cello Bow
 ,,2005-05-12,392,"Morizot, Louis Joseph père",,,,sold,,5750,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,393,"Sartory, Eugène Nicolas",,,,sold,,8050,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,395,"Sartory, Eugène Nicolas",,,,sold,,9775,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,397,"Peccatte, Charles",,,,sold,,12650,USD,Primary,Primary,Cello Bow
+,,2005-05-12,398,,Pierre Simon,,,sold,,8242,GBP,Secondary,Secondary,Cello Bow
 ,,2005-05-12,399,"Maire, Nicolas Rémy",,,,sold,,23000,USD,Primary,Primary,Cello Bow
 ,,2005-05-12,408,"Carletti, Carlo",,,,sold,,46000,USD,Primary,Primary,Cello
 ,,2005-05-12,409,"Chanot, Georges I",,,,sold,,69000,USD,Primary,Primary,Cello
@@ -116,31 +152,6 @@
 ,,2005-05-12,412,"Amati, Girolamo II",,,,sold,,388500,USD,Primary,Primary,Cello
 ,,2005-05-12,414,"Bazin, Charles Nicolas",,,,sold,,2875,USD,Primary,Primary,Violin Bow
 ,,2005-05-12,415,"Ouchard, Émile F. & Émile A.",,,,sold,,6325,USD,Primary,Primary,Violin Bow
-,,2005-05-12,42,"Millis, George E.",,,,sold,,1035,USD,Primary,Primary,Violin
 ,,2005-05-12,426,"Annarumma, Vincenzo",,,,sold,,8050,USD,Primary,Primary,Violin
 ,,2005-05-12,427,"Mandelli, Camillo 'da Calco'",,,,sold,,9200,USD,Primary,Primary,Violin
-,,2005-05-12,43,"Kaye, Joseph",,,,sold,,1150,USD,Primary,Primary,Violin
 ,,2005-05-12,430,"Gadda, Gaetano",,,,sold,,14950,USD,Primary,Primary,Violin
-,,2005-05-12,44,"Atchley, Earsel Vivian",,,,sold,,1380,USD,Primary,Primary,Violin
-,,2005-05-12,48,"Rief, Anton",,,,sold,,2875,USD,Primary,Primary,Violin
-,,2005-05-12,50,"Collin-Mézin, Charles fils",,,,sold,,3450,USD,Primary,Primary,Violin
-,,2005-05-12,53,"Baracchi, Lanfranco",,,,sold,,5175,USD,Primary,Primary,Violin
-,,2005-05-12,54,"Derazey, Honoré (Jean-Joseph)",,,,sold,,4025,USD,Primary,Primary,Violin
-,,2005-05-12,55,"Mougenot, Léon Victor",,,,sold,,2875,USD,Primary,Primary,Violin
-,,2005-05-12,69,"Beebe, Byron",,,,sold,,2300,USD,Primary,Primary,Violin
-,,2005-05-12,71,"Roth, Ernst Heinrich",,,,sold,,1840,USD,Primary,Primary,Violin
-,,2005-05-12,73,"Orlando, Salvatore",,,,sold,,2070,USD,Primary,Primary,Violin
-,,2005-05-12,74,"Catcheside, Thomas",,,,sold,,2530,USD,Primary,Primary,Violin
-,,2005-05-12,76,"Glass, Johann",,,,sold,,4313,USD,Primary,Primary,Violin
-,,2005-05-12,81,"Français, Lucien",,,,sold,,5175,USD,Primary,Primary,Violin
-,,2005-05-12,83,"Mougenot, Léon Victor",,,,sold,,2875,USD,Primary,Primary,Violin
-,,2005-05-12,85,"Peternella, Jago",,,,sold,,8050,USD,Primary,Primary,Violin
-,,2005-05-12,86,"Pulpaneck, Fritz",,,,sold,,4888,USD,Primary,Primary,Violin
-,,2005-05-12,90,"Berger, Karl August",,,,sold,,3450,USD,Primary,Primary,Violin
-,,2005-05-12,91,"Dieudonné, Amédée",,,,sold,,4600,USD,Primary,Primary,Violin
-,,2005-05-12,92,"Richardson, Arthur",,,,sold,,4025,USD,Primary,Primary,Violin
-,,2005-05-12,93,"Smith, Thomas",,,,sold,,5750,USD,Primary,Primary,Violin
-,,2005-05-12,95,"Darche, Hilaire",,,,sold,,6900,USD,Primary,Primary,Violin
-,,2005-05-12,96,"Poirson, Elophe",,,,sold,,8050,USD,Primary,Primary,Violin
-,,2005-05-12,97,"Bissolotti, Francesco",,,,sold,,16100,USD,Primary,Primary,Violin
-,,2005-05-12,99,"Gemünder, George I",,,,sold,,11500,USD,Primary,Primary,Violin

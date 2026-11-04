@@ -1,7 +1,7 @@
 ﻿house_folder,file,sale_number,sale_title,first_day,last_day,place,country,currency,text_language,lots,sold,unsold,withdrawn,status_not_given,prices_published,text_source,price_source,buyer_premium
 Aguttes,Aguttes/2022-06-03_Aguttes_V18996.csv,V18996,Violons & Archets,2022-06-03,2022-06-03,,France,EUR,French (English text in description_english),14,14,0,0,0,hammer,Primary,Primary,"25 % + VAT up to EUR 150 000, 23 % + VAT above"
 Aguttes,Aguttes/2023-06-08_Aguttes_G000081.csv,G000081,Instruments & Archets du quatuor,2023-06-08,2023-06-08,,France,EUR,French (English text in description_english),79,79,0,0,0,hammer,Primary,Primary,20 % + VAT
-Aguttes,Aguttes/2023-11-27_Aguttes_G000288.csv,G000288,Instruments & Archets du quatuor,2023-11-27,2023-11-27,,France,EUR,French (English text in description_english),156,156,0,0,0,hammer,Primary,Primary,20 % + VAT
+Aguttes,Aguttes/2023-11-27_Aguttes_G000288.csv,G000288,Instruments & Archets du quatuor,2023-11-27,2023-11-27,,France,"EUR, USD",French (English text in description_english),157,157,0,0,0,hammer and price with fees,"Primary, Secondary","Cross-checked, Primary",20 % + VAT
 Aguttes,Aguttes/2024-06-03_Aguttes_G000313.csv,G000313,Instruments & Archets du quatuor,2024-06-03,2024-06-03,,France,EUR,French (English text in description_english),78,78,0,0,0,hammer,Primary,Primary,20 % + VAT
 Aguttes,Aguttes/2024-11-30_Aguttes_G000228.csv,G000228,Instruments et Archets du quatuor,2024-11-30,2024-11-30,,France,EUR,French (English text in description_english),97,97,0,0,0,hammer,Primary,Primary,20 % + VAT
 Aguttes,Aguttes/2025-06-10_Aguttes_G000229.csv,G000229,Instruments & Archets du quatuor,2025-06-10,2025-06-10,,France,EUR,French (English text in description_english),135,135,0,0,0,hammer,Primary,Primary,
@@ -68,7 +68,7 @@ Bonhams,Bonhams/2005-05-23_Bonhams_11523.csv,11523,Fine Musical Instruments,2005
 Bonhams,Bonhams/2005-07-18_Bonhams_11524.csv,11524,Musical Instruments,2005-07-18,2005-07-18,,United Kingdom,GBP,English,259,156,98,5,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
 Bonhams,Bonhams/2005-09-12_Bonhams_11525.csv,11525,Musical Instruments,2005-09-12,2005-09-12,,United Kingdom,GBP,English,323,181,138,4,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
 Bonhams,Bonhams/2005-10-31_Bonhams_11526.csv,11526,Fine Musical Instruments,2005-10-31,2005-10-31,,United Kingdom,GBP,English,284,148,131,5,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
-Bonhams,Bonhams/2006-02-27_Bonhams_13458.csv,13458,Fine Musical Instruments,2006-02-27,2006-02-27,,United Kingdom,GBP,English,424,323,100,1,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
+Bonhams,Bonhams/2006-02-27_Bonhams_13458.csv,13458,Fine Musical Instruments,2006-02-27,2006-02-27,,United Kingdom,GBP,English,425,324,100,1,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary","20 % up to GBP 70 000, 12 % above"
 Bonhams,Bonhams/2006-04-10_Bonhams_13459.csv,13459,Musical Instruments,2006-04-10,2006-04-10,,United Kingdom,GBP,English,351,201,145,4,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
 Bonhams,Bonhams/2006-06-05_Bonhams_13460.csv,13460,Musical Instruments,2006-06-05,2006-06-05,,United Kingdom,GBP,English,326,149,174,3,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
 Bonhams,Bonhams/2006-07-10_Bonhams_13461.csv,13461,Fine Musical Instruments,2006-07-10,2006-07-10,,United Kingdom,GBP,English,344,210,129,3,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
@@ -88,42 +88,42 @@ Bonhams,Bonhams/2010-10-06_Bonhams_17856.csv,17856,Fine Musical Instruments,2010
 Bonhams,Bonhams/2011-03-09_Bonhams_18768.csv,18768,Fine Musical Instruments,2011-03-09,2011-03-09,,United Kingdom,GBP,English,182,133,46,3,0,hammer and price with fees,Primary,Primary,"20 % up to GBP 70 000, 12 % above"
 Bonhams,Bonhams/2011-10-05_Bonhams_18948.csv,18948,Fine Musical Instruments,2011-10-05,2011-10-05,,United Kingdom,GBP,English,245,165,79,1,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
 Bonhams,Bonhams/2012-03-07_Bonhams_19958.csv,19958,Fine Musical Instruments,2012-03-07,2012-03-07,,United Kingdom,GBP,English,213,151,60,2,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
-Bonhams,Bonhams/2012-10-31_Bonhams_20019.csv,20019,Fine Musical Instruments,2012-10-31,2012-10-31,,United Kingdom,GBP,English,348,186,160,2,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
+Bonhams,Bonhams/2012-10-31_Bonhams_20019.csv,20019,Fine Musical Instruments,2012-10-31,2012-10-31,,United Kingdom,GBP,English,350,188,160,2,0,hammer and price with fees,"Primary, Secondary","Cross-checked, Primary","25 % up to GBP 25 000, 20 % above"
 Bonhams,Bonhams/2013-05-22_Bonhams_20769.csv,20769,Musical Instruments,2013-05-22,2013-05-22,,United Kingdom,GBP,English,249,137,109,3,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
-Bonhams,Bonhams/2013-08-07_Bonhams_20936.csv,20936,Musical Instruments,2013-08-07,2013-08-07,,United Kingdom,GBP,English,293,132,157,4,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 25 000, 20 % above"
-Bonhams,Bonhams/2013-10-30_Bonhams_20770.csv,20770,Musical Instruments,2013-10-30,2013-10-30,,United Kingdom,GBP,English,245,139,105,1,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
-Bonhams,Bonhams/2014-05-12_Bonhams_21678.csv,21678,Musical Instruments,2014-05-12,2014-05-12,,United Kingdom,GBP,English,319,158,159,2,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
-Bonhams,Bonhams/2014-10-29_Bonhams_21679.csv,21679,Musical Instruments,2014-10-29,2014-10-29,,United Kingdom,GBP,English,255,130,122,3,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
-Bonhams,Bonhams/2015-05-11_Bonhams_22597.csv,22597,Musical Instruments,2015-05-11,2015-05-11,,United Kingdom,GBP,English,213,104,105,4,0,hammer and price with fees,Primary,Primary,"25 % up to GBP 50 000, 20 % above"
-Christies,Christies/1984-04-04_Christies_catalogue.csv,,Musical Instruments,1984-04-04,1984-04-04,,,GBP,English,110,56,0,0,54,hammer and price with fees,Primary,"Cross-checked, Secondary",8 %
+Bonhams,Bonhams/2013-08-07_Bonhams_20936.csv,20936,Musical Instruments,2013-08-07,2013-08-07,,United Kingdom,GBP,English,295,134,157,4,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary","25 % up to GBP 25 000, 20 % above"
+Bonhams,Bonhams/2013-10-30_Bonhams_20770.csv,20770,Musical Instruments,2013-10-30,2013-10-30,,United Kingdom,GBP,English,246,140,105,1,0,hammer and price with fees,"Primary, Secondary","Cross-checked, Primary","25 % up to GBP 50 000, 20 % above"
+Bonhams,Bonhams/2014-05-12_Bonhams_21678.csv,21678,Musical Instruments,2014-05-12,2014-05-12,,United Kingdom,GBP,English,320,159,159,2,0,hammer and price with fees,"Primary, Secondary","Cross-checked, Primary","25 % up to GBP 50 000, 20 % above"
+Bonhams,Bonhams/2014-10-29_Bonhams_21679.csv,21679,Musical Instruments,2014-10-29,2014-10-29,,United Kingdom,GBP,English,257,132,122,3,0,hammer and price with fees,"Primary, Secondary","Cross-checked, Primary, Secondary","25 % up to GBP 50 000, 20 % above"
+Bonhams,Bonhams/2015-05-11_Bonhams_22597.csv,22597,Musical Instruments,2015-05-11,2015-05-11,,United Kingdom,GBP,English,214,105,105,4,0,hammer and price with fees,"Primary, Secondary","Cross-checked, Primary","25 % up to GBP 50 000, 20 % above"
+Christies,Christies/1984-04-04_Christies_catalogue.csv,,Musical Instruments,1984-04-04,1984-04-04,,,GBP,English,113,59,0,0,54,hammer and price with fees,"Primary, Secondary","Cross-checked, Secondary",8 %
 Christies,Christies/1984-06-20_Christies_catalogue.csv,,Musical Instruments,1984-06-20,1984-06-20,,,GBP,English,101,85,0,0,16,hammer and price with fees,Primary,"Cross-checked, Secondary",8 %
-Christies,Christies/1985-04-02_Christies_catalogue.csv,,Musical Instruments,1985-04-02,1985-04-02,,,GBP,English,124,67,0,0,57,hammer and price with fees,Primary,"Cross-checked, Secondary",8 %
+Christies,Christies/1985-04-02_Christies_catalogue.csv,,Musical Instruments,1985-04-02,1985-04-02,,,GBP,English,126,69,0,0,57,hammer and price with fees,"Primary, Secondary","Cross-checked, Secondary",8 %
 Christies,Christies/1985-07-03_Christies_ZEBEDEE-3177.csv,ZEBEDEE-3177,Musical Instruments,1985-07-03,1985-07-03,,,GBP,English,144,130,0,0,0,price with fees,Primary,Primary,8 %
 Christies,Christies/1987-11-11_Christies_catalogue.csv,,Musical Instruments,1987-11-11,1987-11-11,,,GBP,English,203,144,1,0,58,hammer and price with fees,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
 Christies,Christies/1988-06-21_Christies_ZIGGY-3856.csv,ZIGGY-3856,Musical Instruments,1988-06-21,1988-06-21,,,GBP,English,278,261,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
-Christies,Christies/1989-03-31_Christies_catalogue.csv,,Musical Instruments,1989-03-31,1989-03-31,,,GBP,English,186,68,0,0,118,price with fees,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
+Christies,Christies/1989-03-31_Christies_catalogue.csv,,Musical Instruments,1989-03-31,1989-03-31,,,GBP,English,202,84,0,0,118,price with fees,"Primary, Secondary","Cross-checked, Secondary",10 % + VAT on the premium
 Christies,Christies/1989-06-14_Christies_catalogue.csv,,Musical Instruments,1989-06-14,1989-06-14,,,GBP,English,269,233,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
-Christies,Christies/1990-11-21_Christies_ZENANA-4412.csv,ZENANA-4412,Musical Instruments,1990-11-21,1990-11-21,,,GBP,English,306,242,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
-Christies,Christies/1991-04-26_Christies_ZACK-4514.csv,ZACK-4514,Musical Instruments,1991-04-26,1991-04-26,,,GBP,English,207,167,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
+Christies,Christies/1990-11-21_Christies_ZENANA-4412.csv,ZENANA-4412,Musical Instruments,1990-11-21,1990-11-21,,,GBP,English,308,244,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
+Christies,Christies/1991-04-26_Christies_ZACK-4514.csv,ZACK-4514,Musical Instruments,1991-04-26,1991-04-26,,,GBP,English,208,168,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
 Christies,Christies/1991-07-01_Christies_ZEPPO-4568.csv,ZEPPO-4568,Musical Instruments,1991-07-01,1991-07-01,,,GBP,English,111,89,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
 Christies,Christies/1991-11-06_Christies_ZED-4642.csv,ZED-4642,Musical Instruments,1991-11-06,1991-11-06,,,GBP,English,194,153,0,0,0,price with fees,Primary,Primary,10 % + VAT on the premium
 Christies,Christies/1992-11-20_Christies_4837_prices.csv,4837,,1992-11-20,1992-11-20,,,GBP,English,202,202,0,0,0,price with fees,,Primary,10 % + VAT on the premium
-Christies,Christies/1993-03-17_Christies_catalogue.csv,,Musical Instruments,1993-03-17,1993-03-17,,,GBP,English,142,48,0,0,94,price with fees,Primary,"Cross-checked, Secondary",15 % + VAT on the premium
+Christies,Christies/1993-03-17_Christies_catalogue.csv,,Musical Instruments,1993-03-17,1993-03-17,,,GBP,English,145,51,0,0,94,price with fees,"Primary, Secondary","Cross-checked, Secondary",15 % + VAT on the premium
 Christies,Christies/2002-03-13_Christies_9343_prices.csv,9343,,2002-03-13,2002-03-13,,,GBP,English,144,142,0,2,0,hammer,,Primary,17.5 % (lots up to GBP 30 000)
 Christies,Christies/2007-10-12_Christies_1889.csv,1889,Fine Musical Instruments,2007-10-12,2007-10-12,New York,United States,USD,English,163,163,0,0,0,price with fees,Primary,Primary,"25 % up to USD 20 000, 20 % up to USD 500 000, 12 % above"
-Christies,Christies/2008-04-04_Christies_1982.csv,1982,Fine Musical Instruments,2008-04-04,2008-04-04,New York,United States,USD,English,169,169,0,0,0,price with fees,Primary,Primary,"25 % up to USD 20 000, 20 % up to USD 500 000, 12 % above"
-Christies,Christies/2008-10-10_Christies_2033.csv,2033,Fine Musical Instruments,2008-10-10,2008-10-10,New York,United States,USD,English,213,213,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2008-04-04_Christies_1982.csv,1982,Fine Musical Instruments,2008-04-04,2008-04-04,New York,United States,USD,English,171,171,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary","25 % up to USD 20 000, 20 % up to USD 500 000, 12 % above"
+Christies,Christies/2008-10-10_Christies_2033.csv,2033,Fine Musical Instruments,2008-10-10,2008-10-10,New York,United States,USD,English,214,214,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary","25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
 Christies,Christies/2009-04-03_Christies_2152.csv,2152,Fine Musical Instruments,2009-04-03,2009-04-03,New York,United States,USD,English,89,89,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
 Christies,Christies/2009-10-13_Christies_2204.csv,2204,Fine Musical Instruments,2009-10-13,2009-10-13,New York,United States,USD,English,295,295,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
 Christies,Christies/2010-04-28_Christies_2298.csv,2298,Fine Musical Instruments,2010-04-28,2010-04-28,New York,United States,USD,English,142,142,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
 Christies,Christies/2010-04-29_Christies_2857.csv,2857,Twenty rooms: The private collection of the late Mrs Elias-Vaes,2010-04-29,2010-04-29,Amsterdam,Netherlands,EUR,English,1,1,0,0,0,price with fees,Primary,Primary,
 Christies,Christies/2010-07-15_Christies_2332.csv,2332,The Roy Rogers & Dale Evans Museum Collection ,2010-07-15,2010-07-15,New York,United States,USD,English,1,1,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
-Christies,Christies/2010-10-08_Christies_2346.csv,2346,Fine Musical Instruments ,2010-10-08,2010-10-08,New York,United States,USD,English,127,127,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
-Christies,Christies/2011-04-29_Christies_2429.csv,2429,Fine Musical Instruments,2011-04-29,2011-04-29,New York,United States,USD,English,103,103,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2010-10-08_Christies_2346.csv,2346,Fine Musical Instruments ,2010-10-08,2010-10-08,New York,United States,USD,English,128,128,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary","25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2011-04-29_Christies_2429.csv,2429,Fine Musical Instruments,2011-04-29,2011-04-29,New York,United States,USD,English,104,104,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary","25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
 Christies,Christies/2011-05-10_Christies_6093.csv,6093,Christie's Interiors,2011-05-10,2011-05-10,London (South Kensington),United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
 Christies,Christies/2011-10-14_Christies_2471.csv,2471,Fine Musical Instruments,2011-10-14,2011-10-14,New York,United States,USD,English,117,117,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
 Christies,Christies/2012-04-26_Christies_2549.csv,2549,Fine Musical Instruments,2012-04-26,2012-04-26,New York,United States,USD,English,75,75,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
-Christies,Christies/2012-11-27_Christies_2588.csv,2588,Fine Musical Instruments,2012-11-27,2012-11-27,New York,United States,USD,English,145,145,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
+Christies,Christies/2012-11-27_Christies_2588.csv,2588,Fine Musical Instruments,2012-11-27,2012-11-27,New York,United States,USD,English,146,146,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary","25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
 Christies,Christies/2012-12-09_Christies_7613.csv,7613,Harewood: The Attic sale,2012-12-09,2012-12-09,London (South Kensington),United Kingdom,GBP,English,3,3,0,0,0,price with fees,Primary,Primary,
 Christies,Christies/2013-09-19_Christies_1186.csv,1186,"The Collection of Professor Sir Albert Richardson, P.R.A. ",2013-09-19,2013-09-19,London,United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
 Christies,Christies/2014-06-18_Christies_3479.csv,3479,An American Dynasty: The Clark Family Treasures,2014-06-18,2014-06-18,New York,United States,USD,English,3,3,0,0,0,price with fees,Primary,Primary,"25 % up to USD 50 000, 20 % up to USD 1 000 000, 12 % above"
@@ -179,7 +179,7 @@ Phillips,Phillips/1975-06-05_Phillips_20278.csv,20278,Musical Instruments,1975-0
 Phillips,Phillips/1975-07-03_Phillips_20317.csv,20317,Musical Instruments,1975-07-03,1975-07-03,,United Kingdom,GBP,English,322,310,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1975-09-04_Phillips_20387.csv,20387,Musical Instruments,1975-09-04,1975-09-04,,United Kingdom,GBP,English,315,304,2,1,0,hammer,Primary,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1975-10-02_Phillips_20428.csv,20428,Musical Instruments,1975-10-02,1975-10-02,,United Kingdom,GBP,English,237,219,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
-Phillips,Phillips/1975-11-20_Phillips_catalogue.csv,,Musical Instruments,1975-11-20,1975-11-20,,United Kingdom,GBP,English,195,0,0,0,195,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1975-11-20_Phillips_catalogue.csv,,Musical Instruments,1975-11-20,1975-11-20,,United Kingdom,GBP,English,195,2,0,0,193,price with fees,Primary,Secondary,none: the buyer paid the hammer
 Phillips,Phillips/1975-12-11_Phillips_catalogue.csv,,Musical Instruments,1975-12-11,1975-12-11,,United Kingdom,GBP,English,185,0,0,0,185,none,Primary,,none: the buyer paid the hammer
 Phillips,Phillips/1976-01-20_Phillips_catalogue.csv,,Musical Instruments,1976-01-20,1976-01-20,,United Kingdom,GBP,English,174,13,0,0,161,hammer,Primary,Secondary,none: the buyer paid the hammer
 Phillips,Phillips/1976-01-22_Phillips_20567_prices.csv,20567,,1976-01-22,1976-01-22,,United Kingdom,GBP,English,198,192,6,0,0,hammer,,Primary,none: the buyer paid the hammer
@@ -196,36 +196,36 @@ Phillips,Phillips/1977-04-21_Phillips_21188.csv,21188,Musical Instruments,1977-0
 Phillips,Phillips/1977-05-19_Phillips_21233.csv,21233,Musical Instruments,1977-05-19,1977-05-19,,United Kingdom,GBP,English,306,298,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1977-06-16_Phillips_21266.csv,21266,Musical Instruments,1977-06-16,1977-06-16,,United Kingdom,GBP,English,258,242,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1977-07-21_Phillips_21317.csv,21317,Musical Instruments,1977-07-21,1977-07-21,,United Kingdom,GBP,English,313,287,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
-Phillips,Phillips/1977-09-15_Phillips_catalogue.csv,,Musical Instruments,1977-09-15,1977-09-15,,United Kingdom,GBP,English,242,0,0,0,242,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1977-09-15_Phillips_catalogue.csv,,Musical Instruments,1977-09-15,1977-09-15,,United Kingdom,GBP,English,242,1,0,0,241,price with fees,Primary,Secondary,none: the buyer paid the hammer
 Phillips,Phillips/1977-12-15_Phillips_21532_prices.csv,21532,,1977-12-15,1977-12-15,,United Kingdom,GBP,English,275,275,0,0,0,hammer,,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1978-01-19_Phillips_catalogue.csv,,Musical Instruments,1978-01-19,1978-01-19,,United Kingdom,GBP,English,220,0,0,0,220,none,Primary,,none: the buyer paid the hammer
 Phillips,Phillips/1978-03-09_Phillips_21643_prices.csv,21643,,1978-03-09,1978-03-09,,United Kingdom,GBP,English,300,300,0,0,0,hammer,,Primary,none: the buyer paid the hammer
-Phillips,Phillips/1978-04-20_Phillips_catalogue.csv,,Musical Instruments,1978-04-20,1978-04-20,,United Kingdom,GBP,English,276,0,0,0,276,none,Primary,,none: the buyer paid the hammer
+Phillips,Phillips/1978-04-20_Phillips_catalogue.csv,,Musical Instruments,1978-04-20,1978-04-20,,United Kingdom,GBP,English,277,1,0,0,276,price with fees,"Primary, Secondary",Secondary,none: the buyer paid the hammer
 Phillips,Phillips/1978-05-18_Phillips_21737_prices.csv,21737,,1978-05-18,1978-05-18,,United Kingdom,GBP,English,220,220,0,0,0,hammer,,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1978-07-20_Phillips_21828.csv,21828,Musical Instruments,1978-07-20,1978-07-20,,United Kingdom,GBP,English,274,259,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1978-08-17_Phillips_21865.csv,21865,Musical Instruments,1978-08-17,1978-08-17,,United Kingdom,GBP,English,212,199,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1978-09-14_Phillips_21899.csv,21899,Musical Instruments,1978-09-14,1978-09-14,,United Kingdom,GBP,English,225,214,0,0,0,hammer,Primary,Primary,10 %
-Phillips,Phillips/1978-10-12_Phillips_catalogue.csv,,Musical Instruments,1978-10-12,1978-10-12,,United Kingdom,GBP,English,233,0,0,0,233,none,Primary,,10 %
+Phillips,Phillips/1978-10-12_Phillips_catalogue.csv,,Musical Instruments,1978-10-12,1978-10-12,,United Kingdom,GBP,English,234,2,0,0,232,price with fees,"Primary, Secondary",Secondary,10 %
 Phillips,Phillips/1978-11-16_Phillips_21997_prices.csv,21997,,1978-11-16,1978-11-16,,United Kingdom,GBP,English,278,277,0,1,0,hammer,,Primary,10 %
-Phillips,Phillips/1978-12-14_Phillips_catalogue.csv,,Musical Instruments,1978-12-14,1978-12-14,,United Kingdom,GBP,English,189,1,0,0,188,price with fees,Primary,Secondary,10 %
+Phillips,Phillips/1978-12-14_Phillips_catalogue.csv,,Musical Instruments,1978-12-14,1978-12-14,,United Kingdom,GBP,English,189,3,0,0,186,price with fees,Primary,Secondary,10 %
 Phillips,Phillips/1979-09-13_Phillips_22417_prices.csv,22417,,1979-09-13,1979-09-13,,United Kingdom,GBP,English,275,275,0,0,0,hammer,,Primary,10 %
 Phillips,Phillips/1979-10-11_Phillips_catalogue.csv,,Musical Instruments,1979-10-11,1979-10-11,,United Kingdom,GBP,English,271,0,0,0,271,none,Primary,,10 %
 Phillips,Phillips/1980-02-21_Phillips_22656_prices.csv,22656,,1980-02-21,1980-02-21,,United Kingdom,GBP,English,258,258,0,0,0,hammer,,Primary,10 %
-Phillips,Phillips/1980-03-27_Phillips_catalogue.csv,,Musical Instruments,1980-03-27,1980-03-27,,United Kingdom,GBP,English,236,0,0,0,236,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1980-03-27_Phillips_catalogue.csv,,Musical Instruments,1980-03-27,1980-03-27,,United Kingdom,GBP,English,236,5,0,0,231,price with fees,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
 Phillips,Phillips/1980-05-15_Phillips_22783.csv,22783,Musical Instruments,1980-05-15,1980-05-15,,United Kingdom,GBP,English,295,268,0,2,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1980-06-12_Phillips_22824.csv,22824,Musical Instruments,1980-06-12,1980-06-12,,United Kingdom,GBP,English,307,292,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1980-07-17_Phillips_22877.csv,22877,Musical Instruments,1980-07-17,1980-07-17,,United Kingdom,GBP,English,296,291,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1980-09-11_Phillips_22951.csv,22951,Musical Instruments,1980-09-11,1980-09-11,,United Kingdom,GBP,English,323,291,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
-Phillips,Phillips/1980-10-09_Phillips_22998.csv,22998,Musical Instruments,1980-10-09,1980-10-09,,United Kingdom,GBP,English,201,183,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1980-10-09_Phillips_22998.csv,22998,Musical Instruments,1980-10-09,1980-10-09,,United Kingdom,GBP,English,202,184,0,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
 Phillips,Phillips/1980-11-13_Phillips_23059.csv,23059,Musical Instruments,1980-11-13,1980-11-13,,United Kingdom,GBP,English,279,249,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1980-12-11_Phillips_23110.csv,23110,Musical Instruments,1980-12-11,1980-12-11,,United Kingdom,GBP,English,309,285,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
-Phillips,Phillips/1981-01-15_Phillips_catalogue.csv,,Musical Instruments,1981-01-15,1981-01-15,,United Kingdom,GBP,English,151,1,0,0,150,price with fees,Primary,Secondary,10 % + VAT on the premium
+Phillips,Phillips/1981-01-15_Phillips_catalogue.csv,,Musical Instruments,1981-01-15,1981-01-15,,United Kingdom,GBP,English,151,3,0,0,148,price with fees,Primary,Secondary,10 % + VAT on the premium
 Phillips,Phillips/1981-02-19_Phillips_catalogue.csv,,Musical Instruments,1981-02-19,1981-02-19,,United Kingdom,GBP,English,191,0,0,0,191,none,Primary,,10 % + VAT on the premium
 Phillips,Phillips/1981-03-26_Phillips_23259_prices.csv,23259,,1981-03-26,1981-03-26,,United Kingdom,GBP,English,210,210,0,0,0,hammer,,Primary,10 % + VAT on the premium
 Phillips,Phillips/1981-05-14_Phillips_23330_prices.csv,23330,,1981-05-14,1981-05-14,,United Kingdom,GBP,English,260,260,0,0,0,hammer,,Primary,10 % + VAT on the premium
 Phillips,Phillips/1981-06-18_Phillips_23384.csv,23384,Musical Instruments,1981-06-18,1981-06-18,,United Kingdom,GBP,English,224,195,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1981-08-06_Phillips_catalogue.csv,,Musical Instruments,1981-08-06,1981-08-06,,United Kingdom,GBP,English,183,0,0,0,183,none,Primary,,10 % + VAT on the premium
-Phillips,Phillips/1981-09-10_Phillips_23505.csv,23505,Musical Instruments,1981-09-10,1981-09-10,,United Kingdom,GBP,English,311,290,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Phillips,Phillips/1981-09-10_Phillips_23505.csv,23505,Musical Instruments,1981-09-10,1981-09-10,,United Kingdom,GBP,English,312,291,0,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
 Phillips,Phillips/1981-10-15_Phillips_23561.csv,23561,Musical Instruments,1981-10-15,1981-10-15,,United Kingdom,GBP,English,273,256,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1981-11-19_Phillips_23620.csv,23620,Musical Instruments,1981-11-19,1981-11-19,,United Kingdom,GBP,English,263,230,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1981-12-17_Phillips_catalogue.csv,,Musical Instruments,1981-12-17,1981-12-17,,United Kingdom,GBP,English,285,0,0,0,285,none,Primary,,10 % + VAT on the premium
@@ -238,7 +238,7 @@ Phillips,Phillips/1983-05-12_Phillips_catalogue.csv,,Musical Instruments,1983-05
 Phillips,Phillips/1983-08-04_Phillips_24556_prices.csv,24556,,1983-08-04,1983-08-04,,United Kingdom,GBP,English,242,242,0,0,0,hammer,,Primary,10 % + VAT on the premium
 Phillips,Phillips/1983-09-15_Phillips_24654.csv,24654,Musical Instruments,1983-09-15,1983-09-15,,United Kingdom,GBP,English,316,275,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1983-10-13_Phillips_24654.csv,24654,Musical Instruments,1983-10-13,1983-10-13,,United Kingdom,GBP,English,305,297,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
-Phillips,Phillips/1983-11-17_Phillips_catalogue.csv,,Musical Instruments,1983-11-17,1983-11-17,,United Kingdom,GBP,English,210,0,0,0,210,none,Primary,,10 % + VAT on the premium
+Phillips,Phillips/1983-11-17_Phillips_catalogue.csv,,Musical Instruments,1983-11-17,1983-11-17,,United Kingdom,GBP,English,210,1,0,0,209,price with fees,Primary,Secondary,10 % + VAT on the premium
 Phillips,Phillips/1983-12-15_Phillips_24763.csv,24763,Musical Instruments,1983-12-15,1983-12-15,,United Kingdom,GBP,English,202,181,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1984-01-19_Phillips_24796.csv,24796,Musical Instruments,1984-01-19,1984-01-19,,United Kingdom,GBP,English,209,201,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1984-03-01_Phillips_catalogue.csv,,Musical Instruments,1984-03-01,1984-03-01,,United Kingdom,GBP,English,180,32,0,0,148,price with fees,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
@@ -303,16 +303,16 @@ Phillips,Phillips/1990-07-26_Phillips_28294.csv,28294,Musical Instruments,1990-0
 Phillips,Phillips/1990-09-13_Phillips_28336.csv,28336,Musical Instruments,1990-09-13,1990-09-13,,United Kingdom,GBP,English,331,272,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Phillips,Phillips/1990-10-18_Phillips_catalogue.csv,,Musical Instruments,1990-10-18,1990-10-18,,United Kingdom,GBP,English,255,41,0,0,214,price with fees,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
 Phillips,Phillips/1995-05-11_Phillips_29830_prices.csv,29830,,1995-05-11,1995-05-11,,United Kingdom,GBP,English,220,220,0,0,0,hammer,,Primary,"15 % up to GBP 30 000, 10 % above, + VAT on the premium"
-Phillips,Phillips/1995-06-19_Phillips_catalogue.csv,,Musical Instruments,1995-06-19,1995-06-19,,United Kingdom,GBP,English,237,37,0,0,200,price with fees,Primary,"Cross-checked, Secondary","15 % up to GBP 30 000, 10 % above, + VAT on the premium"
+Phillips,Phillips/1995-06-19_Phillips_catalogue.csv,,Musical Instruments,1995-06-19,1995-06-19,,United Kingdom,"GBP, USD",English,242,57,0,0,185,hammer and price with fees,"Primary, Secondary","Cross-checked, Secondary","15 % up to GBP 30 000, 10 % above, + VAT on the premium"
 Phillips,Phillips/1998-05-12_Phillips_30547.csv,30547,Musical Instruments,1998-05-12,1998-05-12,,United Kingdom,GBP,English,197,197,0,0,0,hammer,,Primary,15 % + VAT on the premium
-Phillips,Phillips/1998-06-30_Phillips_catalogue.csv,,Musical Instruments,1998-06-30,1998-06-30,,United Kingdom,GBP,English,18,5,0,0,13,hammer and price with fees,Primary,Secondary,15 % + VAT on the premium
+Phillips,Phillips/1998-06-30_Phillips_catalogue.csv,,Musical Instruments,1998-06-30,1998-06-30,,United Kingdom,GBP,English,56,43,0,0,13,hammer and price with fees,"Primary, Secondary","Cross-checked, Secondary",15 % + VAT on the premium
 Skinner,Skinner/2005-05-08_Skinner_2274.csv,2274,Fine Musical Instruments,2005-05-08,2005-05-08,,United States,USD,English,433,395,38,0,0,hammer and price with fees,Primary,Primary,17.5 %
 Skinner,Skinner/2005-10-16_Skinner_2287.csv,2287,Fine Musical Instruments,2005-10-16,2005-10-16,,United States,USD,English,331,301,30,0,0,hammer and price with fees,Primary,Primary,17.5 %
 Skinner,Skinner/2006-10-15_Skinner_2333.csv,2333,Fine Musical Instruments,2006-10-15,2006-10-15,,United States,USD,English,330,305,25,0,0,hammer and price with fees,Primary,Primary,17.5 %
 Skinner,Skinner/2007-10-14_Skinner_2380.csv,2380,Fine Musical Instruments,2007-10-14,2007-10-14,,United States,USD,English,325,279,46,0,0,hammer and price with fees,Primary,Primary,17.5 %
 Skinner,Skinner/2008-05-04_Skinner_2407.csv,2407,Fine Musical Instruments,2008-05-04,2008-05-04,,United States,USD,English,407,356,51,0,0,hammer and price with fees,Primary,Primary,18.5 %
-Skinner,Skinner/2008-10-12_Skinner_2428.csv,2428,Fine Musical Instruments,2008-10-12,2008-10-12,,United States,USD,English,380,286,94,0,0,hammer and price with fees,Primary,Primary,18.5 %
-Skinner,Skinner/2009-05-03_Skinner_2455.csv,2455,Fine Musical Instruments,2009-05-03,2009-05-03,,United States,USD,English,437,332,105,0,0,hammer and price with fees,Primary,Primary,18.5 %
+Skinner,Skinner/2008-10-12_Skinner_2428.csv,2428,Fine Musical Instruments,2008-10-12,2008-10-12,,United States,USD,English,383,289,94,0,0,hammer and price with fees,"Primary, Secondary","Cross-checked, Primary",18.5 %
+Skinner,Skinner/2009-05-03_Skinner_2455.csv,2455,Fine Musical Instruments,2009-05-03,2009-05-03,,United States,USD,English,438,333,105,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",18.5 %
 Skinner,Skinner/2009-10-11_Skinner_2477.csv,2477,Fine Musical Instruments,2009-10-11,2009-10-11,,United States,USD,English,285,242,43,0,0,hammer and price with fees,Primary,Primary,18.5 %
 Skinner,Skinner/2010-04-25_Skinner_2501.csv,2501,Fine Musical Instruments,2010-04-25,2010-04-25,,United States,USD,English,352,301,51,0,0,hammer and price with fees,Primary,Primary,18.5 %
 Skinner,Skinner/2010-10-10_Skinner_2520B.csv,2520B,Fine Musical Instruments,2010-10-10,2010-10-10,,United States,USD,English,673,632,41,0,0,hammer and price with fees,Primary,Primary,18.5 %
@@ -327,7 +327,7 @@ Skinner,Skinner/2014-04-13_Skinner_2717B.csv,2717B,Fine Musical Instruments,2014
 Skinner,Skinner/2014-11-09_Skinner_2767B.csv,2767B,Fine Musical Instruments,2014-11-09,2014-11-09,,United States,USD,English,302,271,31,0,0,hammer and price with fees,Primary,Primary,23 %
 Skinner,Skinner/2015-04-26_Skinner_2806B.csv,2806B,Fine Musical Instruments,2015-04-26,2015-04-26,,United States,USD,English,400,325,75,0,0,hammer and price with fees,Primary,Primary,23 %
 Skinner,Skinner/2016-05-22_Skinner_2892B.csv,2892B,Fine Musical Instruments,2016-05-22,2016-05-22,,United States,USD,English,254,240,14,0,0,hammer and price with fees,Primary,Primary,23 %
-Skinner,Skinner/2017-05-14_Skinner_3007B.csv,3007B,Fine Musical Instruments,2017-05-14,2017-05-14,,United States,USD,English,327,301,26,0,0,hammer and price with fees,Primary,Primary,23 %
+Skinner,Skinner/2017-05-14_Skinner_3007B.csv,3007B,Fine Musical Instruments,2017-05-14,2017-05-14,,United States,USD,English,328,302,26,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",23 %
 Skinner,Skinner/2017-11-19_Skinner_3051B.csv,3051B,Fine Musical Instruments,2017-11-19,2017-11-19,,United States,USD,English,427,393,34,0,0,hammer and price with fees,Primary,Primary,23 %
 Skinner,Skinner/2018-05-21_Skinner_3109T.csv,3109T,Fine Musical Instruments online,2018-05-21,2018-05-21,,United States,USD,English,242,225,17,0,0,hammer and price with fees,Primary,Primary,23 %
 Skinner,Skinner/2018-11-11_Skinner_3170B.csv,3170B,Fine Musical Instruments,2018-11-11,2018-11-11,,United States,USD,English,364,318,46,0,0,hammer and price with fees,Primary,Primary,23 %
@@ -343,23 +343,23 @@ Sothebys,Sothebys/1975-02-13_Sothebys_FANTASIA.csv,FANTASIA,Musical Instruments,
 Sothebys,Sothebys/1975-10-23_Sothebys_GYMEL.csv,GYMEL,Musical Instruments,1975-10-23,1975-10-23,,United Kingdom,GBP,English,206,180,0,0,0,hammer,Primary,Primary,10 %
 Sothebys,Sothebys/1975-11-27_Sothebys_VOLTA.csv,VOLTA,Musical Instruments,1975-11-27,1975-11-27,,United Kingdom,GBP,English,158,140,0,0,0,hammer,Primary,Primary,10 %
 Sothebys,Sothebys/1976-02-12_Sothebys_BRANLE_prices.csv,BRANLE,,1976-02-12,1976-02-12,,United Kingdom,GBP,English,204,204,0,0,0,hammer,,Primary,10 %
-Sothebys,Sothebys/1976-05-06_Sothebys_SALTERELLO.csv,SALTERELLO,Musical Instruments,1976-05-06,1976-05-06,,United Kingdom,GBP,English,194,172,0,0,0,hammer,Primary,Primary,10 %
-Sothebys,Sothebys/1976-10-07_Sothebys_catalogue.csv,,Musical Instruments,1976-10-07,1976-10-07,,United Kingdom,GBP,English,6,3,0,0,3,hammer,Primary,Secondary,10 %
-Sothebys,Sothebys/1976-11-25_Sothebys_catalogue.csv,,Musical Instruments,1976-11-25,1976-11-25,,United Kingdom,GBP,English,162,109,1,0,52,hammer,Primary,"Cross-checked, Secondary",10 %
-Sothebys,Sothebys/1977-05-12_Sothebys_DUET.csv,DUET,Musical Instruments,1977-05-12,1977-05-12,,United Kingdom,GBP,English,196,179,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1976-05-06_Sothebys_SALTERELLO.csv,SALTERELLO,Musical Instruments,1976-05-06,1976-05-06,,United Kingdom,GBP,English,196,174,0,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 %
+Sothebys,Sothebys/1976-10-07_Sothebys_catalogue.csv,,Musical Instruments,1976-10-07,1976-10-07,,United Kingdom,GBP,English,9,6,0,0,3,hammer and price with fees,"Primary, Secondary",Secondary,10 %
+Sothebys,Sothebys/1976-11-25_Sothebys_catalogue.csv,,Musical Instruments,1976-11-25,1976-11-25,,United Kingdom,GBP,English,163,110,1,0,52,hammer and price with fees,"Primary, Secondary","Cross-checked, Secondary",10 %
+Sothebys,Sothebys/1977-05-12_Sothebys_DUET.csv,DUET,Musical Instruments,1977-05-12,1977-05-12,,United Kingdom,GBP,English,197,180,0,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 %
 Sothebys,Sothebys/1977-06-16_Sothebys_catalogue.csv,,Musical Instruments,1977-06-16,1977-06-16,,United Kingdom,GBP,English,139,21,0,0,118,hammer,Primary,"Cross-checked, Secondary",10 %
-Sothebys,Sothebys/1977-11-17_Sothebys_PHILIDOR.csv,PHILIDOR,Musical Instruments,1977-11-17,1977-11-17,,United Kingdom,GBP,English,275,239,0,0,0,hammer,Primary,Primary,10 %
+Sothebys,Sothebys/1977-11-17_Sothebys_PHILIDOR.csv,PHILIDOR,Musical Instruments,1977-11-17,1977-11-17,,United Kingdom,GBP,English,276,240,0,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 %
 Sothebys,Sothebys/1978-02-16_Sothebys_SALTARELLO.csv,SALTARELLO,Musical Instruments,1978-02-16,1978-02-16,,United Kingdom,GBP,English,275,242,0,1,0,hammer,Primary,Primary,10 %
 Sothebys,Sothebys/1978-03-14_Sothebys_catalogue.csv,,Musical Instruments,1978-03-14,1978-03-14,,United Kingdom,GBP,English,423,413,0,0,0,hammer,Primary,Primary,10 %
-Sothebys,Sothebys/1978-05-16_Sothebys_catalogue.csv,,Musical Instruments,1978-05-16,1978-05-16,,United Kingdom,GBP,English,249,185,4,0,60,hammer,Primary,"Cross-checked, Secondary",10 %
+Sothebys,Sothebys/1978-05-16_Sothebys_catalogue.csv,,Musical Instruments,1978-05-16,1978-05-16,,United Kingdom,GBP,English,249,188,4,0,57,hammer and price with fees,Primary,"Cross-checked, Secondary",10 %
 Sothebys,Sothebys/1978-11-09_Sothebys_EBERSHOLT.csv,EBERSHOLT,Musical Instruments,1978-11-09,1978-11-09,,United Kingdom,GBP,English,292,156,0,0,0,hammer,Primary,Primary,10 %
 Sothebys,Sothebys/1979-03-06_Sothebys_SALTARELLO.csv,SALTARELLO,Musical Instruments,1979-03-06,1979-03-06,,United Kingdom,GBP,English,191,178,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1979-05-03_Sothebys_HOWARD.csv,HOWARD,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,71,67,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
-Sothebys,Sothebys/1979-05-03_Sothebys_KREISLER.csv,KREISLER,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,294,167,0,0,51,hammer,Primary,Primary,10 % + VAT on the premium
-Sothebys,Sothebys/1979-06-19_Sothebys_catalogue.csv,,Musical Instruments,1979-06-19,1979-06-19,,United Kingdom,GBP,English,208,0,0,0,208,none,Primary,,10 % + VAT on the premium
-Sothebys,Sothebys/1979-07-19_Sothebys_SOLO.csv,SOLO,Musical Instruments,1979-07-19,1979-07-19,,United Kingdom,GBP,English,221,188,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-05-03_Sothebys_KREISLER.csv,KREISLER,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,298,171,0,0,51,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
+Sothebys,Sothebys/1979-06-19_Sothebys_catalogue.csv,,Musical Instruments,1979-06-19,1979-06-19,,United Kingdom,GBP,English,211,6,0,0,205,price with fees,"Primary, Secondary",Secondary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-07-19_Sothebys_SOLO.csv,SOLO,Musical Instruments,1979-07-19,1979-07-19,,United Kingdom,GBP,English,222,189,0,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
 Sothebys,Sothebys/1979-10-08_Sothebys_MACGILLIVRAY_prices.csv,MACGILLIVRAY,,1979-10-08,1979-10-08,,United Kingdom,GBP,English,62,62,0,0,0,hammer,,Primary,10 % + VAT on the premium
-Sothebys,Sothebys/1979-10-18_Sothebys_catalogue.csv,,Musical Instruments,1979-10-18,1979-10-18,,United Kingdom,GBP,English,138,0,0,0,138,none,Primary,,10 % + VAT on the premium
+Sothebys,Sothebys/1979-10-18_Sothebys_catalogue.csv,,Musical Instruments,1979-10-18,1979-10-18,,United Kingdom,GBP,English,139,2,0,0,137,price with fees,"Primary, Secondary",Secondary,10 % + VAT on the premium
 Sothebys,Sothebys/1979-11-08_Sothebys_ROTHSCHILD.csv,ROTHSCHILD,Musical Instruments,1979-11-08,1979-11-08,,United Kingdom,GBP,English,273,236,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1980-03-20_Sothebys_BROADWOOD.csv,BROADWOOD,Musical Instruments,1980-03-20,1980-03-20,,United Kingdom,GBP,English,184,151,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1981-02-20_Sothebys_ARCO_prices.csv,ARCO,,1981-02-20,1981-02-20,,United Kingdom,GBP,English,236,236,0,0,0,hammer,,Primary,10 % + VAT on the premium
@@ -367,7 +367,7 @@ Sothebys,Sothebys/1982-04-07_Sothebys_catalogue.csv,,Musical Instruments,1982-04
 Sothebys,Sothebys/1983-04-07_Sothebys_BARBIROLLI.csv,BARBIROLLI,Musical Instruments,1983-04-07,1983-04-07,,United Kingdom,GBP,English,551,536,0,0,0,hammer and price with fees,Primary,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1984-04-05_Sothebys_ALETTA_prices.csv,ALETTA,,1984-04-05,1984-04-05,,United Kingdom,GBP,English,458,458,0,0,0,price with fees,,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1984-06-21_Sothebys_CAROLINE.csv,CAROLINE,Musical Instruments,1984-06-21,1984-06-21,,United Kingdom,GBP,English,315,295,0,0,0,hammer and price with fees,Primary,Primary,10 % + VAT on the premium
-Sothebys,Sothebys/1984-11-22_Sothebys_CATHEDRALE.csv,CATHEDRALE,Highly Important Musical Instruments,1984-11-22,1984-11-22,,United Kingdom,GBP,English,430,368,0,0,62,hammer,Primary,"Cross-checked, Secondary",10 % + VAT on the premium
+Sothebys,Sothebys/1984-11-22_Sothebys_CATHEDRALE.csv,CATHEDRALE,Highly Important Musical Instruments,1984-11-22,1984-11-22,,United Kingdom,GBP,English,431,369,0,0,62,hammer and price with fees,"Primary, Secondary","Cross-checked, Secondary",10 % + VAT on the premium
 Sothebys,Sothebys/1984-11-22_Sothebys_CATHEDRALE_prices.csv,CATHEDRALE,,1984-11-22,1984-11-22,,United Kingdom,GBP,English,539,539,0,0,0,price with fees,,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1985-09-19_Sothebys_ANDANTE_prices.csv,ANDANTE,,1985-09-19,1985-09-19,,United Kingdom,GBP,English,158,158,0,0,0,price with fees,,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1987-11-13_Sothebys_FIEDE_prices.csv,FIEDE,,1987-11-13,1987-11-13,,United Kingdom,GBP,English,344,344,0,0,0,price with fees,,Primary,10 % + VAT on the premium
@@ -419,7 +419,7 @@ T2-Auctions,T2-Auctions/2022-10-21_T2-Auctions.csv,,,2022-10-21,2022-10-21,,,USD
 T2-Auctions,T2-Auctions/2022-12-16_T2-Auctions.csv,,,2022-12-16,2022-12-16,,,USD,English,5,5,0,0,0,price with fees,Primary,Primary,
 T2-Auctions,T2-Auctions/2023-02-10_T2-Auctions.csv,,,2023-02-10,2023-02-10,,,USD,English,2,2,0,0,0,price with fees,Primary,Primary,
 T2-Auctions,T2-Auctions/2023-04-21_T2-Auctions.csv,,,2023-04-21,2023-04-21,,,USD,English,6,6,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/1999-11-12_Tarisio.csv,,,1999-11-12,1999-11-12,,,USD,English,83,83,0,0,0,price with fees,Primary,Primary,
+Tarisio,Tarisio/1999-11-12_Tarisio.csv,,,1999-11-12,1999-11-12,,,USD,English,88,88,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary",
 Tarisio,Tarisio/2000-05-19_Tarisio.csv,,,2000-05-19,2000-05-19,,,USD,English,101,101,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2000-11-10_Tarisio.csv,,,2000-11-10,2000-11-10,,,USD,English,96,96,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2001-05-11_Tarisio.csv,,,2001-05-11,2001-05-11,,,USD,English,106,106,0,0,0,price with fees,Primary,Primary,
@@ -432,10 +432,10 @@ Tarisio,Tarisio/2004-02-26_Tarisio.csv,,,2004-02-26,2004-02-26,,,USD,English,43,
 Tarisio,Tarisio/2004-05-06_Tarisio.csv,,,2004-05-06,2004-05-06,,,USD,English,176,176,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2004-07-29_Tarisio.csv,,,2004-07-29,2004-07-29,,,USD,English,11,11,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2004-10-22_Tarisio.csv,,,2004-10-22,2004-10-22,,,USD,English,169,169,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2005-02-16_Tarisio.csv,,,2005-02-16,2005-02-16,,,USD,English,45,45,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2005-05-12_Tarisio.csv,,,2005-05-12,2005-05-12,,,USD,English,145,145,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2005-07-21_Tarisio.csv,,,2005-07-21,2005-07-21,,,USD,English,44,44,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2005-11-04_Tarisio.csv,,,2005-11-04,2005-11-04,,,USD,English,199,199,0,0,0,price with fees,Primary,Primary,
+Tarisio,Tarisio/2005-02-16_Tarisio.csv,,,2005-02-16,2005-02-16,,,"GBP, USD",English,51,51,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary",
+Tarisio,Tarisio/2005-05-12_Tarisio.csv,,,2005-05-12,2005-05-12,,,"GBP, USD",English,156,156,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary",
+Tarisio,Tarisio/2005-07-21_Tarisio.csv,,,2005-07-21,2005-07-21,,,USD,English,47,47,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary",
+Tarisio,Tarisio/2005-11-04_Tarisio.csv,,,2005-11-04,2005-11-04,,,USD,English,204,204,0,0,0,price with fees,"Primary, Secondary","Primary, Secondary",
 Tarisio,Tarisio/2006-02-16_Tarisio.csv,,,2006-02-16,2006-02-16,,,USD,English,38,38,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2006-05-19_Tarisio.csv,,,2006-05-19,2006-05-19,,,USD,English,178,178,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2006-07-15_Tarisio.csv,,,2006-07-15,2006-07-15,,,USD,English,61,61,0,0,0,price with fees,Primary,Primary,
@@ -557,10 +557,10 @@ Tarisio,Tarisio/2023-03-07_Tarisio.csv,,,2023-03-07,2023-03-07,,,"EUR, USD",Engl
 Tarisio,Tarisio/2023-03-17_Tarisio.csv,,,2023-03-17,2023-03-17,,,USD,English,93,93,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2023-03-29_Tarisio.csv,,,2023-03-29,2023-03-29,,,GBP,English,26,26,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2023-06-09_Tarisio.csv,,,2023-06-09,2023-06-09,,,USD,English,51,51,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2023-06-13_Tarisio.csv,,,2023-06-13,2023-06-13,,,USD,English,50,50,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2023-10-24_Tarisio.csv,,,2023-10-24,2023-10-24,,,USD,English,62,62,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2023-10-31_Tarisio.csv,,,2023-10-31,2023-10-31,,,USD,English,28,28,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2023-11-17_Tarisio.csv,,,2023-11-17,2023-11-17,,,USD,English,98,98,0,0,0,price with fees,Primary,Primary,
+Tarisio,Tarisio/2023-06-13_Tarisio.csv,,,2023-06-13,2023-06-13,,,USD,English,66,66,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
+Tarisio,Tarisio/2023-10-24_Tarisio.csv,,,2023-10-24,2023-10-24,,,USD,English,83,83,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
+Tarisio,Tarisio/2023-10-31_Tarisio.csv,,,2023-10-31,2023-10-31,,,USD,English,41,41,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
+Tarisio,Tarisio/2023-11-17_Tarisio.csv,,,2023-11-17,2023-11-17,,,USD,English,131,131,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
 Tarisio,Tarisio/2024-02-27_Tarisio.csv,,,2024-02-27,2024-02-27,,,USD,English,66,66,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2024-03-15_Tarisio.csv,,,2024-03-15,2024-03-15,,,USD,English,91,91,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2024-03-26_Tarisio.csv,,,2024-03-26,2024-03-26,,,USD,English,38,38,0,0,0,price with fees,Primary,Primary,
@@ -571,39 +571,39 @@ Tarisio,Tarisio/2024-10-29_Tarisio.csv,,,2024-10-29,2024-10-29,,,USD,English,32,
 Tarisio,Tarisio/2024-11-15_Tarisio.csv,,,2024-11-15,2024-11-15,,,USD,English,51,51,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2025-03-14_Tarisio.csv,,,2025-03-14,2025-03-14,,,USD,English,90,90,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2025-03-25_Tarisio.csv,,,2025-03-25,2025-03-25,,,USD,English,51,51,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2025-05-16_Tarisio.csv,,,2025-05-16,2025-05-16,,,USD,English,76,76,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2025-05-30_Tarisio.csv,,,2025-05-30,2025-05-30,,,USD,English,84,84,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2025-09-26_Tarisio.csv,,,2025-09-26,2025-09-26,,,USD,English,41,41,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2025-10-28_Tarisio.csv,,,2025-10-28,2025-10-28,,,USD,English,45,45,0,0,0,price with fees,Primary,Primary,
+Tarisio,Tarisio/2025-05-16_Tarisio.csv,,,2025-05-16,2025-05-16,,,USD,English,103,103,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
+Tarisio,Tarisio/2025-05-30_Tarisio.csv,,,2025-05-30,2025-05-30,,,USD,English,119,119,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
+Tarisio,Tarisio/2025-09-26_Tarisio.csv,,,2025-09-26,2025-09-26,,,USD,English,60,60,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
+Tarisio,Tarisio/2025-10-28_Tarisio.csv,,,2025-10-28,2025-10-28,,,USD,English,67,67,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
 Tarisio,Tarisio/2025-11-07_Tarisio.csv,,,2025-11-07,2025-11-07,,,USD,English,85,85,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2026-03-06_Tarisio.csv,,,2026-03-06,2026-03-06,,,USD,English,96,96,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2026-03-31_Tarisio.csv,,,2026-03-31,2026-03-31,,,USD,English,68,68,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2026-10-02_Tarisio.csv,,,2026-10-02,2026-10-02,,,EUR,English,104,104,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2026-10-27_Tarisio.csv,,,2026-10-27,2026-10-27,,,GBP,English,98,98,0,0,0,price with fees,Primary,Primary,
+Tarisio,Tarisio/2026-03-31_Tarisio.csv,,,2026-03-31,2026-03-31,,,USD,English,70,70,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
+Tarisio,Tarisio/2026-10-02_Tarisio.csv,,,2026-10-02,2026-10-02,,,EUR,English,104,104,0,0,0,hammer and price with fees,Primary,Primary,
+Tarisio,Tarisio/2026-10-27_Tarisio.csv,,,2026-10-27,2026-10-27,,,GBP,English,98,98,0,0,0,hammer and price with fees,Primary,Primary,
 Vichy-Encheres,Vichy-Encheres/1994-05-15_Vichy-Encheres.csv,,,1994-05-15,1994-05-15,,France,EUR,French,131,0,0,0,131,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2003-12-03_Vichy-Encheres.csv,,,2003-12-03,2003-12-03,,France,EUR,French,506,0,0,0,506,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2003-12-04_Vichy-Encheres.csv,,,2003-12-04,2003-12-04,,France,EUR,French,457,0,0,0,457,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2004-12-02_Vichy-Encheres.csv,,,2004-12-02,2004-12-02,,France,EUR,French,280,280,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2005-06-08_Vichy-Encheres.csv,,,2005-06-08,2005-06-08,,France,EUR,French,573,132,0,0,441,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2005-06-09_Vichy-Encheres.csv,,,2005-06-09,2005-06-09,,France,EUR,French,498,316,0,0,182,hammer,Primary,Primary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2005-11-30_Vichy-Encheres.csv,,,2005-11-30,2005-11-30,,France,EUR,French,557,145,0,0,412,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2005-12-01_Vichy-Encheres.csv,,,2005-12-01,2005-12-01,,France,EUR,French,485,337,0,0,148,hammer and price with fees,Primary,"Primary, Secondary",23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2005-06-09_Vichy-Encheres.csv,,,2005-06-09,2005-06-09,,France,"EUR, USD",French,499,317,0,0,182,hammer and price with fees,"Primary, Secondary","Primary, Secondary",23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2005-11-30_Vichy-Encheres.csv,,,2005-11-30,2005-11-30,,France,EUR,French,558,146,0,0,412,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2005-12-01_Vichy-Encheres.csv,,,2005-12-01,2005-12-01,,France,EUR,French,486,338,0,0,148,hammer and price with fees,"Primary, Secondary","Primary, Secondary",23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2006-05-30_Vichy-Encheres.csv,,,2006-05-30,2006-06-01,,France,EUR,French,907,864,1,0,42,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2006-05-31_Vichy-Encheres.csv,,,2006-05-31,2006-05-31,,France,EUR,French,581,0,0,0,581,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2006-06-01_Vichy-Encheres.csv,,,2006-06-01,2006-06-01,,France,EUR,French,500,0,0,0,500,none,Primary,,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2006-06-01_Vichy-Encheres.csv,,,2006-06-01,2006-06-01,,France,"EUR, USD",French,502,2,0,0,500,price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2007-06-05_Vichy-Encheres.csv,,,2007-06-05,2007-06-05,,France,EUR,French,203,0,0,0,203,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2007-06-06_Vichy-Encheres.csv,,,2007-06-06,2007-06-07,,France,EUR,French,1063,695,366,0,2,hammer,Primary,Primary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2007-06-07_Vichy-Encheres.csv,,,2007-06-07,2007-06-07,,France,EUR,French,504,0,0,0,504,none,Primary,,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2007-06-07_Vichy-Encheres.csv,,,2007-06-07,2007-06-07,,France,"EUR, USD",French,505,1,0,0,504,price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2007-12-05_Vichy-Encheres.csv,,,2007-12-05,2007-12-06,,France,EUR,French,736,736,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2008-03-27_Vichy-Encheres.csv,,,2008-03-27,2008-03-27,,France,EUR,French,209,0,0,0,209,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2009-06-04_Vichy-Encheres.csv,,,2009-06-04,2009-06-04,,France,EUR,French,301,4,0,0,297,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2009-12-03_Vichy-Encheres.csv,,,2009-12-03,2009-12-03,,France,EUR,French,272,5,0,0,267,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2009-06-04_Vichy-Encheres.csv,,,2009-06-04,2009-06-04,,France,EUR,French,304,9,0,0,295,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2009-12-03_Vichy-Encheres.csv,,,2009-12-03,2009-12-03,,France,EUR,French,274,9,0,0,265,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-06-01_Vichy-Encheres.csv,,,2010-06-01,2010-06-01,,France,EUR,French,226,0,0,0,226,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-06-02_Vichy-Encheres.csv,,,2010-06-02,2010-06-02,,France,EUR,French,533,0,0,0,533,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2010-06-03_Vichy-Encheres.csv,,,2010-06-03,2010-06-03,,France,EUR,French,354,0,0,0,354,none,Primary,,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2010-06-03_Vichy-Encheres.csv,,,2010-06-03,2010-06-03,,France,EUR,French,354,8,0,0,346,price with fees,Primary,"Cross-checked, Secondary",23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-11-30_Vichy-Encheres.csv,,,2010-11-30,2010-12-01,,France,EUR,French,634,631,3,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-12-01_Vichy-Encheres.csv,,,2010-12-01,2010-12-01,,France,EUR,French,557,0,0,0,557,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2010-12-02_Vichy-Encheres.csv,,,2010-12-02,2010-12-02,,France,EUR,French,477,0,0,0,477,none,Primary,,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2010-12-02_Vichy-Encheres.csv,,,2010-12-02,2010-12-02,,France,EUR,French,478,5,0,0,473,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2011-06-07_Vichy-Encheres.csv,,,2011-06-08,2011-06-09,,France,EUR,French,663,661,2,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2011-06-08_Vichy-Encheres.csv,,,2011-06-08,2011-06-08,,France,EUR,French,513,0,0,0,513,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2011-06-09_Vichy-Encheres.csv,,,2011-06-09,2011-06-09,,France,EUR,French,497,0,0,0,497,none,Primary,,23.92 % incl. VAT

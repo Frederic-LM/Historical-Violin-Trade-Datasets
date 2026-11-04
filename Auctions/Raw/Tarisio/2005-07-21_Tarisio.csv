@@ -1,4 +1,9 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2005-07-21,13,"Grimm, Karl",,,,sold,,190,USD,Primary,Primary,Violin Bow
+,,2005-07-21,95,"Hill & Sons, W. E. Firm",,,,sold,,1725,USD,Primary,Primary,Violin Bow
+,,2005-07-21,96,"Alvey, Brian",,,,sold,,1093,USD,Primary,Primary,Violin Bow
+,,2005-07-21,97,"Hill & Sons, W. E. Firm",,,,sold,,1265,USD,Primary,Primary,Violin Bow
+,,2005-07-21,99,"Hill & Sons, W. E. Firm",,,,sold,,1840,USD,Primary,Primary,Violin Bow
 ,,2005-07-21,101,"Alvey, Brian",,,,sold,,1840,USD,Primary,Primary,Violin Bow
 ,,2005-07-21,102,"Hill & Sons, W. E. Firm",,,,sold,,2645,USD,Primary,Primary,Violin Bow
 ,,2005-07-21,103,"Taylor, Malcolm",,,,sold,,2415,USD,Primary,Primary,Violin Bow
@@ -11,11 +16,12 @@
 ,,2005-07-21,116,"Lamy, Alfred dit neveu",,,,sold,,3450,USD,Primary,Primary,Violin Bow
 ,,2005-07-21,117,"Tubbs, James",,,,sold,,5750,USD,Primary,Primary,Violin Bow
 ,,2005-07-21,118,"Tubbs, James",,,,sold,,5750,USD,Primary,Primary,Violin Bow
+,,2005-07-21,122,,HORNSTEINER JACOBUS,,,sold,,546,USD,Secondary,Secondary,Viola
 ,,2005-07-21,126,"Peternella, Jago",,,,sold,,5175,USD,Primary,Primary,Viola
-,,2005-07-21,13,"Grimm, Karl",,,,sold,,190,USD,Primary,Primary,Violin Bow
 ,,2005-07-21,136,"Wunderlich, Otto Felix",,,,sold,,460,USD,Primary,Primary,Viola Bow
 ,,2005-07-21,149,"Teller, Roman",,,,sold,,2070,USD,Primary,Primary,Cello
 ,,2005-07-21,152,"Borredon, Francis",,,,sold,,4025,USD,Primary,Primary,Cello
+,,2005-07-21,174,,DI LUCCIA VINCENZO,,,sold,,690,USD,Secondary,Secondary,Cello Bow
 ,,2005-07-21,176,"Voirin, François Nicolas",,,,sold,,863,USD,Primary,Primary,Cello Bow
 ,,2005-07-21,177,"Lee, John Norwood",,,,sold,,863,USD,Primary,Primary,Cello Bow
 ,,2005-07-21,183,"Sartory, Eugène Nicolas",,,,sold,,4313,USD,Primary,Primary,Cello Bow
@@ -23,6 +29,7 @@
 ,,2005-07-21,203,"Couturieux, Michel",,,,sold,,207,USD,Primary,Primary,Violin
 ,,2005-07-21,221,"Roth, Ernst Heinrich",,,,sold,,4025,USD,Primary,Primary,Violin
 ,,2005-07-21,222,"Roth, Ernst Heinrich",,,,sold,,8050,USD,Primary,Primary,Violin
+,,2005-07-21,234,,SCHUSTER HANS,,,sold,,546,USD,Secondary,Secondary,Violin
 ,,2005-07-21,299,"Ricard, Alexander",,,,sold,,1150,USD,Primary,Primary,Violin
 ,,2005-07-21,312,"Prihonsky, Bretislav",,,,sold,,920,USD,Primary,Primary,Violin
 ,,2005-07-21,320,"Mueller, Fritz",,,,sold,,3450,USD,Primary,Primary,Violin
@@ -39,7 +46,3 @@
 ,,2005-07-21,385,"Johnson, John",,,,sold,,2645,USD,Primary,Primary,Violin
 ,,2005-07-21,391,"Roth, Ernst Heinrich",,,,sold,,6900,USD,Primary,Primary,Violin
 ,,2005-07-21,397,"Barbuto, Anthony",,,,sold,,575,USD,Primary,Primary,Violin
-,,2005-07-21,95,"Hill & Sons, W. E. Firm",,,,sold,,1725,USD,Primary,Primary,Violin Bow
-,,2005-07-21,96,"Alvey, Brian",,,,sold,,1093,USD,Primary,Primary,Violin Bow
-,,2005-07-21,97,"Hill & Sons, W. E. Firm",,,,sold,,1265,USD,Primary,Primary,Violin Bow
-,,2005-07-21,99,"Hill & Sons, W. E. Firm",,,,sold,,1840,USD,Primary,Primary,Violin Bow

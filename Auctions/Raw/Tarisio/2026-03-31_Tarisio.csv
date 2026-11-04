@@ -1,4 +1,10 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,,2026-03-31,3,"Neudorfer, Rudolf",,,,sold,,1907,USD,Primary,Primary,Cello Bow
+,,2026-03-31,4,"Neudorfer, Rudolf",,,,sold,,1907,USD,Primary,Primary,Cello Bow
+,,2026-03-31,6,"Schmidt, C. Hans-Karl",,,,sold,,7548,USD,Primary,Primary,Cello Bow
+,,2026-03-31,7,"Morizot, Louis frères",,,,sold,,6356,USD,Primary,Primary,Cello Bow
+,,2026-03-31,8,"Hill & Sons, W. E. Firm",,,,sold,,4767,USD,Primary,Primary,Cello Bow
+,,2026-03-31,9,"Bazin, Charles Nicolas",,,,sold,,7150,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,10,"Grünke, Klaus",,,,sold,,7031,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,11,"Nehr, Jean-Pascal",,,,sold,,7150,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,13,"Sasano, Mitsuaki",,,,sold,,23835,USD,Primary,Primary,Cello Bow
@@ -7,13 +13,13 @@
 ,,2026-03-31,18,"Miremont, Claude Augustin",,,,sold,,46875,USD,Primary,Primary,Cello
 ,,2026-03-31,20,"Fagnola, Annibale",,,,sold,,250000,USD,Primary,Primary,Cello
 ,,2026-03-31,21,"Lotte, François",,,,sold,,1907,USD,Primary,Primary,Viola Bow
+,,2026-03-31,22,,"Luff, William H.",,,sold,,6356,USD,Secondary,Cross-checked,Violin
 ,,2026-03-31,23,"Gerbeth, Thomas M.",,,,sold,,3655,USD,Primary,Primary,Viola Bow
 ,,2026-03-31,24,"Carlier, Emmanuel",,,,sold,,5561,USD,Primary,Primary,Viola Bow
 ,,2026-03-31,25,"Ouchard, Émile-Auguste",,,,sold,,9534,USD,Primary,Primary,Viola Bow
 ,,2026-03-31,26,"Duhaut, Gilles",,,,sold,,3972,USD,Primary,Primary,Viola Bow
 ,,2026-03-31,28,"Thomassin, Victor",,,,sold,,5959,USD,Primary,Primary,Viola Bow
 ,,2026-03-31,29,"Forster, William II or Sr",,,,sold,,25424,USD,Primary,Primary,Viola
-,,2026-03-31,3,"Neudorfer, Rudolf",,,,sold,,1907,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,30,"Sderci, Luciano",,,,sold,,17187,USD,Primary,Primary,Viola
 ,,2026-03-31,31,"Lecchi, Giuseppe Bernardo",,,,sold,,20312,USD,Primary,Primary,Viola
 ,,2026-03-31,33,"Antoniazzi, Romeo",,,,sold,,31250,USD,Primary,Primary,Viola
@@ -22,7 +28,6 @@
 ,,2026-03-31,37,"Dölling, Heinz",,,,sold,,2701,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,38,"Pfretzschner, Hermann Richard",,,,sold,,2701,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,39,"Bazin, Charles Louis",,,,sold,,2860,USD,Primary,Primary,Violin Bow
-,,2026-03-31,4,"Neudorfer, Rudolf",,,,sold,,1907,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,42,"Thibouville-Lamy, Jérôme Firm",,,,sold,,1875,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,43,"Hill & Sons, W. E. Firm",,,,sold,,4767,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,44,"Morizot, Louis frères",,,,sold,,2383,USD,Primary,Primary,Violin Bow
@@ -40,7 +45,6 @@
 ,,2026-03-31,56,"Thomassin, Claude Auguste",,,,sold,,4687,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,57,"Fétique, Victor François",,,,sold,,8739,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,59,"Tubbs, James",,,,sold,,5959,USD,Primary,Primary,Violin Bow
-,,2026-03-31,6,"Schmidt, C. Hans-Karl",,,,sold,,7548,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,60,"Ouchard, Émile-Auguste",,,,sold,,12712,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,61,"Thomachot, Stephane",,,,sold,,10328,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,62,"Fétique, Victor François",,,,sold,,7150,USD,Primary,Primary,Violin Bow
@@ -51,19 +55,17 @@
 ,,2026-03-31,67,"Peccatte, François",,,,sold,,15890,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,68,"Sartory, Eugène Nicolas",,,,sold,,25000,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,69,"Sartory, Eugène Nicolas",,,,sold,,31250,USD,Primary,Primary,Violin Bow
-,,2026-03-31,7,"Morizot, Louis frères",,,,sold,,6356,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,71,"Maline, Nicolas I",,,,sold,,27013,USD,Primary,Primary,Violin Bow
 ,,2026-03-31,72,"Schenk, Otto Karl",,,,sold,,3972,USD,Primary,Primary,Violin
 ,,2026-03-31,73,"Valentinetti, Salvatore",,,,sold,,5859,USD,Primary,Primary,Violin
 ,,2026-03-31,76,"Bailly, Paul",,,,sold,,12712,USD,Primary,Primary,Violin
 ,,2026-03-31,77,"Rovescalli, Tullio",,,,sold,,23835,USD,Primary,Primary,Violin
 ,,2026-03-31,79,"Spidlen, Frantisek",,,,sold,,12712,USD,Primary,Primary,Violin
-,,2026-03-31,8,"Hill & Sons, W. E. Firm",,,,sold,,4767,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,80,"Grulli, Pietro",,,,sold,,15890,USD,Primary,Primary,Violin
 ,,2026-03-31,86,"Tarasconi, Giuseppe",,,,sold,,27013,USD,Primary,Primary,Violin
 ,,2026-03-31,87,"Guerra, Evasio Emilio",,,,sold,,31780,USD,Primary,Primary,Violin
 ,,2026-03-31,89,"Bernardel, Auguste Sébastien Philippe père",,,,sold,,43697,USD,Primary,Primary,Violin
-,,2026-03-31,9,"Bazin, Charles Nicolas",,,,sold,,7150,USD,Primary,Primary,Cello Bow
 ,,2026-03-31,90,"Sgarabotto, Gaetano",,,,sold,,39062,USD,Primary,Primary,Violin
 ,,2026-03-31,92,"Testore, Carlo Giuseppe",,,,sold,,60911,USD,Primary,Primary,Violin
 ,,2026-03-31,93,"Tononi, Giovanni",,,,sold,,57733,USD,Primary,Primary,Violin
+,,2026-03-31,165,,"Cuniot-Hury & Ouchard, Eugène & Emile Francois",,,sold,,2542,USD,Secondary,Cross-checked,Viola Bow

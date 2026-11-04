@@ -7,7 +7,7 @@ Source: [Kestenbaum & Company](https://kestenbaum.net/about), checked 2026-11-03
 
 ## Secondary files (`_snd`)
 `<date>_Kestenbaum-Co[_<sale number>]_snd.csv` (and `<date>_Kestenbaum-Co_press.csv` for the press): lots of this house that the house's own
-documents do not give (4 files, 38 lots).
+documents do not give (4 files, 37 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

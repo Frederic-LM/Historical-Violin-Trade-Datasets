@@ -1,22 +1,19 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
-,,2025-10-28,103,"Ullmann, Georg",,,,sold,,23897,USD,Primary,Primary,Violin
-,,2025-10-28,108,"Scrollavezza, Renato",,,,sold,,31863,USD,Primary,Primary,Violin
-,,2025-10-28,110,"Gand, Charles François père",,,,sold,,36642,USD,Primary,Primary,Violin
-,,2025-10-28,111,"Tedesco, Giovanni",,,,sold,,28199,USD,Primary,Primary,Violin
-,,2025-10-28,116,"Bisiach, Carlo",,,,sold,,39165,USD,Primary,Primary,Violin
-,,2025-10-28,117,"Bisiach, Leandro I",,,,sold,,54831,USD,Primary,Primary,Violin
+,,2025-10-28,3,"Morizot, Louis frères",,,,sold,,7169,USD,Primary,Primary,Bass Bow
+,,2025-10-28,6,,"Seifert, Lothar",,,sold,,2868,USD,Secondary,Cross-checked,Cello Bow
+,,2025-10-28,7,,"Strumphler, Jan",,,sold,,3346,USD,Secondary,Cross-checked,Cello Bow
+,,2025-10-28,9,"Morizot, Louis frères",,,,sold,,5178,USD,Primary,Primary,Cello Bow
 ,,2025-10-28,12,"Martin, Jean-Joseph",,,,sold,,5178,USD,Primary,Primary,Cello Bow
-,,2025-10-28,121,"Poggi, Ansaldo",,,,sold,,254904,USD,Primary,Primary,Violin
-,,2025-10-28,122,"Fiorini, Giuseppe",,,,sold,,156660,USD,Primary,Primary,Violin
 ,,2025-10-28,14,"Guillaume, Pierre",,,,sold,,7567,USD,Primary,Primary,Cello Bow
 ,,2025-10-28,16,"Sasano, Mitsuaki",,,,sold,,25490,USD,Primary,Primary,Cello Bow
 ,,2025-10-28,17,"Ouchard, Émile-Auguste",,,,sold,,28677,USD,Primary,Primary,Cello Bow
+,,2025-10-28,18,,"Sartory, Eugène Nicolas",,,sold,,51777,USD,Secondary,Cross-checked,Cello Bow
+,,2025-10-28,20,,"Hill & Sons, W. E. Firm",,,sold,,3346,USD,Secondary,Cross-checked,Violin Bow
 ,,2025-10-28,22,"Fabris, Luigi",,,,sold,,86163,USD,Primary,Primary,Cello
 ,,2025-10-28,23,"Prager, Gustav Adolf",,,,sold,,548,USD,Primary,Primary,Viola Bow
 ,,2025-10-28,27,"Morizot, Louis frères",,,,sold,,4381,USD,Primary,Primary,Viola Bow
 ,,2025-10-28,28,"Lapierre, Marcel Charles",,,,sold,,3664,USD,Primary,Primary,Viola Bow
 ,,2025-10-28,29,"Alvey, Brian",,,,sold,,3983,USD,Primary,Primary,Viola Bow
-,,2025-10-28,3,"Morizot, Louis frères",,,,sold,,7169,USD,Primary,Primary,Bass Bow
 ,,2025-10-28,30,"Bazin, Charles Louis",,,,sold,,5091,USD,Primary,Primary,Viola Bow
 ,,2025-10-28,34,"Muncher, Romedio",,,,sold,,3133,USD,Primary,Primary,Viola
 ,,2025-10-28,38,"Candi, Cesare",,,,sold,,20711,USD,Primary,Primary,Viola
@@ -24,23 +21,48 @@
 ,,2025-10-28,42,"Pfretzschner, Hermann Richard",,,,sold,,1752,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,43,"Lotte, François",,,,sold,,3664,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,45,"Nürnberger, Albert",,,,sold,,4779,USD,Primary,Primary,Violin Bow
+,,2025-10-28,47,,"Poirson, Dominique ""Justin""",,,sold,,7169,USD,Secondary,Cross-checked,Violin Bow
 ,,2025-10-28,49,"Morizot, Louis frères",,,,sold,,1328,USD,Primary,Primary,Violin Bow
+,,2025-10-28,50,,"Hill & Sons, W. E. Firm",,,sold,,1567,USD,Secondary,Cross-checked,Violin Bow
 ,,2025-10-28,53,"Bazin, Charles Louis",,,,sold,,2868,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,54,"Sadka, Paul",,,,sold,,3983,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,55,"Bazin, Charles Nicolas",,,,sold,,17525,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,56,"Morizot, Louis Joseph père",,,,sold,,2522,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,59,"Nürnberger, Albert",,,,sold,,5178,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,60,"Lucke, Tino",,,,sold,,9559,USD,Primary,Primary,Violin Bow
+,,2025-10-28,62,,"Luff, William H.",,,sold,,8762,USD,Secondary,Cross-checked,Violin
 ,,2025-10-28,63,"Martin, Jean-Joseph",,,,sold,,9559,USD,Primary,Primary,Violin Bow
+,,2025-10-28,64,,"Thomassin, Claude Auguste",,,sold,,5178,USD,Secondary,Cross-checked,Violin Bow
+,,2025-10-28,65,,"Lamy, Joseph Alfred père",,,sold,,5576,USD,Secondary,Cross-checked,Violin Bow
+,,2025-10-28,66,,"Vigneron, Joseph Arthur père",,,sold,,6266,USD,Secondary,Cross-checked,Violin Bow
 ,,2025-10-28,67,"Tubbs, James",,,,sold,,7833,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,69,"Kaston, Henryk",,,,sold,,17233,USD,Primary,Primary,Violin Bow
+,,2025-10-28,71,,"Voirin, François Nicolas",,,sold,,5709,USD,Secondary,Cross-checked,Violin Bow
 ,,2025-10-28,72,"Rolland, Benoit",,,,sold,,9559,USD,Primary,Primary,Violin Bow
 ,,2025-10-28,73,"Tubbs, James",,,,sold,,19118,USD,Primary,Primary,Violin Bow
+,,2025-10-28,74,,"Voirin, François Nicolas",,,sold,,22304,USD,Secondary,Cross-checked,Violin Bow
+,,2025-10-28,75,,"Sartory, Eugène Nicolas",,,sold,,31332,USD,Secondary,Cross-checked,Violin Bow
+,,2025-10-28,76,,"Sartory, Eugène Nicolas",,,sold,,30270,USD,Secondary,Cross-checked,Violin Bow
 ,,2025-10-28,77,"Henry, Joseph",,,,sold,,31332,USD,Primary,Primary,Violin Bow
+,,2025-10-28,81,,"Daoglio, Mario",,,sold,,9559,USD,Secondary,Cross-checked,Violin
 ,,2025-10-28,83,"Heinicke, Mathias",,,,sold,,11152,USD,Primary,Primary,Violin
 ,,2025-10-28,85,"Rubio, David",,,,sold,,3916,USD,Primary,Primary,Violin
 ,,2025-10-28,86,"Cavalli, Aristide",,,,sold,,7169,USD,Primary,Primary,Violin
-,,2025-10-28,9,"Morizot, Louis frères",,,,sold,,5178,USD,Primary,Primary,Cello Bow
+,,2025-10-28,88,,"Collin-Mézin, Charles Jean-Baptiste père",,,sold,,10355,USD,Secondary,Cross-checked,Violin
 ,,2025-10-28,90,"Verne, Dario",,,,sold,,10355,USD,Primary,Primary,Violin
+,,2025-10-28,93,,"Collin-Mézin, Charles Jean-Baptiste père",,,sold,,11949,USD,Secondary,Cross-checked,Violin
 ,,2025-10-28,96,"Bailly, Paul",,,,sold,,14338,USD,Primary,Primary,Violin
 ,,2025-10-28,97,"Kennedy, Thomas",,,,sold,,6771,USD,Primary,Primary,Violin
+,,2025-10-28,99,,"Curletto, Anselmo",,,sold,,15932,USD,Secondary,Cross-checked,Violin
+,,2025-10-28,103,"Ullmann, Georg",,,,sold,,23897,USD,Primary,Primary,Violin
+,,2025-10-28,104,,"Sderci, Igino",,,sold,,15932,USD,Secondary,Cross-checked,Violin
+,,2025-10-28,105,,"Hill & Sons, W. E. Firm",,,sold,,18799,USD,Secondary,Cross-checked,Violin
+,,2025-10-28,106,,"Maucotel, Charles Adolphe",,,sold,,25490,USD,Secondary,Cross-checked,Violin
+,,2025-10-28,108,"Scrollavezza, Renato",,,,sold,,31863,USD,Primary,Primary,Violin
+,,2025-10-28,110,"Gand, Charles François père",,,,sold,,36642,USD,Primary,Primary,Violin
+,,2025-10-28,111,"Tedesco, Giovanni",,,,sold,,28199,USD,Primary,Primary,Violin
+,,2025-10-28,112,,"Calvarola, Bartolomeo",,,sold,,27084,USD,Secondary,Cross-checked,Violin
+,,2025-10-28,116,"Bisiach, Carlo",,,,sold,,39165,USD,Primary,Primary,Violin
+,,2025-10-28,117,"Bisiach, Leandro I",,,,sold,,54831,USD,Primary,Primary,Violin
+,,2025-10-28,121,"Poggi, Ansaldo",,,,sold,,254904,USD,Primary,Primary,Violin
+,,2025-10-28,122,"Fiorini, Giuseppe",,,,sold,,156660,USD,Primary,Primary,Violin
