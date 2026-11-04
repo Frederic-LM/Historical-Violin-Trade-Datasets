@@ -14,8 +14,9 @@ Source: [Wikipedia (CC BY-SA)](https://en.wikipedia.org/wiki/Tarisio_Auctions), 
 | Column | Here |
 |---|---|
 | title | the maker's name, as the house lists the lot |
-| description | empty: the archive gives no lot text |
+| description | empty: the archive gives no lot text (sales of October 2026: the house's lot title) |
 | status | sold (the archive lists the lots that sold) |
+| estimate_low, estimate_high, hammer | the house's estimate and hammer price, given for the sales of October 2026 (from its results pages); empty for the earlier sales |
 | price_with_fees | the price as the house publishes it, with the buyer's premium, in the sale currency; where the sale currency is not known, the house's own US-dollar figure (currency USD) |
 | type (extra) | the house's category (violin, viola, cello, violin bow...) |
 
