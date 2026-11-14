@@ -2,7 +2,11 @@
 
 Vichy-Enchères, "Instruments du quatuor" sales (all days: the trade and student lots of the first day included).
 Three house sources, put together by lot number: the results documents (prices), the lot lists printed before the
-sale (estimates) and the sale catalogues.
+sale (estimates) and the sale catalogues. The results documents include those the house published on interencheres.com
+for each day of its sales (read 9 Nov 2026): they give the house's own result for the second and first days of many
+sales whose lots were known before only from the lot lists, catalogues or secondary sources, and the March and
+September sales. One line per lot: where a lot is in the lot list and in the catalogue of the same sale, the house's
+result is in both lines.
 
 ## About the house
 Vichy Enchères is a French auction house based in Vichy, founded in 1983 by Guy Laurent and now run by the auctioneer Étienne Laurent. Specialising in musical instruments from its founding, its own site says it is the world leader in the sale of bows.
@@ -36,7 +40,7 @@ Buyer's fees, % of the hammer, incl. VAT, from the house's conditions of sale an
 |---|---|
 | up to Dec 2013 | 23.92 % (20 % + VAT 19.6 %) |
 | Jan 2014 – May 2023 | 24 % (20 % + VAT 20 %) |
-| Nov 2023 – Dec 2025 | 25 % |
+| Nov 2023 – June 2026 | 25 % |
 
 Buyers bidding through Interenchères pay its own fee on top (1.5 % + VAT for advance bids; some prices with fees show
 hammer x 1.276, i.e. 3 % + VAT). Seller's commission: 12 % + VAT, the house's terms since the reform of French
@@ -44,13 +48,12 @@ auctions (2002); before, the commissaires-priseurs' state tariff, 7 % + VAT (dec
 
 ## Notes
 Sales with no results document (list or catalogue only): no price, status empty.
-Bernard Millant collection I (29 Nov 2017): the house's results document (hammer prices; `title` = its short line,
-`description` = the catalogue's text). Its results list only the lots sold: a catalogue lot missing from them says
-`status` = unsold (not in the house's results). For collections II (5 Dec 2018) and III (27 Nov 2019) we have no
-results document: where two secondary records of a lot agree (same lot number, same maker, one price = the other +
-the house's premium), their price is written in the lot's line: those lines say `price_source` = Cross-checked
-(the text and estimate are still the house's: `text_source` = Primary). Millant II: price with fees, 24 % incl. VAT; Millant III: hammer
-(round figures).
+Bernard Millant collections I (29 Nov 2017), II (5 Dec 2018) and III (27 Nov 2019): the house's results documents
+(I: the author's copy; II and III: on interencheres.com, read 9 Nov 2026), `title` = their short line, `description` =
+the catalogue's text. A catalogue lot missing from the results says `status` = unsold (not in the house's results).
+Collection II: the house's results give 27 lots as unsold for which two secondary records agree on a price (a sale
+after the auction, or another lot?): the house's result is kept. Before the house's results were read, collections II
+and III carried the agreeing records' price (`price_source` = Cross-checked).
 Millant estimates: the house's estimate sheets. Millant I: the sheet says "Jeudi 29 novembre 2017"; 29 Nov 2017
 was a Wednesday, as in the catalogue.
 June 2021, 1 and 2 June: the results document gives lot numbers and prices only (no text).
@@ -61,7 +64,7 @@ Nov 2017: on 6 lots the price is printed at the end of the lot text; written in 
 
 ## Secondary files (`_snd`)
 `<date>_Vichy-Encheres[_<sale number>]_snd.csv` (and `<date>_Vichy-Encheres_press.csv` for the press): lots of this house that the house's own
-documents do not give (71 files, 4369 lots). One file per sale: when we hold the house's own file of a sale, its secondary
+documents do not give (48 files, 879 lots). One file per sale: when we hold the house's own file of a sale, its secondary
 information is in that file (a price on the house's lot, `price_source` Secondary or Cross-checked; a lot the house's
 file lacks as a line with `text_source` Secondary) and there is no `_snd` file for that sale.
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from

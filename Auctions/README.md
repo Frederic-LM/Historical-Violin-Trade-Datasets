@@ -17,14 +17,14 @@ The data come in three layers, told apart by the file name and by the `text_sour
 
 | Layer | Files | Sales | Lots | Houses | Years |
 |---|---|---|---|---|---|
-| **Primary**: the house's own documents | `<date>_<house>_<sale>.csv` | 648 | 140 625 | 13 | 1968–2026 |
-| **Secondary**: other sources; `Cross-checked` when a second source agrees | `<date>_<house>_snd.csv` | 1 405 | 39 187 | 95 | 1829–2026 |
-| **Press**: contemporary press reports, with page and link | `<date>_<house>_press.csv` | 85 | 1 391 | 4 | 1857–1911 |
+| **Primary**: the house's own documents | `<date>_<house>_<sale>.csv` | 683 | 156 992 | 16 | 1968–2026 |
+| **Secondary**: other sources; `Cross-checked` when a second source agrees | `<date>_<house>_snd.csv` | 1 376 | 35 601 | 94 | 1829–2026 |
+| **Press**: contemporary press reports, with page and link | `<date>_<house>_press.csv` | 85 | 1 390 | 4 | 1857–1911 |
 
 All three sit in the same house folder under `Raw/`. For the secondary and press files a "sale" is one house on one day (or in one
 month, when only the month is known). The split per house and per period is in `COVERAGE.md`.
 
-The primary files cover 648 sales of thirteen houses (140 625 lots, 104 971 of them sold); the list per house, with the
+The primary files cover 683 sales of sixteen houses (156 992 lots, 124 093 of them sold); the list per house, with the
 source of each, is in `Raw/README.md`. A sale is added once it is complete and checked.
 
 ### Why they were built

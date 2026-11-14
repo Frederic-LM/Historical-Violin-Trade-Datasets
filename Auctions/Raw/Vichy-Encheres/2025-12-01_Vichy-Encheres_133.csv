@@ -1,14 +1,17 @@
 ﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source
 133,,2025-12-04,1,,Violon de Amédée DIEUDONNÉ,,,sold,,4372,EUR,Primary,Primary
 133,,2025-12-04,2,,Violon de l'atelier de Roger & Max MILLANT,,,sold,,3750,EUR,Primary,Primary
-133,,2025-12-04,5,,Violon de Paul BAILLY fait à Mirecourt en 1880 7 500 € 6 violon XIXème,,,sold,,3987,EUR,Primary,Primary
+133,,2025-12-04,5,,Violon de Paul BAILLY fait à Mirecourt en 1880,,,sold,,7500,EUR,Primary,Primary
+133,,2025-12-04,6,,violon XIXème,,,sold,,3987,EUR,Primary,Primary
 133,,2025-12-04,7,,Violon de Antoine et Nicolas MASSON,,,sold,,3750,EUR,Primary,Primary
 133,,2025-12-04,8,,Violon de Charles Louis COLLIN-MÉZIN,,,sold,,5256,EUR,Primary,Primary
 133,,2025-12-04,9,,Violon de René BAILLY,,,sold,,2125,EUR,Primary,Primary
 133,,2025-12-04,11,,Violon de Lucien SCHMITT,,,sold,,4115,EUR,Primary,Primary
 133,,2025-12-04,12,,Violon de Amédée DIEUDONNE,,,sold,,4250,EUR,Primary,Primary
 133,,2025-12-04,13,,Violon de Émile l'HUMBERT,,,sold,,9425,EUR,Primary,Primary
-133,,2025-12-04,14,,Violon de Léon MOUGENOT 3 250 € 15 violon Italien signé Giovanni PIVA 18 750 € 18 violon de Sébastian KLOZ,,,sold,,10417,EUR,Primary,Primary
+133,,2025-12-04,14,,Violon de Léon MOUGENOT,,,sold,,3250,EUR,Primary,Primary
+133,,2025-12-04,15,,violon Italien signé Giovanni PIVA,,,sold,,18750,EUR,Primary,Primary
+133,,2025-12-04,18,,violon de Sébastian KLOZ,,,sold,,10417,EUR,Primary,Primary
 133,,2025-12-04,19,,Violon fait vers 1920,,,sold,,2500,EUR,Primary,Primary
 133,,2025-12-04,21,,Violon de Charles VOIRY,,,sold,,3344,EUR,Primary,Primary
 133,,2025-12-04,22,,Violon de Martin KUNTZE-FECHNER,,,sold,,3659,EUR,Primary,Primary
@@ -25,7 +28,8 @@
 133,,2025-12-04,36,,Archet de violon de Jacques POULLOT fait vers 1995,,,sold,,4250,EUR,Primary,Primary
 133,,2025-12-04,37,,Archet de violon de Louis Joseph MORIZOT (Père),,,sold,,5000,EUR,Primary,Primary
 133,,2025-12-04,38,,Archet de violon de Eugène Nicolas SARTORY fait vers 1935,,,sold,,8359,EUR,Primary,Primary
-133,,2025-12-04,39,,Archet de violoncelle de Roger François LOTTE 2 443 € 40 archet de violon de André Georges RICHAUME,,,sold,,18750,EUR,Primary,Primary
+133,,2025-12-04,39,,Archet de violoncelle de Roger François LOTTE,,,sold,,2443,EUR,Primary,Primary
+133,,2025-12-04,40,,archet de violon de André Georges RICHAUME,,,sold,,18750,EUR,Primary,Primary
 133,,2025-12-04,41,,Archet de violon de Émile François OUCHARD (Père),,,sold,,1750,EUR,Primary,Primary
 133,,2025-12-04,42,,Baguette de archet de violon de Émile-Auguste OUCHARD (Fils) fait vers 1930,,,sold,,8750,EUR,Primary,Primary
 133,,2025-12-04,43,,Archet de alto de André Auguste MORIZOT Fils,,,sold,,6042,EUR,Primary,Primary
@@ -38,9 +42,11 @@
 133,,2025-12-04,53,,Violon de Roger et Max MILLANT,,,sold,,5273,EUR,Primary,Primary
 133,,2025-12-04,54,,Violon de Amédée DIEUDONNE fait à Mirecourt vers 1935-1940,,,sold,,4250,EUR,Primary,Primary
 133,,2025-12-04,57,,Violon de Johann Georg THIR,,,sold,,5750,EUR,Primary,Primary
-133,,2025-12-04,60,,PAS D'ENCHERES EN LIVE - Rare et exceptionnel violon de Georges CHANOT 43 750 € 61 violon de Claude CHEVRIER,,,sold,,2175,EUR,Primary,Primary
+133,,2025-12-04,60,,PAS D'ENCHERES EN LIVE - Rare et exceptionnel violon de Georges CHANOT,,,sold,,43750,EUR,Primary,Primary
+133,,2025-12-04,61,,violon de Claude CHEVRIER,,,sold,,2175,EUR,Primary,Primary
 133,,2025-12-04,62,,Alto de DELAUNAY fait à Paris vers 1775/1780,,,sold,,7000,EUR,Primary,Primary
-133,,2025-12-04,65,,Violon de Amati MANGENOT 3 601 € 68 et rare violon de Stéphane AUBRY,,,sold,,2000,EUR,Primary,Primary
+133,,2025-12-04,65,,Violon de Amati MANGENOT,,,sold,,3601,EUR,Primary,Primary
+133,,2025-12-04,68,,et rare violon de Stéphane AUBRY,,,sold,,2000,EUR,Primary,Primary
 133,,2025-12-04,69,,Violon de Paul Jean Baptiste CHIPOT,,,sold,,2750,EUR,Primary,Primary
 133,,2025-12-04,70,,PAS D'ENCHERES EN LIVE - Violon de Nicolas LUPOT,,,sold,,38750,EUR,Primary,Primary
 133,,2025-12-04,71,,Beau violon de Paul MANGENOT,,,sold,,4250,EUR,Primary,Primary
@@ -67,7 +73,8 @@
 133,,2025-12-04,113,,Violoncelle de CARESSA & FRANCAIS,,,sold,,32150,EUR,Primary,Primary
 133,,2025-12-04,116,,Violoncelle de la maison JÉRÔME THIBOUVILLE-LAMY,,,sold,,6173,EUR,Primary,Primary
 133,,2025-12-04,117,,Beau violoncelle Allemand inspiré de l'école de Derazey,,,sold,,9667,EUR,Primary,Primary
-133,,2025-12-04,120,,PAS D'ENCHERES EN LIVE - Violoncelle de Paul JOMBAR 47 500 € 121 violoncelle de Claude PREVOST,,,sold,,9259,EUR,Primary,Primary
+133,,2025-12-04,120,,PAS D'ENCHERES EN LIVE - Violoncelle de Paul JOMBAR,,,sold,,47500,EUR,Primary,Primary
+133,,2025-12-04,121,,violoncelle de Claude PREVOST,,,sold,,9259,EUR,Primary,Primary
 133,,2025-12-04,122,,Violoncelle 7/8 de Charles François LEPOT,,,sold,,26250,EUR,Primary,Primary
 133,,2025-12-04,125,,PAS D'ENCHERES EN LIVE - Intéressant violoncelle de Lorenzo VENTAPANE,,,sold,,37500,EUR,Primary,Primary
 133,,2025-12-04,126,,Archet de violon de Pascal CAMURAT,,,sold,,2829,EUR,Primary,Primary
@@ -132,7 +139,8 @@
 133,,2025-12-04,214,,Violon de Victor QUENOIL,,,sold,,2125,EUR,Primary,Primary
 133,,2025-12-04,215,,Violon de Charles BRUGERE,,,sold,,18750,EUR,Primary,Primary
 133,,2025-12-04,216,,Violon de Amati MANGENOT,,,sold,,5500,EUR,Primary,Primary
-133,,2025-12-04,220,,Alto de CARESSA et FRANCAIS 12 198 € 225 violon probablement de Stefano SCARAMPELLA,,,sold,,35000,EUR,Primary,Primary
+133,,2025-12-04,220,,Alto de CARESSA et FRANCAIS,,,sold,,12198,EUR,Primary,Primary
+133,,2025-12-04,225,,violon probablement de Stefano SCARAMPELLA,,,sold,,35000,EUR,Primary,Primary
 133,,2025-12-04,226,,Archet de violoncelle de Marc LABERTE,,,sold,,2572,EUR,Primary,Primary
 133,,2025-12-04,227,,Archet de violon de André Auguste MORIZOT (fils),,,sold,,3142,EUR,Primary,Primary
 133,,2025-12-04,228,,Archet de violon de Claude Auguste THOMASSIN,,,sold,,3625,EUR,Primary,Primary
@@ -188,8 +196,10 @@
 133,,2025-12-04,309,,Violon Allemand,,,sold,,2500,EUR,Primary,Primary
 133,,2025-12-04,310,,Violon de GAND et BERNARDEL,,,sold,,15708,EUR,Primary,Primary
 133,,2025-12-04,311,,Alto ténor de Hermann RITTER,,,sold,,2750,EUR,Primary,Primary
-133,,2025-12-04,315,,Violoncelle de la maison LABERTE 7 854 € 317 violon début XIXème,,,sold,,4115,EUR,Primary,Primary
-133,,2025-12-04,321,,Alto moderne 1 625 € 322 violon fin XVIIIème,,,sold,,8125,EUR,Primary,Primary
+133,,2025-12-04,315,,Violoncelle de la maison LABERTE,,,sold,,7854,EUR,Primary,Primary
+133,,2025-12-04,317,,violon début XIXème,,,sold,,4115,EUR,Primary,Primary
+133,,2025-12-04,321,,Alto moderne,,,sold,,1625,EUR,Primary,Primary
+133,,2025-12-04,322,,violon fin XVIIIème,,,sold,,8125,EUR,Primary,Primary
 133,,2025-12-04,323,,Violoncelle de la maison LABERTE,,,sold,,5250,EUR,Primary,Primary
 133,,2025-12-04,326,,Archet de violon de Marcel Charles LAPIERRE,,,sold,,4000,EUR,Primary,Primary
 133,,2025-12-04,327,,Archet de violon de Eugène Nicolas SARTORY,,,sold,,6500,EUR,Primary,Primary
@@ -292,7 +302,8 @@
 133,,2025-12-03,560,,Violon fait dans l'atelier de Charles RESUCHE à Lyon en 1890,,,sold,,1692,EUR,Primary,Primary
 133,,2025-12-03,561,,Violon de REMY à Mirecourt vers 1815,,,sold,,1608,EUR,Primary,Primary
 133,,2025-12-03,562,,Violon Allemand XVIIIème. Petite pièce non originale sur le fond,,,sold,,4000,EUR,Primary,Primary
-133,,2025-12-03,563,,Alto XXème 1 250 € 564 violon 3/4 de Nicolas François CAUSSIN,,,sold,,3665,EUR,Primary,Primary
+133,,2025-12-03,563,,Alto XXème,,,sold,,1250,EUR,Primary,Primary
+133,,2025-12-03,564,,violon 3/4 de Nicolas François CAUSSIN,,,sold,,3665,EUR,Primary,Primary
 133,,2025-12-03,565,,Violon Allemand,,,sold,,4372,EUR,Primary,Primary
 133,,2025-12-03,566,,Violon de la maison JÉRÔME THIBOUVILLE-LAMY,,,sold,,1188,EUR,Primary,Primary
 133,,2025-12-03,567,,Violon de Louis MOITESSIER,,,sold,,2572,EUR,Primary,Primary
@@ -388,7 +399,8 @@
 133,,2025-12-03,706,,Violoncelle à cinq cordes de Jean Charles FLAMBAU fait à Mirecourt vers 1800,,,sold,,2500,EUR,Primary,Primary
 133,,2025-12-03,714,,Contrebasse à quatre cordes,,,sold,,1800,EUR,Primary,Primary
 133,,2025-12-03,716,,Violon de Gustave VILLAUME,,,sold,,1375,EUR,Primary,Primary
-133,,2025-12-03,719,,Violon Allemand 1 375 € 720 violon de François BRETON,,,sold,,1571,EUR,Primary,Primary
+133,,2025-12-03,719,,Violon Allemand,,,sold,,1375,EUR,Primary,Primary
+133,,2025-12-03,720,,violon de François BRETON,,,sold,,1571,EUR,Primary,Primary
 133,,2025-12-03,722,,Violon Français fait à Mirecourt fin XIXème,,,sold,,1929,EUR,Primary,Primary
 133,,2025-12-03,725,,Violon de Gustave VILLAUME,,,sold,,4375,EUR,Primary,Primary
 133,,2025-12-03,726,,Archet de alto de Roger-François LOTTE,,,sold,,1250,EUR,Primary,Primary
@@ -453,16 +465,19 @@
 133,,2025-12-03,845,,Archet de violon de Paul Emile MIQUEL,,,sold,,1750,EUR,Primary,Primary
 133,,2025-12-03,846,,Archet de alto de Jean François DABER,,,sold,,1250,EUR,Primary,Primary
 133,,2025-12-03,849,,Archet de violon de Charles-Nicolas BAZIN,,,sold,,1000,EUR,Primary,Primary
-133,,2025-12-03,850,,Archet de violon de Charles Nicolas BAZIN 2 375 € 852 petit alto de Henri HUEL,,,sold,,3601,EUR,Primary,Primary
+133,,2025-12-03,850,,Archet de violon de Charles Nicolas BAZIN,,,sold,,2375,EUR,Primary,Primary
+133,,2025-12-03,852,,petit alto de Henri HUEL,,,sold,,3601,EUR,Primary,Primary
 133,,2025-12-03,854,,Violon de Charles Jean-Baptiste Léon COLLIN-MÉZIN,,,sold,,1029,EUR,Primary,Primary
-133,,2025-12-03,855,,Violon de Henry DIDELIN 1 875 € 856 violon Français province fait vers 1880,,,sold,,1157,EUR,Primary,Primary
+133,,2025-12-03,855,,Violon de Henry DIDELIN,,,sold,,1875,EUR,Primary,Primary
+133,,2025-12-03,856,,violon Français province fait vers 1880,,,sold,,1157,EUR,Primary,Primary
 133,,2025-12-03,858,,Violon de Amédée DIEUDONNÉ,,,sold,,2058,EUR,Primary,Primary
 133,,2025-12-03,859,,Violon 3/4 des ateliers Charles Jean Baptiste Léon COLLIN MEZIN,,,sold,,1286,EUR,Primary,Primary
 133,,2025-12-03,862,,Violon de Paul HILAIRE,,,sold,,2125,EUR,Primary,Primary
 133,,2025-12-03,863,,Violon Allemand fait vers 1800 de l'école de PFRETZSCHNER,,,sold,,2125,EUR,Primary,Primary
 133,,2025-12-03,868,,Violon de la Maison Albert DEBLAYE,,,sold,,1750,EUR,Primary,Primary
 133,,2025-12-03,869,,Violon de Jean Baptiste DUBOIS fait à Paris en 1857,,,sold,,1029,EUR,Primary,Primary
-133,,2025-12-03,871,,Violon de la maison LABERTE 813 € 872 violon,,,sold,,1188,EUR,Primary,Primary
+133,,2025-12-03,871,,Violon de la maison LABERTE,,,sold,,813,EUR,Primary,Primary
+133,,2025-12-03,872,,violon,,,sold,,1188,EUR,Primary,Primary
 133,,2025-12-03,873,,Violon de l'école de DERAZEY,,,sold,,1875,EUR,Primary,Primary
 133,,2025-12-03,874,,Violon de l'atelier de Georges CONE,,,sold,,1125,EUR,Primary,Primary
 133,,2025-12-03,880,,Archet de violon de Joseph THOMASSIN,,,sold,,3250,EUR,Primary,Primary

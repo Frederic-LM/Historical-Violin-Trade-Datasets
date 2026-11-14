@@ -130,6 +130,21 @@ Christies,Christies/2014-06-18_Christies_3479.csv,3479,An American Dynasty: The 
 Christies,Christies/2024-01-31_Christies_21929.csv,21929,The Mark Knopfler Guitar Collection,2024-01-31,2024-01-31,London,United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
 Christies,Christies/2025-01-22_Christies_22991.csv,22991,Jeff Beck: The Guitar Collection,2025-01-22,2025-01-22,London,United Kingdom,GBP,English,1,1,0,0,0,price with fees,Primary,Primary,
 Christies,Christies/2026-03-17_Christies_24631.csv,24631,,2026-03-17,2026-03-17,,,USD,English,1,1,0,0,0,price with fees,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2018-09-13_Credit-Municipal.csv,,INSTRUMENTS DE MUSIQUE,2018-09-13,2018-09-13,,France,EUR,French,31,29,2,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2019-09-12_Credit-Municipal.csv,,INSTRUMENTS DE MUSIQUE,2019-09-12,2019-09-12,,France,EUR,French,28,27,1,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2020-09-10_Credit-Municipal.csv,,INSTRUMENTS DE MUSIQUE,2020-09-10,2020-09-10,,France,EUR,French,15,12,3,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2021-09-30_Credit-Municipal.csv,,Vente Musique - Livres - Tableaux - Objets,2021-09-30,2021-09-30,,France,EUR,French,14,10,4,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2022-09-15_Credit-Municipal.csv,,"MUSIQUE, ART ET DECORATION",2022-09-15,2022-09-15,,France,EUR,French,11,11,0,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2023-09-14_Credit-Municipal.csv,,MUSIQUE - ART ET DECORATION,2023-09-14,2023-09-14,,France,EUR,French,7,5,2,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2024-09-12_Credit-Municipal.csv,,MUSIQUE - ART ET DECORATION,2024-09-12,2024-09-12,,France,EUR,French,14,14,0,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2025-09-11_Credit-Municipal.csv,,MUSIQUE ART & DECORATION,2025-09-11,2025-09-11,,France,EUR,French,6,6,0,0,0,hammer,Primary,Primary,
+Credit-Municipal,Credit-Municipal/2026-09-10_Credit-Municipal.csv,,MUSIQUE ART & DECORATION,2026-09-10,2026-09-10,,France,EUR,French,9,9,0,0,0,hammer,Primary,Primary,
+De-Baecque,De-Baecque/2021-04-01_De-Baecque.csv,,INSTRUMENTS DE MUSIQUE,2021-04-01,2021-04-01,,France,EUR,English,12,12,0,0,0,hammer,Secondary,Primary,
+De-Baecque,De-Baecque/2023-12-20_De-Baecque.csv,,INSTRUMENTS DE MUSIQUE,2023-12-20,2023-12-20,,France,EUR,English,22,22,0,0,0,hammer,Secondary,Primary,
+De-Baecque,De-Baecque/2024-05-23_De-Baecque.csv,,INSTRUMENTS DE MUSIQUE EUROPEENS ET DU MONDE #11,2024-05-23,2024-05-23,,France,EUR,English,20,20,0,0,0,hammer,Secondary,Primary,
+De-Baecque,De-Baecque/2024-11-08_De-Baecque.csv,,INSTRUMENTS DE MUSIQUE EUROPEENS ET DU MONDE,2024-11-08,2024-11-08,,France,EUR,English,6,6,0,0,0,hammer,Secondary,Primary,
+De-Baecque,De-Baecque/2025-04-16_De-Baecque.csv,,INSTRUMENTS DE MUSIQUE D'EUROPE ET DU MONDE,2025-04-16,2025-04-16,,France,EUR,English,4,4,0,0,0,hammer,Secondary,Primary,
+De-Baecque,De-Baecque/2025-12-18_De-Baecque.csv,,INSTRUMENTS DE MUSIQUE,2025-12-18,2025-12-18,,France,EUR,English,7,7,0,0,0,hammer,Secondary,Primary,
 Gardiner-Houlgate,Gardiner-Houlgate/2019-12-13_Gardiner-Houlgate_catalogue.csv,,,2019-12-13,2019-12-13,,United Kingdom,GBP,English,541,24,0,0,517,price with fees,Primary,Secondary,20 % + VAT on the premium
 Gardiner-Houlgate,Gardiner-Houlgate/2020-06-26_Gardiner-Houlgate_25.csv,25,Musical Instruments,2020-06-26,2020-06-26,,United Kingdom,GBP,English,307,254,0,0,53,hammer,Primary,Primary,20 % + VAT on the premium
 Gardiner-Houlgate,Gardiner-Houlgate/2020-09-11_Gardiner-Houlgate_22.csv,22,Musical Instruments,2020-09-11,2020-09-11,,United Kingdom,GBP,English,456,393,0,0,63,hammer,Primary,Primary,20 % + VAT on the premium
@@ -355,8 +370,8 @@ Sothebys,Sothebys/1978-05-16_Sothebys_catalogue.csv,,Musical Instruments,1978-05
 Sothebys,Sothebys/1978-11-09_Sothebys_EBERSHOLT.csv,EBERSHOLT,Musical Instruments,1978-11-09,1978-11-09,,United Kingdom,GBP,English,292,156,0,0,0,hammer,Primary,Primary,10 %
 Sothebys,Sothebys/1979-03-06_Sothebys_SALTARELLO.csv,SALTARELLO,Musical Instruments,1979-03-06,1979-03-06,,United Kingdom,GBP,English,191,178,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1979-05-03_Sothebys_HOWARD.csv,HOWARD,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,71,67,0,0,0,hammer,Primary,Primary,10 % + VAT on the premium
-Sothebys,Sothebys/1979-05-03_Sothebys_KREISLER.csv,KREISLER,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,298,171,0,0,51,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
-Sothebys,Sothebys/1979-06-19_Sothebys_catalogue.csv,,Musical Instruments,1979-06-19,1979-06-19,,United Kingdom,GBP,English,211,6,0,0,205,price with fees,"Primary, Secondary",Secondary,10 % + VAT on the premium
+Sothebys,Sothebys/1979-05-03_Sothebys_KREISLER.csv,KREISLER,Musical Instruments,1979-05-03,1979-05-03,,United Kingdom,GBP,English,297,170,0,0,51,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
+Sothebys,Sothebys/1979-06-19_Sothebys_catalogue.csv,,Musical Instruments,1979-06-19,1979-06-19,,United Kingdom,GBP,English,210,6,0,0,204,price with fees,"Primary, Secondary",Secondary,10 % + VAT on the premium
 Sothebys,Sothebys/1979-07-19_Sothebys_SOLO.csv,SOLO,Musical Instruments,1979-07-19,1979-07-19,,United Kingdom,GBP,English,222,189,0,0,0,hammer and price with fees,"Primary, Secondary","Primary, Secondary",10 % + VAT on the premium
 Sothebys,Sothebys/1979-10-08_Sothebys_MACGILLIVRAY_prices.csv,MACGILLIVRAY,,1979-10-08,1979-10-08,,United Kingdom,GBP,English,62,62,0,0,0,hammer,,Primary,10 % + VAT on the premium
 Sothebys,Sothebys/1979-10-18_Sothebys_catalogue.csv,,Musical Instruments,1979-10-18,1979-10-18,,United Kingdom,GBP,English,139,2,0,0,137,price with fees,"Primary, Secondary",Secondary,10 % + VAT on the premium
@@ -549,7 +564,8 @@ Tarisio,Tarisio/2021-11-19_Tarisio.csv,,,2021-11-19,2021-11-19,,,USD,English,137
 Tarisio,Tarisio/2022-03-18_Tarisio.csv,,,2022-03-18,2022-03-18,,,USD,English,79,79,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2022-03-29_Tarisio.csv,,,2022-03-29,2022-03-29,,,GBP,English,22,22,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2022-04-26_Tarisio.csv,,,2022-04-26,2022-04-26,,,EUR,English,90,90,0,0,0,price with fees,Primary,Primary,
-Tarisio,Tarisio/2022-06-10_Tarisio.csv,,,2022-06-10,2022-06-10,,,USD,English,89,89,0,0,0,price with fees,Primary,Primary,
+Tarisio,Tarisio/2022-06-09_Tarisio.csv,,,2022-06-09,2022-06-09,,,USD,English,1,1,0,0,0,price with fees,Primary,Primary,
+Tarisio,Tarisio/2022-06-10_Tarisio.csv,,,2022-06-10,2022-06-10,,,USD,English,88,88,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2022-10-25_Tarisio.csv,,,2022-10-25,2022-10-25,,,"EUR, USD",English,110,110,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2022-11-01_Tarisio.csv,,,2022-11-01,2022-11-01,,,GBP,English,19,19,0,0,0,price with fees,Primary,Primary,
 Tarisio,Tarisio/2022-11-18_Tarisio.csv,,,2022-11-18,2022-11-18,,,USD,English,119,119,0,0,0,price with fees,Primary,Primary,
@@ -580,6 +596,8 @@ Tarisio,Tarisio/2026-03-06_Tarisio.csv,,,2026-03-06,2026-03-06,,,USD,English,96,
 Tarisio,Tarisio/2026-03-31_Tarisio.csv,,,2026-03-31,2026-03-31,,,USD,English,70,70,0,0,0,price with fees,"Primary, Secondary","Cross-checked, Primary",
 Tarisio,Tarisio/2026-10-02_Tarisio.csv,,,2026-10-02,2026-10-02,,,EUR,English,104,104,0,0,0,hammer and price with fees,Primary,Primary,
 Tarisio,Tarisio/2026-10-27_Tarisio.csv,,,2026-10-27,2026-10-27,,,GBP,English,98,98,0,0,0,hammer and price with fees,Primary,Primary,
+Tarn,Tarn/2017-06-01_Tarn.csv,,Instruments de musique,2017-06-01,2017-06-01,,France,EUR,French,17,17,0,0,0,hammer,Primary,Primary,
+Tarn,Tarn/2017-12-01_Tarn.csv,,Instruments de musique,2017-12-01,2017-12-01,,France,EUR,French,51,51,0,0,0,hammer,Primary,Primary,
 Vichy-Encheres,Vichy-Encheres/1994-05-15_Vichy-Encheres.csv,,,1994-05-15,1994-05-15,,France,EUR,French,131,0,0,0,131,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2003-12-03_Vichy-Encheres.csv,,,2003-12-03,2003-12-03,,France,EUR,French,506,0,0,0,506,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2003-12-04_Vichy-Encheres.csv,,,2003-12-04,2003-12-04,,France,EUR,French,457,0,0,0,457,none,Primary,,23.92 % incl. VAT
@@ -590,17 +608,21 @@ Vichy-Encheres,Vichy-Encheres/2005-11-30_Vichy-Encheres.csv,,,2005-11-30,2005-11
 Vichy-Encheres,Vichy-Encheres/2005-12-01_Vichy-Encheres.csv,,,2005-12-01,2005-12-01,,France,EUR,French,486,338,0,0,148,hammer and price with fees,"Primary, Secondary","Primary, Secondary",23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2006-05-30_Vichy-Encheres.csv,,,2006-05-30,2006-06-01,,France,EUR,French,907,864,1,0,42,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2006-05-31_Vichy-Encheres.csv,,,2006-05-31,2006-05-31,,France,EUR,French,581,0,0,0,581,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2006-06-01_Vichy-Encheres.csv,,,2006-06-01,2006-06-01,,France,"EUR, USD",French,502,2,0,0,500,price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2006-06-01_Vichy-Encheres.csv,,,2006-06-01,2006-06-01,,France,"EUR, USD",French,501,2,0,0,499,price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2007-06-05_Vichy-Encheres.csv,,,2007-06-05,2007-06-05,,France,EUR,French,203,0,0,0,203,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2007-06-06_Vichy-Encheres.csv,,,2007-06-06,2007-06-07,,France,EUR,French,1063,695,366,0,2,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2007-06-07_Vichy-Encheres.csv,,,2007-06-07,2007-06-07,,France,"EUR, USD",French,505,1,0,0,504,price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2007-12-05_Vichy-Encheres.csv,,,2007-12-05,2007-12-06,,France,EUR,French,736,736,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2008-03-27_Vichy-Encheres.csv,,,2008-03-27,2008-03-27,,France,EUR,French,209,0,0,0,209,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2009-06-04_Vichy-Encheres.csv,,,2009-06-04,2009-06-04,,France,EUR,French,304,9,0,0,295,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2009-12-03_Vichy-Encheres.csv,,,2009-12-03,2009-12-03,,France,EUR,French,274,9,0,0,265,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2008-06-04_Vichy-Encheres.csv,,,2008-06-04,2008-06-05,,France,EUR,French,703,703,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2008-12-03_Vichy-Encheres.csv,,,2008-12-03,2008-12-04,,France,EUR,French,701,701,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2009-06-03_Vichy-Encheres.csv,,,2009-06-03,2009-06-03,,France,EUR,French,404,404,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2009-06-04_Vichy-Encheres.csv,,,2009-06-04,2009-06-04,,France,EUR,French,305,9,0,0,296,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2009-12-02_Vichy-Encheres.csv,,,2009-12-02,2009-12-02,,France,EUR,French,388,388,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2009-12-03_Vichy-Encheres.csv,,,2009-12-03,2009-12-03,,France,EUR,French,272,272,0,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-06-01_Vichy-Encheres.csv,,,2010-06-01,2010-06-01,,France,EUR,French,226,0,0,0,226,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2010-06-02_Vichy-Encheres.csv,,,2010-06-02,2010-06-02,,France,EUR,French,533,0,0,0,533,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2010-06-03_Vichy-Encheres.csv,,,2010-06-03,2010-06-03,,France,EUR,French,354,8,0,0,346,price with fees,Primary,"Cross-checked, Secondary",23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2010-06-02_Vichy-Encheres.csv,,,2010-06-02,2010-06-02,,France,EUR,French,539,425,1,0,113,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2010-06-03_Vichy-Encheres.csv,,,2010-06-03,2010-06-03,,France,EUR,French,354,353,1,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-11-30_Vichy-Encheres.csv,,,2010-11-30,2010-12-01,,France,EUR,French,634,631,3,0,0,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-12-01_Vichy-Encheres.csv,,,2010-12-01,2010-12-01,,France,EUR,French,557,0,0,0,557,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2010-12-02_Vichy-Encheres.csv,,,2010-12-02,2010-12-02,,France,EUR,French,478,5,0,0,473,hammer and price with fees,"Primary, Secondary",Secondary,23.92 % incl. VAT
@@ -611,31 +633,43 @@ Vichy-Encheres,Vichy-Encheres/2011-12-06_Vichy-Encheres.csv,,,2011-12-06,2011-12
 Vichy-Encheres,Vichy-Encheres/2011-12-07_Vichy-Encheres.csv,,,2011-12-07,2011-12-07,,France,EUR,French,534,0,0,0,534,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2011-12-08_Vichy-Encheres.csv,,,2011-12-08,2011-12-08,,France,EUR,French,474,0,0,0,474,none,Primary,,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2012-04-02_Vichy-Encheres.csv,,,2012-04-02,2012-04-02,,France,EUR,French,28,0,0,0,28,none,Primary,,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2012-06-05_Vichy-Encheres.csv,,,2012-06-05,2012-06-05,,France,"EUR, GBP",French,261,29,0,0,232,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2012-06-06_Vichy-Encheres.csv,,,2012-06-06,2012-06-06,,France,"EUR, GBP",French,515,104,0,0,411,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2012-06-05_Vichy-Encheres.csv,,,2012-06-05,2012-06-05,,France,EUR,French,261,198,1,0,62,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2012-06-06_Vichy-Encheres.csv,,,2012-06-06,2012-06-06,,France,EUR,French,515,429,2,0,84,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2012-06-07_Vichy-Encheres.csv,,,2012-06-07,2012-06-07,,France,"EUR, GBP",French,506,393,3,0,110,hammer and price with fees,Primary,"Primary, Secondary",23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2012-12-04_Vichy-Encheres.csv,,,2012-12-04,2012-12-06,,France,"EUR, GBP",French,598,383,0,0,215,hammer and price with fees,Primary,"Primary, Secondary",23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2012-12-05_Vichy-Encheres.csv,,,2012-12-05,2012-12-05,,France,"EUR, GBP",French,513,145,0,0,368,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2012-12-04_Vichy-Encheres.csv,,,2012-12-04,2012-12-06,,France,EUR,French,598,586,3,0,9,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2012-12-05_Vichy-Encheres.csv,,,2012-12-05,2012-12-05,,France,EUR,French,515,378,1,0,136,hammer,Primary,Primary,23.92 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2012-12-06_Vichy-Encheres.csv,,,2012-12-06,2012-12-06,,France,"EUR, GBP",French,494,10,0,0,484,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2013-06-04_Vichy-Encheres.csv,,,2013-06-05,2013-06-06,,France,"EUR, GBP",French,1002,354,0,0,648,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2013-06-06_Vichy-Encheres.csv,,,2013-06-06,2013-06-06,,France,"EUR, GBP",French,492,217,0,0,275,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2013-12-03_Vichy-Encheres.csv,,,2013-12-03,2013-12-05,,France,EUR,French,1302,361,0,0,941,hammer and price with fees,Primary,Secondary,23.92 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2014-06-10_Vichy-Encheres.csv,,,2014-06-12,2014-06-12,,France,EUR,French,324,313,2,0,9,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2013-06-04_Vichy-Encheres.csv,,,2013-06-04,2013-06-06,,France,"EUR, GBP",French,1267,888,6,0,373,hammer and price with fees,Primary,"Primary, Secondary",23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2013-06-06_Vichy-Encheres.csv,,,2013-06-06,2013-06-06,,France,"EUR, GBP",French,500,294,1,0,205,hammer and price with fees,Primary,"Primary, Secondary",23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2013-12-03_Vichy-Encheres.csv,,,2013-12-03,2013-12-05,,France,EUR,French,1315,710,271,0,334,hammer,Primary,Primary,23.92 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2014-06-10_Vichy-Encheres.csv,,,2014-06-10,2014-06-12,,France,EUR,French,977,966,2,0,9,hammer,Primary,Primary,24 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2014-12-02_Vichy-Encheres.csv,,,2014-12-02,2014-12-04,,France,EUR,French,1015,969,30,0,16,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2015-06-09_Vichy-Encheres.csv,,,2015-06-09,,,France,"EUR, GBP",French,36,30,0,0,6,hammer and price with fees,Primary,Secondary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2015-06-10_Vichy-Encheres.csv,,,2015-06-10,2015-06-10,,France,EUR,French,375,375,0,0,0,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2015-12-01_Vichy-Encheres.csv,,,2015-12-01,2015-12-03,,France,"EUR, GBP",French,1329,423,0,0,906,hammer and price with fees,Primary,Secondary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2016-06-07_Vichy-Encheres.csv,,,2016-06-09,2016-06-09,,France,EUR,French,342,342,0,0,0,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2016-11-29_Vichy-Encheres.csv,,,2016-12-01,2016-12-01,,France,EUR,French,344,344,0,0,0,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2017-06-06_Vichy-Encheres.csv,,,2017-06-08,2017-06-08,,France,EUR,French,354,351,3,0,0,price with fees,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2017-11-28_Vichy-Encheres.csv,,,2017-11-30,2017-11-30,,France,EUR,French,292,292,0,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2015-03-25_Vichy-Encheres.csv,,,2015-03-25,2015-03-27,,France,EUR,French,844,818,26,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2015-06-09_Vichy-Encheres.csv,,,2015-06-09,2015-06-11,,France,EUR,French,311,291,14,0,6,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2015-06-10_Vichy-Encheres.csv,,,2015-06-10,2015-06-11,,France,EUR,French,715,703,12,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2015-12-01_Vichy-Encheres.csv,,,2015-12-01,2015-12-03,,France,EUR,French,1330,966,37,0,327,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2016-03-24_Vichy-Encheres.csv,,,2016-03-24,2016-03-24,,France,EUR,French,378,366,12,0,0,price with fees,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2016-06-07_Vichy-Encheres.csv,,,2016-06-07,2016-06-09,,France,EUR,French,1074,1047,27,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2016-09-29_Vichy-Encheres.csv,,,2016-09-29,2016-09-29,,France,EUR,French,361,351,10,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2016-11-29_Vichy-Encheres.csv,,,2016-11-29,2016-12-01,,France,EUR,French,1005,979,26,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2017-03-22_Vichy-Encheres.csv,,,2017-03-22,2017-03-23,,France,EUR,French,597,573,24,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2017-06-06_Vichy-Encheres.csv,,,2017-06-06,2017-06-08,,France,EUR,French,1007,980,27,0,0,hammer and price with fees,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2017-09-27_Vichy-Encheres.csv,,,2017-09-27,2017-09-28,,France,EUR,French,442,429,13,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2017-11-28_Vichy-Encheres.csv,,,2017-11-28,2017-11-30,,France,EUR,French,632,632,0,0,0,hammer and price with fees,Primary,Primary,24 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2017-11-29_Vichy-Encheres_Millant.csv,,Collection Bernard Millant I,2017-11-29,2017-11-29,,France,EUR,French,127,112,0,0,0,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2018-06-05_Vichy-Encheres.csv,,,2018-06-07,2018-06-07,,France,EUR,French,285,285,0,0,0,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2018-12-04_Vichy-Encheres.csv,,,2018-12-06,2018-12-06,,France,EUR,French,310,309,1,0,0,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2018-12-05_Vichy-Encheres_Millant.csv,,Collection Bernard Millant II,2018-12-05,2018-12-05,,France,"EUR, GBP",French,117,102,0,0,15,hammer and price with fees,Primary,"Cross-checked, Secondary",24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2019-06-04_Vichy-Encheres.csv,,,2019-06-06,2019-06-06,,France,EUR,French,312,310,0,0,2,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2019-11-26_Vichy-Encheres.csv,,,2019-11-28,2019-11-28,,France,EUR,French,347,347,0,0,0,hammer,Primary,Primary,24 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2019-11-27_Vichy-Encheres_Millant.csv,,Collection Bernard Millant III,2019-11-27,2019-11-27,,France,"EUR, GBP",French,116,104,0,0,12,hammer and price with fees,Primary,"Cross-checked, Secondary",24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2018-03-14_Vichy-Encheres.csv,,,2018-03-14,2018-03-15,,France,EUR,French,547,530,17,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2018-06-05_Vichy-Encheres.csv,,,2018-06-05,2018-06-07,,France,EUR,French,923,913,10,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2018-09-26_Vichy-Encheres.csv,,,2018-09-26,2018-09-27,,France,EUR,French,535,518,17,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2018-12-04_Vichy-Encheres.csv,,,2018-12-04,2018-12-06,,France,EUR,French,732,715,17,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2018-12-05_Vichy-Encheres_Millant.csv,,Collection Bernard Millant II,2018-12-05,2018-12-05,,France,EUR,French,117,80,27,0,0,price with fees,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2019-03-19_Vichy-Encheres.csv,,,2019-03-19,2019-03-20,,France,EUR,French,673,651,22,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2019-06-04_Vichy-Encheres.csv,,,2019-06-04,2019-06-06,,France,EUR,French,970,942,26,0,2,hammer and price with fees,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2019-09-17_Vichy-Encheres.csv,,,2019-09-17,2019-09-17,,France,EUR,French,317,307,10,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2019-11-26_Vichy-Encheres.csv,,,2019-11-26,2019-11-28,,France,EUR,French,769,768,1,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2019-11-27_Vichy-Encheres_Millant.csv,,Collection Bernard Millant III,2019-11-27,2019-11-27,,France,EUR,French,116,108,0,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2020-03-16_Vichy-Encheres.csv,,,2020-03-16,2020-03-17,,France,EUR,French,472,458,14,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2020-07-07_Vichy-Encheres.csv,,,2020-07-07,2020-07-09,,France,EUR,French,752,728,24,0,0,hammer,Primary,Primary,24 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2020-09-23_Vichy-Encheres.csv,,,2020-09-23,2020-09-24,,France,EUR,French,572,551,21,0,0,hammer,Primary,Primary,24 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2020-12-01_Vichy-Encheres.csv,,,2020-12-01,2020-12-03,,France,EUR,French,872,864,8,0,0,hammer and price with fees,Primary,Primary,24 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2021-06-01_Vichy-Encheres.csv,,,2021-06-01,2021-06-03,,France,EUR,French,871,871,0,0,0,price with fees,Primary,Primary,24 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2021-11-30_Vichy-Encheres.csv,,,2021-11-30,2021-12-02,,France,EUR,French,884,884,0,0,0,hammer and price with fees,Primary,Primary,24 % incl. VAT
@@ -645,5 +679,6 @@ Vichy-Encheres,Vichy-Encheres/2023-05-30_Vichy-Encheres.csv,,,2023-05-30,2023-06
 Vichy-Encheres,Vichy-Encheres/2023-11-27_Vichy-Encheres.csv,,,2023-11-28,2023-11-30,,France,EUR,French,731,731,0,0,0,price with fees,Primary,Primary,25 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2024-06-03_Vichy-Encheres_126.csv,126,,2024-06-03,2024-06-06,,France,EUR,French,1362,981,3,0,378,price with fees,Primary,Primary,25 % incl. VAT
 Vichy-Encheres,Vichy-Encheres/2024-12-02_Vichy-Encheres_128.csv,128,,2024-12-03,2024-12-05,,France,EUR,French,751,751,0,0,0,price with fees,Primary,Primary,25 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2025-06-02_Vichy-Encheres_131.csv,131,,2025-06-03,2025-06-05,,France,EUR,French,819,646,0,0,173,price with fees,Primary,Primary,25 % incl. VAT
-Vichy-Encheres,Vichy-Encheres/2025-12-01_Vichy-Encheres_133.csv,133,,2025-12-01,2025-12-04,,France,EUR,French,1083,1080,3,0,0,price with fees,Primary,Primary,25 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2025-06-02_Vichy-Encheres_131.csv,131,,2025-06-02,2025-06-05,,France,EUR,French,1079,906,0,0,173,price with fees,Primary,Primary,25 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2025-12-01_Vichy-Encheres_133.csv,133,,2025-12-01,2025-12-04,,France,EUR,French,1098,1095,3,0,0,price with fees,Primary,Primary,25 % incl. VAT
+Vichy-Encheres,Vichy-Encheres/2026-06-01_Vichy-Encheres.csv,,,2026-06-01,2026-06-04,,France,EUR,French,1047,1024,23,0,0,hammer and price with fees,Primary,Primary,25 % incl. VAT

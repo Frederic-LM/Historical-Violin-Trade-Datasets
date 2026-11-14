@@ -70,19 +70,22 @@ yearbooks), named once in `../COVERAGE.md`. Only facts are taken from them, neve
 ## Coverage (primary files)
 | Folder | Years | Sales | Lots | Sold | Source of the house's data |
 |---|---|---|---|---|---|
-| `Aguttes/` | 2022–2026 | 9 | 860 | 860 | aguttes.com sale and lot pages, read 18 Oct 2026 |
+| `Aguttes/` | 2022–2026 | 9 | 861 | 861 | aguttes.com sale and lot pages, read 18 Oct 2026 |
 | `Amati/` | 2018–2026 | 42 | 1 476 | 1 476 | the house's own results pages |
 | `Artcurial/` | 2025 | 1 | 1 | 1 | the house's lot page and published result |
-| `Bonhams/` | 2003–2015 | 44 | 13 147 | 8 281 | bonhams.com sale pages, read 19 Oct 2026 |
-| `Christies/` | 1984–2026 | 35 | 4 372 | 3 738 | christies.com lot pages, read 17 Oct 2026; London: the author's printed catalogues and price lists |
+| `Bonhams/` | 2003–2015 | 44 | 13 157 | 8 291 | bonhams.com sale pages, read 19 Oct 2026 |
+| `Christies/` | 1984–2026 | 35 | 4 405 | 3 771 | christies.com lot pages, read 17 Oct 2026; London: the author's printed catalogues and price lists |
+| `Credit-Municipal/` | 2018–2026 | 9 | 135 | 123 | the house's results documents on interencheres.com, read 14 Nov 2026 |
+| `De-Baecque/` | 2021–2025 | 6 | 71 | 71 | the house's results documents on interencheres.com (lot and hammer only), read 14 Nov 2026 |
 | `Gardiner-Houlgate/` | 2019–2026 | 32 | 13 101 | 10 056 | musicalinstrument-auctions.co.uk results pages, read 20 Oct 2026, and the printed catalogues |
 | `Ingles-Hayday/` | 2020–2026 | 12 | 2 229 | 1 669 | ingleshayday.com results pages, read 17 Oct 2026 |
-| `Phillips/` | 1975–1998 | 132 | 32 786 | 24 469 | the author's printed catalogues and price lists |
-| `Skinner/` | 2005–2021 | 28 | 10 230 | 8 766 | skinnerinc.com results archive, read 19 Oct 2026 |
-| `Sothebys/` | 1968–2005 | 45 | 10 811 | 8 715 | the author's printed catalogues, price lists and results sheets |
+| `Phillips/` | 1975–1998 | 132 | 32 833 | 24 545 | the author's printed catalogues and price lists |
+| `Skinner/` | 2005–2021 | 28 | 10 235 | 8 771 | skinnerinc.com results archive, read 19 Oct 2026 |
+| `Sothebys/` | 1968–2005 | 45 | 10 827 | 8 739 | the author's printed catalogues, price lists and results sheets |
 | `T2-Auctions/` | 2016–2023 | 40 | 159 | 159 | the house's own results (Tarisio's online sales; part only) |
-| `Tarisio/` | 1999–2026 | 139 | 12 841 | 12 841 | the house's own results archive |
-| `Vichy-Encheres/` | 1994–2025 | 67 | 36 845 | 22 121 | the house's results documents, lot lists and catalogues (also the author's typed catalogues) |
+| `Tarisio/` | 1999–2026 | 162 | 14 482 | 14 482 | the house's own results archive |
+| `Tarn/` | 2017 | 2 | 68 | 68 | the house's results documents on interencheres.com, read 14 Nov 2026 |
+| `Vichy-Encheres/` | 1994–2026 | 84 | 52 952 | 41 010 | the house's results documents (also on interencheres.com), lot lists and catalogues (also the author's typed catalogues) |
 
 Sales whose own documents we do not hold (most Sotheby's, Christie's and Phillips London sales: only those of the
 author's printed copies are primary here; Brompton's, Dorotheum...) appear through their secondary files (`_snd.csv`),

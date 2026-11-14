@@ -1,0 +1,13 @@
+﻿sale_number,sale_title,sale_date,lot,title,description,estimate_low,estimate_high,status,hammer,price_with_fees,currency,text_source,price_source,type
+,INSTRUMENTS DE MUSIQUE,2021-04-01,16,,Hopf [trade name],,,sold,300,,EUR,Secondary,Primary,Violin
+,INSTRUMENTS DE MUSIQUE,2021-04-01,20,,Jérôme Thibouville Lamy,,,sold,280,,EUR,Secondary,Primary,Violin
+,INSTRUMENTS DE MUSIQUE,2021-04-01,29,,Emile Pouzol,,,sold,430,,EUR,Secondary,Primary,Violin
+,INSTRUMENTS DE MUSIQUE,2021-04-01,36,,Jérôme Thibouville Lamy,,,sold,1300,,EUR,Secondary,Primary,Violin
+,INSTRUMENTS DE MUSIQUE,2021-04-01,46,,Frères Laberte-Humbert,,,sold,550,,EUR,Secondary,Primary,Violin
+,INSTRUMENTS DE MUSIQUE,2021-04-01,48,,Fevrot,,,sold,950,,EUR,Secondary,Primary,Viola
+,INSTRUMENTS DE MUSIQUE,2021-04-01,57,,Jérôme Thibouville Lamy,,,sold,350,,EUR,Secondary,Primary,Violin Bow
+,INSTRUMENTS DE MUSIQUE,2021-04-01,61,,Jérôme Thibouville Lamy,,,sold,40,,EUR,Secondary,Primary,Violin Bow
+,INSTRUMENTS DE MUSIQUE,2021-04-01,69,,Albert Joseph Deblaye,,,sold,850,,EUR,Secondary,Primary,Cello
+,INSTRUMENTS DE MUSIQUE,2021-04-01,70,,Pierre Silvestre,,,sold,94000,,EUR,Secondary,Primary,Cello
+,INSTRUMENTS DE MUSIQUE,2021-04-01,73,,Roger Lotte,,,sold,680,,EUR,Secondary,Primary,Cello Bow
+,INSTRUMENTS DE MUSIQUE,2021-04-01,76,,Morizot Frères,,,sold,420,,EUR,Secondary,Primary,Cello Bow
