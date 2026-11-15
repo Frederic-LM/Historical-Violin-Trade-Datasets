@@ -1,6 +1,6 @@
-# Where the auction data come from (data v1.193)
+# Where the auction data come from (data v1.194)
 
-114 000 sold lots of violin-family instruments and bows, from 97 auction houses. Each lot is in one of three groups:
+114 023 sold lots of violin-family instruments and bows, from 97 auction houses. Each lot is in one of three groups:
 
 - **primary**: the house's own results page, results document or catalogue;
 - **secondary, cross-checked**: the lot comes from another source, and a second source agrees (or the house's own price list gives the price);
@@ -10,9 +10,9 @@
 |---|---:|---:|
 | primary | 72 885 | 64 % |
 | secondary, cross-checked | 16 857 | 15 % |
-| secondary, placed | 24 258 | 21 % |
+| secondary, placed | 24 281 | 21 % |
 
-Lots counted in the price analysis: 78 925 (rules in the method).
+Lots counted in the price analysis: 78 912 (rules in the method).
 
 ## Secondary sources
 
@@ -22,20 +22,20 @@ The author's notes; Tarisio's archive; Amati's records; Maestronet; the *Illustr
 
 | Years | Lots | Primary | Secondary, cross-checked | Secondary, placed |
 |---|---:|---:|---:|---:|
-| before 1980 | 7 621 | 72 % | 0 % | 28 % |
-| 1980s | 19 687 | 61 % | 10 % | 29 % |
+| before 1980 | 7 631 | 72 % | 0 % | 28 % |
+| 1980s | 19 692 | 61 % | 10 % | 29 % |
 | 1990s | 15 573 | 10 % | 49 % | 41 % |
 | 2000 | 1 265 | 16 % | 34 % | 50 % |
 | 2001 | 1 201 | 21 % | 34 % | 45 % |
 | 2002 | 1 407 | 59 % | 21 % | 19 % |
 | 2003 | 1 742 | 61 % | 22 % | 17 % |
-| 2004 | 2 245 | 67 % | 21 % | 12 % |
+| 2004 | 2 246 | 67 % | 21 % | 12 % |
 | 2005 | 4 091 | 58 % | 21 % | 21 % |
 | 2006 | 2 488 | 77 % | 17 % | 6 % |
 | 2007 | 2 662 | 81 % | 13 % | 6 % |
 | 2008 | 3 242 | 76 % | 15 % | 9 % |
-| 2009 | 2 567 | 82 % | 14 % | 4 % |
-| 2010 | 2 687 | 83 % | 14 % | 3 % |
+| 2009 | 2 568 | 82 % | 14 % | 4 % |
+| 2010 | 2 693 | 83 % | 14 % | 3 % |
 | 2011 | 2 926 | 82 % | 16 % | 3 % |
 | 2012 | 3 458 | 76 % | 5 % | 19 % |
 | 2013 | 3 205 | 77 % | 4 % | 19 % |
@@ -59,13 +59,13 @@ Houses with 50 lots or more, and every house whose own documents we hold; 65 sma
 
 | House | Lots | Primary | Years with the house's documents | Secondary, cross-checked | Secondary, placed |
 |---|---:|---:|---|---:|---:|
-| Vichy Enchères | 22 175 | 91 % | 2004–2026 | 0 % | 9 % |
-| Phillips | 18 557 | 75 % | 1975–1978, 1980–1990, 1998 | 12 % | 13 % |
+| Vichy Enchères | 22 180 | 91 % | 2004–2026 | 0 % | 9 % |
+| Phillips | 18 563 | 75 % | 1975–1978, 1980–1990, 1998 | 12 % | 13 % |
 | Tarisio | 15 008 | 95 % | 1999–2026 | 1 % | 4 % |
-| Sotheby's | 14 331 | 25 % | 1968–1969, 1972–1973, 1975–1980, 1983–1984, 1992, 2002, 2005 | 45 % | 29 % |
-| Bonhams | 9 282 | 82 % | 1995–1998, 2001–2015 | 11 % | 8 % |
-| Skinner | 9 115 | 67 % | 2005–2019, 2021 | 15 % | 17 % |
-| Christie's | 6 493 | 34 % | 1984–1985, 1987–1991, 2007–2012, 2014, 2024–2025 | 38 % | 28 % |
+| Sotheby's | 14 340 | 25 % | 1968–1969, 1972–1973, 1975–1980, 1983–1984, 1992, 2002, 2005 | 45 % | 29 % |
+| Bonhams | 9 283 | 82 % | 1995–1998, 2001–2015 | 11 % | 8 % |
+| Skinner | 9 116 | 67 % | 2005–2019, 2021 | 15 % | 17 % |
+| Christie's | 6 494 | 34 % | 1984–1985, 1987–1991, 2007–2012, 2014, 2024–2025 | 38 % | 28 % |
 | Brompton's | 3 413 | 0 % | - | 38 % | 62 % |
 | Bongartz's | 3 274 | 0 % | - | 8 % | 92 % |
 | Ingles & Hayday | 2 954 | 56 % | 2020–2026 | 33 % | 11 % |
