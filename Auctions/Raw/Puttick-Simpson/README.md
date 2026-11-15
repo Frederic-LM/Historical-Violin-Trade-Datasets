@@ -7,7 +7,7 @@ Source: [Bodleian Archives (sales list 1846-1870); INHA catalogue records](https
 
 ## Secondary files (`_snd`)
 `<date>_Puttick-Simpson[_<sale number>]_snd.csv` (and `<date>_Puttick-Simpson_press.csv` for the press): lots of this house that the house's own
-documents do not give (149 files, 1040 lots).
+documents do not give (149 files, 1039 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source
 writes it, and `type` the source's own category.

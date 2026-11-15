@@ -1,8 +1,8 @@
 {
   "title": "Historical Violin Trade Datasets",
   "id": "frederic-lm/historical-violin-trade-datasets",
-  "description": "Historical Violin Trade Datasets gathers datasets on the historical trade in violins, built from primary sources: auction results checked against the houses' own documents, dealer and workshop ledgers, and published price catalogues.\n\nLedgers: the Lupot–Gand–Bernardel–Caressa–Français corpus at the Musée de la musique (Philharmonie de Paris), registers E.981.8.29 (purchase and resale, 1920–1944) and E.981.8.30 (export journal, 1926–1939), transcribed, normalised and cross-referenced.\n\nPrice catalogues: the American section of J. H. Fairfield, Known violin makers (1942; 4th ed. 1983), 176 entries coded by status and matched to the auction record.\n\nAuction results, 1829–2026, one file per sale, each line with the source of its text and price: primary (the houses' own documents and results: 683 sales, 156 984 lots, 1968–2026, 16 houses including Vichy Enchères, Tarisio and Amati, words and prices unchanged), secondary (other sources where no house document is held, facts only: 1 376 files, 35 601 lots, 94 houses, 1829–2026) and press (contemporary reports: 85 files, 1 390 lots, 1857–1911).",
-  "version": "1.194",
+  "description": "Historical Violin Trade Datasets gathers datasets on the historical trade in violins, built from primary sources: auction results checked against the houses' own documents, dealer and workshop ledgers, and published price catalogues.\n\nLedgers: the Lupot–Gand–Bernardel–Caressa–Français corpus at the Musée de la musique (Philharmonie de Paris), registers E.981.8.29 (purchase and resale, 1920–1944) and E.981.8.30 (export journal, 1926–1939), transcribed, normalised and cross-referenced.\n\nPrice catalogues: the American section of J. H. Fairfield, Known violin makers (1942; 4th ed. 1983), 176 entries coded by status and matched to the auction record.\n\nAuction results, 1829–2026, one file per sale, each line with the source of its text and price: primary (the houses' own documents and results: 683 sales, 157 558 lots, 1968–2026, 16 houses including Vichy Enchères, Tarisio and Amati, words and prices unchanged), secondary (other sources where no house document is held, facts only: 1 369 files, 35 491 lots, 94 houses, 1829–2026) and press (contemporary reports: 85 files, 1 389 lots, 1857–1911).",
+  "version": "1.197",
   "homepage": "https://www.ruederome.com/ledger.php",
   "repository": "https://github.com/Frederic-LM/Historical-Violin-Trade-Datasets",
   "keywords": [
@@ -54,7 +54,7 @@
     {
       "name": "auction_results_raw",
       "path": "Auctions/Raw/",
-      "description": "Auction results of violin-family instruments and bows, one CSV per sale in each house's folder: primary files (683 sales as the houses published them; sales.csv = one line per primary sale), secondary files (_snd, 1 376) and press files (_press, 85); text_source / price_source per line; COVERAGE.md gives the shares."
+      "description": "Auction results of violin-family instruments and bows, one CSV per sale in each house's folder: primary files (690 sales as the houses published them; sales.csv = one line per primary sale), secondary files (_snd, 1 369) and press files (_press, 85); text_source / price_source per line; COVERAGE.md gives the shares."
     },
     {
       "name": "caressa_francais_ledger_1920_1944",

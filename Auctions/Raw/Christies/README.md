@@ -70,7 +70,7 @@ Source: [Wikipedia (CC BY-SA)](https://en.wikipedia.org/wiki/Christie%27s), chec
 
 ## Secondary files (`_snd`)
 `<date>_Christies[_<sale number>]_snd.csv` (and `<date>_Christies_press.csv` for the press): lots of this house that the house's own
-documents do not give (127 files, 4020 lots). One file per sale: when we hold the house's own file of a sale, its secondary
+documents do not give (127 files, 4019 lots). One file per sale: when we hold the house's own file of a sale, its secondary
 information is in that file (a price on the house's lot, `price_source` Secondary or Cross-checked; a lot the house's
 file lacks as a line with `text_source` Secondary) and there is no `_snd` file for that sale.
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from

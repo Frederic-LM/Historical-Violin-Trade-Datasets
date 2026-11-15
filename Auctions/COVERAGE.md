@@ -1,6 +1,6 @@
-# Where the auction data come from (data v1.194)
+# Where the auction data come from (data v1.197)
 
-114 023 sold lots of violin-family instruments and bows, from 97 auction houses. Each lot is in one of three groups:
+114 479 sold lots of violin-family instruments and bows, from 96 auction houses. Each lot is in one of three groups:
 
 - **primary**: the house's own results page, results document or catalogue;
 - **secondary, cross-checked**: the lot comes from another source, and a second source agrees (or the house's own price list gives the price);
@@ -8,11 +8,11 @@
 
 | Group | Lots | Share |
 |---|---:|---:|
-| primary | 72 885 | 64 % |
+| primary | 73 451 | 64 % |
 | secondary, cross-checked | 16 857 | 15 % |
-| secondary, placed | 24 281 | 21 % |
+| secondary, placed | 24 171 | 21 % |
 
-Lots counted in the price analysis: 78 912 (rules in the method).
+Lots counted in the price analysis: 78 964 (rules in the method).
 
 ## Secondary sources
 
@@ -22,19 +22,19 @@ The author's notes; Tarisio's archive; Amati's records; Maestronet; the *Illustr
 
 | Years | Lots | Primary | Secondary, cross-checked | Secondary, placed |
 |---|---:|---:|---:|---:|
-| before 1980 | 7 631 | 72 % | 0 % | 28 % |
-| 1980s | 19 692 | 61 % | 10 % | 29 % |
+| before 1980 | 7 630 | 72 % | 0 % | 28 % |
+| 1980s | 19 691 | 61 % | 10 % | 29 % |
 | 1990s | 15 573 | 10 % | 49 % | 41 % |
 | 2000 | 1 265 | 16 % | 34 % | 50 % |
 | 2001 | 1 201 | 21 % | 34 % | 45 % |
-| 2002 | 1 407 | 59 % | 21 % | 19 % |
+| 2002 | 1 406 | 59 % | 21 % | 19 % |
 | 2003 | 1 742 | 61 % | 22 % | 17 % |
 | 2004 | 2 246 | 67 % | 21 % | 12 % |
 | 2005 | 4 091 | 58 % | 21 % | 21 % |
 | 2006 | 2 488 | 77 % | 17 % | 6 % |
 | 2007 | 2 662 | 81 % | 13 % | 6 % |
 | 2008 | 3 242 | 76 % | 15 % | 9 % |
-| 2009 | 2 568 | 82 % | 14 % | 4 % |
+| 2009 | 2 567 | 82 % | 14 % | 4 % |
 | 2010 | 2 693 | 83 % | 14 % | 3 % |
 | 2011 | 2 926 | 82 % | 16 % | 3 % |
 | 2012 | 3 458 | 76 % | 5 % | 19 % |
@@ -47,11 +47,11 @@ The author's notes; Tarisio's archive; Amati's records; Maestronet; the *Illustr
 | 2019 | 3 536 | 79 % | 5 % | 16 % |
 | 2020 | 2 647 | 80 % | 8 % | 12 % |
 | 2021 | 2 502 | 81 % | 5 % | 14 % |
-| 2022 | 2 563 | 90 % | 0 % | 10 % |
-| 2023 | 2 915 | 88 % | 3 % | 9 % |
-| 2024 | 2 510 | 92 % | 0 % | 8 % |
-| 2025 | 2 693 | 89 % | 4 % | 7 % |
-| 2026 | 1 455 | 96 % | 0 % | 4 % |
+| 2022 | 2 653 | 91 % | 0 % | 9 % |
+| 2023 | 2 926 | 89 % | 3 % | 8 % |
+| 2024 | 2 594 | 93 % | 0 % | 7 % |
+| 2025 | 2 854 | 90 % | 4 % | 6 % |
+| 2026 | 1 569 | 97 % | 0 % | 3 % |
 
 ## By house
 
@@ -62,20 +62,19 @@ Houses with 50 lots or more, and every house whose own documents we hold; 65 sma
 | Vichy Enchères | 22 180 | 91 % | 2004–2026 | 0 % | 9 % |
 | Phillips | 18 563 | 75 % | 1975–1978, 1980–1990, 1998 | 12 % | 13 % |
 | Tarisio | 15 008 | 95 % | 1999–2026 | 1 % | 4 % |
-| Sotheby's | 14 340 | 25 % | 1968–1969, 1972–1973, 1975–1980, 1983–1984, 1992, 2002, 2005 | 45 % | 29 % |
+| Sotheby's | 14 339 | 25 % | 1968–1969, 1972–1973, 1975–1980, 1983–1984, 1992, 2002, 2005 | 45 % | 29 % |
 | Bonhams | 9 283 | 82 % | 1995–1998, 2001–2015 | 11 % | 8 % |
 | Skinner | 9 116 | 67 % | 2005–2019, 2021 | 15 % | 17 % |
-| Christie's | 6 494 | 34 % | 1984–1985, 1987–1991, 2007–2012, 2014, 2024–2025 | 38 % | 28 % |
-| Brompton's | 3 413 | 0 % | - | 38 % | 62 % |
+| Christie's | 6 493 | 34 % | 1984–1985, 1987–1991, 2007–2012, 2014, 2024–2025 | 38 % | 28 % |
+| Brompton's | 3 412 | 0 % | - | 38 % | 62 % |
 | Bongartz's | 3 274 | 0 % | - | 8 % | 92 % |
 | Ingles & Hayday | 2 954 | 56 % | 2020–2026 | 33 % | 11 % |
 | Gardiner Houlgate | 1 983 | 34 % | 2020–2026 | 7 % | 59 % |
+| Millon & Associés | 1 488 | 38 % | 2022–2026 | 3 % | 59 % |
 | Amati | 1 476 | 100 % | 2018–2026 | 0 % | 0 % |
-| Puttick & Simpson | 1 040 | 0 % | - | 2 % | 98 % |
+| Puttick & Simpson | 1 039 | 0 % | - | 2 % | 98 % |
 | Aguttes | 950 | 86 % | 2022–2026 | 0 % | 14 % |
-| Millon & Associés | 583 | 0 % | - | 9 % | 91 % |
 | Glendining & Co. | 554 | 0 % | - | 1 % | 99 % |
-| Apollium | 445 | 0 % | - | 0 % | 100 % |
 | Tajan | 324 | 0 % | - | 14 % | 86 % |
 | da Salo Auction | 311 | 0 % | - | 36 % | 64 % |
 | Dorotheum | 310 | 0 % | - | 29 % | 71 % |

@@ -59,7 +59,7 @@ Source: [Wikipedia (CC BY-SA)](https://en.wikipedia.org/wiki/Sotheby%27s), check
 
 ## Secondary files (`_snd`)
 `<date>_Sothebys[_<sale number>]_snd.csv` (and `<date>_Sothebys_press.csv` for the press): lots of this house that the house's own
-documents do not give (175 files, 9901 lots). One file per sale: when we hold the house's own file of a sale, its secondary
+documents do not give (175 files, 9900 lots). One file per sale: when we hold the house's own file of a sale, its secondary
 information is in that file (a price on the house's lot, `price_source` Secondary or Cross-checked; a lot the house's
 file lacks as a line with `text_source` Secondary) and there is no `_snd` file for that sale.
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
