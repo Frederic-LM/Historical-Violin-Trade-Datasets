@@ -3,7 +3,7 @@
 
 ## About the house
 Paris auction house at 5 rue de Provence (9th arrondissement), the same address as Jean-Marc Delvaux. Its Invaluable profile describes its head as a commissaire-priseur who specialises in Asian art. No founding date or official site was found.
-Source: [Invaluable seller profile](https://fb01.invaluable.com/auction-house/copages-auction-p91t5hkmzv), checked 2026-11-03.
+Source: [Invaluable seller profile](https://www.invaluable.com/auction-house/copages-auction-p91t5hkmzv), checked 2026-11-03.
 
 ## Secondary files (`_snd`)
 `<date>_Copages-Auction[_<sale number>]_snd.csv` (and `<date>_Copages-Auction_press.csv` for the press): lots of this house that the house's own

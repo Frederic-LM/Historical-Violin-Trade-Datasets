@@ -3,7 +3,7 @@
 
 ## About the house
 Auction house in Rome (via Teodoro Monticelli 27), linked to the Ansuini family of jewellers, whose firm dates its history to 1860. The brand is run by the company Pantheon srl. The start date of the auction business is not stated in the sources found.
-Source: [Invaluable; Turismo Roma](https://fb01.invaluable.com/auction-house/ansuini-1860-auctions-dnjcum3aiy), checked 2026-11-03.
+Source: [Invaluable; Turismo Roma](https://www.invaluable.com/auction-house/ansuini-1860-auctions-dnjcum3aiy), checked 2026-11-03.
 
 ## Secondary files (`_snd`)
 `<date>_Ansuini-1860-Aste[_<sale number>]_snd.csv` (and `<date>_Ansuini-1860-Aste_press.csv` for the press): lots of this house that the house's own

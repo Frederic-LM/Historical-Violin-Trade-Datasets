@@ -3,7 +3,7 @@
 
 ## About the house
 New York auction house on East 25th Street, near Gramercy Park. Its own seller profile says it was founded in 1937 and calls itself the city's oldest auction house (its own claim, not checked elsewhere). The sales listed online run to 2009.
-Source: [Invaluable seller profile](https://fb01.invaluable.com/auction-house/tepper-galleries-inc-5u72z7kmf6/), checked 2026-11-03.
+Source: [Invaluable seller profile](https://www.invaluable.com/auction-house/tepper-galleries-inc-5u72z7kmf6/), checked 2026-11-03.
 
 ## Secondary files (`_snd`)
 `<date>_Tepper-Galleries[_<sale number>]_snd.csv` (and `<date>_Tepper-Galleries_press.csv` for the press): lots of this house that the house's own
