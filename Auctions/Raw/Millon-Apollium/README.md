@@ -1,15 +1,18 @@
-# Millon (Paris)
+# Millon / Apollium (Paris)
 
+Millon (Millon & Associés) and Apollium are one house here. Apollium is the name under which Millon's
+musical-instrument department held its sales from about 2014 to 2023. One folder, `Millon-Apollium`, and every file is
+named `<date>_Millon-Apollium...` whichever name the sale was held under. Until 15 November 2026 this folder was
+`Millon-Associes`, and the Apollium sales had a folder of their own (`Apollium`).
 
 ## About the house
 Millon is a Paris auction house founded in 1928 as the Étude Robert by commissaire-priseur Jacques Robert; Joël-Marie Millon joined in 1990 and his son Alexandre has run the group since 2002. One of France's oldest auction houses, it bought the Italian house Il Ponte in 2024.
 Source: [Wikipedia (CC BY-SA)](https://fr.wikipedia.org/wiki/Millon_(maison_de_vente_aux_ench%C3%A8res)), checked 2026-11-03.
 
 ## Files
-House files, one per sale, `<sale day>_Millon-Associes.csv`: from the house's own results pages (millon.com, past sales of
+House files, one per sale, `<sale day>_Millon-Apollium.csv`: from the house's own results pages (millon.com, past sales of
 the musical-instrument department), 7 sales from 30 November 2022 to 29 May 2026. Every lot of the violin family and its
-bows, the text as the page prints it (in French; the site cuts long texts: '...'). The house's instrument sales were held
-under the name Apollium from about 2014 to 2023: they are this house here.
+bows, the text as the page prints it (in French; the site cuts long texts: '...').
 
 A lot shown with its estimate and no result has an empty `status`: its result may be missing from the page. Where a
 published compilation of auction results gives that lot's price, it is filled in (`price_source` Secondary).
@@ -19,7 +22,7 @@ published compilation of auction results gives that lot's price, it is filled in
 5 June 2025 print 'Frais de vente : 25 % TTC' (buyer's fees, VAT included).
 
 ## Secondary files (`_snd`)
-`<date>_Millon-Associes[_<sale number>]_snd.csv` (and `<date>_Millon-Associes_press.csv` for the press): lots of this house that the house's own
+`<date>_Millon-Apollium[_<sale number>]_snd.csv` (and `<date>_Millon-Apollium_press.csv` for the press): lots of this house that the house's own
 documents do not give (70 files, 921 lots).
 They come from secondary sources, such as published compilations of auction results and the author's notes, and from
 the press (`Press`). The columns are the same as in the house files; `description` is the maker's name as the source

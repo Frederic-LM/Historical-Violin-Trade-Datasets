@@ -79,7 +79,7 @@ yearbooks), named once in `../COVERAGE.md`. Only facts are taken from them, neve
 | `De-Baecque/` | 2021–2025 | 6 | 71 | 71 | the house's results documents on interencheres.com (lot and hammer only), read 14 Nov 2026 |
 | `Gardiner-Houlgate/` | 2019–2026 | 32 | 13 101 | 10 056 | musicalinstrument-auctions.co.uk results pages, read 20 Oct 2026, and the printed catalogues |
 | `Ingles-Hayday/` | 2020–2026 | 12 | 2 229 | 1 669 | ingleshayday.com results pages, read 17 Oct 2026 |
-| `Millon-Associes/` | 2022–2026 | 7 | 574 | 567 | millon.com results pages (past sales), read 15 Nov 2026 |
+| `Millon-Apollium/` | 2022–2026 | 7 | 574 | 567 | millon.com results pages (past sales), read 15 Nov 2026 |
 | `Phillips/` | 1975–1998 | 132 | 32 833 | 24 545 | the author's printed catalogues and price lists |
 | `Skinner/` | 2005–2021 | 28 | 10 235 | 8 771 | skinnerinc.com results archive, read 19 Oct 2026 |
 | `Sothebys/` | 1968–2005 | 45 | 10 827 | 8 739 | the author's printed catalogues, price lists and results sheets |

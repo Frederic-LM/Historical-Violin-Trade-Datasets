@@ -189,13 +189,13 @@ Ingles-Hayday,Ingles-Hayday/2024-10_Ingles-Hayday_1025.csv,1025,,2024-10,2024-10
 Ingles-Hayday,Ingles-Hayday/2025-03_Ingles-Hayday_1026.csv,1026,,2025-03,2025-03,,United Kingdom,GBP,English,168,133,35,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
 Ingles-Hayday,Ingles-Hayday/2025-10_Ingles-Hayday_1027.csv,1027,,2025-10,2025-10,,United Kingdom,GBP,English,252,148,103,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
 Ingles-Hayday,Ingles-Hayday/2026-03_Ingles-Hayday_1028.csv,1028,,2026-03,2026-03,,United Kingdom,GBP,English,220,169,50,0,0,price with fees,Primary,Primary,20 % + VAT on the premium
-Millon-Associes,Millon-Associes/2022-11-30_Millon-Associes.csv,,Instruments Du Quatuor,2022-11-30,2022-11-30,,France,EUR,French,117,117,0,0,0,hammer,Primary,Primary,
-Millon-Associes,Millon-Associes/2023-05-28_Millon-Associes.csv,,Masters Instruments De Musique - Musicora,2023-05-28,2023-05-28,,France,EUR,French,42,42,0,0,0,hammer,Primary,Primary,
-Millon-Associes,Millon-Associes/2024-05-29_Millon-Associes.csv,,,2024-05-29,2024-05-29,,France,EUR,French,45,45,0,0,0,hammer and price with fees,Primary,"Primary, Secondary",
-Millon-Associes,Millon-Associes/2024-12-06_Millon-Associes.csv,,,2024-12-06,2024-12-06,,France,EUR,French,62,62,0,0,0,hammer,Primary,Primary,
-Millon-Associes,Millon-Associes/2025-06-05_Millon-Associes.csv,,,2025-06-05,2025-06-05,,France,EUR,French,94,90,0,0,4,hammer,Primary,Primary,
-Millon-Associes,Millon-Associes/2025-11-25_Millon-Associes.csv,,,2025-11-25,2025-11-25,,France,EUR,French,97,97,0,0,0,hammer,Primary,Primary,
-Millon-Associes,Millon-Associes/2026-05-29_Millon-Associes.csv,,Instruments & Univers De La Musique,2026-05-29,2026-05-29,,France,EUR,French,117,114,0,0,3,hammer,Primary,Primary,
+Millon-Apollium,Millon-Apollium/2022-11-30_Millon-Apollium.csv,,Instruments Du Quatuor,2022-11-30,2022-11-30,,France,EUR,French,117,117,0,0,0,hammer,Primary,Primary,
+Millon-Apollium,Millon-Apollium/2023-05-28_Millon-Apollium.csv,,Masters Instruments De Musique - Musicora,2023-05-28,2023-05-28,,France,EUR,French,42,42,0,0,0,hammer,Primary,Primary,
+Millon-Apollium,Millon-Apollium/2024-05-29_Millon-Apollium.csv,,,2024-05-29,2024-05-29,,France,EUR,French,45,45,0,0,0,hammer and price with fees,Primary,"Primary, Secondary",
+Millon-Apollium,Millon-Apollium/2024-12-06_Millon-Apollium.csv,,,2024-12-06,2024-12-06,,France,EUR,French,62,62,0,0,0,hammer,Primary,Primary,
+Millon-Apollium,Millon-Apollium/2025-06-05_Millon-Apollium.csv,,,2025-06-05,2025-06-05,,France,EUR,French,94,90,0,0,4,hammer,Primary,Primary,
+Millon-Apollium,Millon-Apollium/2025-11-25_Millon-Apollium.csv,,,2025-11-25,2025-11-25,,France,EUR,French,97,97,0,0,0,hammer,Primary,Primary,
+Millon-Apollium,Millon-Apollium/2026-05-29_Millon-Apollium.csv,,Instruments & Univers De La Musique,2026-05-29,2026-05-29,,France,EUR,French,117,114,0,0,3,hammer,Primary,Primary,
 Phillips,Phillips/1975-05-01_Phillips_20239_prices.csv,20239,,1975-05-01,1975-05-01,,United Kingdom,GBP,English,181,181,0,0,0,hammer,,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1975-06-05_Phillips_20278.csv,20278,Musical Instruments,1975-06-05,1975-06-05,,United Kingdom,GBP,English,270,253,2,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
 Phillips,Phillips/1975-07-03_Phillips_20317.csv,20317,Musical Instruments,1975-07-03,1975-07-03,,United Kingdom,GBP,English,322,310,0,0,0,hammer,Primary,Primary,none: the buyer paid the hammer
